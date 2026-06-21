@@ -515,7 +515,8 @@
       if (!text) return 'Bu içerik hakkında özet bilgisi henüz eklenmemiştir.';
       const words = text.split(/\s+/);
       if (words.length <= maxWords) return text;
-      return words.slice(0, maxWords).join(' ') + '… <span class="read-more" onclick="this.parentElement.innerHTML = \`' + text.replace(/`/g, '\\`').replace(/\$/g, '\\$') + '\`">Devamını Oku</span>';
+      const preview = words.slice(0, maxWords).join(' ');
+      return `<span class="summary-preview">${preview}…</span><span class="summary-full" style="display:none">${text.replace(/</g, '&lt;').replace(/>/g, '&gt;')}</span> <span class="read-more" onclick="this.previousElementSibling.style.display='inline';this.previousElementSibling.previousElementSibling.style.display='none';this.style.display='none'">Devamını Oku</span>`;
     }
 
     // İlk yükleme
