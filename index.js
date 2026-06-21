@@ -247,6 +247,24 @@ app.get('/api/stats', (req, res) => {
 });
 
 // ----------------------------------------------------------------
+// Seed endpoint (veritabanını sıfırla ve doldur)
+app.post('/api/seed', express.raw({ type: 'application/sql', limit: '5mb' }), (req, res) => {
+  try {
+    const fs = require('fs');
+    const dbPath = process.env.DB_PATH || path.join(__dirname, 'db', 'data', 'avrasya.db');
+    // SQL komutlarını çalıştır
+    const statements = req.body.toString('utf-8').split(';').filter(s => s.trim());
+    db.exec('BEGIN TRANSACTION');
+    for (const stmt of statements) {
+      try { db.exec(stmt.trim()); } catch (e) { /* ignore constraint errors */ }
+    }
+    db.exec('COMMIT');
+    res.json({ ok: true });
+  } catch (e) {
+    res.status(500).json({ error: e.message });
+  }
+});
+
 // Cron endpoint (cron-job.org tarafından tetiklenir)
 // ----------------------------------------------------------------
 app.get('/api/cron', async (req, res) => {
