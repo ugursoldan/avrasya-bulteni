@@ -9,6 +9,11 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
 
+// Explicit static routes for common assets (bypass catch-all)
+app.get('/ihu-logo.jpg', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'ihu-logo.jpg'));
+});
+
 // ----------------------------------------------------------------
 // Public API Rotaları
 // ----------------------------------------------------------------
