@@ -252,22 +252,22 @@ app.get('/api/stats', (req, res) => {
 app.post('/api/seed', express.raw({ type: 'application/sql', limit: '10mb' }), (req, res) => {
   try {
     const sql = req.body.toString('utf-8');
-    // Drop and recreate all tables
-    db.pragma('foreign_keys=OFF');
-    db.exec('DROP TABLE IF EXISTS content_tags');
-    db.exec('DROP TABLE IF EXISTS tags');
-    db.exec('DROP TABLE IF EXISTS contents');
-    db.exec('DROP TABLE IF EXISTS categories');
-    db.exec('DROP TABLE IF EXISTS scan_log');
-    db.exec('DROP TABLE IF EXISTS scanned_sources');
-    try { db.exec('DELETE FROM sqlite_sequence'); } catch(e) {}
+    const dbPath = process.env.DB_PATH || path.join(__dirname, 'db', 'data', 'avrasya.db');
+    // Close existing connection, wipe DB file, reopen
+    db.close();
+    if (fs.existsSync(dbPath)) fs.unlinkSync(dbPath);
+    // Reuse the module's db — it will recreate on next require
+    // Instead, reopen manually:
+    const Database = require('better-sqlite3');
+    const freshDb = new Database(dbPath);
+    freshDb.pragma('journal_mode=WAL');
+    freshDb.pragma('foreign_keys=OFF');
     // Register unistr() function for seed compatibility
-    db.function('unistr', (s) => {
+    freshDb.function('unistr', (s) => {
       if (!s) return s;
       return s.replace(/\\u([0-9a-fA-F]{4})/g, (_, hex) => String.fromCodePoint(parseInt(hex, 16)));
     });
-    db.exec(sql);
-    db.pragma('foreign_keys=ON');
+    freshDb.exec(sql);
     res.json({ ok: true, message: 'Seed completed' });
   } catch (e) {
     res.status(500).json({ error: e.message });
