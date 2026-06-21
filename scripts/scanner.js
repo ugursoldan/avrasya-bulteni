@@ -1,8 +1,7 @@
 // Tarama motoru - açık kaynaklardan Avrasya içeriği toplar
 const db = require('../db');
-const fetch = require('node-fetch');
 const RssParser = require('rss-parser');
-const cheerio = require('cheerio');
+// Node 18+ built-in global fetch kullanılır, node-fetch gerekmez
 
 const parser = new RssParser();
 
