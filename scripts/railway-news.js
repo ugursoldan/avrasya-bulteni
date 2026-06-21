@@ -22,11 +22,11 @@ if (!API_KEY) {
 }
 
 const LANGUAGES = [
-  { code: 'ru', name: 'Rusça', source: 'DeepSeek AI - Rusça', topic: 'Rusya, Kafkasya, Orta Asya, Ukrayna' },
-  { code: 'fa', name: 'Farsça', source: 'DeepSeek AI - Farsça', topic: 'İran, Afganistan, Tacikistan, Orta Doğu' },
-  { code: 'zh', name: 'Çince', source: 'DeepSeek AI - Çince', topic: 'Çin, Tayvan, Şanghay İşbirliği Örgütü, Orta Asya, Kuşak ve Yol' },
-  { code: 'tr', name: 'Türkçe', source: 'DeepSeek AI - Türkçe', topic: 'Türkiye, Kafkaslar, Orta Asya, Balkanlar, Türk Devletleri Teşkilatı' },
-  { code: 'en', name: 'İngilizce', source: 'DeepSeek AI - İngilizce', topic: 'Eurasia, Russia, China, Central Asia, Caucasus, SCO, BRICS' },
+  { code: 'ru', name: 'Rusça', source: 'Rusya Haber Ajansları', topic: 'Rusya, Kafkasya, Orta Asya, Ukrayna' },
+  { code: 'fa', name: 'Farsça', source: 'İran Haber Ajansları', topic: 'İran, Afganistan, Tacikistan, Orta Doğu' },
+  { code: 'zh', name: 'Çince', source: 'Çin Haber Ajansları', topic: 'Çin, Tayvan, Şanghay İşbirliği Örgütü, Orta Asya, Kuşak ve Yol' },
+  { code: 'tr', name: 'Türkçe', source: 'Türk Haber Ajansları', topic: 'Türkiye, Kafkaslar, Orta Asya, Balkanlar, Türk Devletleri Teşkilatı' },
+  { code: 'en', name: 'İngilizce', source: 'Uluslararası Haber Ajansları', topic: 'Eurasia, Russia, China, Central Asia, Caucasus, SCO, BRICS' },
 ];
 
 // --- Slugify ---
@@ -50,12 +50,14 @@ async function callDeepSeek(prompt) {
         content: 'Sen bir Avrasya haber editörüsün. Güncel, gerçekçi ve doğru haber metinleri üretiyorsun. ' +
                  'Tüm çıktın TAMAMEN TÜRKÇE olmalıdır. Her haberin başlığı ve özeti Türkçedir. ' +
                  'Her haber için JSON formatında şu alanları döndür:\n' +
-                 '{\n  "haberler": [\n    {\n      "title": "Türkçe başlık",\n      "summary": "200-300 kelimelik Türkçe özet"\n    }\n  ]\n}\n' +
-                 'Her zaman 3 adet haber üret.'
+                 '{\n  "haberler": [\n    { ' +
+                 '"title": "Türkçe başlık (kısa, en fazla 12 kelime)", ' +
+                 '"summary": "200-300 kelimelik Türkçe özet" }\n  ]\n}\n' +
+                 'Her zaman 3 adet haber üret. Başlıklarda gereksiz boşluk veya satır sonu olmamalı.'
       },
       { role: 'user', content: prompt }
     ],
-    temperature: 0.7,
+    temperature: 0.8,
     max_tokens: 4000,
   });
 
@@ -98,16 +100,30 @@ function extractJson(text) {
   return JSON.parse(text);
 }
 
+// --- Temizlik fonksiyonu ---
+function cleanText(text) {
+  return text
+    .replace(/\s+/g, ' ')    // birden çok boşluğu tek boşluk yap
+    .replace(/\n/g, ' ')     // satır sonlarını boşluk yap
+    .trim();
+}
+
 // --- Ana işlem ---
-async function generateForLanguage(lang) {
+async function generateForLanguage(lang, usedNews) {
   console.log(`\n--- ${lang.name} (${lang.code}) ---`);
 
-  const prompt = `${lang.name} dilindeki kaynakları kullanarak Avrasya bölgesiyle ilgili ` +
+  const today = new Date().toISOString().split('T')[0];
+  const prompt = 
+    `${lang.name} dilindeki kaynakları kullanarak Avrasya bölgesiyle ilgili ` +
     `3 adet GÜNCEL haber veya analiz üret. Odaklanılacak konular: ${lang.topic}.\n\n` +
+    `BUGÜNÜN TARİHİ: ${today}. Bu tarihe yakın, güncel konular seç. ` +
+    `Daha önce üretilmiş haberleri TEKRAR ÜRETME. Kaçınılması gereken eski konular:\n` +
+    (usedNews.length > 0 ? `- ${usedNews.slice(-20).join('\n- ')}\n\n` : '') +
     `Haberler gerçekçi, güncel konulara dayalı ve Avrasya coğrafyasıyla ilgili olmalı. ` +
     `Kaynak olarak ${lang.name} haber ajanslarını referans al.\n\n` +
     `ÖNEMLİ: Başlıklar ve özetler TAMAMEN TÜRKÇE olmalıdır. ` +
-    `Her haber için Türkçe başlık ve 200-300 kelimelik Türkçe özet yaz.`;
+    `Her haber için kısa Türkçe başlık (maksimum 12 kelime) ve 200-300 kelimelik Türkçe özet yaz. ` +
+    `Başlıkta ve özette gereksiz boşluk veya satır sonu olmamalı.`;
 
   console.log(`  DeepSeek API çağrılıyor...`);
   const response = await callDeepSeek(prompt);
@@ -123,12 +139,11 @@ async function generateForLanguage(lang) {
 
   const db = new Database(DB_PATH);
   let added = 0;
-  const today = new Date().toISOString().split('T')[0];
   const now = new Date().toISOString().replace('T', ' ').substring(0, 19);
 
   for (const article of articles) {
-    const title = (article.title || '').trim();
-    const summary = (article.summary || '').trim();
+    const title = cleanText(article.title || '');
+    const summary = cleanText(article.summary || '');
     if (!title || !summary) continue;
 
     const slug = slugify(title);
@@ -159,10 +174,18 @@ async function main() {
     process.exit(1);
   }
 
+  // Daha önce üretilmiş başlıkları oku (tekrarı önlemek için)
+  const db = new Database(DB_PATH);
+  const existingTitles = db.prepare(
+    `SELECT title FROM contents WHERE source_name LIKE 'DeepSeek%' ORDER BY created_at DESC LIMIT 50`
+  ).all().map(r => r.title);
+  db.close();
+  console.log(`Son 50 yapay haber başlığı yüklendi (tekrar önleme)`);
+
   const results = [];
   for (const lang of LANGUAGES) {
     try {
-      const r = await generateForLanguage(lang);
+      const r = await generateForLanguage(lang, existingTitles);
       results.push(r);
     } catch (e) {
       console.error(`❌ ${lang.name}: ${e.message}`);
