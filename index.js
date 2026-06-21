@@ -254,7 +254,7 @@ app.post('/api/seed', express.raw({ type: 'application/sql', limit: '10mb' }), (
     const sql = req.body.toString('utf-8');
     // Drop and recreate all tables
     const schema = fs.readFileSync(path.join(__dirname, 'db', 'schema.sql'), 'utf8');
-    db.exec('PRAGMA foreign_keys=OFF');
+    db.pragma('foreign_keys=OFF');
     db.exec('DROP TABLE IF EXISTS content_tags');
     db.exec('DROP TABLE IF EXISTS tags');
     db.exec('DROP TABLE IF EXISTS contents');
@@ -264,6 +264,7 @@ app.post('/api/seed', express.raw({ type: 'application/sql', limit: '10mb' }), (
     db.exec('DROP TABLE IF EXISTS sqlite_sequence');
     db.exec(schema);
     db.exec(sql);
+    db.pragma('foreign_keys=ON');
     res.json({ ok: true, message: 'Seed completed' });
   } catch (e) {
     res.status(500).json({ error: e.message });
