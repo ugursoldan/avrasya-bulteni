@@ -261,7 +261,7 @@ app.post('/api/seed', express.raw({ type: 'application/sql', limit: '10mb' }), (
     db.exec('DROP TABLE IF EXISTS categories');
     db.exec('DROP TABLE IF EXISTS scan_log');
     db.exec('DROP TABLE IF EXISTS scanned_sources');
-    db.exec('DROP TABLE IF EXISTS sqlite_sequence');
+    try { db.exec('DELETE FROM sqlite_sequence'); } catch(e) {}
     db.exec(schema);
     // Register unistr() function for seed compatibility
     db.function('unistr', (s) => {
