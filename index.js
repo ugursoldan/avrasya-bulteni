@@ -249,27 +249,40 @@ app.get('/api/stats', (req, res) => {
 // ----------------------------------------------------------------
 // Cron endpoint (cron-job.org tarafından tetiklenir)
 // ----------------------------------------------------------------
-app.get('/api/cron', (req, res) => {
+app.get('/api/cron', async (req, res) => {
   const secret = req.query.secret;
   if (secret !== process.env.CRON_SECRET && secret !== 'avrasya2024') {
     return res.status(401).json({ error: 'Unauthorized' });
   }
 
-  res.json({ status: 'started', time: new Date().toISOString() });
-
-  const { spawn } = require('child_process');
-  const child = spawn('node', [path.join(__dirname, 'scripts', 'railway-news.js')], {
-    stdio: ['ignore', 'pipe', 'pipe'],
-    env: { ...process.env, DB_PATH: process.env.DB_PATH || path.join(__dirname, 'db', 'data', 'avrasya.db') }
-  });
-
-  let output = '';
-  child.stdout.on('data', d => output += d.toString());
-  child.stderr.on('data', d => output += d.toString());
-  child.on('close', code => {
-    console.log(`[CRON] Haber üretimi tamamlandı (exit=${code})`);
-    console.log(`[CRON] Çıktı:\n${output}`);
-  });
+  try {
+    const scanner = require('./scripts/scanner');
+    await scanner.runScan();
+    
+    // Özet çıkarma
+    const summarizePath = path.join(__dirname, 'scripts', 'railway-news.js');
+    const child = spawn('node', [summarizePath], {
+      env: { ...process.env, DB_PATH: process.env.DB_PATH || path.join(__dirname, 'db', 'data', 'avrasya.db') }
+    });
+    
+    let output = '';
+    child.stdout.on('data', d => output += d.toString());
+    child.stderr.on('data', d => output += d.toString());
+    
+    await new Promise((resolve, reject) => {
+      child.on('close', code => {
+        if (code !== 0) reject(new Error(`Özet çıkarma hatası (exit=${code}): ${output}`));
+        else resolve(output);
+      });
+      child.on('error', reject);
+    });
+    
+    console.log(`[CRON] Tamamlandı:\n${output}`);
+    res.json({ status: 'ok', message: 'Tarama + özet çıkarma tamamlandı', output });
+  } catch (e) {
+    console.error(`[CRON] Hata:`, e);
+    res.status(500).json({ status: 'error', error: e.message });
+  }
 });
 
 // ----------------------------------------------------------------
