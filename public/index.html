@@ -5,132 +5,226 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Avrasya Bülteni</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
   <style>
-    :root {
-      --bg: #0f0f0f;
-      --surface: #1a1a1a;
-      --surface2: #232323;
-      --border: #2a2a2a;
-      --text: #e8e8e8;
-      --text2: #999;
-      --accent: #c8a96e;
-      --accent2: #a8884e;
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #faf7f2;
+      color: #2c241a;
+      line-height: 1.7;
     }
 
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      font-family: 'Inter', -apple-system, sans-serif;
-      background: var(--bg);
-      color: var(--text);
+    .container { max-width: 960px; margin: 0 auto; padding: 0 24px; }
+
+    /* NAVBAR */
+    .navbar {
+      background: #1a1a2e;
+      border-bottom: 4px solid #c8a96e;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .navbar-inner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      height: 64px;
+    }
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      text-decoration: none;
+      color: #faf7f2;
+      font-size: 0.95rem;
+      font-weight: 600;
+      letter-spacing: 0.3px;
+    }
+    .logo-icon { font-size: 1.2rem; color: #c8a96e; }
+    .nav-links {
+      display: flex;
+      list-style: none;
+      gap: 32px;
+    }
+    .nav-links li a {
+      text-decoration: none;
+      color: #c8c4bc;
+      font-size: 0.85rem;
+      font-weight: 400;
+      letter-spacing: 0.5px;
+      transition: color .2s;
+      cursor: pointer;
+    }
+    .nav-links li a:hover,
+    .nav-links li a.active {
+      color: #c8a96e;
+    }
+    .mobile-toggle {
+      display: none;
+      background: none;
+      border: none;
+      color: #faf7f2;
+      font-size: 1.5rem;
+      cursor: pointer;
+    }
+
+    /* HERO */
+    .hero {
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+      padding: 64px 0 48px;
+      text-align: center;
+      border-bottom: 3px solid #c8a96e;
+    }
+    .hero h1 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 2.6rem;
+      font-weight: 700;
+      color: #faf7f2;
+      line-height: 1.2;
+      margin-bottom: 10px;
+    }
+    .hero-subtitle {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.1rem;
+      font-style: italic;
+      color: #c8a96e;
+      margin-bottom: 16px;
+    }
+    .hero p {
+      color: #a8a4a0;
+      font-size: 0.88rem;
+      max-width: 600px;
+      margin: 0 auto;
       line-height: 1.6;
     }
 
-    .container { max-width: 1100px; margin: 0 auto; padding: 0 20px; }
-
-    /* Header */
-    header {
-      border-bottom: 1px solid var(--border);
-      padding: 20px 0;
-      position: sticky;
-      top: 0;
-      background: var(--bg);
-      z-index: 100;
+    /* STATS RIBBON */
+    .stats-ribbon {
+      background: #fff;
+      border-bottom: 1px solid #e0d6c8;
+      padding: 14px 0;
     }
-    header .container {
+    .stats-ribbon .container {
       display: flex;
-      align-items: center;
+      gap: 24px;
+      font-size: 0.78rem;
+      color: #6b5f53;
+      flex-wrap: wrap;
+    }
+    .stats-ribbon strong { color: #c8a96e; font-weight: 600; }
+    .stat-item { white-space: nowrap; }
+    .stat-item::before { content: '•'; color: #c8a96e; margin-right: 6px; }
+    .stat-item:first-child::before { content: ''; margin-right: 0; }
+
+    /* SECTION */
+    .section { padding: 40px 0; }
+    .section-header {
+      display: flex;
       justify-content: space-between;
-      flex-wrap: wrap;
-      gap: 12px;
+      align-items: center;
+      margin-bottom: 24px;
+      border-bottom: 2px solid #e0d6c8;
+      padding-bottom: 12px;
     }
-    .logo {
-      font-size: 1.4rem;
-      font-weight: 700;
-      color: var(--accent);
-      text-decoration: none;
+    .section-header h2 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: #1a1a2e;
     }
-    .logo span { color: var(--text); font-weight: 400; }
-
-    nav { display: flex; gap: 8px; flex-wrap: wrap; }
-    nav a {
-      color: var(--text2);
+    .section-header a {
       text-decoration: none;
+      color: #8b7355;
       font-size: 0.85rem;
-      padding: 6px 14px;
-      border-radius: 20px;
-      border: 1px solid var(--border);
-      transition: 0.2s;
+      font-weight: 500;
+      transition: color .2s;
     }
-    nav a:hover, nav a.active {
-      color: var(--text);
-      border-color: var(--accent);
-      background: var(--surface2);
-    }
+    .section-header a:hover { color: #1a1a2e; }
 
-    /* Stats bar */
-    .stats-bar {
+    /* FILTER */
+    .filter-bar {
       display: flex;
-      gap: 20px;
-      padding: 16px 0;
-      font-size: 0.8rem;
-      color: var(--text2);
-      border-bottom: 1px solid var(--border);
+      gap: 8px;
+      margin-bottom: 24px;
       flex-wrap: wrap;
     }
-    .stats-bar span { white-space: nowrap; }
-    .stats-bar strong { color: var(--accent); }
-
-    /* Content cards */
-    .content-grid { padding: 24px 0; display: flex; flex-direction: column; gap: 16px; }
-
-    .card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 10px;
-      padding: 20px;
-      transition: 0.2s;
+    .filter-btn {
+      background: #e0d6c8;
+      border: none;
+      padding: 6px 16px;
+      border-radius: 4px;
+      font-size: 0.8rem;
       cursor: pointer;
+      color: #2c241a;
+      transition: background .2s, color .2s;
+      font-family: 'Inter', sans-serif;
+    }
+    .filter-btn.active,
+    .filter-btn:hover {
+      background: #1a1a2e;
+      color: #faf7f2;
+    }
+
+    /* CARDS */
+    .card {
+      background: #ffffff;
+      border-radius: 8px;
+      padding: 24px;
+      margin-bottom: 20px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+      transition: box-shadow .2s, transform .2s;
     }
     .card:hover {
-      border-color: var(--accent);
-      background: var(--surface2);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+      transform: translateY(-1px);
     }
     .card-meta {
       display: flex;
-      gap: 10px;
       align-items: center;
-      margin-bottom: 8px;
-      font-size: 0.75rem;
-      color: var(--text2);
-      flex-wrap: wrap;
+      gap: 12px;
+      margin-bottom: 10px;
     }
-    .badge {
+    .card-tag {
       display: inline-block;
-      padding: 2px 10px;
-      border-radius: 12px;
       font-size: 0.7rem;
       font-weight: 600;
+      padding: 3px 10px;
+      border-radius: 3px;
       text-transform: uppercase;
       letter-spacing: 0.5px;
     }
-    .badge-haber { background: #2d4a3e; color: #6fcf97; }
-    .badge-makale { background: #2d3a4a; color: #7eb8da; }
-    .badge-bildiri { background: #3a2d4a; color: #bb86fc; }
-    .badge-kitap { background: #4a3d2d; color: #f0c27a; }
-    .badge-sempozyum { background: #2d3d3a; color: #80cbc4; }
-    .badge-panel { background: #3a2d3a; color: #f48fb1; }
-    .badge-rapor { background: #3a3a2d; color: #dce775; }
+    .card-tag.haber { background: #d4e4d4; color: #2d6a4f; }
+    .card-tag.makale { background: #dfe6e9; color: #2d3436; }
+    .card-tag.kitap { background: #e8e0d4; color: #6b4226; }
+    .card-tag.bildiri { background: #d4dce8; color: #2d3a6a; }
+    .card-tag.sempozyum { background: #e0d4e8; color: #3a1a4a; }
+    .card-tag.panel { background: #e8d4d8; color: #6a2a3a; }
+    .card-tag.rapor { background: #e0e0d4; color: #4a4a2a; }
 
-    .card h3 {
-      font-size: 1rem;
+    .card-source {
+      font-size: 0.75rem;
+      color: #8b7355;
+    }
+    .card-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.2rem;
       font-weight: 600;
       margin-bottom: 6px;
-      line-height: 1.4;
+      line-height: 1.3;
     }
-    .card p {
-      font-size: 0.85rem;
-      color: var(--text2);
+    .card-title a {
+      text-decoration: none;
+      color: #1a1a2e;
+      transition: color .2s;
+    }
+    .card-title a:hover { color: #8b7355; }
+    .card-summary {
+      font-size: 0.88rem;
+      color: #3d3228;
+      line-height: 1.6;
+      margin-bottom: 12px;
       display: -webkit-box;
       -webkit-line-clamp: 3;
       -webkit-box-orient: vertical;
@@ -140,169 +234,213 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      margin-top: 10px;
-      font-size: 0.75rem;
-      color: var(--text2);
+      border-top: 1px solid #f0ebe4;
+      padding-top: 12px;
     }
-    .card-tags { display: flex; gap: 6px; flex-wrap: wrap; }
+    .card-date {
+      font-size: 0.78rem;
+      color: #8b7355;
+    }
+    .card-link {
+      text-decoration: none;
+      font-size: 0.8rem;
+      font-weight: 500;
+      color: #8b7355;
+      transition: color .2s;
+      cursor: pointer;
+    }
+    .card-link:hover { color: #1a1a2e; }
+    .card-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 10px;
+    }
     .card-tags span {
+      background: #e0d6c8;
       font-size: 0.7rem;
       padding: 2px 8px;
-      background: var(--surface2);
-      border-radius: 10px;
-      color: var(--text2);
+      border-radius: 3px;
+      color: #2c241a;
     }
-    .source-link {
-      color: var(--accent);
-      text-decoration: none;
-      font-size: 0.75rem;
-    }
-    .source-link:hover { text-decoration: underline; }
 
-    /* Loading & Empty states */
+    /* Loading & Empty */
     .loading, .empty {
       text-align: center;
       padding: 60px 20px;
-      color: var(--text2);
+      color: #6b5f53;
     }
-    .spinner {
+    .loading-pulse {
       width: 32px;
       height: 32px;
-      border: 3px solid var(--border);
-      border-top-color: var(--accent);
+      border: 3px solid #e0d6c8;
+      border-top-color: #c8a96e;
       border-radius: 50%;
       animation: spin 0.8s linear infinite;
       margin: 0 auto 12px;
     }
     @keyframes spin { to { transform: rotate(360deg); } }
 
-    /* Detay sayfası (modal) */
-    .modal-overlay {
-      position: fixed;
-      inset: 0;
-      background: rgba(0,0,0,0.7);
-      z-index: 200;
-      display: none;
-      align-items: center;
-      justify-content: center;
-      padding: 20px;
-    }
-    .modal-overlay.active { display: flex; }
-    .modal {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      max-width: 720px;
-      width: 100%;
-      max-height: 90vh;
-      overflow-y: auto;
-      padding: 28px;
-    }
-    .modal-close {
-      float: right;
-      background: none;
-      border: none;
-      color: var(--text2);
-      font-size: 1.5rem;
-      cursor: pointer;
-    }
-    .modal-close:hover { color: var(--text); }
-    .modal h2 { font-size: 1.2rem; margin-bottom: 12px; }
-    .modal .meta {
-      font-size: 0.8rem;
-      color: var(--text2);
-      margin-bottom: 16px;
-    }
-    .modal .body {
-      font-size: 0.9rem;
-      line-height: 1.7;
-      white-space: pre-wrap;
-    }
-    .modal .body a { color: var(--accent); }
-
-    /* Footer */
-    footer {
-      border-top: 1px solid var(--border);
-      padding: 20px 0;
-      text-align: center;
-      font-size: 0.8rem;
-      color: var(--text2);
+    /* FOOTER */
+    .footer {
+      background: #1a1a2e;
+      color: #a8a4a0;
+      padding: 32px 0;
       margin-top: 40px;
     }
-    footer a { color: var(--accent); text-decoration: none; }
+    .footer-inner { text-align: center; }
+    .footer p { font-size: 0.8rem; }
+    .footer-credit {
+      margin-top: 4px;
+      font-size: 0.75rem;
+      color: #6b5f53;
+    }
 
-    @media (max-width: 640px) {
-      header .container { flex-direction: column; align-items: flex-start; }
-      .stats-bar { gap: 8px; }
+    /* RESPONSIVE */
+    @media (max-width: 768px) {
+      .hero h1 { font-size: 1.7rem; }
+      .hero { padding: 40px 0 32px; }
+      .container { padding: 0 16px; }
+      .mobile-toggle { display: block; }
+      .nav-links {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 64px;
+        left: 0;
+        width: 100%;
+        background: #1a1a2e;
+        padding: 16px 24px;
+        border-top: 1px solid #2a2a4e;
+      }
+      .nav-links.open { display: flex; }
+      .section-header { flex-direction: column; align-items: flex-start; gap: 8px; }
+      .stats-ribbon .container { gap: 12px; }
     }
   </style>
 </head>
 <body>
-  <header>
-    <div class="container">
-      <a href="/" class="logo">🌏 Avrasya <span>Bülteni</span></a>
-      <nav>
-        <a href="#" data-filter="all" class="active">Tümü</a>
-        <a href="#" data-filter="haber">Haber</a>
-        <a href="#" data-filter="makale">Makale</a>
-        <a href="#" data-filter="kitap">Kitap</a>
-        <a href="#" data-filter="bildiri">Bildiri</a>
-        <a href="#" data-filter="sempozyum">Sempozyum</a>
-        <a href="#" data-filter="panel">Panel</a>
-        <a href="#" data-filter="rapor">Rapor</a>
-      </nav>
+  <!-- NAVBAR -->
+  <nav class="navbar">
+    <div class="container navbar-inner">
+      <a href="/" class="logo">
+        <span class="logo-icon">★</span>
+        <span class="logo-text">Avrasya Bülteni</span>
+      </a>
+      <button class="mobile-toggle" id="mobileToggle" aria-label="Menüyü aç">☰</button>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="/" class="active" data-filter="all">Ana Sayfa</a></li>
+        <li><a href="#" data-filter="haber">Haber</a></li>
+        <li><a href="#" data-filter="makale">Makale</a></li>
+        <li><a href="#" data-filter="kitap">Kitap</a></li>
+        <li><a href="#" data-filter="bildiri">Bildiri</a></li>
+        <li><a href="#" data-filter="rapor">Rapor</a></li>
+      </ul>
     </div>
-  </header>
+  </nav>
 
-  <div class="container">
-    <div class="stats-bar" id="statsBar"></div>
-    <div class="content-grid" id="contentGrid"></div>
+  <!-- HERO -->
+  <section class="hero">
+    <div class="container">
+      <h1>Avrasya Bülteni</h1>
+      <div class="hero-subtitle">İbn Haldun Üniversitesi Haydar Aliyev Avrasya Çalışmaları Merkezi</div>
+      <p>Avrasya coğrafyası üzerine güncel akademik yayınları, haberleri, kitapları ve bilimsel etkinlikleri takip edebileceğiniz bilgi platformu.</p>
+    </div>
+  </section>
+
+  <!-- STATS RIBBON -->
+  <div class="stats-ribbon">
+    <div class="container" id="statsBar"></div>
   </div>
 
-  <div class="modal-overlay" id="modalOverlay">
-    <div class="modal">
-      <button class="modal-close" id="modalClose">&times;</button>
-      <div id="modalContent"></div>
-    </div>
-  </div>
+  <!-- MAIN CONTENT -->
+  <main>
+    <section class="section">
+      <div class="container">
+        <div class="section-header">
+          <h2>Son İçerikler</h2>
+          <a href="#" onclick="loadContents(); return false">Tümünü Gör →</a>
+        </div>
 
-  <footer>
-    <div class="container">
-      <p>Avrasya Bülteni · İbn Haldun Üniversitesi Haydar Aliyev Avrasya Çalışmaları Merkezi</p>
-      <p>İçerikler otomatik taranmakta ve yapay zeka ile özetlenmektedir.</p>
+        <div class="filter-bar" id="filterButtons">
+          <button class="filter-btn active" data-filter="all">Tümü</button>
+          <button class="filter-btn" data-filter="haber">Haber</button>
+          <button class="filter-btn" data-filter="makale">Makale</button>
+          <button class="filter-btn" data-filter="kitap">Kitap</button>
+          <button class="filter-btn" data-filter="bildiri">Bildiri</button>
+          <button class="filter-btn" data-filter="rapor">Rapor</button>
+        </div>
+
+        <div id="contentGrid"></div>
+      </div>
+    </section>
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="container footer-inner">
+      <p>© 2026 Avrasya Bülteni. Tüm hakları saklıdır.</p>
+      <p class="footer-credit">İçerikler otomatik taranmakta ve yapay zeka ile özetlenmektedir.</p>
     </div>
   </footer>
 
   <script>
-    let currentFilter = 'all';
+    // Mobil menü
+    document.getElementById('mobileToggle').addEventListener('click', function() {
+      const links = document.getElementById('navLinks');
+      links.classList.toggle('open');
+      this.textContent = links.classList.contains('open') ? '✕' : '☰';
+    });
 
-    document.querySelectorAll('nav a').forEach(a => {
+    let currentFilter = 'all';
+    let allContents = [];
+    let allStats = null;
+
+    // Nav link tıklamaları
+    document.querySelectorAll('.nav-links li a').forEach(a => {
       a.addEventListener('click', e => {
         e.preventDefault();
-        document.querySelector('nav a.active')?.classList.remove('active');
-        a.classList.add('active');
-        currentFilter = a.dataset.filter;
-        loadContents();
+        setFilter(a.dataset.filter);
+        // Mobil menüyü kapat
+        document.getElementById('navLinks').classList.remove('open');
+        document.getElementById('mobileToggle').textContent = '☰';
       });
     });
 
+    // Filter buton tıklamaları
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        setFilter(btn.dataset.filter);
+      });
+    });
+
+    function setFilter(filter) {
+      currentFilter = filter;
+      // Nav link aktif
+      document.querySelectorAll('.nav-links li a').forEach(a => {
+        a.classList.toggle('active', a.dataset.filter === filter);
+      });
+      // Filter btn aktif
+      document.querySelectorAll('.filter-btn').forEach(b => {
+        b.classList.toggle('active', b.dataset.filter === filter);
+      });
+      renderContents(allContents);
+    }
+
     async function loadContents() {
       const grid = document.getElementById('contentGrid');
-      grid.innerHTML = '<div class="loading"><div class="spinner"></div><p>İçerikler yükleniyor...</p></div>';
-
-      const params = new URLSearchParams({ limit: 50 });
-      if (currentFilter !== 'all') params.set('type', currentFilter);
+      grid.innerHTML = '<div class="loading"><div class="loading-pulse"></div><p>İçerikler yükleniyor...</p></div>';
 
       try {
         const [contentsRes, statsRes] = await Promise.all([
-          fetch('/api/contents?' + params.toString()),
+          fetch('/api/contents?limit=50'),
           fetch('/api/stats')
         ]);
-        const contents = await contentsRes.json();
-        const stats = await statsRes.json();
+        allContents = await contentsRes.json();
+        allStats = await statsRes.json();
 
-        renderStats(stats);
-        renderContents(contents);
+        renderStats(allStats);
+        renderContents(allContents);
       } catch (err) {
         grid.innerHTML = '<div class="empty"><p>İçerikler yüklenirken bir hata oluştu.</p></div>';
       }
@@ -314,40 +452,39 @@
         ? new Date(stats.lastScan).toLocaleDateString('tr-TR', { day: 'numeric', month: 'long', year: 'numeric', hour: '2-digit', minute: '2-digit' })
         : 'Henüz taranmadı';
       bar.innerHTML = `
-        <span>📦 Toplam: <strong>${stats.total}</strong></span>
-        <span>📰 Haber: <strong>${stats.haber}</strong></span>
-        <span>📄 Makale: <strong>${stats.makale}</strong></span>
-        <span>📚 Kitap: <strong>${stats.kitap}</strong></span>
-        <span>📋 Bildiri: <strong>${stats.bildiri}</strong></span>
-        <span>🎤 Sempozyum: <strong>${stats.sempozyum}</strong></span>
-        <span>📊 Panel: <strong>${stats.panel}</strong></span>
-        <span>📑 Rapor: <strong>${stats.rapor}</strong></span>
-        <span>🔄 Son tarama: ${lastScan}</span>
+        <span class="stat-item">Toplam: <strong>${stats.total}</strong></span>
+        <span class="stat-item">Haber: <strong>${stats.haber}</strong></span>
+        <span class="stat-item">Makale: <strong>${stats.makale}</strong></span>
+        <span class="stat-item">Kitap: <strong>${stats.kitap}</strong></span>
+        <span class="stat-item">Bildiri: <strong>${stats.bildiri}</strong></span>
+        <span class="stat-item">Rapor: <strong>${stats.rapor}</strong></span>
+        <span class="stat-item">Son tarama: ${lastScan}</span>
       `;
     }
 
     function renderContents(contents) {
       const grid = document.getElementById('contentGrid');
-      if (!contents.length) {
-        grid.innerHTML = '<div class="empty"><p>Henüz içerik bulunmuyor. İlk tarama yakında yapılacak.</p></div>';
+      const filtered = currentFilter === 'all'
+        ? contents
+        : contents.filter(c => c.type === currentFilter);
+
+      if (!filtered.length) {
+        grid.innerHTML = '<div class="empty"><p>Bu kategoride henüz içerik bulunmuyor.</p></div>';
         return;
       }
 
-      grid.innerHTML = contents.map(c => `
-        <div class="card" onclick="openDetail('${c.slug}')">
+      grid.innerHTML = filtered.map(c => `
+        <div class="card">
           <div class="card-meta">
-            <span class="badge badge-${c.type}">${typeLabel(c.type)}</span>
-            <span>${c.category_name || 'Genel'}</span>
-            <span>·</span>
-            <span>${formatDate(c.published_at)}</span>
+            <span class="card-tag ${c.type}">${typeLabel(c.type)}</span>
+            <span class="card-source">${c.category_name || 'Genel'}${c.source_name ? ' · ' + c.source_name : ''}</span>
           </div>
-          <h3>${c.title}</h3>
-          <p>${c.summary}</p>
+          <h3 class="card-title"><a href="${c.source_url || '#'}" target="_blank" rel="noopener">${c.title}</a></h3>
+          <div class="card-summary">${c.summary || 'Bu içerik hakkında özet bilgisi henüz eklenmemiştir.'}</div>
+          ${c.tags && c.tags.length ? `<div class="card-tags">${c.tags.map(t => `<span>${t.name}</span>`).join('')}</div>` : ''}
           <div class="card-footer">
-            <div class="card-tags">
-              ${(c.tags || []).map(t => `<span>${t.name}</span>`).join('')}
-            </div>
-            ${c.source_name ? `<a href="${c.source_url}" target="_blank" class="source-link" onclick="event.stopPropagation()">${c.source_name} →</a>` : ''}
+            <span class="card-date">${formatDate(c.published_at)}</span>
+            <a href="${c.source_url || '#'}" target="_blank" rel="noopener" class="card-link">Detay →</a>
           </div>
         </div>
       `).join('');
@@ -355,50 +492,19 @@
 
     function typeLabel(type) {
       const labels = {
-        haber: 'Haber', makale: 'Makale', bildiri: 'Bildiri',
-        kitap: 'Kitap', sempozyum: 'Sempozyum', panel: 'Panel', rapor: 'Rapor'
+        haber: 'Haber', makale: 'Makale',
+        bildiri: 'Bildiri', kitap: 'Kitap',
+        rapor: 'Rapor'
       };
       return labels[type] || type;
     }
 
     function formatDate(dateStr) {
       if (!dateStr) return '';
-      return new Date(dateStr).toLocaleDateString('tr-TR', { day: 'numeric', month: 'short', year: 'numeric' });
-    }
-
-    async function openDetail(slug) {
-      const overlay = document.getElementById('modalOverlay');
-      const content = document.getElementById('modalContent');
-      content.innerHTML = '<div class="loading"><div class="spinner"></div></div>';
-      overlay.classList.add('active');
-
       try {
-        const res = await fetch('/api/contents/' + slug);
-        const c = await res.json();
-        content.innerHTML = `
-          <h2>${c.title}</h2>
-          <div class="meta">
-            <span class="badge badge-${c.type}">${typeLabel(c.type)}</span>
-            <span>${c.category_name || 'Genel'}</span>
-            <span>·</span>
-            <span>${formatDate(c.published_at)}</span>
-            ${c.source_name ? `<span>·</span><a href="${c.source_url}" target="_blank" style="color:var(--accent)">${c.source_name}</a>` : ''}
-          </div>
-          <div class="body">${c.full_text || c.summary}</div>
-        `;
-      } catch (err) {
-        content.innerHTML = '<div class="empty"><p>İçerik yüklenemedi.</p></div>';
-      }
+        return new Date(dateStr).toLocaleDateString('tr-TR', { day: 'numeric', month: 'short', year: 'numeric' });
+      } catch { return dateStr; }
     }
-
-    document.getElementById('modalClose').addEventListener('click', () => {
-      document.getElementById('modalOverlay').classList.remove('active');
-    });
-    document.getElementById('modalOverlay').addEventListener('click', e => {
-      if (e.target === e.currentTarget) {
-        document.getElementById('modalOverlay').classList.remove('active');
-      }
-    });
 
     // İlk yükleme
     loadContents();

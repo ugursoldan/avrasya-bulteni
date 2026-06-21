@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Avrasya Bülteni - Admin</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#1a1a2e;color:#e0e0e0;min-height:100vh}
+.sidebar{position:fixed;top:0;left:0;bottom:0;width:220px;background:#0f3460;padding:24px 16px;z-index:100}
+.sidebar h2{color:#c8a96e;font-size:14px;text-transform:uppercase;letter-spacing:2px;margin-bottom:24px;line-height:1.4}
+.sidebar nav{display:flex;flex-direction:column;gap:4px}
+.sidebar nav a{color:#8899aa;text-decoration:none;padding:10px 12px;border-radius:6px;font-size:14px;transition:all .2s;cursor:pointer}
+.sidebar nav a:hover,.sidebar nav a.active{background:#1a1a2e;color:#c8a96e}
+.main{margin-left:220px;padding:32px}
+.header{display:flex;justify-content:space-between;align-items:center;margin-bottom:32px}
+.header h1{font-size:22px;font-weight:600;color:#f0f0f0}
+.stats{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:12px;margin-bottom:32px}
+.stat-card{background:#16213e;border-radius:10px;padding:16px;text-align:center}
+.stat-card .num{font-size:28px;font-weight:700;color:#c8a96e}
+.stat-card .label{font-size:12px;color:#667788;margin-top:4px}
+.toolbar{display:flex;gap:12px;margin-bottom:20px;flex-wrap:wrap;align-items:center}
+.search-input{flex:1;min-width:200px;padding:10px 14px;border:1px solid #2a2a4a;border-radius:8px;background:#16213e;color:#e0e0e0;font-size:14px}
+.search-input:focus{outline:none;border-color:#c8a96e}
+.btn{padding:10px 18px;border:none;border-radius:8px;font-size:14px;cursor:pointer;transition:all .2s;font-weight:500}
+.btn-primary{background:#c8a96e;color:#1a1a2e}
+.btn-primary:hover{background:#d4b87a}
+.btn-danger{background:#c0392b;color:#fff}
+.btn-danger:hover{background:#e74c3c}
+.btn-success{background:#27ae60;color:#fff}
+.btn-success:hover{background:#2ecc71}
+.btn-secondary{background:#2a2a4a;color:#e0e0e0}
+.btn-secondary:hover{background:#3a3a5a}
+.btn-sm{padding:6px 10px;font-size:12px}
+button:disabled{opacity:.5;cursor:not-allowed}
+.table-wrap{background:#16213e;border-radius:10px;overflow-x:auto;margin-bottom:20px}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{text-align:left;padding:12px 14px;color:#667788;font-weight:600;text-transform:uppercase;font-size:11px;letter-spacing:1px;border-bottom:1px solid #2a2a4a;white-space:nowrap}
+td{padding:12px 14px;border-bottom:1px solid #1e1e3a;max-width:300px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+tr:hover{background:#1a1a3e}
+tr:last-child td{border-bottom:none}
+.pagination{display:flex;justify-content:center;gap:8px;align-items:center;margin-top:16px;font-size:13px}
+.pagination span{padding:6px 12px;background:#16213e;border-radius:6px;cursor:pointer;color:#8899aa}
+.pagination span:hover{background:#c8a96e;color:#1a1a2e}
+.pagination span.active{background:#c8a96e;color:#1a1a2e;font-weight:600}
+.modal-overlay{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.7);z-index:200;display:none;justify-content:center;align-items:center}
+.modal-overlay.active{display:flex}
+.modal{background:#16213e;border-radius:12px;width:90%;max-width:700px;max-height:85vh;overflow-y:auto;padding:28px}
+.modal h3{font-size:18px;color:#c8a96e;margin-bottom:20px}
+.form-group{margin-bottom:14px}
+.form-group label{display:block;font-size:12px;color:#8899aa;margin-bottom:4px;font-weight:500}
+.form-group input,.form-group textarea,.form-group select{width:100%;padding:10px 12px;border:1px solid #2a2a4a;border-radius:6px;background:#1a1a2e;color:#e0e0e0;font-size:14px}
+.form-group textarea{min-height:80px;resize:vertical;font-family:inherit}
+.form-group input:focus,.form-group textarea:focus,.form-group select:focus{outline:none;border-color:#c8a96e}
+.modal-footer{display:flex;gap:10px;justify-content:flex-end;margin-top:20px;padding-top:16px;border-top:1px solid #2a2a4a}
+.empty-state{text-align:center;padding:60px 20px;color:#667788}
+.empty-state p{font-size:16px;margin-bottom:8px}
+.toast{position:fixed;bottom:24px;right:24px;padding:12px 24px;border-radius:8px;color:#fff;font-size:14px;z-index:300;display:none;animation:fadeIn .3s}
+.toast.success{background:#27ae60}
+.toast.error{background:#c0392b}
+.toast.info{background:#2980b9}
+.tab-bar{display:flex;gap:0;margin-bottom:24px;border-bottom:1px solid #2a2a4a}
+.tab-bar a{padding:10px 20px;text-decoration:none;color:#667788;font-size:13px;border-bottom:2px solid transparent;cursor:pointer}
+.tab-bar a.active,.tab-bar a:hover{color:#c8a96e;border-bottom-color:#c8a96e}
+.sec{display:none}
+.sec.active{display:block}
+.badge{display:inline-block;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600}
+.badge-haber{background:#3498db22;color:#3498db}
+.badge-makale{background:#9b59b622;color:#9b59b6}
+.badge-kitap{background:#e67e2222;color:#e67e22}
+.badge-sempozyum{background:#1abc9c22;color:#1abc9c}
+.type-filter{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:16px}
+.type-filter button{padding:6px 14px;border:1px solid #2a2a4a;border-radius:20px;background:transparent;color:#667788;font-size:12px;cursor:pointer}
+.type-filter button.active,.type-filter button:hover{border-color:#c8a96e;color:#c8a96e}
+@keyframes fadeIn{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.loading{text-align:center;padding:40px;color:#667788}
+.spinner{width:32px;height:32px;border:3px solid #2a2a4a;border-top-color:#c8a96e;border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 12px}
+@keyframes spin{to{transform:rotate(360deg)}}
+.select-all-wrap{display:flex;align-items:center;gap:8px;padding:8px 14px;background:#1a1a2e;border-radius:6px;margin-bottom:10px;font-size:12px;color:#667788}
+</style>
+</head>
+<body>
+
+<div class="sidebar">
+  <h2>Avrasya<br>Bülteni</h2>
+  <nav>
+    <a class="active" onclick="showTab('contents')">📄 İçerikler</a>
+    <a onclick="showTab('sources')">📡 Kaynaklar</a>
+    <a onclick="showTab('scan')">🔄 Tarama</a>
+  </nav>
+</div>
+
+<div class="main">
+  <div class="header">
+    <h1 id="pageTitle">İçerikler</h1>
+    <div>
+      <a href="/" target="_blank" class="btn btn-secondary btn-sm" style="text-decoration:none">🌐 Siteyi Görüntüle</a>
+    </div>
+  </div>
+
+  <!-- Stats -->
+  <div class="stats" id="statsBar"></div>
+
+  <div class="tab-bar">
+    <a class="active" onclick="showTab('contents')">📄 İçerikler</a>
+    <a onclick="showTab('sources')">📡 Kaynaklar</a>
+    <a onclick="showTab('scan')">🔄 Tarama & Özet</a>
+  </div>
+
+  <!-- === İÇERİKLER TAB === -->
+  <div id="tab-contents" class="sec active">
+    <div class="toolbar">
+      <input type="text" class="search-input" id="searchInput" placeholder="Başlıkta ara..." onkeyup="searchContents()">
+      <select id="langFilter" onchange="searchContents()" style="padding:10px 14px;border:1px solid #2a2a4a;border-radius:8px;background:#16213e;color:#e0e0e0;font-size:14px">
+        <option value="">Tüm Diller</option>
+        <option value="tr">🇹🇷 Türkçe</option>
+        <option value="en">🇬🇧 İngilizce</option>
+        <option value="ru">🇷🇺 Rusça</option>
+        <option value="zh">🇨🇳 Çince</option>
+        <option value="fa">🇮🇷 Farsça</option>
+      </select>
+      <button class="btn btn-primary" onclick="openContentModal()">➕ Yeni İçerik</button>
+    </div>
+    <div class="select-all-wrap">
+      <input type="checkbox" id="selectAll" onchange="toggleSelectAll()">
+      <label for="selectAll">Tümünü seç</label>
+      <button class="btn btn-danger btn-sm" onclick="deleteSelected()" style="margin-left:12px">🗑 Seçilenleri Sil</button>
+    </div>
+    <div class="table-wrap" id="contentTableWrap">
+      <div class="loading"><div class="spinner"></div>Yükleniyor...</div>
+    </div>
+    <div class="pagination" id="pagination"></div>
+  </div>
+
+  <!-- === KAYNAKLAR TAB === -->
+  <div id="tab-sources" class="sec">
+    <button class="btn btn-primary" onclick="openSourceModal()" style="margin-bottom:16px">➕ Yeni Kaynak</button>
+    <div class="table-wrap" id="sourcesTableWrap">
+      <div class="loading"><div class="spinner"></div>Yükleniyor...</div>
+    </div>
+  </div>
+
+  <!-- === TARAMA TAB === -->
+  <div id="tab-scan" class="sec">
+    <div style="text-align:center;padding:40px">
+      <p style="color:#667788;margin-bottom:16px">Manuel olarak tarama başlatır ve AI özetleme çalıştırır.</p>
+      <button class="btn btn-success" onclick="startScan()" id="scanBtn">🔄 Taramayı Başlat</button>
+      <div id="scanLog" style="margin-top:20px;text-align:left;max-width:600px;margin-left:auto;margin-right:auto"></div>
+    </div>
+    <!-- Özetleme durumu -->
+    <div style="max-width:600px;margin:20px auto">
+      <h3 style="color:#c8a96e;font-size:14px;margin-bottom:12px">📊 Özetleme Durumu</h3>
+      <div id="summaryStatus" class="loading"><div class="spinner"></div>Kontrol ediliyor...</div>
+    </div>
+  </div>
+</div>
+
+<!-- === İÇERİK MODAL === -->
+<div class="modal-overlay" id="contentModal">
+  <div class="modal">
+    <h3 id="modalTitle">Yeni İçerik</h3>
+    <div class="form-group">
+      <label>Başlık</label>
+      <input type="text" id="f_title">
+    </div>
+    <div class="form-group">
+      <label>Tür</label>
+      <select id="f_type">
+        <option value="haber">Haber</option>
+        <option value="makale">Makale</option>
+        <option value="bildiri">Bildiri</option>
+        <option value="kitap">Kitap</option>
+        <option value="sempozyum">Sempozyum</option>
+        <option value="panel">Panel</option>
+        <option value="rapor">Rapor</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label>Dil</label>
+      <select id="f_lang">
+        <option value="tr">🇹🇷 Türkçe</option>
+        <option value="en">🇬🇧 İngilizce</option>
+        <option value="ru">🇷🇺 Rusça</option>
+        <option value="zh">🇨🇳 Çince</option>
+        <option value="fa">🇮🇷 Farsça</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label>Kategori</label>
+      <select id="f_category_id"></select>
+    </div>
+    <div class="form-group">
+      <label>Kaynak Adı</label>
+      <input type="text" id="f_source_name">
+    </div>
+    <div class="form-group">
+      <label>Kaynak URL</label>
+      <input type="url" id="f_source_url">
+    </div>
+    <div class="form-group">
+      <label>Yayın Tarihi</label>
+      <input type="date" id="f_published_at">
+    </div>
+    <div class="form-group">
+      <label>Özet</label>
+      <textarea id="f_summary" rows="4"></textarea>
+    </div>
+    <div class="form-group">
+      <label>Tam Metin</label>
+      <textarea id="f_full_text" rows="6"></textarea>
+    </div>
+    <div class="modal-footer">
+      <button class="btn btn-secondary" onclick="closeModal('contentModal')">İptal</button>
+      <button class="btn btn-primary" id="saveContentBtn" onclick="saveContent()">Kaydet</button>
+    </div>
+  </div>
+</div>
+
+<!-- === KAYNAK MODAL === -->
+<div class="modal-overlay" id="sourceModal">
+  <div class="modal">
+    <h3>Yeni Kaynak</h3>
+    <div class="form-group">
+      <label>Kaynak Adı</label>
+      <input type="text" id="f_src_name">
+    </div>
+    <div class="form-group">
+      <label>URL (RSS feed)</label>
+      <input type="url" id="f_src_url">
+    </div>
+    <div class="form-group">
+      <label>Tür</label>
+      <select id="f_src_type">
+        <option value="rss">RSS</option>
+        <option value="web">Web</option>
+        <option value="api">API</option>
+      </select>
+    </div>
+    <div class="modal-footer">
+      <button class="btn btn-secondary" onclick="closeModal('sourceModal')">İptal</button>
+      <button class="btn btn-primary" onclick="saveSource()">Kaydet</button>
+    </div>
+  </div>
+</div>
+
+<!-- TOAST -->
+<div class="toast" id="toast"></div>
+
+<script>
+let currentPage = 1;
+let editingId = null;
+let selectedIds = new Set();
+let authToken = '';
+
+// URL'den Basic Auth bilgisini al
+function initAuth(){
+  // Browser otomatik olarak Basic Auth header'ını gönderir
+  // Biz localStorage'a kaydedip fetch'lerde kullanacağız
+  const saved = localStorage.getItem('avrasya_auth');
+  if(saved) authToken = saved;
+}
+
+function apiFetch(url, opts={}){
+  if(authToken){
+    opts.headers = opts.headers || {};
+    opts.headers['Authorization'] = 'Basic ' + authToken;
+  }
+  return fetch(url, opts);
+}
+
+// Login modal'ı
+function showLogin(){
+  const pw = prompt('Admin şifresi:');
+  if(pw){
+    authToken = btoa('admin:' + pw);
+    localStorage.setItem('avrasya_auth', authToken);
+    loadStats();
+    loadContents();
+  }
+}
+
+function $(id){return document.getElementById(id)}
+
+function toast(msg, type='success'){
+  const t=$('toast');t.textContent=msg;t.className='toast '+type;t.style.display='block';
+  setTimeout(()=>t.style.display='none',3000)
+}
+
+function showTab(name){
+  document.querySelectorAll('.sec').forEach(s=>s.classList.remove('active'));
+  document.querySelectorAll('.tab-bar a').forEach(a=>a.classList.remove('active'));
+  $('tab-'+name).classList.add('active');
+  event.target.classList.add('active');
+  if(name==='contents'){loadContents();$('pageTitle').textContent='İçerikler'}
+  else if(name==='sources'){loadSources();$('pageTitle').textContent='Kaynaklar'}
+  else if(name==='scan'){loadScanTab();$('pageTitle').textContent='Tarama & Özet'}
+}
+
+// === İSTATİSTİKLER ===
+async function loadStats(){
+  try{
+    const r=await apiFetch('/api/stats');const d=await r.json();
+    $('statsBar').innerHTML=Object.entries(d).filter(([k])=>k!=='lastScan').map(([k,v])=>`<div class="stat-card"><div class="num">${v||0}</div><div class="label">${k}</div></div>`).join('');
+  }catch(e){}
+}
+
+// === İÇERİKLER ===
+async function loadContents(){
+  const wrap=$('contentTableWrap');wrap.innerHTML='<div class="loading"><div class="spinner"></div>Yükleniyor...</div>';
+  const q=$('searchInput').value;
+  const lang=$('langFilter').value;
+  try{
+    const r=await apiFetch(`/api/admin/contents?page=${currentPage}&search=${encodeURIComponent(q)}&lang=${lang}`);
+    const d=await r.json();
+    if(!d.rows||!d.rows.length){
+      wrap.innerHTML='<div class="empty-state"><p>📭 İçerik bulunamadı</p></div>';$('pagination').innerHTML='';return
+    }
+    let html='<table><thead><tr><th style="width:30px"><input type="checkbox" onchange="toggleSelectAll()"></th><th>Başlık</th><th>Tür</th><th>Dil</th><th>Kategori</th><th>Kaynak</th><th>Tarih</th><th>Özet</th><th style="width:120px">İşlem</th></tr></thead><tbody>';
+    d.rows.forEach(r=>{
+      const short=r.summary?r.summary.substring(0,50)+'…':'';
+      const sel=selectedIds.has(r.id)?'checked':'';
+      const langLabels={tr:'🇹🇷 Türkçe',en:'🇬🇧 İngilizce',ru:'🇷🇺 Rusça',zh:'🇨🇳 Çince',fa:'🇮🇷 Farsça'};
+      html+=`<tr>
+        <td><input type="checkbox" class="content-check" value="${r.id}" ${sel} onchange="toggleCheck(${r.id})"></td>
+        <td title="${r.title}">${r.title.substring(0,60)}</td>
+        <td><span class="badge badge-${r.type}">${r.type}</span></td>
+        <td>${langLabels[r.lang]||r.lang||'tr'}</td>
+        <td>${r.category_name||'-'}</td>
+        <td>${r.source_name||'-'}</td>
+        <td>${r.published_at?r.published_at.substring(0,10):'-'}</td>
+        <td title="${r.summary||''}">${short||'❌ yok'}</td>
+        <td>
+          <button class="btn btn-secondary btn-sm" onclick="editContent(${r.id})">✏️</button>
+          <button class="btn btn-danger btn-sm" onclick="deleteContent(${r.id})">🗑</button>
+        </td>
+      </tr>`;
+    });
+    html+='</tbody></table>';
+    wrap.innerHTML=html;
+
+    // Pagination
+    let pag='';
+    for(let i=1;i<=d.totalPages;i++){
+      pag+=`<span class="${i===d.page?'active':''}" onclick="goPage(${i})">${i}</span>`;
+    }
+    $('pagination').innerHTML=pag;
+  }catch(e){wrap.innerHTML='<div class="empty-state"><p>❌ Yüklenirken hata oluştu</p></div>'}
+}
+
+function goPage(p){currentPage=p;loadContents()}
+
+function searchContents(){currentPage=1;loadContents()}
+
+function toggleCheck(id){
+  if(selectedIds.has(id))selectedIds.delete(id);else selectedIds.add(id)
+}
+
+function toggleSelectAll(){
+  const cbs=document.querySelectorAll('.content-check');
+  const allChecked=Array.from(cbs).every(c=>c.checked);
+  cbs.forEach(c=>{c.checked=!allChecked;if(!allChecked)selectedIds.add(parseInt(c.value));else selectedIds.delete(parseInt(c.value))})
+}
+
+async function deleteSelected(){
+  if(!selectedIds.size)return toast('Seçili içerik yok','error');
+  if(!confirm(`${selectedIds.size} içeriği silmek istediğinize emin misiniz?`))return;
+  for(const id of selectedIds){
+    try{await apiFetch(`/api/admin/contents/${id}`,{method:'DELETE'})}catch(e){}
+  }
+  selectedIds.clear();toast('Seçilenler silindi');loadContents();loadStats()
+}
+
+async function editContent(id){
+  editingId=id;
+  try{
+    const r=await apiFetch(`/api/admin/contents/${id}`);const d=await r.json();
+    $('modalTitle').textContent='İçerik Düzenle';
+    $('f_title').value=d.title||'';
+    $('f_type').value=d.type||'haber';
+    $('f_lang').value=d.lang||'tr';
+    $('f_source_name').value=d.source_name||'';
+    $('f_source_url').value=d.source_url||'';
+    $('f_published_at').value=d.published_at?d.published_at.substring(0,10):'';
+    $('f_summary').value=d.summary||'';
+    $('f_full_text').value=d.full_text||'';
+    await loadCategories(d.category_id);
+    $('contentModal').classList.add('active');
+  }catch(e){toast('Yüklenirken hata','error')}
+}
+
+function openContentModal(){
+  editingId=null;$('modalTitle').textContent='Yeni İçerik';
+  ['f_title','f_source_name','f_source_url','f_summary','f_full_text'].forEach(id=>$(id).value='');
+  $('f_type').value='haber';$('f_lang').value='tr';$('f_published_at').value=new Date().toISOString().substring(0,10);
+  loadCategories();$('contentModal').classList.add('active')
+}
+
+async function loadCategories(selected){
+  const sel=$('f_category_id');sel.innerHTML='<option value="">Kategori seç</option>';
+  try{
+    const r=await apiFetch('/api/categories');const d=await r.json();
+    d.forEach(c=>{
+      const o=document.createElement('option');o.value=c.id;o.textContent=c.name;
+      if(selected==c.id)o.selected=true;sel.appendChild(o)
+    })
+  }catch(e){}
+}
+
+async function saveContent(){
+  const body={
+    title:$('f_title').value,type:$('f_type').value,lang:$('f_lang').value,category_id:$('f_category_id').value||null,
+    source_name:$('f_source_name').value,source_url:$('f_source_url').value,
+    published_at:$('f_published_at').value||null,summary:$('f_summary').value,full_text:$('f_full_text').value
+  };
+  if(!body.title)return toast('Başlık gerekli','error');
+  const btn=$('saveContentBtn');btn.disabled=true;btn.textContent='Kaydediliyor...';
+  try{
+    const url=editingId?`/api/admin/contents/${editingId}`:'/api/admin/contents';
+    const method=editingId?'PUT':'POST';
+    const r=await apiFetch(url,{method,headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});
+    const d=await r.json();
+    if(d.ok||d.id){toast('Kaydedildi');closeModal('contentModal');loadContents();loadStats()}
+    else toast('Hata: '+d.error,'error');
+  }catch(e){toast('Kaydetme hatası','error')}
+  btn.disabled=false;btn.textContent='Kaydet'
+}
+
+async function deleteContent(id){
+  if(!confirm('Bu içeriği silmek istediğinize emin misiniz?'))return;
+  try{await apiFetch(`/api/admin/contents/${id}`,{method:'DELETE'});toast('Silindi');loadContents();loadStats()}catch(e){toast('Silme hatası','error')}
+}
+
+// === KAYNAKLAR ===
+async function loadSources(){
+  const wrap=$('sourcesTableWrap');
+  try{
+    const r=await apiFetch('/api/admin/sources');const d=await r.json();
+    if(!d.length){wrap.innerHTML='<div class="empty-state"><p>📡 Kaynak bulunamadı</p></div>';return}
+    let html='<table><thead><tr><th>Ad</th><th>URL</th><th>Tür</th><th>Son Tarama</th><th style="width:80px">İşlem</th></tr></thead><tbody>';
+    d.forEach(s=>{
+      const last=s.last_scanned?new Date(s.last_scanned).toLocaleString('tr-TR'):'-';
+      html+=`<tr><td>${s.name}</td><td title="${s.url}">${s.url.substring(0,60)}…</td><td>${s.type}</td><td>${last}</td>
+        <td><button class="btn btn-danger btn-sm" onclick="deleteSource(${s.id})">🗑</button></td></tr>`;
+    });
+    html+='</tbody></table>';
+    wrap.innerHTML=html;
+  }catch(e){wrap.innerHTML='<div class="empty-state"><p>❌ Yüklenirken hata</p></div>'}
+}
+
+function openSourceModal(){$('sourceModal').classList.add('active');$('f_src_name').value='';$('f_src_url').value=''}
+
+async function saveSource(){
+  const body={name:$('f_src_name').value,url:$('f_src_url').value,type:$('f_src_type').value};
+  if(!body.name||!body.url)return toast('Ad ve URL gerekli','error');
+  try{
+    const r=await apiFetch('/api/admin/sources',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});
+    const d=await r.json();
+    if(d.ok){toast('Kaynak eklendi');closeModal('sourceModal');loadSources()}
+    else toast('Hata: '+d.error,'error');
+  }catch(e){toast('Hata','error')}
+}
+
+async function deleteSource(id){
+  if(!confirm('Bu kaynağı silmek istediğinize emin misiniz?'))return;
+  try{await apiFetch(`/api/admin/sources/${id}`,{method:'DELETE'});toast('Silindi');loadSources()}catch(e){}
+}
+
+// === TARAMA ===
+function loadScanTab(){
+  loadSummaryStatus()
+}
+
+async function startScan(){
+  const btn=$('scanBtn');btn.disabled=true;btn.textContent='🔄 Taranıyor...';
+  $('scanLog').innerHTML='<div class="loading"><div class="spinner"></div>Tarama başlatıldı...</div>';
+  try{
+    const r=await apiFetch('/api/admin/scan',{method:'POST'});const d=await r.json();
+    $('scanLog').innerHTML=`<p style="color:#27ae60">✅ ${d.message}</p><div class="loading"><div class="spinner"></div>Tamamlanması bekleniyor...</div>`;
+    // 30 sn sonra kontrol et
+    setTimeout(async ()=>{
+      try{
+        const r2=await apiFetch('/api/stats');const d2=await r2.json();
+        $('scanLog').innerHTML+=`<p style="color:#8899aa;margin-top:12px">📊 Toplam içerik: ${d2.total}</p>`;
+        loadStats();loadContents();
+      }catch(e){}
+      btn.disabled=false;btn.textContent='🔄 Taramayı Başlat';
+    },30000);
+  }catch(e){
+    $('scanLog').innerHTML=`<p style="color:#e74c3c">❌ Hata: ${e.message}</p>`;
+    btn.disabled=false;btn.textContent='🔄 Taramayı Başlat'
+  }
+}
+
+async function loadSummaryStatus(){
+  const wrap=$('summaryStatus');
+  try{
+    // SQLite'dan özetlenmemiş içerik sayısını al
+    const r=await apiFetch('/api/admin/contents?limit=1');
+    // Basit kontrol: toplam içerik
+    const r2=await apiFetch('/api/stats');
+    d2=await r2.json();
+    wrap.innerHTML=`<p style="color:#8899aa">📊 Toplam içerik: <strong>${d2.total}</strong></p>`;
+  }catch(e){
+    wrap.innerHTML=`<p style="color:#e74c3c">❌ Kontrol edilemedi</p>`
+  }
+}
+
+function closeModal(id){document.getElementById(id).classList.remove('active')}
+
+// Init
+if(!authToken) showLogin();
+initAuth();
+loadStats();
+loadContents();
+</script>
+</body>
+</html>
