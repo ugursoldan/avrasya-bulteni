@@ -33,21 +33,31 @@ async function runScanner() {
   }
 }
 
-// --- DeepSeek ile özet çıkarma ---
-async function callDeepSeek(prompt) {
+// --- DeepSeek ile özet + başlık çevirisi ---
+async function callDeepSeek(title, text) {
   const url = 'https://api.deepseek.com/v1/chat/completions';
+  const prompt = `Aşağıdaki haberi Türkçeye çevir ve 200-300 kelimeyle Türkçe özet çıkar.
+
+Orijinal başlık: ${title}
+Haber metni: ${text}
+
+Yanıt formatı (sadece JSON):
+{
+  "title_tr": "Türkçe başlık",
+  "summary": "200-300 kelime Türkçe özet"
+}`;
   const body = JSON.stringify({
     model: 'deepseek-chat',
     messages: [
       {
         role: 'system',
-        content: 'Sen bir haber özetleyicisin. Verilen haberi 200-300 kelimeyle Türkçe özetle. ' +
-                 'Özet bilgilendirici ve akıcı olmalı. Sadece özet metnini yaz, açıklama ekleme.'
+        content: 'Sen bir haber çevirmeni ve özetleyicisin. Verilen haberi Türkçeye çevir ve 200-300 kelimeyle Türkçe özetle. Sadece JSON formatında yanıt ver.'
       },
-      { role: 'user', content: `Aşağıdaki haberi 200-300 kelimeyle Türkçe özetle:\n\n${prompt}` }
+      { role: 'user', content: prompt }
     ],
     temperature: 0.7,
-    max_tokens: 1000,
+    max_tokens: 1500,
+    response_format: { type: 'json_object' },
   });
 
   const resp = await fetch(url, {
@@ -98,9 +108,23 @@ async function summarizeUnsummarized() {
     
     try {
       console.log(`  Özet: ${row.title.substring(0, 50)}...`);
-      const summary = await callDeepSeek(text.substring(0, 3000));
+      const result = await callDeepSeek(row.title, text.substring(0, 3000));
+      let parsed;
+      try {
+        parsed = JSON.parse(result);
+      } catch {
+        // fallback: JSON değilse direkt summary olarak kullan
+        const db2 = new Database(DB_PATH);
+        db2.prepare('UPDATE contents SET summary = ?, ai_summarized = 1 WHERE id = ?').run(result, row.id);
+        db2.close();
+        summarized++;
+        await new Promise(r => setTimeout(r, 1000));
+        continue;
+      }
+      const newTitle = parsed.title_tr || row.title;
+      const newSummary = parsed.summary || result;
       const db2 = new Database(DB_PATH);
-      db2.prepare('UPDATE contents SET summary = ?, ai_summarized = 1 WHERE id = ?').run(summary, row.id);
+      db2.prepare('UPDATE contents SET title = ?, summary = ?, ai_summarized = 1 WHERE id = ?').run(newTitle, newSummary, row.id);
       db2.close();
       summarized++;
       await new Promise(r => setTimeout(r, 1000)); // rate limit
