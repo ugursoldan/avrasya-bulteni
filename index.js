@@ -1,5 +1,6 @@
 const express = require('express');
 const path = require('path');
+const fs = require('fs');
 const db = require('./db');
 
 const app = express();
@@ -251,15 +252,17 @@ app.get('/api/stats', (req, res) => {
 app.post('/api/seed', express.raw({ type: 'application/sql', limit: '10mb' }), (req, res) => {
   try {
     const sql = req.body.toString('utf-8');
-    // Delete all data first
-    db.exec('DELETE FROM content_tags');
-    db.exec('DELETE FROM contents');
-    db.exec('DELETE FROM tags');
-    db.exec('DELETE FROM categories');
-    db.exec('DELETE FROM scanned_sources');
-    db.exec('DELETE FROM scan_log');
-    db.exec('DELETE FROM sqlite_sequence');
-    // Now import
+    // Drop and recreate all tables
+    const schema = fs.readFileSync(path.join(__dirname, 'db', 'schema.sql'), 'utf8');
+    db.exec('PRAGMA foreign_keys=OFF');
+    db.exec('DROP TABLE IF EXISTS content_tags');
+    db.exec('DROP TABLE IF EXISTS tags');
+    db.exec('DROP TABLE IF EXISTS contents');
+    db.exec('DROP TABLE IF EXISTS categories');
+    db.exec('DROP TABLE IF EXISTS scan_log');
+    db.exec('DROP TABLE IF EXISTS scanned_sources');
+    db.exec('DROP TABLE IF EXISTS sqlite_sequence');
+    db.exec(schema);
     db.exec(sql);
     res.json({ ok: true, message: 'Seed completed' });
   } catch (e) {
