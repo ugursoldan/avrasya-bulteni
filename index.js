@@ -247,6 +247,32 @@ app.get('/api/stats', (req, res) => {
 });
 
 // ----------------------------------------------------------------
+// Cron endpoint (cron-job.org tarafından tetiklenir)
+// ----------------------------------------------------------------
+app.get('/api/cron', (req, res) => {
+  const secret = req.query.secret;
+  if (secret !== process.env.CRON_SECRET && secret !== 'avrasya2024') {
+    return res.status(401).json({ error: 'Unauthorized' });
+  }
+
+  res.json({ status: 'started', time: new Date().toISOString() });
+
+  const { spawn } = require('child_process');
+  const child = spawn('node', [path.join(__dirname, 'scripts', 'railway-news.js')], {
+    stdio: ['ignore', 'pipe', 'pipe'],
+    env: { ...process.env, DB_PATH: process.env.DB_PATH || path.join(__dirname, 'avrasya.db') }
+  });
+
+  let output = '';
+  child.stdout.on('data', d => output += d.toString());
+  child.stderr.on('data', d => output += d.toString());
+  child.on('close', code => {
+    console.log(`[CRON] Haber üretimi tamamlandı (exit=${code})`);
+    if (code !== 0) console.error(`[CRON] Hata:\n${output}`);
+  });
+});
+
+// ----------------------------------------------------------------
 // Admin sayfası (catch-all'dan ÖNCE olmalı, auth yok — JS fetch'leri auth'lu)
 app.get('/admin', (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'admin.html'));
