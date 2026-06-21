@@ -13,9 +13,8 @@
     "restartPolicyType": "always",
     "numReplicas": 1,
     "sleepApplication": false,
-    "postdeploy": {
-      "command": "sqlite3 /app/db/data/avrasya.db < /app/avrasya_dump.sql",
-      "timeout": 30
-    }
+    "cronSchedule": "0 5,17 * * *",
+    "cronCommand": "node /app/scripts/railway-news.js",
+    "cronTimeout": 300
   }
 }
