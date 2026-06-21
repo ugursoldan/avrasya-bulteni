@@ -251,6 +251,15 @@ app.get('/api/stats', (req, res) => {
 app.post('/api/seed', express.raw({ type: 'application/sql', limit: '10mb' }), (req, res) => {
   try {
     const sql = req.body.toString('utf-8');
+    // Delete all data first
+    db.exec('DELETE FROM content_tags');
+    db.exec('DELETE FROM contents');
+    db.exec('DELETE FROM tags');
+    db.exec('DELETE FROM categories');
+    db.exec('DELETE FROM scanned_sources');
+    db.exec('DELETE FROM scan_log');
+    db.exec('DELETE FROM sqlite_sequence');
+    // Now import
     db.exec(sql);
     res.json({ ok: true, message: 'Seed completed' });
   } catch (e) {
