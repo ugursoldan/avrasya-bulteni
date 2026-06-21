@@ -103,13 +103,13 @@ function extractJson(text) {
 // --- Temizlik fonksiyonu ---
 function cleanText(text) {
   return text
-    .replace(/\s+/g, ' ')    // birden çok boşluğu tek boşluk yap
-    .replace(/\n/g, ' ')     // satır sonlarını boşluk yap
+    .replace(/\s+/g, ' ')
+    .replace(/\n/g, ' ')
     .trim();
 }
 
 // --- Ana işlem ---
-async function generateForLanguage(lang, usedNews) {
+async function generateForLanguage(lang) {
   console.log(`\n--- ${lang.name} (${lang.code}) ---`);
 
   const today = new Date().toISOString().split('T')[0];
@@ -117,8 +117,7 @@ async function generateForLanguage(lang, usedNews) {
     `${lang.name} dilindeki kaynakları kullanarak Avrasya bölgesiyle ilgili ` +
     `3 adet GÜNCEL haber veya analiz üret. Odaklanılacak konular: ${lang.topic}.\n\n` +
     `BUGÜNÜN TARİHİ: ${today}. Bu tarihe yakın, güncel konular seç. ` +
-    `Daha önce üretilmiş haberleri TEKRAR ÜRETME. Kaçınılması gereken eski konular:\n` +
-    (usedNews.length > 0 ? `- ${usedNews.slice(-20).join('\n- ')}\n\n` : '') +
+    `Daha önce üretilmiş haberleri TEKRAR ÜRETME.\n\n` +
     `Haberler gerçekçi, güncel konulara dayalı ve Avrasya coğrafyasıyla ilgili olmalı. ` +
     `Kaynak olarak ${lang.name} haber ajanslarını referans al.\n\n` +
     `ÖNEMLİ: Başlıklar ve özetler TAMAMEN TÜRKÇE olmalıdır. ` +
@@ -147,11 +146,13 @@ async function generateForLanguage(lang, usedNews) {
     if (!title || !summary) continue;
 
     const slug = slugify(title);
+    const sourceUrl = `https://avrasya-bulteni-production.up.railway.app/haber/${slug}`;
+
     try {
       const stmt = db.prepare(`INSERT INTO contents 
         (title, slug, type, summary, full_text, source_name, source_url, lang, ai_summarized, published_at, created_at) 
-        VALUES (?, ?, 'haber', ?, '', ?, '', ?, 1, ?, ?)`);
-      stmt.run(title, slug, summary, lang.source, lang.code, today, now);
+        VALUES (?, ?, 'haber', ?, '', ?, ?, ?, 1, ?, ?)`);
+      stmt.run(title, slug, summary, lang.source, sourceUrl, lang.code, today, now);
       added++;
       console.log(`  + ${title.substring(0, 60)}...`);
     } catch (e) {
@@ -168,24 +169,15 @@ async function main() {
   console.log(`=== Avrasya Bülteni - Railway Cron (${new Date().toISOString()}) ===`);
   console.log(`DB: ${DB_PATH}`);
 
-  // DB'nin var olduğunu kontrol et
   if (!fs.existsSync(DB_PATH)) {
     console.error(`HATA: DB dosyası bulunamadı: ${DB_PATH}`);
     process.exit(1);
   }
 
-  // Daha önce üretilmiş başlıkları oku (tekrarı önlemek için)
-  const db = new Database(DB_PATH);
-  const existingTitles = db.prepare(
-    `SELECT title FROM contents WHERE source_name LIKE 'DeepSeek%' ORDER BY created_at DESC LIMIT 50`
-  ).all().map(r => r.title);
-  db.close();
-  console.log(`Son 50 yapay haber başlığı yüklendi (tekrar önleme)`);
-
   const results = [];
   for (const lang of LANGUAGES) {
     try {
-      const r = await generateForLanguage(lang, existingTitles);
+      const r = await generateForLanguage(lang);
       results.push(r);
     } catch (e) {
       console.error(`❌ ${lang.name}: ${e.message}`);
