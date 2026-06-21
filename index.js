@@ -253,7 +253,6 @@ app.post('/api/seed', express.raw({ type: 'application/sql', limit: '10mb' }), (
   try {
     const sql = req.body.toString('utf-8');
     // Drop and recreate all tables
-    const schema = fs.readFileSync(path.join(__dirname, 'db', 'schema.sql'), 'utf8');
     db.pragma('foreign_keys=OFF');
     db.exec('DROP TABLE IF EXISTS content_tags');
     db.exec('DROP TABLE IF EXISTS tags');
@@ -262,7 +261,6 @@ app.post('/api/seed', express.raw({ type: 'application/sql', limit: '10mb' }), (
     db.exec('DROP TABLE IF EXISTS scan_log');
     db.exec('DROP TABLE IF EXISTS scanned_sources');
     try { db.exec('DELETE FROM sqlite_sequence'); } catch(e) {}
-    db.exec(schema);
     // Register unistr() function for seed compatibility
     db.function('unistr', (s) => {
       if (!s) return s;
