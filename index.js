@@ -248,18 +248,11 @@ app.get('/api/stats', (req, res) => {
 
 // ----------------------------------------------------------------
 // Seed endpoint (veritabanını sıfırla ve doldur)
-app.post('/api/seed', express.raw({ type: 'application/sql', limit: '5mb' }), (req, res) => {
+app.post('/api/seed', express.raw({ type: 'application/sql', limit: '10mb' }), (req, res) => {
   try {
-    const fs = require('fs');
-    const dbPath = process.env.DB_PATH || path.join(__dirname, 'db', 'data', 'avrasya.db');
-    // SQL komutlarını çalıştır
-    const statements = req.body.toString('utf-8').split(';').filter(s => s.trim());
-    db.exec('BEGIN TRANSACTION');
-    for (const stmt of statements) {
-      try { db.exec(stmt.trim()); } catch (e) { /* ignore constraint errors */ }
-    }
-    db.exec('COMMIT');
-    res.json({ ok: true });
+    const sql = req.body.toString('utf-8');
+    db.exec(sql);
+    res.json({ ok: true, message: 'Seed completed' });
   } catch (e) {
     res.status(500).json({ error: e.message });
   }
