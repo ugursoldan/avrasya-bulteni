@@ -246,6 +246,15 @@
       cursor: pointer;
     }
     .card-link:hover { color: #1a1a2e; }
+    .read-more {
+      color: #c8a96e;
+      cursor: pointer;
+      font-weight: 500;
+      font-size: 0.85rem;
+      white-space: nowrap;
+      transition: color .2s;
+    }
+    .read-more:hover { color: #b8914a; }
     .card-tags {
       display: flex;
       flex-wrap: wrap;
@@ -476,7 +485,7 @@
             <span class="card-source">${c.category_name || 'Genel'}${c.source_name ? ' · ' + c.source_name : ''}</span>
           </div>
           <h3 class="card-title"><a href="${c.source_url || '#'}" target="_blank" rel="noopener">${c.title}</a></h3>
-          <div class="card-summary">${c.summary || 'Bu içerik hakkında özet bilgisi henüz eklenmemiştir.'}</div>
+          <div class="card-summary">${truncateSummary(c.summary)}</div>
           ${c.tags && c.tags.length ? `<div class="card-tags">${c.tags.map(t => `<span>${t.name}</span>`).join('')}</div>` : ''}
           <div class="card-footer">
             <span class="card-date">${formatDate(c.published_at)}</span>
@@ -500,6 +509,13 @@
       try {
         return new Date(dateStr).toLocaleDateString('tr-TR', { day: 'numeric', month: 'short', year: 'numeric' });
       } catch { return dateStr; }
+    }
+
+    function truncateSummary(text, maxWords = 50) {
+      if (!text) return 'Bu içerik hakkında özet bilgisi henüz eklenmemiştir.';
+      const words = text.split(/\s+/);
+      if (words.length <= maxWords) return text;
+      return words.slice(0, maxWords).join(' ') + '… <span class="read-more" onclick="this.parentElement.innerHTML = \`' + text.replace(/`/g, '\\`').replace(/\$/g, '\\$') + '\`">Devamını Oku</span>';
     }
 
     // İlk yükleme
