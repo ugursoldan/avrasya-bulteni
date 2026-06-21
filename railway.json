@@ -12,6 +12,10 @@
     "healthcheckTimeout": 60,
     "restartPolicyType": "always",
     "numReplicas": 1,
-    "sleepApplication": false
+    "sleepApplication": false,
+    "postdeploy": {
+      "command": "sqlite3 /app/db/data/avrasya.db < /app/avrasya_dump.sql",
+      "timeout": 30
+    }
   }
 }
