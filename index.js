@@ -263,6 +263,11 @@ app.post('/api/seed', express.raw({ type: 'application/sql', limit: '10mb' }), (
     db.exec('DROP TABLE IF EXISTS scanned_sources');
     db.exec('DROP TABLE IF EXISTS sqlite_sequence');
     db.exec(schema);
+    // Register unistr() function for seed compatibility
+    db.function('unistr', (s) => {
+      if (!s) return s;
+      return s.replace(/\\u([0-9a-fA-F]{4})/g, (_, hex) => String.fromCodePoint(parseInt(hex, 16)));
+    });
     db.exec(sql);
     db.pragma('foreign_keys=ON');
     res.json({ ok: true, message: 'Seed completed' });
