@@ -260,7 +260,7 @@ app.get('/api/cron', (req, res) => {
   const { spawn } = require('child_process');
   const child = spawn('node', [path.join(__dirname, 'scripts', 'railway-news.js')], {
     stdio: ['ignore', 'pipe', 'pipe'],
-    env: { ...process.env, DB_PATH: process.env.DB_PATH || path.join(__dirname, 'avrasya.db') }
+    env: { ...process.env, DB_PATH: process.env.DB_PATH || path.join(__dirname, 'db', 'data', 'avrasya.db') }
   });
 
   let output = '';
@@ -268,7 +268,7 @@ app.get('/api/cron', (req, res) => {
   child.stderr.on('data', d => output += d.toString());
   child.on('close', code => {
     console.log(`[CRON] Haber üretimi tamamlandı (exit=${code})`);
-    if (code !== 0) console.error(`[CRON] Hata:\n${output}`);
+    console.log(`[CRON] Çıktı:\n${output}`);
   });
 });
 
