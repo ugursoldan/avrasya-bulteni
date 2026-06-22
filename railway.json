@@ -3,7 +3,7 @@
     "builder": "NIXPACKS",
     "buildCommand": "npm install",
     "nixpacksConfig": {
-      "aptPackages": ["build-essential", "python3"]
+      "aptPackages": ["build-essential", "python3", "libsqlite3-dev"]
     }
   },
   "deploy": {
