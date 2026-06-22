@@ -1,6 +1,6 @@
 {
   "olusturma_tarihi": "2026-06-22",
-  "olusturma_zamani": "2026-06-22T11:24:02.142946",
+  "olusturma_zamani": "2026-06-22T11:30:31.285628",
   "diller": {
     "tr": {
       "dil": "Türkçe",
@@ -46,17 +46,17 @@
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-06-22T11:24:02.142718"
+      "taranma_zamani": "2026-06-22T11:30:31.285371"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Mideast Live Updates: Mediators Point to Progress After First Round of U.S.-Iran Talks",
+          "baslik": "Mideast Live Updates: Vance Points to Progress After First Round of U.S.-Iran Talks",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/live/2026/06/22/world/iran-us-trump-lebanon",
-          "ozet": "Qatar and Pakistan said that high-level talks in Switzerland ended early Monday, with technical discussions to follow. Tensions over fighting in Lebanon and other issues have complicated efforts to reach a lasting peace.",
-          "yayin_tarihi": "Mon, 22 Jun 2026 11:20:23 +0000",
+          "ozet": "Vice President JD Vance said Iran had agreed to invite U.N. nuclear inspectors back into the country in the first round of negotiations that ended Monday. Iran did not immediately comment.",
+          "yayin_tarihi": "Mon, 22 Jun 2026 11:28:51 +0000",
           "dil": "İngilizce"
         },
         {
@@ -92,7 +92,7 @@
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-06-22T11:24:02.142742"
+      "taranma_zamani": "2026-06-22T11:30:31.285396"
     },
     "ru": {
       "dil": "Rusça",
@@ -138,12 +138,12 @@
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-06-22T11:24:02.142914"
+      "taranma_zamani": "2026-06-22T11:30:31.285419"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-06-22T11:24:02.142917"
+      "taranma_zamani": "2026-06-22T11:30:31.285421"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-06-22T11:24:02.142922"
+      "taranma_zamani": "2026-06-22T11:30:31.285605"
     }
   }
 }
