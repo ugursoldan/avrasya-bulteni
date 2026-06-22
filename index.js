@@ -306,29 +306,29 @@ app.get('/api/cron', async (req, res) => {
   }
 
   try {
-    const scanner = require('./scripts/scanner');
-    await scanner.runScan();
-    
-    // Özet çıkarma
-    const summarizePath = path.join(__dirname, 'scripts', 'railway-news.js');
-    const child = spawn('node', [summarizePath], {
-      env: { ...process.env, DB_PATH: process.env.DB_PATH || path.join(__dirname, 'db', 'data', 'avrasya.db') }
+    // GitHub JSON'dan haber çek + çevir + DB'ye ekle
+    const scanCmd = spawn('node', [path.join(__dirname, 'scripts', 'scanner.js')], {
+      env: { ...process.env, SCAN_MAX_ITEMS: '5' },
+      cwd: __dirname,
+      stdio: 'pipe'
     });
-    
+
     let output = '';
-    child.stdout.on('data', d => output += d.toString());
-    child.stderr.on('data', d => output += d.toString());
-    
-    await new Promise((resolve, reject) => {
-      child.on('close', code => {
-        if (code !== 0) reject(new Error(`Özet çıkarma hatası (exit=${code}): ${output}`));
-        else resolve(output);
-      });
-      child.on('error', reject);
+    scanCmd.stdout.on('data', d => output += d.toString());
+    scanCmd.stderr.on('data', d => output += d.toString());
+
+    const exitCode = await new Promise((resolve, reject) => {
+      scanCmd.on('close', resolve);
+      scanCmd.on('error', reject);
     });
-    
-    console.log(`[CRON] Tamamlandı:\n${output}`);
-    res.json({ status: 'ok', message: 'Tarama + özet çıkarma tamamlandı', output });
+
+    if (exitCode !== 0) {
+      console.error(`[CRON] Scanner hatası (exit=${exitCode}):\n${output}`);
+      return res.status(500).json({ status: 'error', error: `Scanner hatası (exit=${exitCode})`, output });
+    }
+
+    console.log(`[CRON] Scanner tamamlandı:\n${output}`);
+    res.json({ status: 'ok', message: 'Tarama tamamlandı', output });
   } catch (e) {
     console.error(`[CRON] Hata:`, e);
     res.status(500).json({ status: 'error', error: e.message });
