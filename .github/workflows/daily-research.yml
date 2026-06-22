@@ -19,7 +19,7 @@ jobs:
       - name: Bagimliliklari yukle
         run: |
           pip install --upgrade pip
-          pip install scholarly beautifulsoup4 lxml deep-translator
+          pip install requests
       - name: arastirma scriptini calistir
         run: python .github/scripts/arastirma.py
       - name: degisiklikleri commit et
@@ -27,10 +27,10 @@ jobs:
           git config user.name "avrasya-bot"
           git config user.email "bot@avrasya-bulteni.vercel.app"
           git add data/makaleler.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "gunluk arastirma $(date +'%Y-%m-%d')"
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "gunluk arastirma $(date +'%Y-%m-%d')" && git pull --rebase && git push)
 
   haber:
+    needs: arastirma
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
@@ -48,5 +48,4 @@ jobs:
           git config user.name "avrasya-bot"
           git config user.email "bot@avrasya-bulteni.vercel.app"
           git add data/haberler.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "gunluk haber $(date +'%Y-%m-%d')"
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "gunluk haber $(date +'%Y-%m-%d')" && git pull --rebase && git push)
