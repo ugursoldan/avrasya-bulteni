@@ -5,10 +5,8 @@ const fs = require('fs');
 let db;
 try {
   db = require('./db');
-  console.log('[STARTUP] DB bağlantısı başarılı');
 } catch (err) {
   console.error('[STARTUP] DB hatası:', err.message);
-  console.error(err.stack);
   process.exit(1);
 }
 

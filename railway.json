@@ -12,9 +12,6 @@
     "healthcheckTimeout": 60,
     "restartPolicyType": "always",
     "numReplicas": 1,
-    "sleepApplication": false,
-    "cronSchedule": "0 7 * * *",
-    "cronCommand": "node /app/scripts/railway-cron.js",
-    "cronTimeout": 300
+    "sleepApplication": false
   }
 }
