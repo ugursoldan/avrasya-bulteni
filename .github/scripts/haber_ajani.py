@@ -24,15 +24,15 @@ RSS_KAYNAKLARI = [
         "dil": "en",
         "filtre": ["russia", "china", "eurasia", "central asia", "caucasus", "turkey", "ukraine", "asia"]
     },
-    {
-        "url": "https://www.hurriyet.com.tr/rss/anasayfa",
-        "dil": "tr",
-        "filtre": ["avrasya", "rusya", "çin", "orta asya", "kafkasya", "türkiye", "ukrayna", "kıta"]
-    },
-    {
+        {
         "url": "https://www.aa.com.tr/tr/rss/default?category=guncel",
         "dil": "tr",
-        "filtre": ["avrasya", "rusya", "çin", "orta asya", "kafkasya", "ukrayna"]
+        "filtre": ["avrasya", "rusya", "çin", "orta asya", "kafkasya", "ukrayna", "iran", "hazar", "sibirya"]
+    },
+    {
+        "url": "https://www.trthaber.com/manset_articles.rss",
+        "dil": "tr",
+        "filtre": ["avrasya", "rusya", "çin", "orta asya", "kafkasya", "ukrayna", "iran", "hazar"]
     },
     {
         "url": "https://tass.com/rss/v2.xml",
