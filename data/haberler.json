@@ -1,47 +1,30 @@
 {
   "olusturma_tarihi": "2026-06-22",
-  "olusturma_zamani": "2026-06-22T11:02:50.088567",
+  "olusturma_zamani": "2026-06-22T11:06:15.658034",
   "diller": {
     "tr": {
-      "dil": "Turkce",
-      "taranma_zamani": "2026-06-22T11:02:49.852992",
-      "haberler": [
-        {
-          "baslik": "Avrasya Tüneli'nde trafik kazası! Valilik'ten 'deniz suyu' açıklaması",
-          "kaynak": "Hürriyet",
-          "url": "https://www.hurriyet.com.tr/gundem/avrasya-tunelinde-trafik-kazasi-valilikten-deniz-suyu-aciklamasi-43197266",
-          "ozet": "Sabah saatlerinde Avrasya Tüneli'nde meydana gelen kazayla ilgili İstanbul Valiliği tarafından yazılı bir açıklama yapıldı.\n'DENİZ SUYUYLA İLGİLİ BULUNMAMAKTADIR'\nAçıklamada, \"08.06.2026 Pazartesi günü saat 08.00 sıralarında Avrasya Tüneli’nde özel o... [480 chars]",
-          "yayin_tarihi": "2026-06-08T06:13:00Z",
-          "dil": "Turkce"
-        },
-        {
-          "baslik": "BAYRAMDA (28 MAYIS) KÖPRÜ VE OTOYOLLAR ÜCRETSİZ Mİ, KAÇ GÜN ÜCRETSİZ 2026? Bugün Avrasya Tüneli, Osmangazi Köprüsü ve Kuzey Marmara bedava mı? Bayramda hangi yollar ücretsiz? İşte ücretsiz köprü ve yo",
-          "kaynak": "Hürriyet",
-          "url": "https://www.hurriyet.com.tr/bilgi/galeri/kopru-ve-otoyollar-ucretsiz-mi-kac-gun-ucretsiz-2026-kurban-bayrami-ve-arefe-gunu-avrasya-tuneli-osmangazi-koprusu-ve-kuzey-marmara-43185315",
-          "ozet": "Bayramda Avrasya Tüneli, Osmangazi Köprüsü ve Kuzey Marmara ücretsiz mi? sorusu şehir dışına çıkacak olan vatandaşların odaklandığı konulardan oldu. Arefe günü ve Kurban Bayramı'nda köprü ve otoyollar ücretsiz mi kaç gün ücretsiz? gibi konular tatil ... [857 chars]",
-          "yayin_tarihi": "2026-05-28T04:12:12Z",
-          "dil": "Turkce"
-        }
-      ]
+      "dil": "Türkçe",
+      "taranma_zamani": "2026-06-22T11:06:14.908454",
+      "haberler": []
     },
     "en": {
-      "dil": "Ingilizce",
-      "taranma_zamani": "2026-06-22T11:02:49.911325",
+      "dil": "İngilizce",
+      "taranma_zamani": "2026-06-22T11:06:15.095951",
       "haberler": []
     },
     "ru": {
-      "dil": "Rusca",
-      "taranma_zamani": "2026-06-22T11:02:49.970334",
+      "dil": "Rusça",
+      "taranma_zamani": "2026-06-22T11:06:15.282592",
       "haberler": []
     },
     "fa": {
-      "dil": "Farsca",
-      "taranma_zamani": "2026-06-22T11:02:50.028546",
+      "dil": "Farsça",
+      "taranma_zamani": "2026-06-22T11:06:15.470020",
       "haberler": []
     },
     "zh": {
-      "dil": "Cince",
-      "taranma_zamani": "2026-06-22T11:02:50.088380",
+      "dil": "Çince",
+      "taranma_zamani": "2026-06-22T11:06:15.657869",
       "haberler": []
     }
   }
