@@ -1,31 +1,149 @@
 {
   "olusturma_tarihi": "2026-06-22",
-  "olusturma_zamani": "2026-06-22T11:09:34.569414",
+  "olusturma_zamani": "2026-06-22T11:13:03.956944",
   "diller": {
     "tr": {
       "dil": "Türkçe",
-      "taranma_zamani": "2026-06-22T11:09:32.458402",
-      "haberler": []
+      "haberler": [
+        {
+          "baslik": "İran'da anlaşma krizi: 'Müzakere heyeti Hamaney'in talimatlarına uymadı!' İran devlet televizyonundaki yayın ülkeyi karıştırdı",
+          "kaynak": "www.hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/dunya/iranda-anlasma-krizi-muzakere-heyeti-hamaneyin-talimatlarina-uymadi-iran-devlet-televizyonundaki-yayin-ulkeyi-karistirdi-43213925",
+          "ozet": "İran yönetiminde ABD ile varılan ateşkes anlaşması nedeniyle kriz yaşandığı iddia edildi. İran'ın eski müzakere ekibi üyesi Mahmud Nabavian, İran devlet televizyonunda yaptığı açıklamada, dini lider Mücteba Hamaney'in müzakere heyetine gizli talimatlar gönderdiğini, bu talimatlara uymayan heyetin yetki sınırlarını aştığını öne sürdü. Nabavian'ın röportajı kısa süre içinde yayından kaldırıldı. Hamaney'in müzakerecilere Hürmüz Boğazı'nda taviz verilmemesi ve ABD'den tazminat talep edilmesi yönünde 11 şart koştuğu öne sürüldü.",
+          "yayin_tarihi": "Mon, 22 Jun 2026 07:03:00 Z",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "İbrahim Hacıosmanoğlu'dan Montella ve istifa açıklaması!",
+          "kaynak": "www.hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/sporarena/ibrahim-haciosmanogludan-montella-ve-istifa-aciklamasi-43213875",
+          "ozet": "Türkiye Futbol Federasyonu (TFF) başkanı İbrahim Hacıosmanoğlu, basın mensuplarına A Milli Futbol Takımı'mızın ve Dünya Kupası'nı değerlendirdi.",
+          "yayin_tarihi": "Mon, 22 Jun 2026 05:50:00 Z",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Çaldığı motosikletle gezerken yakalandı! Şaşırtan ifade: Teslim etmeye gidiyordum",
+          "kaynak": "www.hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/gundem/caldigi-motosikletle-gezerken-yakalandi-sasirtan-ifade-teslim-etmeye-gidiyordum-43214033",
+          "ozet": "Adana'da apartmanın otoparkından park halindeki motosikletin gidon kilidini kırıp çalan ve caddede gezerken yakalanan Mustafa C. ifadesinde, \"Motosikleti evime dönmek için çaldım. Geri verecektim. Tam teslim etmeye giderken polise yakalandım.\" dedi.",
+          "yayin_tarihi": "Mon, 22 Jun 2026 07:43:43 Z",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Gençleri hedef alıyor, 100 bine yaklaştı! Belirtileri kafa karıştırıcı, sessizce ilerliyor",
+          "kaynak": "www.hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/aile/gencleri-hedef-aliyor-100-bine-yaklasti-belirtileri-kafa-karistirici-sessizce-ilerliyor-43198639",
+          "ozet": "Türkiye’de 95 binden fazla kişinin mücadele ettiği MS, son yıllarda artan vaka sayılarıyla dikkat çekiyor. Özellikle genç kadınlarda daha sık görülen hastalık, ilk belirtilerinin çoğu zaman sıradan sağlık sorunlarıyla karıştırılması nedeniyle fark edilmeden ilerleyebiliyor. Ancak tehlike yalnızca kadınlarla sınırlı değil. Uzmanların uyarıları düşündürücü…",
+          "yayin_tarihi": "Mon, 22 Jun 2026 05:49:00 Z",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Devremülkte ’Muvafakat şartı’ iptal",
+          "kaynak": "www.hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/yazarlar/oya-armutcu/devremulkte-muvafakat-sarti-iptal-43213795",
+          "ozet": "Danıştay 4. Dairesi, devremülklerde kısa süreli kiralama yapılabilmesi için diğer dönem maliklerinden ve aynı bloktaki tüm hak sahiplerinden muvafakat alınmasını zorunlu tutan genelge hükmünü iptal etti. İşte tüm devremülk sahiplerini ilgilendiren kararla ilgili merak edilenler...",
+          "yayin_tarihi": "Mon, 22 Jun 2026 03:28:50 Z",
+          "dil": "Türkçe"
+        }
+      ],
+      "taranma_zamani": "2026-06-22T11:13:03.956730"
     },
     "en": {
       "dil": "İngilizce",
-      "taranma_zamani": "2026-06-22T11:09:32.955381",
-      "haberler": []
+      "haberler": [
+        {
+          "baslik": "Thousands Are Fleeing Ukraine’s Donbas Strongholds as Russia Pushes Closer",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/06/22/world/europe/ukraine-donetsk-donbas-sloviansk-kramatorsk-russia.html",
+          "ozet": "While Kyiv’s fortunes have brightened in other ways in the war, Moscow’s forces are raining bombs and drones on “fortress belt” cities like Sloviansk and Kramatorsk.",
+          "yayin_tarihi": "Mon, 22 Jun 2026 09:09:29 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Bitter Historical Feud Threatens Ukraine-Poland Alliance",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/06/21/world/europe/ukraine-poland-alliance-russia.html",
+          "ozet": "President Volodymyr Zelensky of Ukraine signed a decree honoring World War II partisan fighters that has inflamed tensions with Warsaw.",
+          "yayin_tarihi": "Sun, 21 Jun 2026 18:07:18 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "China Tightens Rare Earth Grip on U.S. Firms, Threatening Trade Clash",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/06/22/business/china-rare-earths.html",
+          "ozet": "The move targets two U.S. manufacturers at the center of the Trump administration’s effort to rebuild the domestic supply chain for critical magnets.",
+          "yayin_tarihi": "Mon, 22 Jun 2026 10:25:15 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "While the World Scrambles for Oil, China Sits on Full Tanks",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/06/21/business/china-oil-iran.html",
+          "ozet": "The possible reopening of the Strait of Hormuz may not prompt China to return quickly to prewar levels of oil purchases from the Persian Gulf.",
+          "yayin_tarihi": "Sun, 21 Jun 2026 09:01:53 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
+          "kaynak": "feeds.bbci.co.uk",
+          "url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
+          "ozet": "If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.",
+          "yayin_tarihi": "Sun, 21 Jun 2026 23:57:59 GMT",
+          "dil": "İngilizce"
+        }
+      ],
+      "taranma_zamani": "2026-06-22T11:13:03.956741"
     },
     "ru": {
       "dil": "Rusça",
-      "taranma_zamani": "2026-06-22T11:09:33.556917",
-      "haberler": []
-    },
-    "fa": {
-      "dil": "Farsça",
-      "taranma_zamani": "2026-06-22T11:09:34.043430",
-      "haberler": []
+      "haberler": [
+        {
+          "baslik": "Russian oil companies boost fuel output, launch new capacities",
+          "kaynak": "tass.com",
+          "url": "https://tass.com/economy/2149811",
+          "ozet": "Deputy Prime Minister Alexander Novak instructed relevant agencies to prepare a balanced action plan to maintain the stability of the domestic fuel market",
+          "yayin_tarihi": "Mon, 22 Jun 2026 14:10:31 +0300",
+          "dil": "Rusça"
+        },
+        {
+          "baslik": "Press review: EU seen as preparing for war with Russia while Zelensky threatens Belarus",
+          "kaynak": "tass.com",
+          "url": "https://tass.com/pressreview/2149699",
+          "ozet": "Top stories from the Russian press on Monday, June 22nd",
+          "yayin_tarihi": "Mon, 22 Jun 2026 13:00:00 +0300",
+          "dil": "Rusça"
+        },
+        {
+          "baslik": "West is entering new phase of war against Russia — senior legislator",
+          "kaynak": "tass.com",
+          "url": "https://tass.com/politics/2149749",
+          "ozet": "Alexey Pushkov believes that actions such as providing Ukraine with intelligence for strikes on Russian industrial, military, and civilian targets are among the main indicators",
+          "yayin_tarihi": "Mon, 22 Jun 2026 12:43:35 +0300",
+          "dil": "Rusça"
+        },
+        {
+          "baslik": "Rusolovo plans to produce about 4,000 tons of tin in concentrate in 2026",
+          "kaynak": "tass.com",
+          "url": "https://tass.com/economy/2149735",
+          "ozet": "According to analytical estimates, Russia's demand for tin will reach 5,400 tons by 2030",
+          "yayin_tarihi": "Mon, 22 Jun 2026 12:15:06 +0300",
+          "dil": "Rusça"
+        },
+        {
+          "baslik": "Russia sees no constructive role for UN in Ukrainian crisis — MFA",
+          "kaynak": "tass.com",
+          "url": "https://tass.com/politics/2149731",
+          "ozet": "Kirill Logvinov, Director of the International Organizations Department at the Russian Foreign Ministry, said that Moscow does not expect changes until a new Secretary-General is elected",
+          "yayin_tarihi": "Mon, 22 Jun 2026 11:50:02 +0300",
+          "dil": "Rusça"
+        }
+      ],
+      "taranma_zamani": "2026-06-22T11:13:03.956746"
     },
     "zh": {
       "dil": "Çince",
-      "taranma_zamani": "2026-06-22T11:09:34.569202",
-      "haberler": []
+      "haberler": [],
+      "taranma_zamani": "2026-06-22T11:13:03.956748"
     }
   }
 }
