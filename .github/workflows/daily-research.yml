@@ -32,6 +32,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Bagimliliklari yukle
+        run: pip install requests
       - name: Haber ajani calistir
         run: python .github/scripts/haber_ajani.py
         env:
