@@ -1,10 +1,10 @@
 {
   "olusturma_tarihi": "2026-06-22",
-  "olusturma_zamani": "2026-06-22T11:00:18.261970",
+  "olusturma_zamani": "2026-06-22T11:02:50.088567",
   "diller": {
     "tr": {
       "dil": "Turkce",
-      "taranma_zamani": "2026-06-22T11:00:17.443748",
+      "taranma_zamani": "2026-06-22T11:02:49.852992",
       "haberler": [
         {
           "baslik": "Avrasya Tüneli'nde trafik kazası! Valilik'ten 'deniz suyu' açıklaması",
@@ -26,22 +26,22 @@
     },
     "en": {
       "dil": "Ingilizce",
-      "taranma_zamani": "2026-06-22T11:00:17.648123",
+      "taranma_zamani": "2026-06-22T11:02:49.911325",
       "haberler": []
     },
     "ru": {
       "dil": "Rusca",
-      "taranma_zamani": "2026-06-22T11:00:17.852242",
+      "taranma_zamani": "2026-06-22T11:02:49.970334",
       "haberler": []
     },
     "fa": {
       "dil": "Farsca",
-      "taranma_zamani": "2026-06-22T11:00:18.056901",
+      "taranma_zamani": "2026-06-22T11:02:50.028546",
       "haberler": []
     },
     "zh": {
       "dil": "Cince",
-      "taranma_zamani": "2026-06-22T11:00:18.261780",
+      "taranma_zamani": "2026-06-22T11:02:50.088380",
       "haberler": []
     }
   }
