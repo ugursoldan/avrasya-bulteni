@@ -35,6 +35,24 @@ const LANG_NAMES = { en: 'İngilizce', ru: 'Rusça', zh: 'Çince', fa: 'Farsça'
 
 // ─── Yardımcılar ──────────────────────────────────────────────────────────────
 
+/** 
+* RFC1123 tarih formatını YYYY-MM-DD'ye çevir
+* Örn: "Mon, 22 Jun 2026 11:00:00 +0400" → "2026-06-22"
+*/
+function normalizeDate(dateStr) {
+if (!dateStr || typeof dateStr !== 'string') return dateStr || '';
+// Zaten YYYY-MM-DD formatındaysa olduğu gibi döndür
+if (/^\d{4}-\d{2}-\d{2}/.test(dateStr)) return dateStr.substring(0, 10);
+// RFC1123 / benzeri formatları dene
+try {
+  const d = new Date(dateStr);
+  if (!isNaN(d.getTime())) {
+    return d.toISOString().substring(0, 10);
+  }
+} catch (_) {}
+return dateStr;
+}
+
 function fetchJSON(urlStr) {
   return new Promise((resolve, reject) => {
     const http = urlStr.startsWith('https') ? require('https') : require('http');
@@ -167,7 +185,7 @@ async function main() {
             summary: h.ozet || h.summary || h.description || '',
             source_url: h.url || h.source_url || '',
             image_url: h.image || h.image_url || '',
-            published_at: h.yayin_tarihi || h.published_at || h.publishedAt || h.date || '',
+            published_at: normalizeDate(h.yayin_tarihi || h.published_at || h.publishedAt || h.date || ''),
             slug: h.slug || '',
             type: 'haber',
             lang: langCode

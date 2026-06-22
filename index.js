@@ -2,6 +2,7 @@ const express = require('express');
 const path = require('path');
 const fs = require('fs');
 const { spawn } = require('child_process');
+const cron = require('node-cron');
 
 let db;
 try {
@@ -349,8 +350,43 @@ app.get('*', (req, res) => {
 });
 
 // ----------------------------------------------------------------
+// Cron Schedule — her gün 07:00 UTC = 10:00 TSİ
+// ----------------------------------------------------------------
+const CRON_SCHEDULE = process.env.CRON_SCHEDULE || '0 7 * * *';
+cron.schedule(CRON_SCHEDULE, async () => {
+  const ts = new Date().toISOString().replace('T', ' ').substring(0, 19);
+  console.log(`[CRON:${ts}] Zamanlı tarama başlıyor...`);
+
+  try {
+    const scanCmd = spawn('node', [path.join(__dirname, 'scripts', 'scanner.js')], {
+      env: { ...process.env, SCAN_MAX_ITEMS: process.env.SCAN_MAX_ITEMS || '5' },
+      cwd: __dirname,
+      stdio: 'pipe'
+    });
+
+    let output = '';
+    scanCmd.stdout.on('data', d => output += d.toString());
+    scanCmd.stderr.on('data', d => output += d.toString());
+
+    const exitCode = await new Promise((resolve, reject) => {
+      scanCmd.on('close', resolve);
+      scanCmd.on('error', reject);
+    });
+
+    if (exitCode !== 0) {
+      console.error(`[CRON:${ts}] Scanner hatası (exit=${exitCode}):\n${output}`);
+    } else {
+      console.log(`[CRON:${ts}] Scanner tamamlandı:\n${output}`);
+    }
+  } catch (e) {
+    console.error(`[CRON:${ts}] Hata:`, e.message);
+  }
+});
+
+// ----------------------------------------------------------------
 // Başlat
 // ----------------------------------------------------------------
 app.listen(PORT, '0.0.0.0', () => {
   console.log(`🌍 Avrasya Bülteni http://localhost:${PORT}`);
+  console.log(`⏰ Cron schedule: ${CRON_SCHEDULE} (${new Date().toLocaleString('tr-TR', { timeZone: 'Europe/Istanbul' })} TSİ)`);
 });
