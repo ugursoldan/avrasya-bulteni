@@ -18,30 +18,28 @@ app.get('/ihu-logo.jpg', (req, res) => {
 // Public API Rotaları
 // ----------------------------------------------------------------
 
-// Ana sayfa içeriği - son eklenenler
+// Ana sayfa içeriği - son eklenenler (sayfalı)
 app.get('/api/contents', (req, res) => {
   const { type, category, limit = 20, offset = 0 } = req.query;
-  let sql = `
+  const l = parseInt(limit), o = parseInt(offset);
+
+  let where = ' WHERE 1=1';
+  const params = [];
+  if (type) { where += ' AND c.type = ?'; params.push(type); }
+  if (category) { where += ' AND cat.slug = ?'; params.push(category); }
+
+  const countSql = `SELECT COUNT(*) as total FROM contents c LEFT JOIN categories cat ON c.category_id = cat.id${where}`;
+  const { total } = db.prepare(countSql).get(...params);
+
+  const dataSql = `
     SELECT c.*, cat.name as category_name, cat.slug as category_slug
     FROM contents c
     LEFT JOIN categories cat ON c.category_id = cat.id
-    WHERE 1=1
+    ${where}
+    ORDER BY c.id DESC LIMIT ? OFFSET ?
   `;
-  const params = [];
 
-  if (type) {
-    sql += ' AND c.type = ?';
-    params.push(type);
-  }
-  if (category) {
-    sql += ' AND cat.slug = ?';
-    params.push(category);
-  }
-
-  sql += ' ORDER BY c.created_at DESC LIMIT ? OFFSET ?';
-  params.push(parseInt(limit), parseInt(offset));
-
-  const rows = db.prepare(sql).all(...params);
+  const rows = db.prepare(dataSql).all(...params, l, o);
 
   const getTags = db.prepare(`
     SELECT t.name, t.slug FROM tags t
@@ -54,7 +52,7 @@ app.get('/api/contents', (req, res) => {
     tags: getTags.all(row.id)
   }));
 
-  res.json(result);
+  res.json({ rows: result, total, limit: l, offset: o });
 });
 
 // Tek içerik detayı
@@ -111,38 +109,51 @@ app.get('/api/admin/contents', adminAuth, (req, res) => {
   const limit = parseInt(req.query.limit) || 50;
   const offset = (page - 1) * limit;
   const search = req.query.search || '';
-
-  let sql, params;
   const langFilter = req.query.lang || '';
+  const typeFilter = req.query.type || '';
+  const categoryFilter = req.query.category_id || '';
+  const dateFrom = req.query.date_from || '';
+  const dateTo = req.query.date_to || '';
+  const dateField = req.query.date_field || 'published'; // 'published' veya 'created'
+
+  // WHERE koşullarını dinamik oluştur
+  const conditions = [];
+  const params = [];
+
   if (search) {
-    sql = `SELECT c.*, cat.name as category_name
-      FROM contents c LEFT JOIN categories cat ON c.category_id = cat.id
-      WHERE c.title LIKE ?${langFilter ? ' AND c.lang = ?' : ''} ORDER BY c.created_at DESC LIMIT ? OFFSET ?`;
-    params = [`%${search}%`];
-    if (langFilter) params.push(langFilter);
-    params.push(limit, offset);
-  } else {
-    sql = `SELECT c.*, cat.name as category_name
-      FROM contents c LEFT JOIN categories cat ON c.category_id = cat.id
-      ${langFilter ? 'WHERE c.lang = ?' : ''} ORDER BY c.created_at DESC LIMIT ? OFFSET ?`;
-    params = langFilter ? [langFilter, limit, offset] : [limit, offset];
+    conditions.push('c.title LIKE ?');
+    params.push(`%${search}%`);
   }
-  const rows = db.prepare(sql).all(...params);
-  let totalSql, totalParams;
-  if (search && langFilter) {
-    totalSql = `SELECT COUNT(*) as c FROM contents WHERE title LIKE ? AND lang = ?`;
-    totalParams = [`%${search}%`, langFilter];
-  } else if (search) {
-    totalSql = `SELECT COUNT(*) as c FROM contents WHERE title LIKE ?`;
-    totalParams = [`%${search}%`];
-  } else if (langFilter) {
-    totalSql = `SELECT COUNT(*) as c FROM contents WHERE lang = ?`;
-    totalParams = [langFilter];
-  } else {
-    totalSql = `SELECT COUNT(*) as c FROM contents`;
-    totalParams = [];
+  if (langFilter) {
+    conditions.push('c.lang = ?');
+    params.push(langFilter);
   }
-  const total = db.prepare(totalSql).get(...totalParams).c;
+  if (typeFilter) {
+    conditions.push('c.type = ?');
+    params.push(typeFilter);
+  }
+  if (categoryFilter) {
+    conditions.push('c.category_id = ?');
+    params.push(parseInt(categoryFilter));
+  }
+  if (dateFrom) {
+    conditions.push(dateField === 'created' ? 'c.created_at >= ?' : 'c.published_at >= ?');
+    params.push(dateFrom);
+  }
+  if (dateTo) {
+    conditions.push(dateField === 'created' ? 'c.created_at <= ?' : 'c.published_at <= ?');
+    params.push(dateTo);
+  }
+
+  const where = conditions.length ? 'WHERE ' + conditions.join(' AND ') : '';
+
+  const sql = `SELECT c.*, cat.name as category_name
+    FROM contents c LEFT JOIN categories cat ON c.category_id = cat.id
+    ${where} ORDER BY c.id DESC LIMIT ? OFFSET ?`;
+  const rows = db.prepare(sql).all(...params, limit, offset);
+
+  const totalSql = `SELECT COUNT(*) as c FROM contents c ${where}`;
+  const total = db.prepare(totalSql).get(...params).c;
 
   res.json({ rows, total, page, totalPages: Math.ceil(total / limit) });
 });

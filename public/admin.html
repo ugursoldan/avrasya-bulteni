@@ -111,6 +111,16 @@ tr:last-child td{border-bottom:none}
   <div id="tab-contents" class="sec active">
     <div class="toolbar">
       <input type="text" class="search-input" id="searchInput" placeholder="Başlıkta ara..." onkeyup="searchContents()">
+      <select id="typeFilter" onchange="searchContents()" style="padding:10px 14px;border:1px solid #2a2a4a;border-radius:8px;background:#16213e;color:#e0e0e0;font-size:14px">
+        <option value="">Tüm Türler</option>
+        <option value="haber">📰 Haber</option>
+        <option value="makale">📄 Makale</option>
+        <option value="bildiri">🎤 Bildiri</option>
+        <option value="kitap">📚 Kitap</option>
+        <option value="sempozyum">🎓 Sempozyum</option>
+        <option value="panel">💬 Panel</option>
+        <option value="rapor">📊 Rapor</option>
+      </select>
       <select id="langFilter" onchange="searchContents()" style="padding:10px 14px;border:1px solid #2a2a4a;border-radius:8px;background:#16213e;color:#e0e0e0;font-size:14px">
         <option value="">Tüm Diller</option>
         <option value="tr">🇹🇷 Türkçe</option>
@@ -119,6 +129,16 @@ tr:last-child td{border-bottom:none}
         <option value="zh">🇨🇳 Çince</option>
         <option value="fa">🇮🇷 Farsça</option>
       </select>
+      <select id="categoryFilter" onchange="searchContents()" style="padding:10px 14px;border:1px solid #2a2a4a;border-radius:8px;background:#16213e;color:#e0e0e0;font-size:14px">
+        <option value="">Tüm Kategoriler</option>
+      </select>
+      <input type="date" id="dateFrom" onchange="searchContents()" style="padding:10px 14px;border:1px solid #2a2a4a;border-radius:8px;background:#16213e;color:#e0e0e0;font-size:14px" title="Başlangıç tarihi">
+      <input type="date" id="dateTo" onchange="searchContents()" style="padding:10px 14px;border:1px solid #2a2a4a;border-radius:8px;background:#16213e;color:#e0e0e0;font-size:14px" title="Bitiş tarihi">
+      <select id="dateField" onchange="searchContents()" style="padding:10px 14px;border:1px solid #2a2a4a;border-radius:8px;background:#16213e;color:#e0e0e0;font-size:14px">
+        <option value="published">📅 Yayın Tarihi</option>
+        <option value="created">➕ Eklenme Tarihi</option>
+      </select>
+      <button class="btn btn-sm btn-secondary" onclick="clearFilters()" style="padding:10px 14px">✕ Temizle</button>
       <button class="btn btn-primary" onclick="openContentModal()">➕ Yeni İçerik</button>
     </div>
     <div class="select-all-wrap">
@@ -304,18 +324,39 @@ async function loadStats(){
   }catch(e){}
 }
 
+// === FİLTRE YARDIMCILARI ===
+async function loadCategoryFilter(){
+  const sel=$('categoryFilter');if(!sel)return;
+  sel.innerHTML='<option value="">Tüm Kategoriler</option>';
+  try{
+    const r=await apiFetch('/api/categories');const d=await r.json();
+    d.forEach(c=>{const o=document.createElement('option');o.value=c.id;o.textContent=c.name;sel.appendChild(o)})
+  }catch(e){}
+}
+function clearFilters(){
+  ['searchInput','typeFilter','categoryFilter','dateFrom','dateTo','langFilter','dateField'].forEach(id=>{
+    const el=$(id);if(el)el.value='';
+  });
+  currentPage=1;loadContents()
+}
+
 // === İÇERİKLER ===
 async function loadContents(){
   const wrap=$('contentTableWrap');wrap.innerHTML='<div class="loading"><div class="spinner"></div>Yükleniyor...</div>';
   const q=$('searchInput').value;
-  const lang=$('langFilter').value;
+  const lang=$('langFilter')?$('langFilter').value:'';
+  const type=$('typeFilter')?$('typeFilter').value:'';
+  const category=$('categoryFilter')?$('categoryFilter').value:'';
+  const dtFrom=$('dateFrom')?$('dateFrom').value:'';
+  const dtTo=$('dateTo')?$('dateTo').value:'';
+  const dtField=$('dateField')?$('dateField').value:'';
   try{
-    const r=await apiFetch(`/api/admin/contents?page=${currentPage}&search=${encodeURIComponent(q)}&lang=${lang}`);
+    const r=await apiFetch(`/api/admin/contents?page=${currentPage}&search=${encodeURIComponent(q)}&lang=${encodeURIComponent(lang)}&type=${encodeURIComponent(type)}&category_id=${encodeURIComponent(category)}&date_from=${encodeURIComponent(dtFrom)}&date_to=${encodeURIComponent(dtTo)}&date_field=${encodeURIComponent(dtField)}`);
     const d=await r.json();
     if(!d.rows||!d.rows.length){
       wrap.innerHTML='<div class="empty-state"><p>📭 İçerik bulunamadı</p></div>';$('pagination').innerHTML='';return
     }
-    let html='<table><thead><tr><th style="width:30px"><input type="checkbox" onchange="toggleSelectAll()"></th><th>Başlık</th><th>Tür</th><th>Dil</th><th>Kategori</th><th>Kaynak</th><th>Tarih</th><th>Özet</th><th style="width:120px">İşlem</th></tr></thead><tbody>';
+    let html='<table><thead><tr><th style="width:30px"><input type="checkbox" onchange="toggleSelectAll()"></th><th>Başlık</th><th>Tür</th><th>Dil</th><th>Kategori</th><th>Kaynak</th><th>Yayın</th><th>Ekleme</th><th>Özet</th><th style="width:120px">İşlem</th></tr></thead><tbody>';
     d.rows.forEach(r=>{
       const short=r.summary?r.summary.substring(0,50)+'…':'';
       const sel=selectedIds.has(r.id)?'checked':'';
@@ -328,6 +369,7 @@ async function loadContents(){
         <td>${r.category_name||'-'}</td>
         <td>${r.source_name||'-'}</td>
         <td>${r.published_at?r.published_at.substring(0,10):'-'}</td>
+        <td>${r.created_at?r.created_at.substring(0,10):'-'}</td>
         <td title="${r.summary||''}">${short||'❌ yok'}</td>
         <td>
           <button class="btn btn-secondary btn-sm" onclick="editContent(${r.id})">✏️</button>
@@ -512,6 +554,7 @@ if(!authToken) showLogin();
 initAuth();
 loadStats();
 loadContents();
+loadCategoryFilter();
 </script>
 </body>
 </html>

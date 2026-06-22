@@ -54,17 +54,17 @@ async function translateTitle(title) {
   }
 }
 
-// Bir içeriği AI ile özetle (en az 110 kelime zorlamalı)
+// Bir içeriği AI ile özetle (50-100 kelime zorlamalı)
 async function summarizeContent(content, attempt = 1) {
   if (!API_KEY) {
     console.warn('⚠️ DEEPSEEK_API_KEY bulunamadı, özetleme atlanıyor.');
     return null;
   }
 
-  const wordTarget = '100-130';
+  const wordTarget = '50-100';
 
   // Her denemede daha sert uyar
-  const severity = attempt === 1 ? '' : attempt === 2 ? ' UYARI: Önceki denemede çok kısa özet ürettin.' : ' SERT UYARI: İki kez kısa özet ürettin. Şimdi 100-130 kelime arasında yazmak ZORUNDASIN.';
+  const severity = attempt === 1 ? '' : attempt === 2 ? ' UYARI: Önceki denemede çok kısa özet ürettin.' : ' SERT UYARI: İki kez kısa özet ürettin. Şimdi 50-100 kelime arasında yazmak ZORUNDASIN.';
 
   const systemMsg = `Sen bir haber analistisin. SADECE TÜRKÇE haber özeti yazarsın.
 

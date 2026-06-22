@@ -286,6 +286,31 @@
     }
     @keyframes spin { to { transform: rotate(360deg); } }
 
+    /* Pagination */
+    .pagination-bar {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 16px;
+      margin-top: 32px;
+    }
+    .page-btn {
+      background: #1a1a2e;
+      color: #faf7f2;
+      border: none;
+      padding: 8px 20px;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      cursor: pointer;
+      font-family: 'Inter', sans-serif;
+      transition: background .2s;
+    }
+    .page-btn:hover { background: #c8a96e; }
+    .page-info {
+      font-size: 0.85rem;
+      color: #6b5f53;
+    }
+
     /* FOOTER */
     .footer {
       background: #1a1a2e;
@@ -363,7 +388,7 @@
       <div class="container">
         <div class="section-header">
           <h2>Son İçerikler</h2>
-          <a href="#" onclick="loadContents(); return false">Tümünü Gör →</a>
+          <a href="#" onclick="loadContents(1); return false">Tümünü Gör →</a>
         </div>
 
         <div class="filter-bar" id="filterButtons">
@@ -397,7 +422,8 @@
     });
 
     let currentFilter = 'all';
-    let allContents = [];
+    let currentPage = 1;
+    const PAGE_SIZE = 20;
     let allStats = null;
 
     // Nav link tıklamaları
@@ -420,6 +446,7 @@
 
     function setFilter(filter) {
       currentFilter = filter;
+      currentPage = 1;
       // Nav link aktif
       document.querySelectorAll('.nav-links li a').forEach(a => {
         a.classList.toggle('active', a.dataset.filter === filter);
@@ -431,20 +458,25 @@
       renderContents(allContents);
     }
 
-    async function loadContents() {
+    async function loadContents(page) {
+      if (page !== undefined) currentPage = page;
       const grid = document.getElementById('contentGrid');
       grid.innerHTML = '<div class="loading"><div class="loading-pulse"></div><p>İçerikler yükleniyor...</p></div>';
 
+      const offset = (currentPage - 1) * PAGE_SIZE;
+      let url = `/api/contents?limit=${PAGE_SIZE}&offset=${offset}`;
+      if (currentFilter !== 'all') url += `&type=${currentFilter}`;
+
       try {
-        const [contentsRes, statsRes] = await Promise.all([
-          fetch('/api/contents?limit=50'),
+        const [res, statsRes] = await Promise.all([
+          fetch(url),
           fetch('/api/stats')
         ]);
-        allContents = await contentsRes.json();
+        const data = await res.json();
         allStats = await statsRes.json();
 
         renderStats(allStats);
-        renderContents(allContents);
+        renderContents(data.rows, data.total);
       } catch (err) {
         grid.innerHTML = '<div class="empty"><p>İçerikler yüklenirken bir hata oluştu.</p></div>';
       }
@@ -466,18 +498,15 @@
       `;
     }
 
-    function renderContents(contents) {
+    function renderContents(rows, total) {
       const grid = document.getElementById('contentGrid');
-      const filtered = currentFilter === 'all'
-        ? contents
-        : contents.filter(c => c.type === currentFilter);
 
-      if (!filtered.length) {
+      if (!rows.length) {
         grid.innerHTML = '<div class="empty"><p>Bu kategoride henüz içerik bulunmuyor.</p></div>';
         return;
       }
 
-      grid.innerHTML = filtered.map(c => `
+      grid.innerHTML = rows.map(c => `
         <div class="card">
           <div class="card-meta">
             <span class="card-tag ${c.type}">${typeLabel(c.type)}</span>
@@ -487,11 +516,26 @@
           <div class="card-summary">${truncateSummary(c.summary)}</div>
           ${c.tags && c.tags.length ? `<div class="card-tags">${c.tags.map(t => `<span>${t.name}</span>`).join('')}</div>` : ''}
           <div class="card-footer">
-            <span class="card-date">${formatDate(c.published_at)}</span>
+            <span class="card-date">${formatDate(c.published_at)}${c.created_at ? ' · <strong>Ekleme:</strong> ' + formatDateTime(c.created_at) : ''}</span>
             <a href="${c.source_url || '#'}" target="_blank" rel="noopener" class="card-link">Detay →</a>
           </div>
         </div>
       `).join('');
+
+      // Sayfalama
+      const totalPages = Math.ceil(total / PAGE_SIZE);
+      if (totalPages <= 1) return;
+
+      let pag = '<div class="pagination-bar">';
+      if (currentPage > 1) {
+        pag += `<button class="page-btn" onclick="loadContents(${currentPage - 1})">‹ Önceki</button>`;
+      }
+      pag += `<span class="page-info">Sayfa ${currentPage} / ${totalPages}</span>`;
+      if (currentPage < totalPages) {
+        pag += `<button class="page-btn" onclick="loadContents(${currentPage + 1})">Sonraki ›</button>`;
+      }
+      pag += '</div>';
+      grid.innerHTML += pag;
     }
 
     function typeLabel(type) {
@@ -507,6 +551,12 @@
       if (!dateStr) return '';
       try {
         return new Date(dateStr).toLocaleDateString('tr-TR', { day: 'numeric', month: 'short', year: 'numeric' });
+      } catch { return dateStr; }
+    }
+    function formatDateTime(dateStr) {
+      if (!dateStr) return '';
+      try {
+        return new Date(dateStr).toLocaleDateString('tr-TR', { day: 'numeric', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit' });
       } catch { return dateStr; }
     }
 
