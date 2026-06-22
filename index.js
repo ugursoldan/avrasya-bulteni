@@ -310,7 +310,7 @@ app.get('/api/cron', async (req, res) => {
   try {
     // GitHub JSON'dan haber çek + çevir + DB'ye ekle
     const scanCmd = spawn('node', [path.join(__dirname, 'scripts', 'scanner.js')], {
-      env: { ...process.env, SCAN_MAX_ITEMS: '5' },
+      env: { ...process.env, SCAN_MAX_ITEMS: req.query.limit || '5' },
       cwd: __dirname,
       stdio: 'pipe'
     });
