@@ -431,10 +431,20 @@
     let allStats = null;
 
     // Nav link tıklamaları
-    document.querySelectorAll('.nav-links li a').forEach(a => {
+    document.querySelectorAll('.nav-links li a:not([href=\"/\"])').forEach(a => {
       a.addEventListener('click', e => {
         e.preventDefault();
-        setFilter(a.dataset.filter);
+        currentFilter = a.dataset.filter;
+        currentPage = 1;
+        // Nav link aktif
+        document.querySelectorAll('.nav-links li a').forEach(n => {
+          n.classList.toggle('active', n.dataset.filter === currentFilter);
+        });
+        // Filter btn aktif
+        document.querySelectorAll('.filter-btn').forEach(b => {
+          b.classList.toggle('active', b.dataset.filter === currentFilter);
+        });
+        loadContents(1);
         // Mobil menüyü kapat
         document.getElementById('navLinks').classList.remove('open');
         document.getElementById('mobileToggle').textContent = '☰';
@@ -444,23 +454,17 @@
     // Filter buton tıklamaları
     document.querySelectorAll('.filter-btn').forEach(btn => {
       btn.addEventListener('click', () => {
-        setFilter(btn.dataset.filter);
+        currentFilter = btn.dataset.filter;
+        currentPage = 1;
+        document.querySelectorAll('.nav-links li a').forEach(n => {
+          n.classList.toggle('active', n.dataset.filter === currentFilter);
+        });
+        document.querySelectorAll('.filter-btn').forEach(b => {
+          b.classList.toggle('active', b.dataset.filter === currentFilter);
+        });
+        loadContents(1);
       });
     });
-
-    function setFilter(filter) {
-      currentFilter = filter;
-      currentPage = 1;
-      // Nav link aktif
-      document.querySelectorAll('.nav-links li a').forEach(a => {
-        a.classList.toggle('active', a.dataset.filter === filter);
-      });
-      // Filter btn aktif
-      document.querySelectorAll('.filter-btn').forEach(b => {
-        b.classList.toggle('active', b.dataset.filter === filter);
-      });
-      renderContents(allContents);
-    }
 
     async function loadContents(page) {
       if (page !== undefined) currentPage = page;
