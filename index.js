@@ -390,3 +390,4 @@ app.listen(PORT, '0.0.0.0', () => {
   console.log(`🌍 Avrasya Bülteni http://localhost:${PORT}`);
   console.log(`⏰ Cron schedule: ${CRON_SCHEDULE} (${new Date().toLocaleString('tr-TR', { timeZone: 'Europe/Istanbul' })} TSİ)`);
 });
+console.log('TEST');
