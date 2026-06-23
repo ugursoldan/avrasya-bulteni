@@ -230,6 +230,10 @@
     .card-summary li { margin-bottom: 4px; }
     .card-summary p { margin-bottom: 8px; }
     .card-summary strong { color: #1a1a2e; }
+    .card-summary-bildiri {
+      max-height: none;
+      overflow: visible;
+    }
     .card-footer {
       display: flex;
       justify-content: space-between;
@@ -521,7 +525,7 @@
             <span class="card-source">${c.category_name || 'Genel'}${c.source_name ? ' · ' + c.source_name : ''}</span>
           </div>
           <h3 class="card-title"><a href="${c.source_url || '#'}" target="_blank" rel="noopener">${c.title}</a></h3>
-          <div class="card-summary">${truncateSummary(c.summary)}</div>
+          <div class="card-summary${c.type === 'bildiri' ? ' card-summary-bildiri' : ''}">${truncateSummary(c.summary, c.type)}</div>
           ${c.tags && c.tags.length ? `<div class="card-tags">${c.tags.map(t => `<span>${t.name}</span>`).join('')}</div>` : ''}
           <div class="card-footer">
             <span class="card-date">${formatDate(c.published_at)}${c.created_at ? ' · <strong>Ekleme:</strong> ' + formatDateTime(c.created_at) : ''}</span>
@@ -568,7 +572,8 @@
       } catch { return dateStr; }
     }
 
-    function truncateSummary(text, maxWords = 50) {
+    function truncateSummary(text, type = '') {
+      const maxWords = type === 'bildiri' ? 150 : 50;
       if (!text) return 'Bu içerik hakkında özet bilgisi henüz eklenmemiştir.';
       const words = text.replace(/<[^>]*>/g, '').split(/\s+/);
       if (words.length <= maxWords) return text;
