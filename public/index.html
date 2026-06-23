@@ -518,7 +518,7 @@
         <div class="card">
           <div class="card-meta">
             <span class="card-tag ${c.type}">${typeLabel(c.type)}</span>
-            <span class="card-source">${c.category_name || 'Genel'}${c.source_name ? ' · ' + c.source_name.replace(/^(.*?),/, (m, dergi) => `<a href="${c.source_url || '#'}" target="_blank" rel="noopener">${dergi}</a>,') : ''}</span>
+            <span class="card-source">${c.category_name || 'Genel'}${c.source_name ? ' · ' + c.source_name : ''}</span>
           </div>
           <h3 class="card-title"><a href="${c.source_url || '#'}" target="_blank" rel="noopener">${c.title}</a></h3>
           <div class="card-summary">${truncateSummary(c.summary)}</div>
