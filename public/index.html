@@ -226,6 +226,10 @@
       line-height: 1.6;
       margin-bottom: 12px;
     }
+    .card-summary ul, .card-summary ol { padding-left: 20px; margin: 8px 0; }
+    .card-summary li { margin-bottom: 4px; }
+    .card-summary p { margin-bottom: 8px; }
+    .card-summary strong { color: #1a1a2e; }
     .card-footer {
       display: flex;
       justify-content: space-between;
@@ -562,10 +566,10 @@
 
     function truncateSummary(text, maxWords = 50) {
       if (!text) return 'Bu içerik hakkında özet bilgisi henüz eklenmemiştir.';
-      const words = text.split(/\s+/);
+      const words = text.replace(/<[^>]*>/g, '').split(/\s+/);
       if (words.length <= maxWords) return text;
       const preview = words.slice(0, maxWords).join(' ');
-      return `<span class="summary-preview">${preview.replace(/<[^>]*>/g, '')}…</span><span class="summary-full" style="display:none">${text}</span> <span class="read-more" onclick="this.previousElementSibling.style.display='inline';this.previousElementSibling.previousElementSibling.style.display='none';this.style.display='none'">Devamını Oku</span>`;
+      return `<span class="summary-preview">${preview.trim()}…</span><div class="summary-full" style="display:none">${text}</div> <span class="read-more" onclick="this.previousElementSibling.style.display='block';this.previousElementSibling.previousElementSibling.style.display='none';this.style.display='none'">Devamını Oku</span>`;
     }
 
     // İlk yükleme
