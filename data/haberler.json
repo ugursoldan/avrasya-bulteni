@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-06-22",
-  "olusturma_zamani": "2026-06-22T11:30:31.285628",
+  "olusturma_tarihi": "2026-06-23",
+  "olusturma_zamani": "2026-06-23T09:54:49.730636",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Ankara'da NATO Zirvesi tedbirleri kapsamında bazı etkinlikler yasaklandı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/ankarada-nato-zirvesi-tedbirleri-kapsaminda-bazi-etkinlikler-yasaklandi-949002.html",
+          "ozet": "Ankara Valiliği, 7-8 Temmuz'da düzenlenecek 36. NATO Zirvesi kapsamında, 28 Haziran-10 Temmuz tarihleri arasında kent genelinde toplantı, gösteri yürüyüşü, basın açıklaması ve benzeri etkinliklerin yasaklandığını belirtti.",
+          "yayin_tarihi": "Mon, 22 Jun 2026 22:34:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Trump'tan İran'a uyarı: Uygun davranmazsa gerekeni yaparım",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/trumptan-irana-uyari-uygun-davranmazsa-gerekeni-yaparim-949008.html",
+          "ozet": "ABD Başkanı Donald Trump, İran ile yürütülen sürecin olumlu ilerlediğine dikkat çekerek \"Eğer İran anlaşmanın gereklerini yerine getirmez ya da uygun davranmazsa, yapmam gerekeni yaparım\" dedi.",
+          "yayin_tarihi": "Tue, 23 Jun 2026 00:37:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Türk SİHAlarına yeni görev: Dünyada çok az ülke yapabiliyor",
           "kaynak": "www.trthaber.com",
@@ -28,122 +44,106 @@
           "ozet": "ABD ile İran arasında 18 Haziran'da imzalanan mutabakat zaptının ardından gözler İsviçre'deki görüşmedeydi. Tahran, Hürmüz Boğazı’nda ⁠gemilerin ⁠güvenli ⁠geçişine ilişkin ⁠mekanizma ⁠kurulması ⁠konusunda ⁠anlaşmaya varıldı⁠ğını duyurdu. Pakistan ve Katar da görüşmelerin olumlu ve yapıcı bir atmosferde gerçekleştiğini açıkladı.",
           "yayin_tarihi": "Mon, 22 Jun 2026 04:05:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Filenin Sultanları Ankara etabını 4'te 4 ile tamamladı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/spor/filenin-sultanlari-ankara-etabini-4te-4-ile-tamamladi-948907.html",
-          "ozet": "A Milli Kadın Voleybol Takımı, 2026 FIVB Milletler Ligi'nin (VNL) ikinci haftasındaki dördüncü ve son maçında Çin'i 3-2 yendi. Ay-yıldızlılar, Ankara etabını 4'te 4 ile bitirdi.",
-          "yayin_tarihi": "Sun, 21 Jun 2026 22:10:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "İran heyeti ABD ile görüşmelerin yapıldığı alandan ayrıldı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/iran-heyeti-abd-ile-gorusmelerin-yapildigi-alandan-ayrildi-948904.html",
-          "ozet": "ABD ile İran arasında 18 Haziran'da imzalanan mutabakat zaptının ardından gözler İsviçre'deki kritik müzakerelere çevrildi. ABD Başkanı Donald Trump bir kez daha İran'ı tehdit etti. İran Meclis Başkanı Muhammed Kalibaf'ın yanıtı sert oldu. İran basını, İran heyetinin, Trump'ın tehditleri nedeniyle görüşmelerin yapıldığı alandan ayrıldığını duyurdu.",
-          "yayin_tarihi": "Sun, 21 Jun 2026 19:49:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-06-22T11:30:31.285371"
+      "taranma_zamani": "2026-06-23T09:54:49.730340"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Mideast Live Updates: Vance Points to Progress After First Round of U.S.-Iran Talks",
+          "baslik": "Iran Makes Moves to Assert Control Over the Strait of Hormuz",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/06/22/world/iran-us-trump-lebanon",
-          "ozet": "Vice President JD Vance said Iran had agreed to invite U.N. nuclear inspectors back into the country in the first round of negotiations that ended Monday. Iran did not immediately comment.",
-          "yayin_tarihi": "Mon, 22 Jun 2026 11:28:51 +0000",
+          "url": "https://www.nytimes.com/2026/06/23/world/middleeast/iran-control-strait-of-hormuz.html",
+          "ozet": "After Iran weaponized the waterway by making it too dangerous for businesses, experts say, the country is now looking to charge fees to vessels seeking to transit the vital water.",
+          "yayin_tarihi": "Tue, 23 Jun 2026 09:01:32 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "First Round of U.S.-Iran Talks Ends With High Hopes and Big Challenges",
+          "baslik": "Those British Strawberries Are Being Picked by Central Asian Workers",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/22/world/europe/iran-us-peace-talks.html",
-          "ozet": "Mediators reported progress toward reaching a final deal within 60 days. They also said that negotiators had dwelled on issues that were supposed to be settled.",
-          "yayin_tarihi": "Mon, 22 Jun 2026 10:15:52 +0000",
+          "url": "https://www.nytimes.com/2026/06/23/world/europe/uk-brexit-seasonal-farm-workers-central-asia.html",
+          "ozet": "Ten years after Brexit, most seasonal workers in Britain are from countries such as Kyrgyzstan and Tajikistan. Without them, agricultural chiefs say, many farms would fail.",
+          "yayin_tarihi": "Tue, 23 Jun 2026 04:01:09 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Thousands Are Fleeing Ukraine’s Donbas Strongholds as Russia Pushes Closer",
+          "baslik": "Iranian Singer Sentenced to 74 Lashes for Performing Without Hijab",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/22/world/europe/ukraine-donetsk-donbas-sloviansk-kramatorsk-russia.html",
-          "ozet": "While Kyiv’s fortunes have brightened in other ways in the war, Moscow’s forces are raining bombs and drones on “fortress belt” cities like Sloviansk and Kramatorsk.",
-          "yayin_tarihi": "Mon, 22 Jun 2026 09:09:29 +0000",
+          "url": "https://www.nytimes.com/2026/06/23/world/middleeast/iranian-singer-lashing-sentence.html",
+          "ozet": "Parastoo Ahmadi and her band will also be barred from leaving the country or performing for two years, dampening hopes for a more moderate postwar regime in Iran.",
+          "yayin_tarihi": "Tue, 23 Jun 2026 09:01:49 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Explosion at Qatar Gas Plant Leaves at Least 54 Injured",
+          "baslik": "Explosion at Qatar Gas Plant Kills at Least 13 and Injures 66",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html",
           "ozet": "The blast happened at a key site for natural gas production. The authorities blamed a technical malfunction while operations were being restarted after the U.S.-Israeli war against Iran.",
-          "yayin_tarihi": "Mon, 22 Jun 2026 08:58:43 +0000",
+          "yayin_tarihi": "Mon, 22 Jun 2026 14:09:44 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Bitter Historical Feud Threatens Ukraine-Poland Alliance",
+          "baslik": "China Takes Supercomputer Crown From U.S. For First Time Since 2017",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/21/world/europe/ukraine-poland-alliance-russia.html",
-          "ozet": "President Volodymyr Zelensky of Ukraine signed a decree honoring World War II partisan fighters that has inflamed tensions with Warsaw.",
-          "yayin_tarihi": "Sun, 21 Jun 2026 18:07:18 +0000",
+          "url": "https://www.nytimes.com/2026/06/23/technology/china-supercomputer-crown-us.html",
+          "ozet": "A supercomputer in Shenzhen was declared the world’s fastest. It uses only standard microprocessors and not the special-purpose chips called graphics processing units.",
+          "yayin_tarihi": "Tue, 23 Jun 2026 09:02:27 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-06-22T11:30:31.285396"
+      "taranma_zamani": "2026-06-23T09:54:49.730364"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russian oil companies boost fuel output, launch new capacities",
+          "baslik": "Trump's threats put talks in Switzerland at risk, says Iran's UN ambassador",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2149811",
-          "ozet": "Deputy Prime Minister Alexander Novak instructed relevant agencies to prepare a balanced action plan to maintain the stability of the domestic fuel market",
-          "yayin_tarihi": "Mon, 22 Jun 2026 14:10:31 +0300",
+          "url": "https://tass.com/world/2150195",
+          "ozet": "Ali Bahraini still emphasized that \"as long as the United States shows a sincere readiness to engage with Iran and address the issues at hand, Iran is prepared to continue negotiations and maintain open channels of dialogue\"",
+          "yayin_tarihi": "Tue, 23 Jun 2026 12:44:57 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Iran-US talks take place in constructive atmosphere — Pakistani PM",
+          "baslik": "Russian stock market turns to growth during main trading session",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2149773",
-          "ozet": "Pakistani Prime Minister Shehbaz Sharif thanked both the US and Iran \"for their continued commitment to constructive engagement\" and commended Qatar’s mediation and Switzerland's efforts to organize the consultations",
-          "yayin_tarihi": "Mon, 22 Jun 2026 13:22:28 +0300",
+          "url": "https://tass.com/economy/2150177",
+          "ozet": "As of 12:18 PM Moscow time, the MOEX index rose to 2,324.65 points, while the RTS index rose 0.27% to 992.77 points",
+          "yayin_tarihi": "Tue, 23 Jun 2026 12:29:28 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Press review: EU seen as preparing for war with Russia while Zelensky threatens Belarus",
+          "baslik": "Iran demands Israeli troop withdrawal from Lebanese territory",
           "kaynak": "tass.com",
-          "url": "https://tass.com/pressreview/2149699",
-          "ozet": "Top stories from the Russian press on Monday, June 22nd",
-          "yayin_tarihi": "Mon, 22 Jun 2026 13:00:00 +0300",
+          "url": "https://tass.com/world/2150151",
+          "ozet": "Ali Bahraini, Iran’s Permanent Representative to the UN in Geneva, noted that negotiations between the parties in Switzerland on June 21 continued late into the night",
+          "yayin_tarihi": "Tue, 23 Jun 2026 12:15:54 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Iran awaits US Treasury's announcement on lifting of oil sanctions — news agency",
+          "baslik": "Russia never threatened NATO, EU — senior diplomat",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2149751",
-          "ozet": "According to the report, the talks in Switzerland also addressed the unfreezing of Iranian assets",
-          "yayin_tarihi": "Mon, 22 Jun 2026 12:45:41 +0300",
+          "url": "https://tass.com/politics/2150147",
+          "ozet": "According to Alexander Grushko, NATO launched a campaign to look for an enemy and eventually found one",
+          "yayin_tarihi": "Tue, 23 Jun 2026 12:15:46 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "West is entering new phase of war against Russia — senior legislator",
+          "baslik": "Global reserves cannot replace lost Middle East, Russian supplies — Shoigu",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2149749",
-          "ozet": "Alexey Pushkov believes that actions such as providing Ukraine with intelligence for strikes on Russian industrial, military, and civilian targets are among the main indicators",
-          "yayin_tarihi": "Mon, 22 Jun 2026 12:43:35 +0300",
+          "url": "https://tass.com/economy/2150143",
+          "ozet": "The blocking of the Strait of Hormuz has put global food and energy security at risk, the senior Russian security official said",
+          "yayin_tarihi": "Tue, 23 Jun 2026 12:04:32 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-06-22T11:30:31.285419"
+      "taranma_zamani": "2026-06-23T09:54:49.730387"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-06-22T11:30:31.285421"
+      "taranma_zamani": "2026-06-23T09:54:49.730390"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-06-22T11:30:31.285605"
+      "taranma_zamani": "2026-06-23T09:54:49.730395"
     }
   }
 }
