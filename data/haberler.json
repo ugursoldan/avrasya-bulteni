@@ -1,6 +1,6 @@
 {
-  "olusturma_tarihi": "2026-06-23",
-  "olusturma_zamani": "2026-06-23T09:54:49.730636",
+  "olusturma_tarihi": "2026-06-24",
+  "olusturma_zamani": "2026-06-24T09:41:48.565807",
   "diller": {
     "tr": {
       "dil": "Türkçe",
@@ -46,11 +46,19 @@
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-06-23T09:54:49.730340"
+      "taranma_zamani": "2026-06-24T09:41:48.565556"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "U.S. and Iran Offer Conflicting Accounts of Nuclear Discussions",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon",
+          "ozet": "President Trump said Iran had agreed to the “highest level” inspections, hours after an Iranian official said there were “no detailed discussions on the nuclear issue,” as the two sides continued to present different narratives of their latest talks.",
+          "yayin_tarihi": "Wed, 24 Jun 2026 07:26:22 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "Iran Makes Moves to Assert Control Over the Strait of Hormuz",
           "kaynak": "rss.nytimes.com",
@@ -60,94 +68,94 @@
           "dil": "İngilizce"
         },
         {
+          "baslik": "After Wars and False Starts, Cautious Optimism for U.S.-Iran Talks",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/06/23/world/middleeast/united-states-iran-talks-optimism.html",
+          "ozet": "Tehran and Washington face myriad negotiating pitfalls. But both sides are exhausted and running out of options. They may finally need a deal.",
+          "yayin_tarihi": "Tue, 23 Jun 2026 14:02:39 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "Those British Strawberries Are Being Picked by Central Asian Workers",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/06/23/world/europe/uk-brexit-seasonal-farm-workers-central-asia.html",
           "ozet": "Ten years after Brexit, most seasonal workers in Britain are from countries such as Kyrgyzstan and Tajikistan. Without them, agricultural chiefs say, many farms would fail.",
-          "yayin_tarihi": "Tue, 23 Jun 2026 04:01:09 +0000",
+          "yayin_tarihi": "Tue, 23 Jun 2026 10:16:21 +0000",
           "dil": "İngilizce"
         },
         {
           "baslik": "Iranian Singer Sentenced to 74 Lashes for Performing Without Hijab",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/06/23/world/middleeast/iranian-singer-lashing-sentence.html",
-          "ozet": "Parastoo Ahmadi and her band will also be barred from leaving the country or performing for two years, dampening hopes for a more moderate postwar regime in Iran.",
-          "yayin_tarihi": "Tue, 23 Jun 2026 09:01:49 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Explosion at Qatar Gas Plant Kills at Least 13 and Injures 66",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html",
-          "ozet": "The blast happened at a key site for natural gas production. The authorities blamed a technical malfunction while operations were being restarted after the U.S.-Israeli war against Iran.",
-          "yayin_tarihi": "Mon, 22 Jun 2026 14:09:44 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "China Takes Supercomputer Crown From U.S. For First Time Since 2017",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/23/technology/china-supercomputer-crown-us.html",
-          "ozet": "A supercomputer in Shenzhen was declared the world’s fastest. It uses only standard microprocessors and not the special-purpose chips called graphics processing units.",
-          "yayin_tarihi": "Tue, 23 Jun 2026 09:02:27 +0000",
+          "ozet": "Parastoo Ahmadi and her band will also be barred from leaving the country or performing for two years, making clear to Iranians that their new leaders may be just as severe as those killed in the war.",
+          "yayin_tarihi": "Tue, 23 Jun 2026 19:52:15 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-06-23T09:54:49.730364"
+      "taranma_zamani": "2026-06-24T09:41:48.565578"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Trump's threats put talks in Switzerland at risk, says Iran's UN ambassador",
+          "baslik": "Europe equally responsible for striking Zaporozhye NPP as Kiev — analyst",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2150195",
-          "ozet": "Ali Bahraini still emphasized that \"as long as the United States shows a sincere readiness to engage with Iran and address the issues at hand, Iran is prepared to continue negotiations and maintain open channels of dialogue\"",
-          "yayin_tarihi": "Tue, 23 Jun 2026 12:44:57 +0300",
+          "url": "https://tass.com/world/2150821",
+          "ozet": "According to Scott Ritter, European countries need Ukraine to justify their continued existence",
+          "yayin_tarihi": "Wed, 24 Jun 2026 12:16:27 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian stock market turns to growth during main trading session",
+          "baslik": "West is attempting to challenge Russia's rights to its Arctic territories — MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2150177",
-          "ozet": "As of 12:18 PM Moscow time, the MOEX index rose to 2,324.65 points, while the RTS index rose 0.27% to 992.77 points",
-          "yayin_tarihi": "Tue, 23 Jun 2026 12:29:28 +0300",
+          "url": "https://tass.com/politics/2150807",
+          "ozet": "The Russian Foreign Ministry emphasized that the issue of indigenous peoples' rights is being overly politicized by Western countries",
+          "yayin_tarihi": "Wed, 24 Jun 2026 11:48:55 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Iran demands Israeli troop withdrawal from Lebanese territory",
+          "baslik": "Russian interceptor FPV drones destroy Ukrainian heavy-payload UAVs in ramming attack",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2150151",
-          "ozet": "Ali Bahraini, Iran’s Permanent Representative to the UN in Geneva, noted that negotiations between the parties in Switzerland on June 21 continued late into the night",
-          "yayin_tarihi": "Tue, 23 Jun 2026 12:15:54 +0300",
+          "url": "https://tass.com/defense/2150783",
+          "ozet": "The Ukrainian R-18 UAVs were uncovered by radar teams within the Battlegroup West area of responsibility",
+          "yayin_tarihi": "Wed, 24 Jun 2026 11:25:06 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia never threatened NATO, EU — senior diplomat",
+          "baslik": "Power outage reported in Sevastopol as Russia downs 323 Ukrainian drones overnight",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2150147",
-          "ozet": "According to Alexander Grushko, NATO launched a campaign to look for an enemy and eventually found one",
-          "yayin_tarihi": "Tue, 23 Jun 2026 12:15:46 +0300",
+          "url": "https://tass.com/politics/2150773",
+          "ozet": "Two civilians were killed each in a Ukrainian drone attack on Gorlovka in the Donetsk People’s Republic and on the Nizhny Novgorod Region",
+          "yayin_tarihi": "Wed, 24 Jun 2026 11:06:41 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Global reserves cannot replace lost Middle East, Russian supplies — Shoigu",
+          "baslik": "Ukraine’s, collective West actions may exhaust all patience — politician",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2150143",
-          "ozet": "The blocking of the Strait of Hormuz has put global food and energy security at risk, the senior Russian security official said",
-          "yayin_tarihi": "Tue, 23 Jun 2026 12:04:32 +0300",
+          "url": "https://tass.com/politics/2150765",
+          "ozet": "Viktor Medvedchuk said that a lot of Western politicians and Vladimir Zelensky are doing everything they can to bring a nuclear apocalypse closer to reality",
+          "yayin_tarihi": "Wed, 24 Jun 2026 11:00:43 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-06-23T09:54:49.730387"
+      "taranma_zamani": "2026-06-24T09:41:48.565596"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-06-23T09:54:49.730390"
+      "taranma_zamani": "2026-06-24T09:41:48.565598"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "乐视流出档案披露中国网络审查细节",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shehui/2026/06/24/china-censorship-network-surveillance-leshi/",
+          "ozet": "一批被称为“乐视审查指令”的中国网络内容管控内部档案近日公开。这批材料由中国数字时代整理后收入中国数字空间“真理馆”，时间从2017年3月2日至2020年3月10日，公开收录718条。",
+          "yayin_tarihi": "Wed, 24 Jun 2026 07:56:44 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "中国支持平台经济公约 零工组织权成焦点",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "人权组织保护卫士将于6月16日发布研究报告《铁窗之后：中国看守所状况调查》，披露中国看守所内存在律师会见受阻、暴力、牢头狱霸、医疗照护不足、户外活动缺乏和监室过度拥挤等情况。",
           "yayin_tarihi": "Tue, 16 Jun 2026 07:01:22 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "中国银行业被罚金额增15%   金融监管升级罚单加重",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shangye/jingji/2026/06/10/china-banks-regulation-fines/",
-          "ozet": "今年以来，中国银行业不含分支机构及个人，共收到罚单435张，较去年同期下降2.02%；被罚金额合计4.45亿元，比去年同期的3.85亿元增长15.3%。其中，农商行与农村合作银行被罚金额约2.19亿元，占总金额49%",
-          "yayin_tarihi": "Wed, 10 Jun 2026 07:39:17 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-06-23T09:54:49.730395"
+      "taranma_zamani": "2026-06-24T09:41:48.565604"
     }
   }
 }
