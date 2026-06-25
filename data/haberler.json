@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-06-24",
-  "olusturma_zamani": "2026-06-24T09:41:48.565807",
+  "olusturma_tarihi": "2026-06-25",
+  "olusturma_zamani": "2026-06-25T09:34:02.571829",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Avrupa projelerinde kara bulutlar: Türkiye NATOya örnek olabilir",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/avrupa-projelerinde-kara-bulutlar-turkiye-natoya-ornek-olabilir-949272.html",
+          "ozet": "Fransa ile ortak savaş uçağı projesinden çekilen Almanya’ya bir kötü haber de savaş gemilerinden geldi. Hollandalı üreticinin yaşadığı sorunlar nedeniyle Berlin yönetimi F-126 firkateyn projesinden de çekildi. Çin’in ardından dünyada aynı anda en fazla savaş gemisi üreten Türkiye, NATO ve AB ülkelerine örnek olabilir.",
+          "yayin_tarihi": "Thu, 25 Jun 2026 10:00:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Ankara'da NATO Zirvesi tedbirleri kapsamında bazı etkinlikler yasaklandı",
           "kaynak": "www.trthaber.com",
@@ -36,114 +44,106 @@
           "ozet": "İngiltere'de son 10 yılda yaşanan siyasi hareketlilik ve lider değişimleri, ülke tarihinin en hareketli dönemlerinden birini beraberinde getirdi. Haziran 2016'dan bu yana geçen süreçte, Muhafazakar Parti ile İşçi Partisi hükümetleri altında toplam 5 kez başbakan değişti ve bu süreçte 6 farklı isim başbakanlık koltuğuna oturdu.",
           "yayin_tarihi": "Mon, 22 Jun 2026 12:04:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "ABD ve İran 'Hürmüz' konusunda anlaştı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/abd-ve-iran-hurmuz-konusunda-anlasti-948913.html",
-          "ozet": "ABD ile İran arasında 18 Haziran'da imzalanan mutabakat zaptının ardından gözler İsviçre'deki görüşmedeydi. Tahran, Hürmüz Boğazı’nda ⁠gemilerin ⁠güvenli ⁠geçişine ilişkin ⁠mekanizma ⁠kurulması ⁠konusunda ⁠anlaşmaya varıldı⁠ğını duyurdu. Pakistan ve Katar da görüşmelerin olumlu ve yapıcı bir atmosferde gerçekleştiğini açıkladı.",
-          "yayin_tarihi": "Mon, 22 Jun 2026 04:05:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-06-24T09:41:48.565556"
+      "taranma_zamani": "2026-06-25T09:34:02.571619"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "U.S. and Iran Offer Conflicting Accounts of Nuclear Discussions",
+          "baslik": "Iran’s Loyalists Promote a Wider Nationalism, Unveiled Women Included",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon",
-          "ozet": "President Trump said Iran had agreed to the “highest level” inspections, hours after an Iranian official said there were “no detailed discussions on the nuclear issue,” as the two sides continued to present different narratives of their latest talks.",
-          "yayin_tarihi": "Wed, 24 Jun 2026 07:26:22 +0000",
+          "url": "https://www.nytimes.com/2026/06/24/world/europe/iran-war-regime-nationalism.html",
+          "ozet": "Government supporters are showing off new ties with alleged former dissidents in a bid to show that they can withstand enemies at home as well as abroad.",
+          "yayin_tarihi": "Wed, 24 Jun 2026 21:09:23 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iran Makes Moves to Assert Control Over the Strait of Hormuz",
+          "baslik": "Myanmar’s Civil War Has Become an Apocalypse",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/23/world/middleeast/iran-control-strait-of-hormuz.html",
-          "ozet": "After Iran weaponized the waterway by making it too dangerous for businesses, experts say, the country is now looking to charge fees to vessels seeking to transit the vital water.",
-          "yayin_tarihi": "Tue, 23 Jun 2026 09:01:32 +0000",
+          "url": "https://www.nytimes.com/2026/06/24/world/asia/myanmar-civil-war-rebels-airstrikes.html",
+          "ozet": "Overshadowed by conflicts in Ukraine, Gaza and Lebanon, the fighting in Myanmar’s isolated heartland has reached new depths.",
+          "yayin_tarihi": "Wed, 24 Jun 2026 16:10:29 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "After Wars and False Starts, Cautious Optimism for U.S.-Iran Talks",
+          "baslik": "Rubio Seeks to Reassure Gulf Arab Partners on Iran Deal",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/23/world/middleeast/united-states-iran-talks-optimism.html",
-          "ozet": "Tehran and Washington face myriad negotiating pitfalls. But both sides are exhausted and running out of options. They may finally need a deal.",
-          "yayin_tarihi": "Tue, 23 Jun 2026 14:02:39 +0000",
+          "url": "https://www.nytimes.com/2026/06/24/world/middleeast/middle-east-iran-us-rubio.html",
+          "ozet": "Secretary of State Marco Rubio was traveling among the United Arab Emirates, Kuwait and Bahrain, which were attacked by Iran during the war.",
+          "yayin_tarihi": "Wed, 24 Jun 2026 18:07:15 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Those British Strawberries Are Being Picked by Central Asian Workers",
+          "baslik": "Bahrain Restricts Shiite Holy Day Amid Iran War Crackdown",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/23/world/europe/uk-brexit-seasonal-farm-workers-central-asia.html",
-          "ozet": "Ten years after Brexit, most seasonal workers in Britain are from countries such as Kyrgyzstan and Tajikistan. Without them, agricultural chiefs say, many farms would fail.",
-          "yayin_tarihi": "Tue, 23 Jun 2026 10:16:21 +0000",
+          "url": "https://www.nytimes.com/2026/06/24/world/middleeast/bahrain-ashura-restrictions-shiite.html",
+          "ozet": "The restrictions are the latest in a string of measures Bahrain has taken against Shiite citizens in the Gulf country, with many accused of having loyalties to Iran.",
+          "yayin_tarihi": "Wed, 24 Jun 2026 17:56:08 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iranian Singer Sentenced to 74 Lashes for Performing Without Hijab",
+          "baslik": "The Ukraine War Amputees Embracing Wake Boarding and Jujitsu",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/23/world/middleeast/iranian-singer-lashing-sentence.html",
-          "ozet": "Parastoo Ahmadi and her band will also be barred from leaving the country or performing for two years, making clear to Iranians that their new leaders may be just as severe as those killed in the war.",
-          "yayin_tarihi": "Tue, 23 Jun 2026 19:52:15 +0000",
+          "url": "https://www.nytimes.com/2026/06/24/world/europe/ukraine-war-amputees-sports.html",
+          "ozet": "As the number of amputees in Ukraine soars, many are bonding by learning new sports, challenging both their bodies and their ideas of what they can do.",
+          "yayin_tarihi": "Wed, 24 Jun 2026 10:25:31 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-06-24T09:41:48.565578"
+      "taranma_zamani": "2026-06-25T09:34:02.571637"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Europe equally responsible for striking Zaporozhye NPP as Kiev — analyst",
+          "baslik": "Russia’s modernized Yak-130M combat trainer aircraft makes debut flight at 600 km/h speed",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2150821",
-          "ozet": "According to Scott Ritter, European countries need Ukraine to justify their continued existence",
-          "yayin_tarihi": "Wed, 24 Jun 2026 12:16:27 +0300",
+          "url": "https://tass.com/defense/2151339",
+          "ozet": "Rostec reported that flight plan was implemented in full and there are no issues with the aircraft",
+          "yayin_tarihi": "Thu, 25 Jun 2026 12:23:28 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "West is attempting to challenge Russia's rights to its Arctic territories — MFA",
+          "baslik": "US hopes to reach agreements with Iran through constructive dialogue — secretary of state",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2150807",
-          "ozet": "The Russian Foreign Ministry emphasized that the issue of indigenous peoples' rights is being overly politicized by Western countries",
-          "yayin_tarihi": "Wed, 24 Jun 2026 11:48:55 +0300",
+          "url": "https://tass.com/world/2151337",
+          "ozet": "According to Marco Rubio, Washington believes that it would lead to a positive outcome",
+          "yayin_tarihi": "Thu, 25 Jun 2026 12:11:06 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian interceptor FPV drones destroy Ukrainian heavy-payload UAVs in ramming attack",
+          "baslik": "West left Russia no option but special military operation — Italian expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2150783",
-          "ozet": "The Ukrainian R-18 UAVs were uncovered by radar teams within the Battlegroup West area of responsibility",
-          "yayin_tarihi": "Wed, 24 Jun 2026 11:25:06 +0300",
+          "url": "https://tass.com/world/2151335",
+          "ozet": "Sandro Teti expressed regret that the security proposals that Russia put forward in 2021 were disregarded by the West",
+          "yayin_tarihi": "Thu, 25 Jun 2026 12:05:12 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Power outage reported in Sevastopol as Russia downs 323 Ukrainian drones overnight",
+          "baslik": "Almost two thirds of Poles oppose Ukraine’s possible accession to EU — survey",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2150773",
-          "ozet": "Two civilians were killed each in a Ukrainian drone attack on Gorlovka in the Donetsk People’s Republic and on the Nizhny Novgorod Region",
-          "yayin_tarihi": "Wed, 24 Jun 2026 11:06:41 +0300",
+          "url": "https://tass.com/society/2151329",
+          "ozet": "The poll was conducted among 1,068 adults across Poland on June 12-13",
+          "yayin_tarihi": "Thu, 25 Jun 2026 11:46:44 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ukraine’s, collective West actions may exhaust all patience — politician",
+          "baslik": "Mariupol resident detained for attempting to carry out terrorist attack in court — FSB",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2150765",
-          "ozet": "Viktor Medvedchuk said that a lot of Western politicians and Vladimir Zelensky are doing everything they can to bring a nuclear apocalypse closer to reality",
-          "yayin_tarihi": "Wed, 24 Jun 2026 11:00:43 +0300",
+          "url": "https://tass.com/society/2151307",
+          "ozet": "The investigation department of Russia’s Federal Security Service in the Donetsk People’s Republic has opened criminal cases",
+          "yayin_tarihi": "Thu, 25 Jun 2026 11:04:46 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-06-24T09:41:48.565596"
+      "taranma_zamani": "2026-06-25T09:34:02.571655"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-06-24T09:41:48.565598"
+      "taranma_zamani": "2026-06-25T09:34:02.571657"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-06-24T09:41:48.565604"
+      "taranma_zamani": "2026-06-25T09:34:02.571661"
     }
   }
 }
