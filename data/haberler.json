@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-06-25",
-  "olusturma_zamani": "2026-06-25T09:34:02.571829",
+  "olusturma_tarihi": "2026-06-26",
+  "olusturma_zamani": "2026-06-26T09:39:04.617614",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Cumhurbaşkanı Erdoğan: Ülkesi ve milleti için hayırlı bir iş yapmak isteyenleri bünyemize katmaya devam edeceğiz",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-ulkesi-ve-milleti-icin-hayirli-bir-is-yapmak-isteyenleri-bunyemize-katmaya-devam-edecegiz-949320.html",
+          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, 11 milyon 500 bini aşkın üyeyle dünyanın en büyük, en yaygın siyasi hareketlerinden biri olduklarını belirterek \"İlkelerimizi benimseyen, huzurlu ve saygılı bir atmosferde ülkesi ve milleti için hayırlı bir iş yapmak isteyenleri bünyemize katmaya devam edeceğiz.\" ifadelerini kullandı.",
+          "yayin_tarihi": "Thu, 25 Jun 2026 15:26:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Avrupa projelerinde kara bulutlar: Türkiye NATOya örnek olabilir",
           "kaynak": "www.trthaber.com",
@@ -36,118 +44,118 @@
           "ozet": "Dünyanın önde gelen S/İHA üreticilerinden Türkiye geçtiğimiz günlerde yine bir ilke imza attı. Donanmaya bağlı insansız sistemler elektronik destek ve elektronik taarruz podlarıyla göreve çıktı. Dünyada bunu yapabilen ülke sayısı bir elin parmaklarını geçmiyor. NATO için de çok kritik olan bu kabiliyet Ankara’nın elini daha da güçlendirecek.",
           "yayin_tarihi": "Mon, 22 Jun 2026 11:00:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "İngiltere'nin başbakan koltuğunda istikrar krizi: Son 10 yılda 6 başbakan görev yaptı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/ingilterenin-basbakan-koltugunda-istikrar-krizi-son-10-yilda-6-basbakan-gorev-yapti-948954.html",
-          "ozet": "İngiltere'de son 10 yılda yaşanan siyasi hareketlilik ve lider değişimleri, ülke tarihinin en hareketli dönemlerinden birini beraberinde getirdi. Haziran 2016'dan bu yana geçen süreçte, Muhafazakar Parti ile İşçi Partisi hükümetleri altında toplam 5 kez başbakan değişti ve bu süreçte 6 farklı isim başbakanlık koltuğuna oturdu.",
-          "yayin_tarihi": "Mon, 22 Jun 2026 12:04:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-06-25T09:34:02.571619"
+      "taranma_zamani": "2026-06-26T09:39:04.617373"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Iran’s Loyalists Promote a Wider Nationalism, Unveiled Women Included",
+          "baslik": "How Three Months of War Changed the Gulf Forever",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/24/world/europe/iran-war-regime-nationalism.html",
-          "ozet": "Government supporters are showing off new ties with alleged former dissidents in a bid to show that they can withstand enemies at home as well as abroad.",
-          "yayin_tarihi": "Wed, 24 Jun 2026 21:09:23 +0000",
+          "url": "https://www.nytimes.com/2026/06/26/world/middleeast/gulf-changed-forever-iran-war.html",
+          "ozet": "Facing an emerging U.S.-Iran deal that leaves them vulnerable, Gulf Arab countries are reshaping their defense strategies, economies and trade routes.",
+          "yayin_tarihi": "Fri, 26 Jun 2026 09:01:04 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Myanmar’s Civil War Has Become an Apocalypse",
+          "baslik": "Zelensky Steps Up Threats Against Belarus for Aiding Drone Attacks",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/24/world/asia/myanmar-civil-war-rebels-airstrikes.html",
-          "ozet": "Overshadowed by conflicts in Ukraine, Gaza and Lebanon, the fighting in Myanmar’s isolated heartland has reached new depths.",
-          "yayin_tarihi": "Wed, 24 Jun 2026 16:10:29 +0000",
+          "url": "https://www.nytimes.com/2026/06/26/world/europe/zelensky-belarus-drones-relay.html",
+          "ozet": "Ukrainian officials say their northern neighbor is allowing its radio relay stations to be used to guide Russian attack drones more precisely.",
+          "yayin_tarihi": "Fri, 26 Jun 2026 08:38:33 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Rubio Seeks to Reassure Gulf Arab Partners on Iran Deal",
+          "baslik": "Iran’s Long World Cup Journey Defined by War and Political Tension",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/24/world/middleeast/middle-east-iran-us-rubio.html",
-          "ozet": "Secretary of State Marco Rubio was traveling among the United Arab Emirates, Kuwait and Bahrain, which were attacked by Iran during the war.",
-          "yayin_tarihi": "Wed, 24 Jun 2026 18:07:15 +0000",
+          "url": "https://www.nytimes.com/2026/06/26/world/middleeast/world-cup-iran-mexico.html",
+          "ozet": "A win or draw against Egypt on Friday, and the team’s unusual journey will continue.",
+          "yayin_tarihi": "Fri, 26 Jun 2026 09:01:44 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Bahrain Restricts Shiite Holy Day Amid Iran War Crackdown",
+          "baslik": "A $2.5 Billion Whodunit: The Hack That Dented the U.K. Economy",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/24/world/middleeast/bahrain-ashura-restrictions-shiite.html",
-          "ozet": "The restrictions are the latest in a string of measures Bahrain has taken against Shiite citizens in the Gulf country, with many accused of having loyalties to Iran.",
-          "yayin_tarihi": "Wed, 24 Jun 2026 17:56:08 +0000",
+          "url": "https://www.nytimes.com/2026/06/26/world/europe/jaguar-russia-hack.html",
+          "ozet": "A loose collective of cybercriminals initially took credit for crippling Jaguar Land Rover last year. Investigators now see Russian hands behind the ransomware attack.",
+          "yayin_tarihi": "Fri, 26 Jun 2026 07:03:36 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "The Ukraine War Amputees Embracing Wake Boarding and Jujitsu",
+          "baslik": "Iraq’s New Leader Faces Resistance Trying to Bring Militias Under State Control",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/24/world/europe/ukraine-war-amputees-sports.html",
-          "ozet": "As the number of amputees in Ukraine soars, many are bonding by learning new sports, challenging both their bodies and their ideas of what they can do.",
-          "yayin_tarihi": "Wed, 24 Jun 2026 10:25:31 +0000",
+          "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iraq-militias-state-control.html",
+          "ozet": "The Trump administration has demanded that Iraqi leaders distance themselves from Iran and rein in Iran-linked militias that are outside of government control.",
+          "yayin_tarihi": "Fri, 26 Jun 2026 09:12:02 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-06-25T09:34:02.571637"
+      "taranma_zamani": "2026-06-26T09:39:04.617387"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia’s modernized Yak-130M combat trainer aircraft makes debut flight at 600 km/h speed",
+          "baslik": "Russia currently has sufficient fuel reserves — Novak",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2151339",
-          "ozet": "Rostec reported that flight plan was implemented in full and there are no issues with the aircraft",
-          "yayin_tarihi": "Thu, 25 Jun 2026 12:23:28 +0300",
+          "url": "https://tass.com/economy/2151883",
+          "ozet": "The authorities are currently restructuring logistics within the fuel market to meet demand, the Russian deputy prime minister said",
+          "yayin_tarihi": "Fri, 26 Jun 2026 12:29:55 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US hopes to reach agreements with Iran through constructive dialogue — secretary of state",
+          "baslik": "Russians’ trust in Putin approaches 77% — poll",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2151337",
-          "ozet": "According to Marco Rubio, Washington believes that it would lead to a positive outcome",
-          "yayin_tarihi": "Thu, 25 Jun 2026 12:11:06 +0300",
+          "url": "https://tass.com/society/2151881",
+          "ozet": "The activities of the Russian government are approved by 45.9% of respondents",
+          "yayin_tarihi": "Fri, 26 Jun 2026 12:25:59 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "West left Russia no option but special military operation — Italian expert",
+          "baslik": "EU Commission suggests restricting temporary protection for combat-fit Ukrainians",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2151335",
-          "ozet": "Sandro Teti expressed regret that the security proposals that Russia put forward in 2021 were disregarded by the West",
-          "yayin_tarihi": "Thu, 25 Jun 2026 12:05:12 +0300",
+          "url": "https://tass.com/world/2151877",
+          "ozet": "Commissioner for Home Affairs and Migration Magnus Brunner said the proposal provides that temporary protection should not be granted to newly arriving persons who are not allowed to leave Ukraine",
+          "yayin_tarihi": "Fri, 26 Jun 2026 12:05:44 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Almost two thirds of Poles oppose Ukraine’s possible accession to EU — survey",
+          "baslik": "Russian stocks down as main trading session opens",
           "kaynak": "tass.com",
-          "url": "https://tass.com/society/2151329",
-          "ozet": "The poll was conducted among 1,068 adults across Poland on June 12-13",
-          "yayin_tarihi": "Thu, 25 Jun 2026 11:46:44 +0300",
+          "url": "https://tass.com/economy/2151875",
+          "ozet": "As of 10:15 a.m. Moscow time, the indices were down by 1.31% at 2,227.67 and 927.82 points, respectively",
+          "yayin_tarihi": "Fri, 26 Jun 2026 12:00:07 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Mariupol resident detained for attempting to carry out terrorist attack in court — FSB",
+          "baslik": "Russian deputy PM Novak to hold meeting on fuel market, diesel export ban to be discussed",
           "kaynak": "tass.com",
-          "url": "https://tass.com/society/2151307",
-          "ozet": "The investigation department of Russia’s Federal Security Service in the Donetsk People’s Republic has opened criminal cases",
-          "yayin_tarihi": "Thu, 25 Jun 2026 11:04:46 +0300",
+          "url": "https://tass.com/economy/2151871",
+          "ozet": "In early June, the Russian government imposed a temporary ban on the export of aviation kerosene, which will remain in effect until November 30, 2026",
+          "yayin_tarihi": "Fri, 26 Jun 2026 11:56:52 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-06-25T09:34:02.571655"
+      "taranma_zamani": "2026-06-26T09:39:04.617410"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-06-25T09:34:02.571657"
+      "taranma_zamani": "2026-06-26T09:39:04.617412"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "中国民族团结法将实施 律师指境外追责不符法理",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/06/25/china-ethnic-unity-law-longarm-jurisdiction/",
+          "ozet": "中国《民族团结进步促进法》将于7月1日起实施。中国官方在北京举行记者会，回应外界对新疆强迫劳动、西藏寄宿学校、少数民族语言文字及境外追责条款的质疑。受访者认为，该法将中共民族政策法律化，缺乏法理依据。",
+          "yayin_tarihi": "Thu, 25 Jun 2026 10:19:17 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "乐视流出档案披露中国网络审查细节",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "广东等制造业地区有工厂大量引入机器人取代部分流水线和组装岗位。目前，中国青年失业率仍处高位，灵活就业人员规模扩大。受访人士认为，机器人进入工厂正在改变制造业用工结构，普通工人的就业机会越来少，失业压力若继续扩大，，可能引发社冲突。",
           "yayin_tarihi": "Wed, 17 Jun 2026 08:02:32 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "保护卫士报告揭中国看守所系统性侵权",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/06/16/china-human-rights-defenders-prisons-detention-centers/",
-          "ozet": "人权组织保护卫士将于6月16日发布研究报告《铁窗之后：中国看守所状况调查》，披露中国看守所内存在律师会见受阻、暴力、牢头狱霸、医疗照护不足、户外活动缺乏和监室过度拥挤等情况。",
-          "yayin_tarihi": "Tue, 16 Jun 2026 07:01:22 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-06-25T09:34:02.571661"
+      "taranma_zamani": "2026-06-26T09:39:04.617590"
     }
   }
 }
