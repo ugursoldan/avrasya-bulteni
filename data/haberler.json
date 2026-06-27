@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-06-26",
-  "olusturma_zamani": "2026-06-26T09:39:04.617614",
+  "olusturma_tarihi": "2026-06-27",
+  "olusturma_zamani": "2026-06-27T08:44:32.055351",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Türkiye, Venezuela'ya destek için yola çıktı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/turkiye-venezuelaya-destek-icin-yola-cikti-949391.html",
+          "ozet": "Venezuela'da meydana gelen şiddetli depremlerin ardından, Türkiye'den bölgeye arama kurtarma ve insani yardım ekiplerini taşıyacak askeri uçak bugün İstanbul Atatürk Havalimanı’ndan hareket etti.",
+          "yayin_tarihi": "Fri, 26 Jun 2026 10:15:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Cumhurbaşkanı Erdoğan: Artık her alanda dünya ile bütünleşmiş bir Türkiye var",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/ekonomi/cumhurbaskani-erdogan-artik-her-alanda-dunya-ile-butunlesmis-bir-turkiye-var-949444.html",
+          "ozet": "Cumhurbaşkanı Erdoğan, \"Türkiye dünün kendi içine kapanık Türkiyesi de değildir. Artık her alanda dünya ile bütünleşmiş, göz hizasında ilişkiler kurma kabiliyeti kazanmış, büyük devletlerin saygı duyduğu bir Türkiye vardır.\" dedi.",
+          "yayin_tarihi": "Fri, 26 Jun 2026 15:55:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Cumhurbaşkanı Erdoğan: Ülkesi ve milleti için hayırlı bir iş yapmak isteyenleri bünyemize katmaya devam edeceğiz",
           "kaynak": "www.trthaber.com",
@@ -28,35 +44,19 @@
           "ozet": "Ankara Valiliği, 7-8 Temmuz'da düzenlenecek 36. NATO Zirvesi kapsamında, 28 Haziran-10 Temmuz tarihleri arasında kent genelinde toplantı, gösteri yürüyüşü, basın açıklaması ve benzeri etkinliklerin yasaklandığını belirtti.",
           "yayin_tarihi": "Mon, 22 Jun 2026 22:34:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Trump'tan İran'a uyarı: Uygun davranmazsa gerekeni yaparım",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/trumptan-irana-uyari-uygun-davranmazsa-gerekeni-yaparim-949008.html",
-          "ozet": "ABD Başkanı Donald Trump, İran ile yürütülen sürecin olumlu ilerlediğine dikkat çekerek \"Eğer İran anlaşmanın gereklerini yerine getirmez ya da uygun davranmazsa, yapmam gerekeni yaparım\" dedi.",
-          "yayin_tarihi": "Tue, 23 Jun 2026 00:37:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Türk SİHAlarına yeni görev: Dünyada çok az ülke yapabiliyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/savunma/turk-sihalarina-yeni-gorev-dunyada-cok-az-ulke-yapabiliyor-948926.html",
-          "ozet": "Dünyanın önde gelen S/İHA üreticilerinden Türkiye geçtiğimiz günlerde yine bir ilke imza attı. Donanmaya bağlı insansız sistemler elektronik destek ve elektronik taarruz podlarıyla göreve çıktı. Dünyada bunu yapabilen ülke sayısı bir elin parmaklarını geçmiyor. NATO için de çok kritik olan bu kabiliyet Ankara’nın elini daha da güçlendirecek.",
-          "yayin_tarihi": "Mon, 22 Jun 2026 11:00:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-06-26T09:39:04.617373"
+      "taranma_zamani": "2026-06-27T08:44:32.055108"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "How Three Months of War Changed the Gulf Forever",
+          "baslik": "U.S. Strikes Iran in Retaliation for Attack on Vessel in Strait of Hormuz",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/26/world/middleeast/gulf-changed-forever-iran-war.html",
-          "ozet": "Facing an emerging U.S.-Iran deal that leaves them vulnerable, Gulf Arab countries are reshaping their defense strategies, economies and trade routes.",
-          "yayin_tarihi": "Fri, 26 Jun 2026 09:01:04 +0000",
+          "url": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
+          "ozet": "President Trump on Friday called Iran’s attack on a container ship transiting the Strait of Hormuz a day earlier a “foolish” act.",
+          "yayin_tarihi": "Sat, 27 Jun 2026 01:36:11 +0000",
           "dil": "İngilizce"
         },
         {
@@ -64,15 +64,15 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/06/26/world/europe/zelensky-belarus-drones-relay.html",
           "ozet": "Ukrainian officials say their northern neighbor is allowing its radio relay stations to be used to guide Russian attack drones more precisely.",
-          "yayin_tarihi": "Fri, 26 Jun 2026 08:38:33 +0000",
+          "yayin_tarihi": "Fri, 26 Jun 2026 08:38:34 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iran’s Long World Cup Journey Defined by War and Political Tension",
+          "baslik": "How Three Months of War Changed the Gulf Forever",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/26/world/middleeast/world-cup-iran-mexico.html",
-          "ozet": "A win or draw against Egypt on Friday, and the team’s unusual journey will continue.",
-          "yayin_tarihi": "Fri, 26 Jun 2026 09:01:44 +0000",
+          "url": "https://www.nytimes.com/2026/06/26/world/middleeast/gulf-changed-forever-iran-war.html",
+          "ozet": "Facing an emerging U.S.-Iran deal that leaves them vulnerable, Gulf Arab countries are reshaping their defense strategies, economies and trade routes.",
+          "yayin_tarihi": "Fri, 26 Jun 2026 09:01:04 +0000",
           "dil": "İngilizce"
         },
         {
@@ -84,66 +84,66 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iraq’s New Leader Faces Resistance Trying to Bring Militias Under State Control",
+          "baslik": "Ukrainian Attacks Spur State of Emergency Declaration in Crimea",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iraq-militias-state-control.html",
-          "ozet": "The Trump administration has demanded that Iraqi leaders distance themselves from Iran and rein in Iran-linked militias that are outside of government control.",
-          "yayin_tarihi": "Fri, 26 Jun 2026 09:12:02 +0000",
+          "url": "https://www.nytimes.com/2026/06/26/world/europe/crimea-ukraine-state-emergency.html",
+          "ozet": "Weeks of intense strikes by Ukraine have rattled everyday life in Crimea to an extent unseen since Russia illegally annexed the peninsula in 2014.",
+          "yayin_tarihi": "Fri, 26 Jun 2026 17:06:55 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-06-26T09:39:04.617387"
+      "taranma_zamani": "2026-06-27T08:44:32.055130"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia currently has sufficient fuel reserves — Novak",
+          "baslik": "National teams of Egypt, Iran play to draw in World Cup group stage match",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2151883",
-          "ozet": "The authorities are currently restructuring logistics within the fuel market to meet demand, the Russian deputy prime minister said",
-          "yayin_tarihi": "Fri, 26 Jun 2026 12:29:55 +0300",
+          "url": "https://tass.com/sports/2152315",
+          "ozet": "In the Group G standings, the Egyptian national team finished second with five points",
+          "yayin_tarihi": "Sat, 27 Jun 2026 11:19:01 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russians’ trust in Putin approaches 77% — poll",
+          "baslik": "Drones that attacked Moscow assembled through cooperation of NATO countries — expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/society/2151881",
-          "ozet": "The activities of the Russian government are approved by 45.9% of respondents",
-          "yayin_tarihi": "Fri, 26 Jun 2026 12:25:59 +0300",
+          "url": "https://tass.com/politics/2152311",
+          "ozet": "The origins of the components and systems powering the examined drones have been identified, the unmanned aircraft expert and general designer at Russia’s Center for Integrated Unmanned Solutions Dmitry Kuzyakin said",
+          "yayin_tarihi": "Sat, 27 Jun 2026 10:56:35 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "EU Commission suggests restricting temporary protection for combat-fit Ukrainians",
+          "baslik": "INTERVIEW: Eurasian security architecture open to all European countries — Russian MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2151877",
-          "ozet": "Commissioner for Home Affairs and Migration Magnus Brunner said the proposal provides that temporary protection should not be granted to newly arriving persons who are not allowed to leave Ukraine",
-          "yayin_tarihi": "Fri, 26 Jun 2026 12:05:44 +0300",
+          "url": "https://tass.com/politics/2152305",
+          "ozet": "Any European country can become such a participant, Ambassador-at-Large Alexander Trofimov said",
+          "yayin_tarihi": "Sat, 27 Jun 2026 10:20:00 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian stocks down as main trading session opens",
+          "baslik": "Russian partners sometimes compelled to comply with sanctions detriment of development",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2151875",
-          "ozet": "As of 10:15 a.m. Moscow time, the indices were down by 1.31% at 2,227.67 and 927.82 points, respectively",
-          "yayin_tarihi": "Fri, 26 Jun 2026 12:00:07 +0300",
+          "url": "https://tass.com/politics/2152303",
+          "ozet": "They are frequently compelled to adhere to existing rules and standards, Russian Foreign Ministry’s Ambassador-at-Large Alexander Trofimov said",
+          "yayin_tarihi": "Sat, 27 Jun 2026 10:14:45 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian deputy PM Novak to hold meeting on fuel market, diesel export ban to be discussed",
+          "baslik": "Moscow not raising issue of lifting sanctions but does not accept them as norm — MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2151871",
-          "ozet": "In early June, the Russian government imposed a temporary ban on the export of aviation kerosene, which will remain in effect until November 30, 2026",
-          "yayin_tarihi": "Fri, 26 Jun 2026 11:56:52 +0300",
+          "url": "https://tass.com/politics/2152301",
+          "ozet": "The practice of unilateral coercive measures violates the UN Charter, which is why Russia, together with like-minded nations from the global majority, raises this issue in multilateral forums, Ambassador-at-Large Alexander Trofimov said",
+          "yayin_tarihi": "Sat, 27 Jun 2026 10:00:58 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-06-26T09:39:04.617410"
+      "taranma_zamani": "2026-06-27T08:44:32.055159"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-06-26T09:39:04.617412"
+      "taranma_zamani": "2026-06-27T08:44:32.055161"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-06-26T09:39:04.617590"
+      "taranma_zamani": "2026-06-27T08:44:32.055321"
     }
   }
 }
