@@ -1,62 +1,86 @@
 {
-  "olusturma_tarihi": "2026-06-27",
-  "olusturma_zamani": "2026-06-27T08:44:32.055351",
+  "olusturma_tarihi": "2026-06-28",
+  "olusturma_zamani": "2026-06-28T09:20:11.425154",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
+          "baslik": "Türkiye'nin yardım eli Venezuela'da",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/turkiyenin-yardim-eli-venezuelada-949556.html",
+          "ozet": "Büyük depremlerle sarsılan Venezuela'ya ulaşan Türk arama kurtarma ekipleri, enkaz altında kalanlara ulaşmak için çalışmalarına başladı. Ekipler, \"Türk halkının yardımseverliğini ve dostluğunu getirdik\" mesajını verdi.",
+          "yayin_tarihi": "Sun, 28 Jun 2026 09:26:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Bakırköy'de dere yatağında binlerce ölü balık bulundu",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/bakirkoyde-dere-yataginda-binlerce-olu-balik-bulundu-949557.html",
+          "ozet": "İstanbul'un Bakırköy ilçesinde sahile bağlantısı bulunan dere yatağında çok sayıda ölü balık tespit edildi. AFAD, Sahil Güvenlik ve belediye ekipleri bölgede inceleme yaparken, sudan alınan numuneler analiz için laboratuvara gönderildi.",
+          "yayin_tarihi": "Sun, 28 Jun 2026 09:31:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "İletişim Başkanı Duran: Daha adil bir dünyayı gerçekleştirmek için çabalamak gerekiyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-daha-adil-bir-dunyayi-gerceklestirmek-icin-cabalamak-gerekiyor-949558.html",
+          "ozet": "İletişim Başkanı Burhanettin Duran, Türkiye'nin kendi modernitesini üreten bir tecrübeye sahip olduğunu belirterek, \"Dünyaya daha adil bir dünyayı gerçekleştirmek için çabalamak gerekiyor\" dedi.",
+          "yayin_tarihi": "Sun, 28 Jun 2026 09:42:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Viranşehir'deki sahipsiz köpek saldırısıyla ilgili müfettiş görevlendirildi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/viransehirdeki-sahipsiz-kopek-saldirisiyla-ilgili-mufettis-gorevlendirildi-949532.html",
+          "ozet": "İçişleri Bakanlığı, Viranşehir'deki sahipsiz köpek saldırısıyla ilgili Bakan Mustafa Çiftçi'nin talimatıyla mülkiye müfettişi görevlendirildiğini duyurdu.",
+          "yayin_tarihi": "Sat, 27 Jun 2026 15:48:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
           "baslik": "Türkiye, Venezuela'ya destek için yola çıktı",
           "kaynak": "www.trthaber.com",
           "url": "https://www.trthaber.com/haber/gundem/turkiye-venezuelaya-destek-icin-yola-cikti-949391.html",
-          "ozet": "Venezuela'da meydana gelen şiddetli depremlerin ardından, Türkiye'den bölgeye arama kurtarma ve insani yardım ekiplerini taşıyacak askeri uçak bugün İstanbul Atatürk Havalimanı’ndan hareket etti.",
+          "ozet": "Venezuela'da meydana gelen şiddetli depremlerin ardından, AFAD ekipleri ve Türk Silahlı Kuvvetleri İnsani Yardım Tugay Komutanlığı'na bağlı arama kurtarma timleri, yardım faaliyetlerinde bulunmak üzere bölgeye gitti.",
           "yayin_tarihi": "Fri, 26 Jun 2026 10:15:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Cumhurbaşkanı Erdoğan: Artık her alanda dünya ile bütünleşmiş bir Türkiye var",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/ekonomi/cumhurbaskani-erdogan-artik-her-alanda-dunya-ile-butunlesmis-bir-turkiye-var-949444.html",
-          "ozet": "Cumhurbaşkanı Erdoğan, \"Türkiye dünün kendi içine kapanık Türkiyesi de değildir. Artık her alanda dünya ile bütünleşmiş, göz hizasında ilişkiler kurma kabiliyeti kazanmış, büyük devletlerin saygı duyduğu bir Türkiye vardır.\" dedi.",
-          "yayin_tarihi": "Fri, 26 Jun 2026 15:55:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Cumhurbaşkanı Erdoğan: Ülkesi ve milleti için hayırlı bir iş yapmak isteyenleri bünyemize katmaya devam edeceğiz",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-ulkesi-ve-milleti-icin-hayirli-bir-is-yapmak-isteyenleri-bunyemize-katmaya-devam-edecegiz-949320.html",
-          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, 11 milyon 500 bini aşkın üyeyle dünyanın en büyük, en yaygın siyasi hareketlerinden biri olduklarını belirterek \"İlkelerimizi benimseyen, huzurlu ve saygılı bir atmosferde ülkesi ve milleti için hayırlı bir iş yapmak isteyenleri bünyemize katmaya devam edeceğiz.\" ifadelerini kullandı.",
-          "yayin_tarihi": "Thu, 25 Jun 2026 15:26:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Avrupa projelerinde kara bulutlar: Türkiye NATOya örnek olabilir",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/avrupa-projelerinde-kara-bulutlar-turkiye-natoya-ornek-olabilir-949272.html",
-          "ozet": "Fransa ile ortak savaş uçağı projesinden çekilen Almanya’ya bir kötü haber de savaş gemilerinden geldi. Hollandalı üreticinin yaşadığı sorunlar nedeniyle Berlin yönetimi F-126 firkateyn projesinden de çekildi. Çin’in ardından dünyada aynı anda en fazla savaş gemisi üreten Türkiye, NATO ve AB ülkelerine örnek olabilir.",
-          "yayin_tarihi": "Thu, 25 Jun 2026 10:00:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Ankara'da NATO Zirvesi tedbirleri kapsamında bazı etkinlikler yasaklandı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/ankarada-nato-zirvesi-tedbirleri-kapsaminda-bazi-etkinlikler-yasaklandi-949002.html",
-          "ozet": "Ankara Valiliği, 7-8 Temmuz'da düzenlenecek 36. NATO Zirvesi kapsamında, 28 Haziran-10 Temmuz tarihleri arasında kent genelinde toplantı, gösteri yürüyüşü, basın açıklaması ve benzeri etkinliklerin yasaklandığını belirtti.",
-          "yayin_tarihi": "Mon, 22 Jun 2026 22:34:00 +0300",
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-06-27T08:44:32.055108"
+      "taranma_zamani": "2026-06-28T09:20:11.424907"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "U.S. Strikes Iran in Retaliation for Attack on Vessel in Strait of Hormuz",
+          "baslik": "China Confirms Death of Pilot Who Flew Small Plane Into Beijing’s Tallest Tower",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
-          "ozet": "President Trump on Friday called Iran’s attack on a container ship transiting the Strait of Hormuz a day earlier a “foolish” act.",
-          "yayin_tarihi": "Sat, 27 Jun 2026 01:36:11 +0000",
+          "url": "https://www.nytimes.com/2026/06/28/world/asia/china-pilot-died-plane-crash-beijing.html",
+          "ozet": "The statement came a day after online images showed falling debris and plane parts. Another 13 were injured in the incident five miles from Communist Party headquarters.",
+          "yayin_tarihi": "Sun, 28 Jun 2026 07:22:05 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/06/28/world/asia/sri-lanka-dengue-mosquito-drones-military.html",
+          "ozet": "The military has joined the battle against the insects, as an outbreak strains hospitals in a country already reeling from energy shortages caused by the Iran War.",
+          "yayin_tarihi": "Sun, 28 Jun 2026 04:00:06 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "U.S. and Iran Trade More Strikes, Testing Truce",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
+          "ozet": "U.S. forces carried out more airstrikes on Iran, calling them a retaliation for an attack on an oil tanker. Iran’s military later said it had attacked American targets in Bahrain and Kuwait.",
+          "yayin_tarihi": "Sun, 28 Jun 2026 09:01:04 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html",
+          "ozet": "Criticism of Israel’s war in Gaza, anger over the Iran war and election results in New York all suggest Israel’s solid support from Washington may be on borrowed time.",
+          "yayin_tarihi": "Sat, 27 Jun 2026 15:16:58 +0000",
           "dil": "İngilizce"
         },
         {
@@ -66,84 +90,60 @@
           "ozet": "Ukrainian officials say their northern neighbor is allowing its radio relay stations to be used to guide Russian attack drones more precisely.",
           "yayin_tarihi": "Fri, 26 Jun 2026 08:38:34 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "How Three Months of War Changed the Gulf Forever",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/26/world/middleeast/gulf-changed-forever-iran-war.html",
-          "ozet": "Facing an emerging U.S.-Iran deal that leaves them vulnerable, Gulf Arab countries are reshaping their defense strategies, economies and trade routes.",
-          "yayin_tarihi": "Fri, 26 Jun 2026 09:01:04 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "A $2.5 Billion Whodunit: The Hack That Dented the U.K. Economy",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/26/world/europe/jaguar-russia-hack.html",
-          "ozet": "A loose collective of cybercriminals initially took credit for crippling Jaguar Land Rover last year. Investigators now see Russian hands behind the ransomware attack.",
-          "yayin_tarihi": "Fri, 26 Jun 2026 07:03:36 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Ukrainian Attacks Spur State of Emergency Declaration in Crimea",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/26/world/europe/crimea-ukraine-state-emergency.html",
-          "ozet": "Weeks of intense strikes by Ukraine have rattled everyday life in Crimea to an extent unseen since Russia illegally annexed the peninsula in 2014.",
-          "yayin_tarihi": "Fri, 26 Jun 2026 17:06:55 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-06-27T08:44:32.055130"
+      "taranma_zamani": "2026-06-28T09:20:11.424926"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "National teams of Egypt, Iran play to draw in World Cup group stage match",
+          "baslik": "Iranian attack damages residential building — Bahraini Interior Ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/sports/2152315",
-          "ozet": "In the Group G standings, the Egyptian national team finished second with five points",
-          "yayin_tarihi": "Sat, 27 Jun 2026 11:19:01 +0300",
+          "url": "https://tass.com/world/2152553",
+          "ozet": "There were no casualties",
+          "yayin_tarihi": "Sun, 28 Jun 2026 10:56:03 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Drones that attacked Moscow assembled through cooperation of NATO countries — expert",
+          "baslik": "Ukrainian attacks leave one civilian dead in Russia’s Belgorod Region in past day",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2152311",
-          "ozet": "The origins of the components and systems powering the examined drones have been identified, the unmanned aircraft expert and general designer at Russia’s Center for Integrated Unmanned Solutions Dmitry Kuzyakin said",
-          "yayin_tarihi": "Sat, 27 Jun 2026 10:56:35 +0300",
+          "url": "https://tass.com/emergencies/2152541",
+          "ozet": "The Ukrainian armed forces carried out 64 attacks on the Belgorod Region in the past 24 hours",
+          "yayin_tarihi": "Sun, 28 Jun 2026 09:30:03 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "INTERVIEW: Eurasian security architecture open to all European countries — Russian MFA",
+          "baslik": "US attacks violate agreements with Tehran — Iranian MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2152305",
-          "ozet": "Any European country can become such a participant, Ambassador-at-Large Alexander Trofimov said",
-          "yayin_tarihi": "Sat, 27 Jun 2026 10:20:00 +0300",
+          "url": "https://tass.com/world/2152539",
+          "ozet": "The Foreign Ministry stressed that Iran remained committed to defending its national sovereignty and territorial integrity in accordance with Article 51 of the UN Charter",
+          "yayin_tarihi": "Sun, 28 Jun 2026 09:03:12 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian partners sometimes compelled to comply with sanctions detriment of development",
+          "baslik": "Ukraine hopes to get at least $154 billion from its Western allies by 2030",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2152303",
-          "ozet": "They are frequently compelled to adhere to existing rules and standards, Russian Foreign Ministry’s Ambassador-at-Large Alexander Trofimov said",
-          "yayin_tarihi": "Sat, 27 Jun 2026 10:14:45 +0300",
+          "url": "https://tass.com/world/2152529",
+          "ozet": "The Finance Ministry estimates that the country will need $46.4 billion in 2026 to maintain the functioning of its governmental bodies",
+          "yayin_tarihi": "Sun, 28 Jun 2026 07:29:55 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Moscow not raising issue of lifting sanctions but does not accept them as norm — MFA",
+          "baslik": "At least one killed by falling drone fragments in south Russia",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2152301",
-          "ozet": "The practice of unilateral coercive measures violates the UN Charter, which is why Russia, together with like-minded nations from the global majority, raises this issue in multilateral forums, Ambassador-at-Large Alexander Trofimov said",
-          "yayin_tarihi": "Sat, 27 Jun 2026 10:00:58 +0300",
+          "url": "https://tass.com/emergencies/2152527",
+          "ozet": "Several houses were damaged in Slavyansk-on-Kuban",
+          "yayin_tarihi": "Sun, 28 Jun 2026 07:07:47 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-06-27T08:44:32.055159"
+      "taranma_zamani": "2026-06-28T09:20:11.424944"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-06-27T08:44:32.055161"
+      "taranma_zamani": "2026-06-28T09:20:11.424947"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-06-27T08:44:32.055321"
+      "taranma_zamani": "2026-06-28T09:20:11.424953"
     }
   }
 }
