@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-06-29",
-  "olusturma_zamani": "2026-06-29T11:12:06.849210",
+  "olusturma_tarihi": "2026-06-30",
+  "olusturma_zamani": "2026-06-30T09:52:02.125917",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Sahipsiz köpek saldırıları sonrası 3 belediye başkanı hakkında işlem",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/sahipsiz-kopek-saldirilari-sonrasi-3-belediye-baskani-hakkinda-islem-949730.html",
+          "ozet": "İçişleri Bakanı Mustafa Çiftçi, AK Parti'li Narman Belediye Başkanına, CHP’li Köyceğiz Belediye Başkanına sokak köpeklerinin çocuklara saldırıp yaralaması sebebiyle soruşturma izni verdi. DEM’li Hilvan Belediye Başkanı hakkında da hayvan barınağı yapmadığı için araştırma ön inceleme başlattı.",
+          "yayin_tarihi": "Tue, 30 Jun 2026 08:43:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Türkiye yaraları sarmak için Venezuelada",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/turkiye-yaralari-sarmak-icin-venezuelada-949693.html",
+          "ozet": "Büyük depremlerle sarsılan Venezuela'ya ulaşan Türk arama kurtarma ekipleri, enkaz altında kalanlara ulaşmak için çalışmalarına başladı. İçişleri Bakanlığı, \"Bölgede ülkemizden görevlendirilen; 75 personelimiz, 5 arama kurtarma aracımız ve 6 arama kurtarma köpeğimiz görev yapıyor\" ifadelerini paylaştı.",
+          "yayin_tarihi": "Mon, 29 Jun 2026 19:50:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "KAAN NATO ülkelerine göz kırpıyor",
           "kaynak": "www.trthaber.com",
@@ -28,43 +44,27 @@
           "ozet": "İran basını, İran'ın son saldırılar ve yerine getirilmeyen şartlar nedeniyle ABD ile planlanan teknik görüşmelere katılmadığını açıkladı.",
           "yayin_tarihi": "Sun, 28 Jun 2026 23:02:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Trump: İran'da başlattığımız işi askeri olarak tamamlamak zorunda kalabiliriz",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/trump-iranda-baslattigimiz-isi-askeri-olarak-tamamlamak-zorunda-kalabiliriz-949554.html",
-          "ozet": "ABD Başkanı Donald Trump, ateşkesi ihlal ettiği gerekçesiyle İran'a yönelik saldırılara ilişkin, \"Artık makul olamayacağımız bir nokta gelebilir ve başarıyla başlattığımız işi askeri olarak tamamlamak zorunda kalabiliriz. Bu olursa artık İran var olmaz.\" açıklamasında bulundu.",
-          "yayin_tarihi": "Sun, 28 Jun 2026 09:00:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Bakırköy'de dere yatağında binlerce ölü balık bulundu",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/bakirkoyde-dere-yataginda-binlerce-olu-balik-bulundu-949557.html",
-          "ozet": "İstanbul'un Bakırköy ilçesinde sahile bağlantısı bulunan dere yatağında çok sayıda ölü balık tespit edildi. AFAD, Sahil Güvenlik ve belediye ekipleri bölgede inceleme yaparken, sudan alınan numuneler analiz için laboratuvara gönderildi.",
-          "yayin_tarihi": "Sun, 28 Jun 2026 09:31:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-06-29T11:12:06.848916"
+      "taranma_zamani": "2026-06-30T09:52:02.125596"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Mideast Live Updates: U.S. Reaches Deal With Iran to Halt Attacks, Official Says",
+          "baslik": "Mideast Live Updates: U.S. and Iran Offer Conflicting Plans for Doha Talks",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes",
-          "ozet": "The agreement would allow vessels to move freely through the Strait of Hormuz, a U.S. official said. Iran has not confirmed the deal.",
-          "yayin_tarihi": "Mon, 29 Jun 2026 10:58:22 +0000",
+          "url": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
+          "ozet": "Iranian officials contradicted President Trump’s claim that representatives from the two countries would speak directly in Qatar’s capital on Tuesday.",
+          "yayin_tarihi": "Tue, 30 Jun 2026 09:28:24 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iran Risks Peace Talks With U.S. to Maintain Leverage Over Strait",
+          "baslik": "China Increases Military and Economic Pressure on Japan",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html",
-          "ozet": "Iran sees its control over the Strait of Hormuz as critical leverage in peace talks with the United States. It seems willing to risk the cease-fire to maintain that power.",
-          "yayin_tarihi": "Mon, 29 Jun 2026 09:23:04 +0000",
+          "url": "https://www.nytimes.com/2026/06/30/world/asia/china-japan-rare-earths-patrols.html",
+          "ozet": "Beijing’s latest pressure tactics include flying bombers near Japan, detaining businesspeople and restricting the exports of rare earths.",
+          "yayin_tarihi": "Tue, 30 Jun 2026 09:11:13 +0000",
           "dil": "İngilizce"
         },
         {
@@ -72,82 +72,90 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/06/29/world/europe/russia-ukraine-rhetoric.html",
           "ozet": "As Ukraine brings the war home to Russia, officials hesitate to designate shelters and blast sirens, downplaying the conflict’s consequences with euphemisms.",
-          "yayin_tarihi": "Mon, 29 Jun 2026 09:02:41 +0000",
+          "yayin_tarihi": "Mon, 29 Jun 2026 20:02:14 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Kazakhstan’s Leader Deepens U.S. Ties, Saying Trump Was ‘Sent by Heaven’",
+          "baslik": "Iran Risks Peace Talks With U.S. to Maintain Leverage Over Strait",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/28/world/asia/kazakhstan-trump.html",
-          "ozet": "The Central Asian nation is aggressively courting President Trump’s Washington to counterbalance its powerful neighbors, Russia and China.",
-          "yayin_tarihi": "Sun, 28 Jun 2026 09:39:19 +0000",
+          "url": "https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html",
+          "ozet": "Iran sees its control over the Strait of Hormuz as critical leverage in peace talks with the United States. It seems willing to risk the cease-fire to maintain that power.",
+          "yayin_tarihi": "Mon, 29 Jun 2026 12:34:39 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "China Confirms Death of Pilot Who Flew Small Plane Into Beijing’s Tallest Tower",
+          "baslik": "Moscow Is Attacked by Dozens of Drones, Its Mayor Says",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/28/world/asia/china-pilot-died-plane-crash-beijing.html",
-          "ozet": "The statement came a day after online images showed falling debris and plane parts. Another 13 were injured in the incident five miles from Communist Party headquarters.",
-          "yayin_tarihi": "Sun, 28 Jun 2026 07:22:05 +0000",
+          "url": "https://www.nytimes.com/2026/06/30/world/europe/moscow-drone-attack-russia-ukraine-war.html",
+          "ozet": "Sergei Sobyanin said the Russian military had shot down more than 60 drones. He did not report any injuries.",
+          "yayin_tarihi": "Tue, 30 Jun 2026 08:11:59 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-06-29T11:12:06.848935"
+      "taranma_zamani": "2026-06-30T09:52:02.125612"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Senior Iranian diplomat denies reports of consultations with US in Doha on June 30",
+          "baslik": "Fetisov announces preparations for hockey match featuring Russian, American legends",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2152957",
-          "ozet": "Consultations with Qatar continue as usual, Kazem Gharibabadi said",
-          "yayin_tarihi": "Mon, 29 Jun 2026 14:04:12 +0300",
+          "url": "https://tass.com/sports/2153425",
+          "ozet": "Vyacheslav Fetisov noted that such endeavors involving professional leagues are complex and require considerable time to implement",
+          "yayin_tarihi": "Tue, 30 Jun 2026 12:44:12 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Number of ships crossing Strait of Hormuz falls by 80% amid escalation — Bloomberg",
+          "baslik": "Expert does not rule out resumption of steady oil supplies through Hormuz by early August",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2152955",
-          "ozet": "This is due to carriers' concerns over the latest escalation of the conflict between the US and Iran",
-          "yayin_tarihi": "Mon, 29 Jun 2026 14:02:33 +0300",
+          "url": "https://tass.com/economy/2153411",
+          "ozet": "According to Alexey Belogoryev, uncertainty on the market persists because of the situation surrounding US-Iran negotiations, although market participants have already partially adapted to geopolitical risks",
+          "yayin_tarihi": "Tue, 30 Jun 2026 12:31:17 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Under Zelensky US biolabs in Ukraine start to conduct human experiments — politician",
+          "baslik": "Russia-Africa trade exceeded $27 bln in 2025 — Lavrov",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2152949",
-          "ozet": "Viktor Medvedchuk noted that human experiments began in 2019",
-          "yayin_tarihi": "Mon, 29 Jun 2026 13:54:34 +0300",
+          "url": "https://tass.com/politics/2153405",
+          "ozet": "The top Russian diplomat stressed that Russia and the countries of the continent continue to enrich their cooperation",
+          "yayin_tarihi": "Tue, 30 Jun 2026 12:19:46 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Europe risks entering heating season with lowest gas reserves in 15 years — FT",
+          "baslik": "Russia to open diplomatic missions in Gambia, Liberia, Togo, Union of Comoros — Lavrov",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2152945",
-          "ozet": "The current shortage is driven by the fallout from the conflict between the US and Iran, which halted liquefied natural gas supplies through the Strait of Hormuz and reduced production in Qatar and the UAE",
-          "yayin_tarihi": "Mon, 29 Jun 2026 13:51:48 +0300",
+          "url": "https://tass.com/politics/2153385",
+          "ozet": "The Russian foreign minister added that a new department for partnership with Africa was established",
+          "yayin_tarihi": "Tue, 30 Jun 2026 12:10:59 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Work on biological safety in Ukraine served as cover for biological weapons development",
+          "baslik": "Zelensky’s ‘pantheon of heroes’ move will cost Ukraine — former Polish PM",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2152933",
-          "ozet": "According to Viktor Medvedchuk, only an absolutely transparent investigation with granted access to documents and facilities, which the Ukrainian authorities have avoided and feared for many years, can resolve this problem",
-          "yayin_tarihi": "Mon, 29 Jun 2026 13:34:22 +0300",
+          "url": "https://tass.com/world/2153383",
+          "ozet": "Mateusz Morawiecki clarified that \"the cult of the UPA\" did not strengthen Ukraine, but rather, it weakened its authority, complicated relations with allies, and distanced Ukraine from Western integration",
+          "yayin_tarihi": "Tue, 30 Jun 2026 12:03:05 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-06-29T11:12:06.848957"
+      "taranma_zamani": "2026-06-30T09:52:02.125639"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-06-29T11:12:06.848960"
+      "taranma_zamani": "2026-06-30T09:52:02.125642"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "广州公交六年客流跌六成 番禺线司机罢工讨薪 ",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shehui/2026/06/30/china-guangzhou-bus-strike-unpaid-wages/",
+          "ozet": "广州番禺部分公交线路近期出现停运，司机罢工讨薪的消息随后在社交平台传播。中国媒体披露，广州常规公交近年客流持续下降，2025年日均客流量较2019年减少近六成，过去三年全市公交线路缩减逾百条。",
+          "yayin_tarihi": "Tue, 30 Jun 2026 04:32:51 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "连快递员都不安全了？AI如何冲击中国就业市场 ",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "国际劳工组织6月12日通过全球首部有关平台经济体面劳动的公约，中国代表团投下赞成票。人权组织指出，中国数以亿计零工工作者能否获得保障，关键不在官方承诺，而在他们是否拥有组织、表达和追责的权利。",
           "yayin_tarihi": "Mon, 22 Jun 2026 05:54:45 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "赖清德：愿和中国交流合作 台湾不接受统一不应被视为挑衅 ",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/06/18/china-taiwan-laichingte/",
-          "ozet": "赖清德18日和台湾的国际媒体会面，他强调，台湾守护国家安全，维护民主自由的生活方式，“不接受统一，也不接受中国共产党的统治，不应该被视为对中国的挑衅，或区域的麻烦制造者。”",
-          "yayin_tarihi": "Thu, 18 Jun 2026 08:51:51 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-06-29T11:12:06.848965"
+      "taranma_zamani": "2026-06-30T09:52:02.125647"
     }
   }
 }
