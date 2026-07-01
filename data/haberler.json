@@ -1,15 +1,31 @@
 {
-  "olusturma_tarihi": "2026-06-30",
-  "olusturma_zamani": "2026-06-30T09:52:02.125917",
+  "olusturma_tarihi": "2026-07-01",
+  "olusturma_zamani": "2026-07-01T10:00:49.266092",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
+          "baslik": "NATO'nun uydu haberleşmesi Türkiye'ye emanet",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/savunma/natonun-uydu-haberlesmesi-turkiyeye-emanet-949857.html",
+          "ozet": "NATO’nun en kritik kabiliyetlerinden biri olan uydu haberleşme sistemi Türkiye’de CTECH tarafından üretiliyor. NATO tarafından ‘dünyada sadece iki ülke yapabiliyor’ şeklinde duyurulan bu kritik teknoloji için çok sayıda ülke de Ankara’nın kapısını çalıyor…",
+          "yayin_tarihi": "Wed, 01 Jul 2026 11:00:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Depozito iade sistemi 81 ilde başlıyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/depozito-iade-sistemi-81-ilde-basliyor-949839.html",
+          "ozet": "Depozitosu Olan Ambalajlar sistemi, kısa adıyla DOA, Türkiye genelinde uygulamaya geçiyor. İade edilen her plastik, cam ve alüminyum içecek ambalajı için 1 lira teşvik bedeli ödenecek. Biriken tutarlar banka hesaplarına transfer edebilecek veya alışverişlerde kullanabilecek.",
+          "yayin_tarihi": "Wed, 01 Jul 2026 04:07:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
           "baslik": "Sahipsiz köpek saldırıları sonrası 3 belediye başkanı hakkında işlem",
           "kaynak": "www.trthaber.com",
           "url": "https://www.trthaber.com/haber/gundem/sahipsiz-kopek-saldirilari-sonrasi-3-belediye-baskani-hakkinda-islem-949730.html",
-          "ozet": "İçişleri Bakanı Mustafa Çiftçi, AK Parti'li Narman Belediye Başkanına, CHP’li Köyceğiz Belediye Başkanına sokak köpeklerinin çocuklara saldırıp yaralaması sebebiyle soruşturma izni verdi. DEM’li Hilvan Belediye Başkanı hakkında da hayvan barınağı yapmadığı için araştırma ön inceleme başlattı.",
+          "ozet": "İçişleri Bakanı Mustafa Çiftçi, AK Partili Narman Belediye Başkanına, CHP’li Köyceğiz Belediye Başkanına sokak köpeklerinin çocuklara saldırıp yaralaması sebebiyle soruşturma izni verdi. DEM’li Hilvan Belediye Başkanı hakkında da hayvan barınağı yapmadığı için araştırma ön inceleme başlattı.",
           "yayin_tarihi": "Tue, 30 Jun 2026 08:43:00 +0300",
           "dil": "Türkçe"
         },
@@ -28,122 +44,106 @@
           "ozet": "Son dönemlerde Avrupa ülkelerinin en büyük sorunlarından biri de ortak yürütülen savunma sanayii projelerindeki hayal kırıklıkları… Hava kuvvetlerinde ABD’nin F-35’inden kaçınmak isteyen ülkelerin alternatifi hayli az. ABD dışında yeni nesil bir savaş uçağını gökyüzüyle buluşturan tek NATO üyesi Türkiye ise çözüm için en güçlü adaylardan biri.",
           "yayin_tarihi": "Mon, 29 Jun 2026 10:00:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "ABD basını: İran ve ABD bu hafta teknik görüşmelere başlayacak",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/abd-basini-iran-ve-abd-bu-hafta-teknik-gorusmelere-baslayacak-949616.html",
-          "ozet": "İran ve ABD'nin, Hürmüz Boğazı çevresinde karşılıklı saldırılarını durdurarak bu hafta teknik görüşmelere başlama kararı aldığı iddia edildi.",
-          "yayin_tarihi": "Mon, 29 Jun 2026 00:33:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "İran basını: İran planlanan teknik görüşmeye katılmadı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/iran-basini-iran-planlanan-teknik-gorusmeye-katilmadi-949610.html",
-          "ozet": "İran basını, İran'ın son saldırılar ve yerine getirilmeyen şartlar nedeniyle ABD ile planlanan teknik görüşmelere katılmadığını açıkladı.",
-          "yayin_tarihi": "Sun, 28 Jun 2026 23:02:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-06-30T09:52:02.125596"
+      "taranma_zamani": "2026-07-01T10:00:49.265768"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Mideast Live Updates: U.S. and Iran Offer Conflicting Plans for Doha Talks",
+          "baslik": "How War Takes Its Toll on Ukraine’s Pregnant Women",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
-          "ozet": "Iranian officials contradicted President Trump’s claim that representatives from the two countries would speak directly in Qatar’s capital on Tuesday.",
-          "yayin_tarihi": "Tue, 30 Jun 2026 09:28:24 +0000",
+          "url": "https://www.nytimes.com/2026/07/01/world/europe/ukraine-war-pregnant-women-hospitals.html",
+          "ozet": "Bombings, blackouts and displacement compound maternal anxiety. Still, many women persevere. “We must bring new life,” one said.",
+          "yayin_tarihi": "Wed, 01 Jul 2026 09:00:19 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "China Increases Military and Economic Pressure on Japan",
+          "baslik": "After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/30/world/asia/china-japan-rare-earths-patrols.html",
-          "ozet": "Beijing’s latest pressure tactics include flying bombers near Japan, detaining businesspeople and restricting the exports of rare earths.",
-          "yayin_tarihi": "Tue, 30 Jun 2026 09:11:13 +0000",
+          "url": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
+          "ozet": "Under the proposal, Iran and Oman would collect payment for ships passing through the Strait of Hormuz, according to officials and diplomats with knowledge of the matter.",
+          "yayin_tarihi": "Tue, 30 Jun 2026 19:33:24 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Whatever You Do in Russia, Don’t Talk About the War",
+          "baslik": "Turkey as a Tango Destination? A Reporter Was Living That Story.",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/29/world/europe/russia-ukraine-rhetoric.html",
-          "ozet": "As Ukraine brings the war home to Russia, officials hesitate to designate shelters and blast sirens, downplaying the conflict’s consequences with euphemisms.",
-          "yayin_tarihi": "Mon, 29 Jun 2026 20:02:14 +0000",
+          "url": "https://www.nytimes.com/2026/07/01/world/middleeast/turkey-as-a-tango-destination-a-reporter-was-living-that-story.html",
+          "ozet": "A Times journalist profiled Istanbul’s thriving tango scene after finding herself transformed by the dance.",
+          "yayin_tarihi": "Wed, 01 Jul 2026 07:00:09 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iran Risks Peace Talks With U.S. to Maintain Leverage Over Strait",
+          "baslik": "China’s Plan to Save Jobs From A.I.",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html",
-          "ozet": "Iran sees its control over the Strait of Hormuz as critical leverage in peace talks with the United States. It seems willing to risk the cease-fire to maintain that power.",
-          "yayin_tarihi": "Mon, 29 Jun 2026 12:34:39 +0000",
+          "url": "https://www.nytimes.com/2026/06/30/world/china-ai-jobs-birthright-hormuz.html",
+          "ozet": "As it embeds the technology in every industry, China is thinking about how to keep humans employed.",
+          "yayin_tarihi": "Wed, 01 Jul 2026 04:42:12 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Moscow Is Attacked by Dozens of Drones, Its Mayor Says",
+          "baslik": "The 1968 Pact on Shipping Routes in the Strait of Hormuz That Iran Is Rejecting",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/30/world/europe/moscow-drone-attack-russia-ukraine-war.html",
-          "ozet": "Sergei Sobyanin said the Russian military had shot down more than 60 drones. He did not report any injuries.",
-          "yayin_tarihi": "Tue, 30 Jun 2026 08:11:59 +0000",
+          "url": "https://www.nytimes.com/2026/06/30/world/middleeast/the-1968-pact-on-shipping-routes-in-the-strait-of-hormuz-that-iran-is-rejecting.html",
+          "ozet": "For decades, a maritime agreement negotiated by Iran and Oman has governed the main pathways through the strait.",
+          "yayin_tarihi": "Tue, 30 Jun 2026 12:09:27 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-06-30T09:52:02.125612"
+      "taranma_zamani": "2026-07-01T10:00:49.265784"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Fetisov announces preparations for hockey match featuring Russian, American legends",
+          "baslik": "Tokyo bears responsibility for deteriorating China-Japan ties — Chinese Foreign Ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/sports/2153425",
-          "ozet": "Vyacheslav Fetisov noted that such endeavors involving professional leagues are complex and require considerable time to implement",
-          "yayin_tarihi": "Tue, 30 Jun 2026 12:44:12 +0300",
+          "url": "https://tass.com/world/2153899",
+          "ozet": "According to Chinese Foreign Ministry Spokesperson Guo Jiakun, Japan should \"correct its mistakes\" and demonstrate practical steps in its sincere desire to bring their relations back on the right track",
+          "yayin_tarihi": "Wed, 01 Jul 2026 12:48:23 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Expert does not rule out resumption of steady oil supplies through Hormuz by early August",
+          "baslik": "FACTBOX: Bank of Russia statements on cash demand, oil prices and key rate path",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2153411",
-          "ozet": "According to Alexey Belogoryev, uncertainty on the market persists because of the situation surrounding US-Iran negotiations, although market participants have already partially adapted to geopolitical risks",
-          "yayin_tarihi": "Tue, 30 Jun 2026 12:31:17 +0300",
+          "url": "https://tass.com/economy/2153895",
+          "ozet": "The regulator did not rule out a higher path for the key interest rate over the medium term",
+          "yayin_tarihi": "Wed, 01 Jul 2026 12:39:36 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia-Africa trade exceeded $27 bln in 2025 — Lavrov",
+          "baslik": "Europe to take more responsibility for itself, Ukraine in 'NATO 3.0' — Rutte",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2153405",
-          "ozet": "The top Russian diplomat stressed that Russia and the countries of the continent continue to enrich their cooperation",
-          "yayin_tarihi": "Tue, 30 Jun 2026 12:19:46 +0300",
+          "url": "https://tass.com/world/2153875",
+          "ozet": "The secretary general said the alliance will be \"a stronger European-led NATO\"",
+          "yayin_tarihi": "Wed, 01 Jul 2026 12:35:30 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia to open diplomatic missions in Gambia, Liberia, Togo, Union of Comoros — Lavrov",
+          "baslik": "China reiterates call to lift unilateral sanctions on Iran",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2153385",
-          "ozet": "The Russian foreign minister added that a new department for partnership with Africa was established",
-          "yayin_tarihi": "Tue, 30 Jun 2026 12:10:59 +0300",
+          "url": "https://tass.com/world/2153871",
+          "ozet": "According to Chinese Foreign Ministry Spokesperson Guo Jiakun, Beijing hopes that all parties will work together to implement the memorandum of understanding that has already been signed and continue talks",
+          "yayin_tarihi": "Wed, 01 Jul 2026 12:19:55 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Zelensky’s ‘pantheon of heroes’ move will cost Ukraine — former Polish PM",
+          "baslik": "Newly formed Russian mobile units assume combat duty to protect energy sites from drones",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2153383",
-          "ozet": "Mateusz Morawiecki clarified that \"the cult of the UPA\" did not strengthen Ukraine, but rather, it weakened its authority, complicated relations with allies, and distanced Ukraine from Western integration",
-          "yayin_tarihi": "Tue, 30 Jun 2026 12:03:05 +0300",
+          "url": "https://tass.com/defense/2153869",
+          "ozet": "During several weeks of training, the mobile fire groups honed the skills of protecting strategic facilities from aerial threats",
+          "yayin_tarihi": "Wed, 01 Jul 2026 12:18:18 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-06-30T09:52:02.125639"
+      "taranma_zamani": "2026-07-01T10:00:49.265810"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-06-30T09:52:02.125642"
+      "taranma_zamani": "2026-07-01T10:00:49.265812"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-06-30T09:52:02.125647"
+      "taranma_zamani": "2026-07-01T10:00:49.265817"
     }
   }
 }
