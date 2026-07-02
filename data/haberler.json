@@ -1,16 +1,32 @@
 {
-  "olusturma_tarihi": "2026-07-01",
-  "olusturma_zamani": "2026-07-01T10:00:49.266092",
+  "olusturma_tarihi": "2026-07-02",
+  "olusturma_zamani": "2026-07-02T09:23:45.129949",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "NATO'nun uydu haberleşmesi Türkiye'ye emanet",
+          "baslik": "GSB'nin 'Seyahatsever' projesine başvurular başladı",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/savunma/natonun-uydu-haberlesmesi-turkiyeye-emanet-949857.html",
-          "ozet": "NATO’nun en kritik kabiliyetlerinden biri olan uydu haberleşme sistemi Türkiye’de CTECH tarafından üretiliyor. NATO tarafından ‘dünyada sadece iki ülke yapabiliyor’ şeklinde duyurulan bu kritik teknoloji için çok sayıda ülke de Ankara’nın kapısını çalıyor…",
-          "yayin_tarihi": "Wed, 01 Jul 2026 11:00:00 +0300",
+          "url": "https://www.trthaber.com/haber/gundem/gsbnin-seyahatsever-projesine-basvurular-basladi-949999.html",
+          "ozet": "Gençlik ve Spor Bakanı Osman Aşkın Bak, gençlere GSB yurtlarında ücretsiz konaklama imkanı sunan \"Seyahatsever\" projesi için başvuruların başladığını duyurdu.",
+          "yayin_tarihi": "Thu, 02 Jul 2026 10:30:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Memur ve emeklinin zam oranları yarın belli oluyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/ekonomi/memur-ve-emeklinin-zam-oranlari-yarin-belli-oluyor-949976.html",
+          "ozet": "Milyonlarca memur, emekli ve sosyal yardım alıcısını ilgilendiren temmuz ayı maaş artış oranları, yarın açıklanacak haziran ayı enflasyon verileriyle kesinlik kazanacak. 5 aylık verilere göre SSK ve Bağ-Kur emeklileri için yüzde 16,61, memurlar için ise yüzde 12,41'lik artış şimdiden netleşti.",
+          "yayin_tarihi": "Thu, 02 Jul 2026 07:11:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "İletişim Başkanından medya ve akademiye 15 Temmuz çağrısı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/iletisim-baskanindan-medya-ve-akademiye-15-temmuz-cagrisi-949927.html",
+          "ozet": "İletişim Başkanı Prof. Dr. Burhanettin Duran, 15 Temmuz’un 10. yıl dönümünde, millî hafızanın güçlendirilmesi, Türkiye’nin demokrasi zaferinin kamuoyuna doğru şekilde aktarılması için medya ve akademiye önemli bir görev düştüğünü açıkladı.",
+          "yayin_tarihi": "Wed, 01 Jul 2026 16:34:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -28,126 +44,134 @@
           "ozet": "İçişleri Bakanı Mustafa Çiftçi, AK Partili Narman Belediye Başkanına, CHP’li Köyceğiz Belediye Başkanına sokak köpeklerinin çocuklara saldırıp yaralaması sebebiyle soruşturma izni verdi. DEM’li Hilvan Belediye Başkanı hakkında da hayvan barınağı yapmadığı için araştırma ön inceleme başlattı.",
           "yayin_tarihi": "Tue, 30 Jun 2026 08:43:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Türkiye yaraları sarmak için Venezuelada",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/turkiye-yaralari-sarmak-icin-venezuelada-949693.html",
-          "ozet": "Büyük depremlerle sarsılan Venezuela'ya ulaşan Türk arama kurtarma ekipleri, enkaz altında kalanlara ulaşmak için çalışmalarına başladı. İçişleri Bakanlığı, \"Bölgede ülkemizden görevlendirilen; 75 personelimiz, 5 arama kurtarma aracımız ve 6 arama kurtarma köpeğimiz görev yapıyor\" ifadelerini paylaştı.",
-          "yayin_tarihi": "Mon, 29 Jun 2026 19:50:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "KAAN NATO ülkelerine göz kırpıyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/kaan-nato-ulkelerine-goz-kirpiyor-949637.html",
-          "ozet": "Son dönemlerde Avrupa ülkelerinin en büyük sorunlarından biri de ortak yürütülen savunma sanayii projelerindeki hayal kırıklıkları… Hava kuvvetlerinde ABD’nin F-35’inden kaçınmak isteyen ülkelerin alternatifi hayli az. ABD dışında yeni nesil bir savaş uçağını gökyüzüyle buluşturan tek NATO üyesi Türkiye ise çözüm için en güçlü adaylardan biri.",
-          "yayin_tarihi": "Mon, 29 Jun 2026 10:00:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-01T10:00:49.265768"
+      "taranma_zamani": "2026-07-02T09:23:45.129708"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "How War Takes Its Toll on Ukraine’s Pregnant Women",
+          "baslik": "Underground Births, Under Bombardment: Childbearing in Ukraine",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/07/01/world/europe/ukraine-war-pregnant-women-hospitals.html",
           "ozet": "Bombings, blackouts and displacement compound maternal anxiety. Still, many women persevere. “We must bring new life,” one said.",
-          "yayin_tarihi": "Wed, 01 Jul 2026 09:00:19 +0000",
+          "yayin_tarihi": "Wed, 01 Jul 2026 12:33:26 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan",
+          "baslik": "U.S. and Iran Set to Hold Indirect Talks After Trading Attacks: What to Know",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
-          "ozet": "Under the proposal, Iran and Oman would collect payment for ships passing through the Strait of Hormuz, according to officials and diplomats with knowledge of the matter.",
-          "yayin_tarihi": "Tue, 30 Jun 2026 19:33:24 +0000",
+          "url": "https://www.nytimes.com/2026/07/01/world/middleeast/us-iran-diplomacy-qatar.html",
+          "ozet": "Negotiators are in Qatar for indirect talks and ship traffic has risen in the Strait of Hormuz, even as Tehran and Washington remain far apart on key issues. Here’s what to know.",
+          "yayin_tarihi": "Wed, 01 Jul 2026 17:20:08 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Turkey as a Tango Destination? A Reporter Was Living That Story.",
+          "baslik": "Mass Mournings,6 Days and 2 Countries: Iran Prepares to Bury Supreme Leader",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/01/world/middleeast/turkey-as-a-tango-destination-a-reporter-was-living-that-story.html",
-          "ozet": "A Times journalist profiled Istanbul’s thriving tango scene after finding herself transformed by the dance.",
-          "yayin_tarihi": "Wed, 01 Jul 2026 07:00:09 +0000",
+          "url": "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html",
+          "ozet": "Long-delayed funeral ceremonies for Ayatollah Ali Khamenei, killed during U.S.-Israeli strikes at the war’s outset, are set to begin Friday. For the regime, it is a critical moment to demonstrate that it has endured.",
+          "yayin_tarihi": "Thu, 02 Jul 2026 08:56:49 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "China’s Plan to Save Jobs From A.I.",
+          "baslik": "U.S. Says Iran May Swap Ideology For Investment. History Shows Otherwise",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/30/world/china-ai-jobs-birthright-hormuz.html",
-          "ozet": "As it embeds the technology in every industry, China is thinking about how to keep humans employed.",
-          "yayin_tarihi": "Wed, 01 Jul 2026 04:42:12 +0000",
+          "url": "https://www.nytimes.com/2026/07/02/world/middleeast/us-iran-negotiations-economy-opening-up.html",
+          "ozet": "Senior U.S. officials have said Iran would be richly rewarded for changing its stance on the United States. Iran’s leaders have rejected such a bargain in the past.",
+          "yayin_tarihi": "Thu, 02 Jul 2026 08:50:05 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "The 1968 Pact on Shipping Routes in the Strait of Hormuz That Iran Is Rejecting",
+          "baslik": "Drones over Europe raise concerns about Russian activities",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/06/30/world/middleeast/the-1968-pact-on-shipping-routes-in-the-strait-of-hormuz-that-iran-is-rejecting.html",
-          "ozet": "For decades, a maritime agreement negotiated by Iran and Oman has governed the main pathways through the strait.",
-          "yayin_tarihi": "Tue, 30 Jun 2026 12:09:27 +0000",
+          "url": "https://www.nytimes.com/2026/07/02/world/europe/drone-incursions-europe-russia.html",
+          "ozet": "A new study, backed up by analysts and political leaders, says frequent drone flights over NATO military assets mark a Russian campaign to probe defenses and gather information.",
+          "yayin_tarihi": "Thu, 02 Jul 2026 08:30:04 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-01T10:00:49.265784"
+      "taranma_zamani": "2026-07-02T09:23:45.129730"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Tokyo bears responsibility for deteriorating China-Japan ties — Chinese Foreign Ministry",
+          "baslik": "Moscow cannot ignore EU’s commitment to confrontation with Russia — Kremlin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2153899",
-          "ozet": "According to Chinese Foreign Ministry Spokesperson Guo Jiakun, Japan should \"correct its mistakes\" and demonstrate practical steps in its sincere desire to bring their relations back on the right track",
-          "yayin_tarihi": "Wed, 01 Jul 2026 12:48:23 +0300",
+          "url": "https://tass.com/politics/2154373",
+          "ozet": "Dmitry Peskov believes it is clear that Europe is escalating tensions with Russia",
+          "yayin_tarihi": "Thu, 02 Jul 2026 12:15:36 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "FACTBOX: Bank of Russia statements on cash demand, oil prices and key rate path",
+          "baslik": "Russian-Moroccan Arts Festival opens in Rabat",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2153895",
-          "ozet": "The regulator did not rule out a higher path for the key interest rate over the medium term",
-          "yayin_tarihi": "Wed, 01 Jul 2026 12:39:36 +0300",
+          "url": "https://tass.com/politics/2154369",
+          "ozet": "In the opening ceremony Russia's newly appointed Ambassador to Morocco Igor Belyayev addressed the participants and guests of the exhibition",
+          "yayin_tarihi": "Thu, 02 Jul 2026 12:14:12 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Europe to take more responsibility for itself, Ukraine in 'NATO 3.0' — Rutte",
+          "baslik": "There can be no compromise on addressing root causes of conflict in Ukraine — senator",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2153875",
-          "ozet": "The secretary general said the alliance will be \"a stronger European-led NATO\"",
-          "yayin_tarihi": "Wed, 01 Jul 2026 12:35:30 +0300",
+          "url": "https://tass.com/politics/2154363",
+          "ozet": "Konstantin Kosachev recalled that Russia had demonstrated a willingness to compromise in the past",
+          "yayin_tarihi": "Thu, 02 Jul 2026 12:11:08 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "China reiterates call to lift unilateral sanctions on Iran",
+          "baslik": "Ukrainian drone attack on Nizhny Novgorod Region kills one as Russia downs 327 UAVs",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2153871",
-          "ozet": "According to Chinese Foreign Ministry Spokesperson Guo Jiakun, Beijing hopes that all parties will work together to implement the memorandum of understanding that has already been signed and continue talks",
-          "yayin_tarihi": "Wed, 01 Jul 2026 12:19:55 +0300",
+          "url": "https://tass.com/politics/2154357",
+          "ozet": "More than 25 drones were destroyed over six districts in southern Russia’s Rostov Region, Governor Yury Slyusar reported",
+          "yayin_tarihi": "Thu, 02 Jul 2026 12:06:03 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Newly formed Russian mobile units assume combat duty to protect energy sites from drones",
+          "baslik": "Russian forces hit Kiev facility that manufactures Flamingo missile control systems",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2153869",
-          "ozet": "During several weeks of training, the mobile fire groups honed the skills of protecting strategic facilities from aerial threats",
-          "yayin_tarihi": "Wed, 01 Jul 2026 12:18:18 +0300",
+          "url": "https://tass.com/politics/2154355",
+          "ozet": "The Russian forces delivered the strike in retaliation to the Kiev regime’s attacks on civilian infrastructure on Russian territory",
+          "yayin_tarihi": "Thu, 02 Jul 2026 12:03:11 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-01T10:00:49.265810"
+      "taranma_zamani": "2026-07-02T09:23:45.129756"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-01T10:00:49.265812"
+      "taranma_zamani": "2026-07-02T09:23:45.129758"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "习近平七一讲话强调斗争 要求全党坚持底线思维",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/2026/07/02/ccp-xi-jinping-anniversary-struggle/",
+          "ozet": "中共总书记习近平7月1日在北京举行的庆祝中国共产党成立105周年大会上发表讲话，中共中央政治局常委出席会议。习近平要求全党坚持底线思维，全文8次提到“斗争”。这篇讲话也突出风险、安全和党内动员.",
+          "yayin_tarihi": "Thu, 02 Jul 2026 07:20:41 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "七一党庆前小飞机撞北京高楼 为什么网络很快“被”安静了？",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shehui/2026/07/02/china-beijing-plane-crash-highrise/",
+          "ozet": "在敏感的北京和七一时间点，小飞机撞“中国尊”事件，除了“事故正在调查中”的通报之外，中国网络再也搜索不到进一步信息。专家评论：“现在中国最重要的，在他们认为，是让这件事情好像没有发生过一样。可是纸包不了火，让各界更加怀疑内情不单纯",
+          "yayin_tarihi": "Thu, 02 Jul 2026 02:14:36 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "专访李老师不是你老师：“没有人是安全的\"",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/2026/07/01/china-transnational-repression-whyyoutouzhele/",
+          "ozet": "对许多离开中国的人来说，跨越国境，并不意味着恐惧就此结束。近年来，这类现象越来越多地被国际人权组织、研究机构和媒体称为\"跨国镇压\"。",
+          "yayin_tarihi": "Wed, 01 Jul 2026 11:17:43 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "广州公交六年客流跌六成 番禺线司机罢工讨薪 ",
           "kaynak": "www.rfa.org",
@@ -163,33 +187,9 @@
           "ozet": "京东创始人刘强东近日表示，未来快递员和外卖员等岗位，最终可能由机器人完成。它触及了许多人对于就业和未来的担忧。",
           "yayin_tarihi": "Sun, 28 Jun 2026 16:14:45 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "中国民族团结法将实施 律师指境外追责不符法理",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/06/25/china-ethnic-unity-law-longarm-jurisdiction/",
-          "ozet": "中国《民族团结进步促进法》将于7月1日起实施。中国官方在北京举行记者会，回应外界对新疆强迫劳动、西藏寄宿学校、少数民族语言文字及境外追责条款的质疑。受访者认为，该法将中共民族政策法律化，缺乏法理依据。",
-          "yayin_tarihi": "Thu, 25 Jun 2026 10:19:17 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "乐视流出档案披露中国网络审查细节",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/06/24/china-censorship-network-surveillance-leshi/",
-          "ozet": "一批被称为“乐视审查指令”的中国网络内容管控内部档案近日公开。这批材料由中国数字时代整理后收入中国数字空间“真理馆”，时间从2017年3月2日至2020年3月10日，公开收录718条。",
-          "yayin_tarihi": "Wed, 24 Jun 2026 07:56:44 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "中国支持平台经济公约 零工组织权成焦点",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/06/22/china-gig-workers-platform-economy/",
-          "ozet": "国际劳工组织6月12日通过全球首部有关平台经济体面劳动的公约，中国代表团投下赞成票。人权组织指出，中国数以亿计零工工作者能否获得保障，关键不在官方承诺，而在他们是否拥有组织、表达和追责的权利。",
-          "yayin_tarihi": "Mon, 22 Jun 2026 05:54:45 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-01T10:00:49.265817"
+      "taranma_zamani": "2026-07-02T09:23:45.129763"
     }
   }
 }
