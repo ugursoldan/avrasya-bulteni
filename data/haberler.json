@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-07-02",
-  "olusturma_zamani": "2026-07-02T09:23:45.129949",
+  "olusturma_tarihi": "2026-07-03",
+  "olusturma_zamani": "2026-07-03T09:28:23.474317",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Enflasyon rakamları açıklandı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/ekonomi/enflasyon-rakamlari-aciklandi-950123.html",
+          "ozet": "Tüketici Fiyat Endeksi (TÜFE), haziranda aylık bazda yüzde 0,99, yılık bazda yüzde 32,11 olarak gerçekleşti.",
+          "yayin_tarihi": "Fri, 03 Jul 2026 10:00:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "GSB'nin 'Seyahatsever' projesine başvurular başladı",
           "kaynak": "www.trthaber.com",
@@ -36,114 +44,106 @@
           "ozet": "Depozitosu Olan Ambalajlar sistemi, kısa adıyla DOA, Türkiye genelinde uygulamaya geçiyor. İade edilen her plastik, cam ve alüminyum içecek ambalajı için 1 lira teşvik bedeli ödenecek. Biriken tutarlar banka hesaplarına transfer edebilecek veya alışverişlerde kullanabilecek.",
           "yayin_tarihi": "Wed, 01 Jul 2026 04:07:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Sahipsiz köpek saldırıları sonrası 3 belediye başkanı hakkında işlem",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/sahipsiz-kopek-saldirilari-sonrasi-3-belediye-baskani-hakkinda-islem-949730.html",
-          "ozet": "İçişleri Bakanı Mustafa Çiftçi, AK Partili Narman Belediye Başkanına, CHP’li Köyceğiz Belediye Başkanına sokak köpeklerinin çocuklara saldırıp yaralaması sebebiyle soruşturma izni verdi. DEM’li Hilvan Belediye Başkanı hakkında da hayvan barınağı yapmadığı için araştırma ön inceleme başlattı.",
-          "yayin_tarihi": "Tue, 30 Jun 2026 08:43:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-02T09:23:45.129708"
+      "taranma_zamani": "2026-07-03T09:28:23.474075"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Underground Births, Under Bombardment: Childbearing in Ukraine",
+          "baslik": "Russia Hammers Ukraine’s Capital in Deadly Attacks",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/01/world/europe/ukraine-war-pregnant-women-hospitals.html",
-          "ozet": "Bombings, blackouts and displacement compound maternal anxiety. Still, many women persevere. “We must bring new life,” one said.",
-          "yayin_tarihi": "Wed, 01 Jul 2026 12:33:26 +0000",
+          "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack",
+          "ozet": "At least 21 people were killed in Kyiv, the local authorities said. Ukraine’s president had warned that Moscow was preparing a “massive strike” as his country’s forces have hit deeper into Russian territory.",
+          "yayin_tarihi": "Fri, 03 Jul 2026 02:52:25 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "U.S. and Iran Set to Hold Indirect Talks After Trading Attacks: What to Know",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/01/world/middleeast/us-iran-diplomacy-qatar.html",
-          "ozet": "Negotiators are in Qatar for indirect talks and ship traffic has risen in the Strait of Hormuz, even as Tehran and Washington remain far apart on key issues. Here’s what to know.",
-          "yayin_tarihi": "Wed, 01 Jul 2026 17:20:08 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Mass Mournings,6 Days and 2 Countries: Iran Prepares to Bury Supreme Leader",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html",
-          "ozet": "Long-delayed funeral ceremonies for Ayatollah Ali Khamenei, killed during U.S.-Israeli strikes at the war’s outset, are set to begin Friday. For the regime, it is a critical moment to demonstrate that it has endured.",
-          "yayin_tarihi": "Thu, 02 Jul 2026 08:56:49 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "U.S. Says Iran May Swap Ideology For Investment. History Shows Otherwise",
+          "baslik": "U.S. Hopes for Investment in Iran Would Break With Decades of History",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/07/02/world/middleeast/us-iran-negotiations-economy-opening-up.html",
           "ozet": "Senior U.S. officials have said Iran would be richly rewarded for changing its stance on the United States. Iran’s leaders have rejected such a bargain in the past.",
-          "yayin_tarihi": "Thu, 02 Jul 2026 08:50:05 +0000",
+          "yayin_tarihi": "Thu, 02 Jul 2026 14:14:38 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Drones over Europe raise concerns about Russian activities",
+          "baslik": "Iran Prepares to Bury Supreme Leader, Ayatollah Ali Khamenei, Killed at Iran War’s Outset",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/02/world/europe/drone-incursions-europe-russia.html",
-          "ozet": "A new study, backed up by analysts and political leaders, says frequent drone flights over NATO military assets mark a Russian campaign to probe defenses and gather information.",
-          "yayin_tarihi": "Thu, 02 Jul 2026 08:30:04 +0000",
+          "url": "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html",
+          "ozet": "Long-delayed funeral ceremonies for Ayatollah Ali Khamenei, killed during U.S.-Israeli strikes at the war’s outset, are set to begin Friday. For the regime, it is a critical moment to demonstrate that it has endured.",
+          "yayin_tarihi": "Fri, 03 Jul 2026 02:47:51 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Russia’s Deadly Attack on Ukraine Reminds Europe of Its Own Vulnerabilities",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/07/02/world/europe/nato-russia-attack-ukraine.html",
+          "ozet": "Governments across the continent have increased military spending, but the strikes are another warning that they need to be prepared if the conflict crosses into NATO territory.",
+          "yayin_tarihi": "Thu, 02 Jul 2026 12:45:46 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "China Says Pilot Who Flew Into Skyscraper Had Thoughts of Death",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/07/02/world/asia/beijing-skyscraper-crash-pilot.html",
+          "ozet": "Beijing authorities said the pilot who hit a building in the city had suffered from insomnia and anxiety and had expressed a desire to end his life.",
+          "yayin_tarihi": "Thu, 02 Jul 2026 13:04:56 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-02T09:23:45.129730"
+      "taranma_zamani": "2026-07-03T09:28:23.474101"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Moscow cannot ignore EU’s commitment to confrontation with Russia — Kremlin",
+          "baslik": "Ukrainian crimes in April-June kill 422 Russian civilians — diplomat",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2154373",
-          "ozet": "Dmitry Peskov believes it is clear that Europe is escalating tensions with Russia",
-          "yayin_tarihi": "Thu, 02 Jul 2026 12:15:36 +0300",
+          "url": "https://tass.com/politics/2154897",
+          "ozet": "According to Russian Ambassador-at-Large Rodion Miroshnik, this is the result of the multibillion-dollar investments in the criminal regime headed by military dictator Vladimir Zelensky",
+          "yayin_tarihi": "Fri, 03 Jul 2026 12:22:14 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian-Moroccan Arts Festival opens in Rabat",
+          "baslik": "Russia’s Mnogotochiye assault rifle rounds can neutralize drones at 300 m range — Rostec",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2154369",
-          "ozet": "In the opening ceremony Russia's newly appointed Ambassador to Morocco Igor Belyayev addressed the participants and guests of the exhibition",
-          "yayin_tarihi": "Thu, 02 Jul 2026 12:14:12 +0300",
+          "url": "https://tass.com/defense/2154893",
+          "ozet": "A cartridge bullet consists of three elements, and each of them spins upon exiting the barrel to stabilize the shot",
+          "yayin_tarihi": "Fri, 03 Jul 2026 12:21:03 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "There can be no compromise on addressing root causes of conflict in Ukraine — senator",
+          "baslik": "Russia’s H1 LNG supplies to Europe jump 17% y-o-y to 13.4 bcm",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2154363",
-          "ozet": "Konstantin Kosachev recalled that Russia had demonstrated a willingness to compromise in the past",
-          "yayin_tarihi": "Thu, 02 Jul 2026 12:11:08 +0300",
+          "url": "https://tass.com/economy/2154887",
+          "ozet": "In the first half of the year, EU imports of Russian LNG totaled approximately 13.4 bcm, up from 11.4 bcm a year earlier",
+          "yayin_tarihi": "Fri, 03 Jul 2026 12:20:11 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ukrainian drone attack on Nizhny Novgorod Region kills one as Russia downs 327 UAVs",
+          "baslik": "UK, EU countries finance killings of Russian civilians by Kiev — Foreign Ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2154357",
-          "ozet": "More than 25 drones were destroyed over six districts in southern Russia’s Rostov Region, Governor Yury Slyusar reported",
-          "yayin_tarihi": "Thu, 02 Jul 2026 12:06:03 +0300",
+          "url": "https://tass.com/politics/2154891",
+          "ozet": "Russian Ambassador-at-Large Rodion Miroshnik stressed that everyone who voted to provide Kiev with a 90-billion loan to continue its terrorist war over the next two years has taken part in the killing of civilians",
+          "yayin_tarihi": "Fri, 03 Jul 2026 12:17:15 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian forces hit Kiev facility that manufactures Flamingo missile control systems",
+          "baslik": "Over 200 children in Russia affected by Ukrainian attacks from April to June — ambassador",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2154355",
-          "ozet": "The Russian forces delivered the strike in retaliation to the Kiev regime’s attacks on civilian infrastructure on Russian territory",
-          "yayin_tarihi": "Thu, 02 Jul 2026 12:03:11 +0300",
+          "url": "https://tass.com/politics/2154885",
+          "ozet": "Rodion Miroshnik said that it is the highest figure in the past two years",
+          "yayin_tarihi": "Fri, 03 Jul 2026 12:07:55 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-02T09:23:45.129756"
+      "taranma_zamani": "2026-07-03T09:28:23.474122"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-02T09:23:45.129758"
+      "taranma_zamani": "2026-07-03T09:28:23.474124"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-02T09:23:45.129763"
+      "taranma_zamani": "2026-07-03T09:28:23.474129"
     }
   }
 }
