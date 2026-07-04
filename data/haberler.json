@@ -1,10 +1,34 @@
 {
-  "olusturma_tarihi": "2026-07-03",
-  "olusturma_zamani": "2026-07-03T09:28:23.474317",
+  "olusturma_tarihi": "2026-07-04",
+  "olusturma_zamani": "2026-07-04T08:45:37.649993",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "TCG Oruçreis ABD'de",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/tcg-orucreis-abdde-950200.html",
+          "ozet": "Türk Deniz Kuvvetlerine ait TCG Oruçreis, ABD'nin 250. kuruluş yılı kutlamaları kapsamında düzenlenecek törene katılmak için New York Limanı'na demir attı.",
+          "yayin_tarihi": "Sat, 04 Jul 2026 03:17:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Meteoroloji'den 4 il için sarı uyarı: Kuvvetli yağış bekleniyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/meteorolojiden-4-il-icin-sari-uyari-kuvvetli-yagis-bekleniyor-950205.html",
+          "ozet": "İstanbul ve Tekirdağ çevreleri, Kırklareli'nin güneyi ile Kars'ta beklenen kuvvetli yağış nedeniyle \"sarı\" kodlu uyarıda bulunuldu.",
+          "yayin_tarihi": "Sat, 04 Jul 2026 09:12:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Memur ve emeklilerin zam oranları belli oldu",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/memur-ve-emeklilerin-zam-oranlari-belli-oldu-950122.html",
+          "ozet": "Türkiye İstatistik Kurumu'nun (TÜİK) haziran ayı enflasyon verilerini açıklamasıyla birlikte, milyonlarca memur, memur emeklisi, SSK ve Bağ-Kur emeklisinin yılın ikinci yarısında alacağı maaş artış oranları netleşti.",
+          "yayin_tarihi": "Fri, 03 Jul 2026 10:00:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Enflasyon rakamları açıklandı",
           "kaynak": "www.trthaber.com",
@@ -14,136 +38,112 @@
           "dil": "Türkçe"
         },
         {
-          "baslik": "GSB'nin 'Seyahatsever' projesine başvurular başladı",
+          "baslik": "Rusyanın Novorossiysk şehrinde benzin bitti",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/gsbnin-seyahatsever-projesine-basvurular-basladi-949999.html",
-          "ozet": "Gençlik ve Spor Bakanı Osman Aşkın Bak, gençlere GSB yurtlarında ücretsiz konaklama imkanı sunan \"Seyahatsever\" projesi için başvuruların başladığını duyurdu.",
-          "yayin_tarihi": "Thu, 02 Jul 2026 10:30:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Memur ve emeklinin zam oranları yarın belli oluyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/ekonomi/memur-ve-emeklinin-zam-oranlari-yarin-belli-oluyor-949976.html",
-          "ozet": "Milyonlarca memur, emekli ve sosyal yardım alıcısını ilgilendiren temmuz ayı maaş artış oranları, yarın açıklanacak haziran ayı enflasyon verileriyle kesinlik kazanacak. 5 aylık verilere göre SSK ve Bağ-Kur emeklileri için yüzde 16,61, memurlar için ise yüzde 12,41'lik artış şimdiden netleşti.",
-          "yayin_tarihi": "Thu, 02 Jul 2026 07:11:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "İletişim Başkanından medya ve akademiye 15 Temmuz çağrısı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/iletisim-baskanindan-medya-ve-akademiye-15-temmuz-cagrisi-949927.html",
-          "ozet": "İletişim Başkanı Prof. Dr. Burhanettin Duran, 15 Temmuz’un 10. yıl dönümünde, millî hafızanın güçlendirilmesi, Türkiye’nin demokrasi zaferinin kamuoyuna doğru şekilde aktarılması için medya ve akademiye önemli bir görev düştüğünü açıkladı.",
-          "yayin_tarihi": "Wed, 01 Jul 2026 16:34:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Depozito iade sistemi 81 ilde başlıyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/depozito-iade-sistemi-81-ilde-basliyor-949839.html",
-          "ozet": "Depozitosu Olan Ambalajlar sistemi, kısa adıyla DOA, Türkiye genelinde uygulamaya geçiyor. İade edilen her plastik, cam ve alüminyum içecek ambalajı için 1 lira teşvik bedeli ödenecek. Biriken tutarlar banka hesaplarına transfer edebilecek veya alışverişlerde kullanabilecek.",
-          "yayin_tarihi": "Wed, 01 Jul 2026 04:07:00 +0300",
+          "url": "https://www.trthaber.com/haber/dunya/rusyanin-novorossiysk-sehrinde-benzin-bitti-950140.html",
+          "ozet": "Rusya'nın Novorossiysk şehrindeki akaryakıt istasyonlarında benzinin tükendiği ve yakıt satışının durdurulduğu bildirildi.",
+          "yayin_tarihi": "Fri, 03 Jul 2026 11:48:00 +0300",
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-03T09:28:23.474075"
+      "taranma_zamani": "2026-07-04T08:45:37.649568"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Russia Hammers Ukraine’s Capital in Deadly Attacks",
+          "baslik": "Australia Tried to Push Back on China. China Pushed Harder.",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack",
-          "ozet": "At least 21 people were killed in Kyiv, the local authorities said. Ukraine’s president had warned that Moscow was preparing a “massive strike” as his country’s forces have hit deeper into Russian territory.",
-          "yayin_tarihi": "Fri, 03 Jul 2026 02:52:25 +0000",
+          "url": "https://www.nytimes.com/2026/07/04/world/asia/australia-china-politics.html",
+          "ozet": "Relations between Beijing and Canberra have improved over the past four years, but China’s ambassador is now warning of a ‘Cold War mentality.”",
+          "yayin_tarihi": "Sat, 04 Jul 2026 04:01:06 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "U.S. Hopes for Investment in Iran Would Break With Decades of History",
+          "baslik": "It’s Day 1 of the Supreme Leader’s Funeral, and Allies Gather in Iran",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/02/world/middleeast/us-iran-negotiations-economy-opening-up.html",
-          "ozet": "Senior U.S. officials have said Iran would be richly rewarded for changing its stance on the United States. Iran’s leaders have rejected such a bargain in the past.",
-          "yayin_tarihi": "Thu, 02 Jul 2026 14:14:38 +0000",
+          "url": "https://www.nytimes.com/2026/07/03/world/middleeast/iran-funeral-supreme-leader.html",
+          "ozet": "Foreign dignitaries paid their respects to Ayatollah Ali Khamenei on Friday as days of ceremonies got underway.",
+          "yayin_tarihi": "Fri, 03 Jul 2026 15:39:00 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iran Prepares to Bury Supreme Leader, Ayatollah Ali Khamenei, Killed at Iran War’s Outset",
+          "baslik": "Long Lines for Gas Shatter the Illusion of Normalcy in Wartime Russia",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html",
-          "ozet": "Long-delayed funeral ceremonies for Ayatollah Ali Khamenei, killed during U.S.-Israeli strikes at the war’s outset, are set to begin Friday. For the regime, it is a critical moment to demonstrate that it has endured.",
-          "yayin_tarihi": "Fri, 03 Jul 2026 02:47:51 +0000",
+          "url": "https://www.nytimes.com/2026/07/03/world/europe/russia-gas-shortages.html",
+          "ozet": "“Are we in the Soviet Union now?” asked one Russian, stunned and frustrated by the waits at the pumps.",
+          "yayin_tarihi": "Fri, 03 Jul 2026 10:47:14 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Russia’s Deadly Attack on Ukraine Reminds Europe of Its Own Vulnerabilities",
+          "baslik": "Four Reasons Crimea Has Become Crucial in the Ukraine War",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/02/world/europe/nato-russia-attack-ukraine.html",
-          "ozet": "Governments across the continent have increased military spending, but the strikes are another warning that they need to be prepared if the conflict crosses into NATO territory.",
-          "yayin_tarihi": "Thu, 02 Jul 2026 12:45:46 +0000",
+          "url": "https://www.nytimes.com/2026/07/02/world/europe/russia-crimea-ukraine.html",
+          "ozet": "Escalating drone strikes, fuel shortages and power cuts in the region Russia annexed are among the factors turning up the heat on President Vladimir V. Putin.",
+          "yayin_tarihi": "Fri, 03 Jul 2026 14:54:04 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "China Says Pilot Who Flew Into Skyscraper Had Thoughts of Death",
+          "baslik": "China Defends Widely Criticized ‘Ethnic Unity’ Law",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/02/world/asia/beijing-skyscraper-crash-pilot.html",
-          "ozet": "Beijing authorities said the pilot who hit a building in the city had suffered from insomnia and anxiety and had expressed a desire to end his life.",
-          "yayin_tarihi": "Thu, 02 Jul 2026 13:04:56 +0000",
+          "url": "https://www.nytimes.com/2026/07/03/world/asia/china-ethnic-unity-tibetan-uyghurs.html",
+          "ozet": "Rights groups and Western officials have criticized the law as a threat to Tibetans, Uyghurs and other minorities. Beijing says the measure aims to protect them.",
+          "yayin_tarihi": "Fri, 03 Jul 2026 08:18:23 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-03T09:28:23.474101"
+      "taranma_zamani": "2026-07-04T08:45:37.649618"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Ukrainian crimes in April-June kill 422 Russian civilians — diplomat",
+          "baslik": "Lavrov congratulates US public on 250th independence anniversary",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2154897",
-          "ozet": "According to Russian Ambassador-at-Large Rodion Miroshnik, this is the result of the multibillion-dollar investments in the criminal regime headed by military dictator Vladimir Zelensky",
-          "yayin_tarihi": "Fri, 03 Jul 2026 12:22:14 +0300",
+          "url": "https://tass.com/politics/2155493",
+          "ozet": "By building a genuine dialogue, Moscow and Washington are capable of achieving meaningful results and finding effective solutions to the most complex global and regional problems, the Russian foreign minister said",
+          "yayin_tarihi": "Sat, 04 Jul 2026 10:34:35 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia’s Mnogotochiye assault rifle rounds can neutralize drones at 300 m range — Rostec",
+          "baslik": "Putin congratulates Trump on 250th anniversary of US independence",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2154893",
-          "ozet": "A cartridge bullet consists of three elements, and each of them spins upon exiting the barrel to stabilize the shot",
-          "yayin_tarihi": "Fri, 03 Jul 2026 12:21:03 +0300",
+          "url": "https://tass.com/politics/2155489",
+          "ozet": "Russia and the United States, as the world's two largest nuclear powers, bear a special responsibility for ensuring global security and stability, the Russian leader stated",
+          "yayin_tarihi": "Sat, 04 Jul 2026 09:55:56 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia’s H1 LNG supplies to Europe jump 17% y-o-y to 13.4 bcm",
+          "baslik": "Russia and US have no ideological differences, should be partners — Russian embassy",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2154887",
-          "ozet": "In the first half of the year, EU imports of Russian LNG totaled approximately 13.4 bcm, up from 11.4 bcm a year earlier",
-          "yayin_tarihi": "Fri, 03 Jul 2026 12:20:11 +0300",
+          "url": "https://tass.com/politics/2155477",
+          "ozet": "According to the Russian embassy, even in worst years of the Cold War Moscow and Washington, realizing their responsibility for world’s peace and security, did find ways to avoid confrontation",
+          "yayin_tarihi": "Sat, 04 Jul 2026 07:54:52 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "UK, EU countries finance killings of Russian civilians by Kiev — Foreign Ministry",
+          "baslik": "Russia enters outskirts of Kharkov’s Kazachya Lopan and gaining foothold — expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2154891",
-          "ozet": "Russian Ambassador-at-Large Rodion Miroshnik stressed that everyone who voted to provide Kiev with a 90-billion loan to continue its terrorist war over the next two years has taken part in the killing of civilians",
-          "yayin_tarihi": "Fri, 03 Jul 2026 12:17:15 +0300",
+          "url": "https://tass.com/politics/2155475",
+          "ozet": "Earlier, Andrey Marochko said that Russian forces are actively fighting near Kazachya Lopan with less than one km left to the settlement",
+          "yayin_tarihi": "Sat, 04 Jul 2026 07:44:20 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Over 200 children in Russia affected by Ukrainian attacks from April to June — ambassador",
+          "baslik": "Farewell ceremony for Ali Khamenei begins in Iran",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2154885",
-          "ozet": "Rodion Miroshnik said that it is the highest figure in the past two years",
-          "yayin_tarihi": "Fri, 03 Jul 2026 12:07:55 +0300",
+          "url": "https://tass.com/world/2155465",
+          "ozet": "Crowds of Iranians are heading along specially organized walking routes to the entrances to Mosalla",
+          "yayin_tarihi": "Sat, 04 Jul 2026 06:22:00 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-03T09:28:23.474122"
+      "taranma_zamani": "2026-07-04T08:45:37.649680"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-03T09:28:23.474124"
+      "taranma_zamani": "2026-07-04T08:45:37.649683"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-03T09:28:23.474129"
+      "taranma_zamani": "2026-07-04T08:45:37.649693"
     }
   }
 }
