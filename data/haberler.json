@@ -1,16 +1,32 @@
 {
-  "olusturma_tarihi": "2026-07-04",
-  "olusturma_zamani": "2026-07-04T08:45:37.649993",
+  "olusturma_tarihi": "2026-07-05",
+  "olusturma_zamani": "2026-07-05T09:14:27.989185",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "İran'ın eski lideri Hamaney için Tahran'da cenaze namazı kılındı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/iranin-eski-lideri-hamaney-icin-tahranda-cenaze-namazi-kilindi-950270.html",
+          "ozet": "ABD-İsrail saldırılarında hayatını kaybeden İran'ın eski lideri Ali Hamaney için İran'ın başkenti Tahran'daki İmam Humeyni Musalla Camii'nde cenaze namazı kılındı.",
+          "yayin_tarihi": "Sun, 05 Jul 2026 08:00:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "TCG Oruçreis ABD'de",
           "kaynak": "www.trthaber.com",
           "url": "https://www.trthaber.com/haber/dunya/tcg-orucreis-abdde-950200.html",
           "ozet": "Türk Deniz Kuvvetlerine ait TCG Oruçreis, ABD'nin 250. kuruluş yılı kutlamaları kapsamında düzenlenecek törene katılmak için New York Limanı'na demir attı.",
           "yayin_tarihi": "Sat, 04 Jul 2026 03:17:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Dünyanın gözü Ankara'da: 36. NATO Zirvesi için geri sayım başladı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/dunyanin-gozu-ankarada-36-nato-zirvesi-icin-geri-sayim-basladi-950214.html",
+          "ozet": "Türkiye, 7-8 Temmuz'da gerçekleştirilecek 36. NATO Zirvesi'nde 32 üye ülkenin devlet ve hükümet başkanını, binlerce diplomata ve gazeteciye ev sahipliği yapacak. Dev zirve için Ankara genelinde güvenlikten lojistiğe, iletişimden teknolojiye kadar tüm hazırlıklar tamamlandı.",
+          "yayin_tarihi": "Sat, 04 Jul 2026 10:44:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -28,122 +44,106 @@
           "ozet": "Türkiye İstatistik Kurumu'nun (TÜİK) haziran ayı enflasyon verilerini açıklamasıyla birlikte, milyonlarca memur, memur emeklisi, SSK ve Bağ-Kur emeklisinin yılın ikinci yarısında alacağı maaş artış oranları netleşti.",
           "yayin_tarihi": "Fri, 03 Jul 2026 10:00:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Enflasyon rakamları açıklandı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/ekonomi/enflasyon-rakamlari-aciklandi-950123.html",
-          "ozet": "Tüketici Fiyat Endeksi (TÜFE), haziranda aylık bazda yüzde 0,99, yılık bazda yüzde 32,11 olarak gerçekleşti.",
-          "yayin_tarihi": "Fri, 03 Jul 2026 10:00:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Rusyanın Novorossiysk şehrinde benzin bitti",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/rusyanin-novorossiysk-sehrinde-benzin-bitti-950140.html",
-          "ozet": "Rusya'nın Novorossiysk şehrindeki akaryakıt istasyonlarında benzinin tükendiği ve yakıt satışının durdurulduğu bildirildi.",
-          "yayin_tarihi": "Fri, 03 Jul 2026 11:48:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-04T08:45:37.649568"
+      "taranma_zamani": "2026-07-05T09:14:27.988925"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Australia Tried to Push Back on China. China Pushed Harder.",
+          "baslik": "China Frees Pastor Detained in Crackdown on Religion After Trump’s Urging",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/04/world/asia/australia-china-politics.html",
-          "ozet": "Relations between Beijing and Canberra have improved over the past four years, but China’s ambassador is now warning of a ‘Cold War mentality.”",
-          "yayin_tarihi": "Sat, 04 Jul 2026 04:01:06 +0000",
+          "url": "https://www.nytimes.com/2026/07/05/world/asia/ezra-jin-mingri-china-christian-xi-trump.html",
+          "ozet": "Ezra Jin Mingri was released nearly two months after President Trump raised his case with China’s leader, Xi Jinping, during a visit to Beijing.",
+          "yayin_tarihi": "Sun, 05 Jul 2026 08:40:19 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "It’s Day 1 of the Supreme Leader’s Funeral, and Allies Gather in Iran",
+          "baslik": "Momentary Unity at a Funeral Masks Deep Divisions Among Iran’s Leaders",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/03/world/middleeast/iran-funeral-supreme-leader.html",
-          "ozet": "Foreign dignitaries paid their respects to Ayatollah Ali Khamenei on Friday as days of ceremonies got underway.",
-          "yayin_tarihi": "Fri, 03 Jul 2026 15:39:00 +0000",
+          "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html",
+          "ozet": "Ayatollah Mojtaba Khamenei’s absence has raised questions inside Iranian political circles about who is really running the country and allowed open divisions to fester.",
+          "yayin_tarihi": "Sat, 04 Jul 2026 20:44:42 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Long Lines for Gas Shatter the Illusion of Normalcy in Wartime Russia",
+          "baslik": "China Raises Pressure on Taiwan With Expanded Coast Guard Patrols",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/03/world/europe/russia-gas-shortages.html",
-          "ozet": "“Are we in the Soviet Union now?” asked one Russian, stunned and frustrated by the waits at the pumps.",
-          "yayin_tarihi": "Fri, 03 Jul 2026 10:47:14 +0000",
+          "url": "https://www.nytimes.com/2026/07/05/world/asia/china-taiwan-east-coast-guard-patrols.html",
+          "ozet": "Beijing sent two ships to patrol the waters east of Taiwan, a new campaign to challenge the island’s control of waters crucial to any future invasion.",
+          "yayin_tarihi": "Sun, 05 Jul 2026 08:21:38 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Four Reasons Crimea Has Become Crucial in the Ukraine War",
+          "baslik": "As Xi Looks to Extend His Rule, He Leans on a Longtime Ally",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/02/world/europe/russia-crimea-ukraine.html",
-          "ozet": "Escalating drone strikes, fuel shortages and power cuts in the region Russia annexed are among the factors turning up the heat on President Vladimir V. Putin.",
-          "yayin_tarihi": "Fri, 03 Jul 2026 14:54:04 +0000",
+          "url": "https://www.nytimes.com/2026/07/05/world/asia/china-xi-leadership-cai-qi.html",
+          "ozet": "Xi Jinping is preparing to extend his rule as China’s leader and bring fresh blood into the Communist Party elite. Cai Qi is the man he’s tasking to help.",
+          "yayin_tarihi": "Sun, 05 Jul 2026 04:01:06 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "China Defends Widely Criticized ‘Ethnic Unity’ Law",
+          "baslik": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/03/world/asia/china-ethnic-unity-tibetan-uyghurs.html",
-          "ozet": "Rights groups and Western officials have criticized the law as a threat to Tibetans, Uyghurs and other minorities. Beijing says the measure aims to protect them.",
-          "yayin_tarihi": "Fri, 03 Jul 2026 08:18:23 +0000",
+          "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
+          "ozet": "As days of public mourning ceremonies began, Iranians viewed the casket of Ayatollah Ali Khamenei, who was killed at the start of the U.S.-Israeli attacks.",
+          "yayin_tarihi": "Sun, 05 Jul 2026 06:37:32 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-04T08:45:37.649618"
+      "taranma_zamani": "2026-07-05T09:14:27.988948"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Lavrov congratulates US public on 250th independence anniversary",
+          "baslik": "Russian forces destroy Ukrainian military’s gas distribution station in Chernigov Region",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2155493",
-          "ozet": "By building a genuine dialogue, Moscow and Washington are capable of achieving meaningful results and finding effective solutions to the most complex global and regional problems, the Russian foreign minister said",
-          "yayin_tarihi": "Sat, 04 Jul 2026 10:34:35 +0300",
+          "url": "https://tass.com/defense/2155835",
+          "ozet": "The attack on the Gazoprovodnoye facility was carried out by a Geran-2 Seeker",
+          "yayin_tarihi": "Sun, 05 Jul 2026 12:08:27 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Putin congratulates Trump on 250th anniversary of US independence",
+          "baslik": "Russian forces destroy Ukrainian army cargo train in Chernigov Region — top brass",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2155489",
-          "ozet": "Russia and the United States, as the world's two largest nuclear powers, bear a special responsibility for ensuring global security and stability, the Russian leader stated",
-          "yayin_tarihi": "Sat, 04 Jul 2026 09:55:56 +0300",
+          "url": "https://tass.com/defense/2155833",
+          "ozet": "The attack was carried out by a Geran-2 Seeker unmanned aerial vehicle",
+          "yayin_tarihi": "Sun, 05 Jul 2026 11:10:18 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia and US have no ideological differences, should be partners — Russian embassy",
+          "baslik": "Russian Anti-Doping Agency receives 13 Therapeutic Use Exemption requests in June",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2155477",
-          "ozet": "According to the Russian embassy, even in worst years of the Cold War Moscow and Washington, realizing their responsibility for world’s peace and security, did find ways to avoid confrontation",
-          "yayin_tarihi": "Sat, 04 Jul 2026 07:54:52 +0300",
+          "url": "https://tass.com/sports/2155827",
+          "ozet": "The total number of received applications for TUE permits since the start of the year amounted to 114 and 79 were approved",
+          "yayin_tarihi": "Sun, 05 Jul 2026 09:53:16 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia enters outskirts of Kharkov’s Kazachya Lopan and gaining foothold — expert",
+          "baslik": "EU, Kiev count on conflict escalation — Kremlin aide",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2155475",
-          "ozet": "Earlier, Andrey Marochko said that Russian forces are actively fighting near Kazachya Lopan with less than one km left to the settlement",
-          "yayin_tarihi": "Sat, 04 Jul 2026 07:44:20 +0300",
+          "url": "https://tass.com/politics/2155805",
+          "ozet": "The Russian President noted in the conversation with his US counterpart that Kiev and European capitals proceed from a false perception of the state of affairs on the line of engagement, Yury Ushakov said",
+          "yayin_tarihi": "Sun, 05 Jul 2026 04:10:00 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Farewell ceremony for Ali Khamenei begins in Iran",
+          "baslik": "Putin, Trump stressed importance of continuing interaction",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2155465",
-          "ozet": "Crowds of Iranians are heading along specially organized walking routes to the entrances to Mosalla",
-          "yayin_tarihi": "Sat, 04 Jul 2026 06:22:00 +0300",
+          "url": "https://tass.com/politics/2155799",
+          "ozet": "Russia and the United States have vast prospects of mutually beneficial cooperation, Kremlin aide Yury Ushakov said",
+          "yayin_tarihi": "Sun, 05 Jul 2026 02:25:00 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-04T08:45:37.649680"
+      "taranma_zamani": "2026-07-05T09:14:27.988959"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-04T08:45:37.649683"
+      "taranma_zamani": "2026-07-05T09:14:27.988962"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-04T08:45:37.649693"
+      "taranma_zamani": "2026-07-05T09:14:27.988967"
     }
   }
 }
