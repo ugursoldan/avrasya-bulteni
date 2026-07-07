@@ -1,16 +1,24 @@
 {
-  "olusturma_tarihi": "2026-07-06",
-  "olusturma_zamani": "2026-07-06T10:50:20.008129",
+  "olusturma_tarihi": "2026-07-07",
+  "olusturma_zamani": "2026-07-07T09:53:04.228598",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "Dünya liderleri NATO Zirvesi için Ankara'da buluşuyor",
+          "baslik": "Türk savunma sanayii AByi stratejik körlükten kurtarabilir",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/dunya-liderleri-nato-zirvesi-icin-ankarada-bulusuyor-950337.html",
-          "ozet": "Türkiye, 7-8 Temmuz'da gerçekleştirilecek 36. NATO Zirvesi'nde 32 üye ülkenin devlet ve hükümet başkanını, binlerce diplomata ve gazeteciye ev sahipliği yapacak. Dev zirve için Ankara genelinde güvenlikten lojistiğe, iletişimden teknolojiye kadar tüm hazırlıklar tamamlandı.",
-          "yayin_tarihi": "Mon, 06 Jul 2026 08:21:00 +0300",
+          "url": "https://www.trthaber.com/haber/gundem/turk-savunma-sanayii-abyi-stratejik-korlukten-kurtarabilir-950466.html",
+          "ozet": "Zorlu sınamalardan geçen Avrupa Birliği’nin en önemli konu başlıklarından biri de güvenlik… Bu noktada Türk savunma sanayii öne çıkıyor. Ancak bazı üyeler kendi çıkarları için AB’nin geleceğini riske atıp Ankara karşıtı pozisyon alıyor. Kimi üyeler, Türkiye ile ikili anlaşmalar imzalayarak AB’nin içine düştüğü çıkmazdan kurtulmayı hedefliyor.",
+          "yayin_tarihi": "Tue, 07 Jul 2026 11:00:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "NATO Genel Sekreteri Rutte Ankara'da",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/nato-genel-sekreteri-rutte-ankarada-950389.html",
+          "ozet": "NATO Genel Sekreteri Mark Rutte, NATO Zirvesi için Ankara'ya geldi.",
+          "yayin_tarihi": "Mon, 06 Jul 2026 14:14:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -36,114 +44,106 @@
           "ozet": "Türk Deniz Kuvvetlerine ait TCG Oruçreis, ABD'nin 250. kuruluş yılı kutlamaları kapsamında düzenlenecek törene katılmak için New York Limanı'na demir attı.",
           "yayin_tarihi": "Sat, 04 Jul 2026 03:17:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Dünyanın gözü Ankara'da: 36. NATO Zirvesi için geri sayım başladı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/dunyanin-gozu-ankarada-36-nato-zirvesi-icin-geri-sayim-basladi-950214.html",
-          "ozet": "Türkiye, 7-8 Temmuz'da gerçekleştirilecek 36. NATO Zirvesi'nde 32 üye ülkenin devlet ve hükümet başkanını, binlerce diplomata ve gazeteciye ev sahipliği yapacak. Dev zirve için Ankara genelinde güvenlikten lojistiğe, iletişimden teknolojiye kadar tüm hazırlıklar tamamlandı.",
-          "yayin_tarihi": "Sat, 04 Jul 2026 10:44:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-06T10:50:20.007889"
+      "taranma_zamani": "2026-07-07T09:53:04.228476"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Deadly Russian Strikes Rock Kyiv on Eve of NATO Summit",
+          "baslik": "In NATO’s Next Act, Can Europe Play the Leading Role?",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/07/07/world/europe/nato-trump-rutte-ankara-turkey.html",
+          "ozet": "The focus at a leaders’ summit in Turkey this week will be on building a new model for the alliance, as President Trump pushes to do less and pressures others do more.",
+          "yayin_tarihi": "Tue, 07 Jul 2026 06:59:47 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Joining a Human Tide of Mourners Flowing Through Tehran’s Streets",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/07/07/world/middleeast/tehran-khamenei-funeral-procession.html",
+          "ozet": "After days of public mourning ceremonies in the Iranian capital, Ayatollah Ali Khamenei’s coffin arrived in Tehran’s Azadi Square. This is what I saw covering the miles-long procession on Monday.",
+          "yayin_tarihi": "Tue, 07 Jul 2026 07:15:30 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "At Least 15 Dead in China After Severe Flooding During Typhoon Maysak",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/07/07/world/asia/china-flooding-typhoon-maysak.html",
+          "ozet": "Videos showed inundated roads, farmland and buildings, and floodwaters rushing toward homes, while the region braced for a potential super typhoon this week.",
+          "yayin_tarihi": "Tue, 07 Jul 2026 07:55:05 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Turkey Hosts NATO Summit While Cracking Down on Critics",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/07/06/world/middleeast/turkey-hosts-nato-summit-while-cracking-down-on-critics.html",
+          "ozet": "In the weeks leading up to the two-day event, the Turkish authorities blocked websites, jailed scores of people over allegations of terrorism and arrested a prominent comedian.",
+          "yayin_tarihi": "Mon, 06 Jul 2026 18:58:48 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Russia Strikes Kyiv, Ukraine’s Capital, on Eve of NATO Summit",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html",
-          "ozet": "Ballistic missiles were fired into the capital of Ukraine as Russia launched its second major attack in less than a week. At least 12 people were killed, officials said.",
-          "yayin_tarihi": "Mon, 06 Jul 2026 10:36:38 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Ukraine Rewrote Air Defense Tactics. Against Russia, It’s Still Not Enough.",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/06/world/europe/ukraine-russia-patriot-air-defense.html",
-          "ozet": "Ukraine has changed how militaries use Patriot systems. But recent attacks prove that clever adaptations cannot overcome a shortage of interceptors.",
-          "yayin_tarihi": "Mon, 06 Jul 2026 10:36:39 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Erdogan-Trump Friendship Can Help NATO, Turkey’s Foreign Minister Says",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/06/world/europe/nato-turkey-erdogan-trump-hakan-fidan.html",
-          "ozet": "In an interview, Turkey’s top diplomat, Hakan Fidan, said the relationship between President Recep Tayyip Erdogan and President Trump could ease NATO tensions.",
-          "yayin_tarihi": "Mon, 06 Jul 2026 09:01:27 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "China Test Fires Long-Range Ballistic Missile in the Pacific",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/06/world/asia/china-pacific-nuclear-missile-launch.html",
-          "ozet": "China’s firing of a submarine-launched missile came as Australia secured more defense deals with Pacific Island nations. Countries expressed concern about the test.",
-          "yayin_tarihi": "Mon, 06 Jul 2026 09:23:30 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "As Trump Cools on NATO, Turkey Hosts Summit Meeting",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/06/world/middleeast/nato-summit-turkey-erdogan-trump.html",
-          "ozet": "As President Trump cools on the alliance, its members see Turkey’s large military and vibrant defense sector as assets.",
-          "yayin_tarihi": "Mon, 06 Jul 2026 09:01:44 +0000",
+          "ozet": "Ballistic missiles were fired into the capital of Ukraine as Russia launched its second major attack in less than a week. At least 16 people were killed, officials said.",
+          "yayin_tarihi": "Mon, 06 Jul 2026 20:55:21 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-06T10:50:20.007917"
+      "taranma_zamani": "2026-07-07T09:53:04.228508"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia skips 2026 Archery World Cup stage in Spain due to visa issues",
+          "baslik": "Russia notes prospects for business participation in creation of Indonesia’s new capital",
           "kaynak": "tass.com",
-          "url": "https://tass.com/sports/2156193",
-          "ozet": "The 2026 Archery World Cup runs between April 7 and September 13",
-          "yayin_tarihi": "Mon, 06 Jul 2026 13:34:37 +0300",
+          "url": "https://tass.com/economy/2156685",
+          "ozet": "The scale of the planned works involves significant investments in transport, energy, and utility infrastructure over the coming decades, Anton Alikhanov said",
+          "yayin_tarihi": "Tue, 07 Jul 2026 12:31:58 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia-China joint naval exercise to focus on use of unmanned systems — rear admiral",
+          "baslik": "Europe may see influx of weapons from Ukraine — study",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2156179",
-          "ozet": "The Russia-China Joint Sea 2026 exercise will run in the Yellow Sea on July 6-13",
-          "yayin_tarihi": "Mon, 06 Jul 2026 13:10:20 +0300",
+          "url": "https://tass.com/world/2156671",
+          "ozet": "The study says that Ukrainian authorities have so far recorded the loss of 593,000 weapons",
+          "yayin_tarihi": "Tue, 07 Jul 2026 12:15:57 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Press review: Trump-Putin call as Russian troops advance while US-Russia OPCW talks fail",
+          "baslik": "Baltic elites seek to benefit from 'Russian threat' scenario, senior lawmaker says",
           "kaynak": "tass.com",
-          "url": "https://tass.com/pressreview/2156085",
-          "ozet": "Top stories from the Russian press on Monday, July 6th",
-          "yayin_tarihi": "Mon, 06 Jul 2026 13:00:01 +0300",
+          "url": "https://tass.com/politics/2156667",
+          "ozet": "\"Given America is withdrawing its troops, they will try to get money from the European Commission and NATO for building the so-called defenses against Russia in order to profit and attempt to steal billions,\" Viktor Vodolatsky said",
+          "yayin_tarihi": "Tue, 07 Jul 2026 12:05:07 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian Foreign Ministry summons Swedish ambassador, spokeswoman says",
+          "baslik": "Woman suspected in Yermolayev murder attempt found dead near Kiev — media",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2156157",
-          "ozet": "Russia will recall Sweden’s obligations under the Vienna Conventions and also the assurances Stockholm previously gave, Maria Zakharova said",
-          "yayin_tarihi": "Mon, 06 Jul 2026 12:56:09 +0300",
+          "url": "https://tass.com/society/2156661",
+          "ozet": "According to the publication, the woman returned to Ukraine on July 1",
+          "yayin_tarihi": "Tue, 07 Jul 2026 11:38:23 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian tennis chief: 'Nothing terrible' about Andreeva’s exit at 2026 Wimbledon",
+          "baslik": "Indonesia sees huge technological advantages of Russia in oil and gas supplies — minister",
           "kaynak": "tass.com",
-          "url": "https://tass.com/sports/2156153",
-          "ozet": "\"Andreeva is young and it's a matter of experience,\" Shamil Tarpishchev",
-          "yayin_tarihi": "Mon, 06 Jul 2026 12:53:28 +0300",
+          "url": "https://tass.com/economy/2156659",
+          "ozet": "Indonesia calls on the business community to \"do everything to develop bilateral trade and economic relations,\" Agus Gumiwang Kartasasmita added",
+          "yayin_tarihi": "Tue, 07 Jul 2026 11:36:47 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-06T10:50:20.007935"
+      "taranma_zamani": "2026-07-07T09:53:04.228528"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-06T10:50:20.007937"
+      "taranma_zamani": "2026-07-07T09:53:04.228530"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-06T10:50:20.007943"
+      "taranma_zamani": "2026-07-07T09:53:04.228536"
     }
   }
 }
