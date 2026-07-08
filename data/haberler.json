@@ -1,10 +1,34 @@
 {
-  "olusturma_tarihi": "2026-07-07",
-  "olusturma_zamani": "2026-07-07T09:53:04.228598",
+  "olusturma_tarihi": "2026-07-08",
+  "olusturma_zamani": "2026-07-08T08:37:59.508160",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Fransa Cumhurbaşkanı Macron, Ankara'da koşu yaptı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/fransa-cumhurbaskani-macron-ankarada-kosu-yapti-950604.html",
+          "ozet": "Fransa Cumhurbaşkanı Emmanuel Macron, NATO Zirvesi için geldiği Ankara'da koşu yaptı.",
+          "yayin_tarihi": "Wed, 08 Jul 2026 09:35:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "ABD  İran savaşı yeniden mi başladı?",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/abd-iran-savasi-yeniden-mi-basladi-950583.html",
+          "ozet": "Hürmüz Boğazı'nda üç petrol tankerine düzenlenen saldırıların ardından Amerika Birleşik Devletleri, İran'a yönelik hava saldırıları başlattı. İran Devrim Muhafızları Ordusu, ABD'nin ateşkes ihlaline karşılık Bahreyn ve Kuveyt'te bulunan 85 Amerikan askeri tesisini füze ve insansız hava araçlarıyla hedef aldığını açıkladı.",
+          "yayin_tarihi": "Wed, 08 Jul 2026 06:29:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "NATO Genel Sekreteri Rutte: Dün büyük bir başarıydı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/nato-genel-sekreteri-rutte-dun-buyuk-bir-basariydi-950592.html",
+          "ozet": "NATO Genel Sekreteri Mark Rutte, Ankara Zirvesi'nin ilk gününü \"büyük bir başarı\" olarak niteleyerek, \"Sonuç olarak çok daha güçlü bir NATO ve daha güçlü bir NATO'nun içinde çok daha güçlü bir Avrupa ortaya çıkıyor.\" ifadelerini kullandı.",
+          "yayin_tarihi": "Wed, 08 Jul 2026 08:07:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Türk savunma sanayii AByi stratejik körlükten kurtarabilir",
           "kaynak": "www.trthaber.com",
@@ -20,130 +44,106 @@
           "ozet": "NATO Genel Sekreteri Mark Rutte, NATO Zirvesi için Ankara'ya geldi.",
           "yayin_tarihi": "Mon, 06 Jul 2026 14:14:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "10 il için sarı alarm: Kuvvetli yağış bekleniyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/10-il-icin-sari-alarm-kuvvetli-yagis-bekleniyor-950293.html",
-          "ozet": "İçişleri Bakanlığı, 10 il için sağanak nedeniyle \"sarı\" kodlu meteorolojik uyarıda bulundu. Yetkililer yaşanabilecek olumsuzluklara karşı vatandaşlara dikkatli olmaları çağrısını yaptı.",
-          "yayin_tarihi": "Sun, 05 Jul 2026 14:47:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "İran'ın eski lideri Hamaney için Tahran'da cenaze namazı kılındı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/iranin-eski-lideri-hamaney-icin-tahranda-cenaze-namazi-kilindi-950270.html",
-          "ozet": "ABD-İsrail saldırılarında hayatını kaybeden İran'ın eski lideri Ali Hamaney için İran'ın başkenti Tahran'daki İmam Humeyni Musalla Camii'nde cenaze namazı kılındı.",
-          "yayin_tarihi": "Sun, 05 Jul 2026 08:00:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "TCG Oruçreis ABD'de",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/tcg-orucreis-abdde-950200.html",
-          "ozet": "Türk Deniz Kuvvetlerine ait TCG Oruçreis, ABD'nin 250. kuruluş yılı kutlamaları kapsamında düzenlenecek törene katılmak için New York Limanı'na demir attı.",
-          "yayin_tarihi": "Sat, 04 Jul 2026 03:17:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-07T09:53:04.228476"
+      "taranma_zamani": "2026-07-08T08:37:59.507916"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "In NATO’s Next Act, Can Europe Play the Leading Role?",
+          "baslik": "In NATO’s Next Act, Can Europe Lead?",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/07/07/world/europe/nato-trump-rutte-ankara-turkey.html",
           "ozet": "The focus at a leaders’ summit in Turkey this week will be on building a new model for the alliance, as President Trump pushes to do less and pressures others do more.",
-          "yayin_tarihi": "Tue, 07 Jul 2026 06:59:47 +0000",
+          "yayin_tarihi": "Tue, 07 Jul 2026 19:19:51 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Joining a Human Tide of Mourners Flowing Through Tehran’s Streets",
+          "baslik": "Mass Mournings In Qom, Where Khamenei Ruled Supreme Over Iran’s Clerics",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/07/world/middleeast/tehran-khamenei-funeral-procession.html",
-          "ozet": "After days of public mourning ceremonies in the Iranian capital, Ayatollah Ali Khamenei’s coffin arrived in Tehran’s Azadi Square. This is what I saw covering the miles-long procession on Monday.",
-          "yayin_tarihi": "Tue, 07 Jul 2026 07:15:30 +0000",
+          "url": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-khamenei-qom-funeral.html",
+          "ozet": "The ceremony for Ayatollah Ali Khamenei, held at a site considered sacred by many Shiites, was the latest step in a weeklong funeral organized by Iran’s government.",
+          "yayin_tarihi": "Tue, 07 Jul 2026 15:33:32 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "At Least 15 Dead in China After Severe Flooding During Typhoon Maysak",
+          "baslik": "Suspect in Monaco Bombing Attack Is Found Dead in Ukraine",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/07/world/asia/china-flooding-typhoon-maysak.html",
-          "ozet": "Videos showed inundated roads, farmland and buildings, and floodwaters rushing toward homes, while the region braced for a potential super typhoon this week.",
-          "yayin_tarihi": "Tue, 07 Jul 2026 07:55:05 +0000",
+          "url": "https://www.nytimes.com/2026/07/07/world/europe/monaco-bombing-suspect-dead-ukraine.html",
+          "ozet": "The Ukrainian authorities said that Anastasiia Berezovska, who officials said was behind the explosion last week, had been shot.",
+          "yayin_tarihi": "Tue, 07 Jul 2026 15:34:07 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Turkey Hosts NATO Summit While Cracking Down on Critics",
+          "baslik": "Why China Fired a Long-Range Missile Into the Pacific",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/06/world/middleeast/turkey-hosts-nato-summit-while-cracking-down-on-critics.html",
-          "ozet": "In the weeks leading up to the two-day event, the Turkish authorities blocked websites, jailed scores of people over allegations of terrorism and arrested a prominent comedian.",
-          "yayin_tarihi": "Mon, 06 Jul 2026 18:58:48 +0000",
+          "url": "https://www.nytimes.com/2026/07/07/world/asia/china-missile-test-submarine-pacific.html",
+          "ozet": "Beijing had long tested nuclear missiles only within its borders. A rare launch over an ocean shows it is determined to narrow the gap with the United States.",
+          "yayin_tarihi": "Tue, 07 Jul 2026 15:08:24 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Russia Strikes Kyiv, Ukraine’s Capital, on Eve of NATO Summit",
+          "baslik": "Oil Prices Jump After U.S. and Iran Trade Strikes in Persian Gulf",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html",
-          "ozet": "Ballistic missiles were fired into the capital of Ukraine as Russia launched its second major attack in less than a week. At least 16 people were killed, officials said.",
-          "yayin_tarihi": "Mon, 06 Jul 2026 20:55:21 +0000",
+          "url": "https://www.nytimes.com/2026/07/08/business/oil-gas-markets-shipping-hormuz.html",
+          "ozet": "Attacks on ships in the Strait of Hormuz sparked a new cycle of retaliation that could throttle the flow of energy from the region.",
+          "yayin_tarihi": "Wed, 08 Jul 2026 07:03:47 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-07T09:53:04.228508"
+      "taranma_zamani": "2026-07-08T08:37:59.507938"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia notes prospects for business participation in creation of Indonesia’s new capital",
+          "baslik": "US strikes in Iran target air defenses, missile depots, drone launch sites — Axios",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2156685",
-          "ozet": "The scale of the planned works involves significant investments in transport, energy, and utility infrastructure over the coming decades, Anton Alikhanov said",
-          "yayin_tarihi": "Tue, 07 Jul 2026 12:31:58 +0300",
+          "url": "https://tass.com/world/2157303",
+          "ozet": "According to the report, US forces carried out strikes on targets in Iran near the Strait of Hormuz",
+          "yayin_tarihi": "Wed, 08 Jul 2026 11:25:28 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Europe may see influx of weapons from Ukraine — study",
+          "baslik": "Ruble’s strengthening hinders Russian firms from competing with Chinese imports — RSPP",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2156671",
-          "ozet": "The study says that Ukrainian authorities have so far recorded the loss of 593,000 weapons",
-          "yayin_tarihi": "Tue, 07 Jul 2026 12:15:57 +0300",
+          "url": "https://tass.com/economy/2157299",
+          "ozet": "In recent years, Chinese imports have posed stiff competition to Russian goods, Alexander Shokhin noted",
+          "yayin_tarihi": "Wed, 08 Jul 2026 11:24:12 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Baltic elites seek to benefit from 'Russian threat' scenario, senior lawmaker says",
+          "baslik": "US struck school in Iran despite warnings intelligence was outdated — CNN",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2156667",
-          "ozet": "\"Given America is withdrawing its troops, they will try to get money from the European Commission and NATO for building the so-called defenses against Russia in order to profit and attempt to steal billions,\" Viktor Vodolatsky said",
-          "yayin_tarihi": "Tue, 07 Jul 2026 12:05:07 +0300",
+          "url": "https://tass.com/world/2157295",
+          "ozet": "According to one of the network's sources, the US military determined the cause of the incident within days of the strike on the school, but has yet to release the findings of its investigation",
+          "yayin_tarihi": "Wed, 08 Jul 2026 11:19:49 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Woman suspected in Yermolayev murder attempt found dead near Kiev — media",
+          "baslik": "Magyar reaffirms that Hungary will supply no arms to Ukraine",
           "kaynak": "tass.com",
-          "url": "https://tass.com/society/2156661",
-          "ozet": "According to the publication, the woman returned to Ukraine on July 1",
-          "yayin_tarihi": "Tue, 07 Jul 2026 11:38:23 +0300",
+          "url": "https://tass.com/world/2157293",
+          "ozet": "The new government will continue to provide humanitarian assistance to Ukraine, the Hungarian prime minister said",
+          "yayin_tarihi": "Wed, 08 Jul 2026 11:16:21 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Indonesia sees huge technological advantages of Russia in oil and gas supplies — minister",
+          "baslik": "Kiev’s refusal to take back soldiers’ bodies unprecedented in history — Russian diplomat",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2156659",
-          "ozet": "Indonesia calls on the business community to \"do everything to develop bilateral trade and economic relations,\" Agus Gumiwang Kartasasmita added",
-          "yayin_tarihi": "Tue, 07 Jul 2026 11:36:47 +0300",
+          "url": "https://tass.com/politics/2157291",
+          "ozet": "Maria Zakharova emphasized that \"it has always been considered mandatory to retrieve the bodies of one’s fallen warriors from a battlefield in any way",
+          "yayin_tarihi": "Wed, 08 Jul 2026 11:14:38 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-07T09:53:04.228528"
+      "taranma_zamani": "2026-07-08T08:37:59.507963"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-07T09:53:04.228530"
+      "taranma_zamani": "2026-07-08T08:37:59.507965"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-07T09:53:04.228536"
+      "taranma_zamani": "2026-07-08T08:37:59.507970"
     }
   }
 }
