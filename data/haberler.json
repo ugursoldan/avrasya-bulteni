@@ -1,10 +1,34 @@
 {
-  "olusturma_tarihi": "2026-07-08",
-  "olusturma_zamani": "2026-07-08T08:37:59.508160",
+  "olusturma_tarihi": "2026-07-09",
+  "olusturma_zamani": "2026-07-09T09:55:44.234014",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "ABD ordusu: İran'a karşı yeni saldırılar başlattık",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/abd-ordusu-irana-karsi-yeni-saldirilar-baslattik-950699.html",
+          "ozet": "ABD ordusu, \"ticari gemileri hedef aldığı\" gerekçesiyle İran'a karşı yeni saldırılar başlattığını duyurdu.",
+          "yayin_tarihi": "Wed, 08 Jul 2026 23:22:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Ay Yıldız Karargahı kapılarını ilk kez NATO Savunma Bakanları için açtı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/ay-yildiz-karargahi-kapilarini-ilk-kez-nato-savunma-bakanlari-icin-acti-950632.html",
+          "ozet": "Milli Savunma Bakanlığından yapılan açıklamada, Cumhurbaşkanı Recep Tayyip Erdoğan'ın ev sahipliğinde gerçekleştirilen 36. NATO Devlet ve Hükümet Başkanları Zirvesi kapsamında, inşası devam eden Ay Yıldız Müşterek Karargahı kapılarının ilk kez NATO Savunma Bakanları için açıldığı belirtildi.",
+          "yayin_tarihi": "Wed, 08 Jul 2026 12:05:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Trump: İran'la ateşkes bence bitti",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/trump-iranla-ateskes-bence-bitti-950617.html",
+          "ozet": "ABD Başkanı Donald Trump, \"İran'la ateşkes benim için bitti. Artık onlarla anlaşmak istemiyorum\" dedi.",
+          "yayin_tarihi": "Wed, 08 Jul 2026 11:05:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Fransa Cumhurbaşkanı Macron, Ankara'da koşu yaptı",
           "kaynak": "www.trthaber.com",
@@ -20,134 +44,118 @@
           "ozet": "Hürmüz Boğazı'nda üç petrol tankerine düzenlenen saldırıların ardından Amerika Birleşik Devletleri, İran'a yönelik hava saldırıları başlattı. İran Devrim Muhafızları Ordusu, ABD'nin ateşkes ihlaline karşılık Bahreyn ve Kuveyt'te bulunan 85 Amerikan askeri tesisini füze ve insansız hava araçlarıyla hedef aldığını açıkladı.",
           "yayin_tarihi": "Wed, 08 Jul 2026 06:29:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "NATO Genel Sekreteri Rutte: Dün büyük bir başarıydı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/nato-genel-sekreteri-rutte-dun-buyuk-bir-basariydi-950592.html",
-          "ozet": "NATO Genel Sekreteri Mark Rutte, Ankara Zirvesi'nin ilk gününü \"büyük bir başarı\" olarak niteleyerek, \"Sonuç olarak çok daha güçlü bir NATO ve daha güçlü bir NATO'nun içinde çok daha güçlü bir Avrupa ortaya çıkıyor.\" ifadelerini kullandı.",
-          "yayin_tarihi": "Wed, 08 Jul 2026 08:07:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Türk savunma sanayii AByi stratejik körlükten kurtarabilir",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/turk-savunma-sanayii-abyi-stratejik-korlukten-kurtarabilir-950466.html",
-          "ozet": "Zorlu sınamalardan geçen Avrupa Birliği’nin en önemli konu başlıklarından biri de güvenlik… Bu noktada Türk savunma sanayii öne çıkıyor. Ancak bazı üyeler kendi çıkarları için AB’nin geleceğini riske atıp Ankara karşıtı pozisyon alıyor. Kimi üyeler, Türkiye ile ikili anlaşmalar imzalayarak AB’nin içine düştüğü çıkmazdan kurtulmayı hedefliyor.",
-          "yayin_tarihi": "Tue, 07 Jul 2026 11:00:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "NATO Genel Sekreteri Rutte Ankara'da",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/nato-genel-sekreteri-rutte-ankarada-950389.html",
-          "ozet": "NATO Genel Sekreteri Mark Rutte, NATO Zirvesi için Ankara'ya geldi.",
-          "yayin_tarihi": "Mon, 06 Jul 2026 14:14:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-08T08:37:59.507916"
+      "taranma_zamani": "2026-07-09T09:55:44.233783"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "In NATO’s Next Act, Can Europe Lead?",
+          "baslik": "U.S. Launches New Strikes on Iran, Military Says",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/07/world/europe/nato-trump-rutte-ankara-turkey.html",
-          "ozet": "The focus at a leaders’ summit in Turkey this week will be on building a new model for the alliance, as President Trump pushes to do less and pressures others do more.",
-          "yayin_tarihi": "Tue, 07 Jul 2026 19:19:51 +0000",
+          "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
+          "ozet": "U.S. Central Command said on social media that it was protecting shipping in the Strait of Hormuz. President Trump said earlier that he thought a three-week-old cease-fire was “over.”",
+          "yayin_tarihi": "Thu, 09 Jul 2026 09:51:04 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Mass Mournings In Qom, Where Khamenei Ruled Supreme Over Iran’s Clerics",
+          "baslik": "Trump Praises NATO’s ‘Unity’ After Lashing Out at Allies",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-khamenei-qom-funeral.html",
-          "ozet": "The ceremony for Ayatollah Ali Khamenei, held at a site considered sacred by many Shiites, was the latest step in a weeklong funeral organized by Iran’s government.",
-          "yayin_tarihi": "Tue, 07 Jul 2026 15:33:32 +0000",
+          "url": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine",
+          "ozet": "Though President Trump assailed partners for not joining the war in Iran, he said he would grant Ukraine long-sought authority to make the Patriot defense system.",
+          "yayin_tarihi": "Thu, 09 Jul 2026 09:51:04 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Suspect in Monaco Bombing Attack Is Found Dead in Ukraine",
+          "baslik": "At Iran’s Funeral for Ayatollah Khamenei, Mourners Bid an Emotional Farewell",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/07/world/europe/monaco-bombing-suspect-dead-ukraine.html",
-          "ozet": "The Ukrainian authorities said that Anastasiia Berezovska, who officials said was behind the explosion last week, had been shot.",
-          "yayin_tarihi": "Tue, 07 Jul 2026 15:34:07 +0000",
+          "url": "https://www.nytimes.com/2026/07/08/world/middleeast/iran-khamenei-funeral-photos.html",
+          "ozet": "Millions of Iranians descended on Tehran to pay their respects to the slain supreme leader.",
+          "yayin_tarihi": "Wed, 08 Jul 2026 14:11:20 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Why China Fired a Long-Range Missile Into the Pacific",
+          "baslik": "Trump’s Arrival in Turkey for NATO Summit Adds Drama and Spectacle",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/07/world/asia/china-missile-test-submarine-pacific.html",
-          "ozet": "Beijing had long tested nuclear missiles only within its borders. A rare launch over an ocean shows it is determined to narrow the gap with the United States.",
-          "yayin_tarihi": "Tue, 07 Jul 2026 15:08:24 +0000",
+          "url": "https://www.nytimes.com/2026/07/08/world/europe/trump-nato-summit.html",
+          "ozet": "The second President Trump landed in Turkey, the center of gravity shifted right to where he likes it best: himself.",
+          "yayin_tarihi": "Wed, 08 Jul 2026 04:00:07 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Oil Prices Jump After U.S. and Iran Trade Strikes in Persian Gulf",
+          "baslik": "Iraqis Turn Out in Droves to Mourn Khamenei and Show Solidarity",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/08/business/oil-gas-markets-shipping-hormuz.html",
-          "ozet": "Attacks on ships in the Strait of Hormuz sparked a new cycle of retaliation that could throttle the flow of energy from the region.",
-          "yayin_tarihi": "Wed, 08 Jul 2026 07:03:47 +0000",
+          "url": "https://www.nytimes.com/2026/07/08/world/middleeast/iraq-funeral-ayatollah-khamenei.html",
+          "ozet": "In Najaf and Karbala, home to two of Shiite Islam’s holiest sites, hundreds of thousands joined commemorations for Ayatollah Ali Khamenei, who extended Iran’s influence in Iraq.",
+          "yayin_tarihi": "Wed, 08 Jul 2026 19:47:17 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-08T08:37:59.507938"
+      "taranma_zamani": "2026-07-09T09:55:44.233808"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "US strikes in Iran target air defenses, missile depots, drone launch sites — Axios",
+          "baslik": "Trump's statements confirm US non-compliance with MOU — Iranian Foreign Ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2157303",
-          "ozet": "According to the report, US forces carried out strikes on targets in Iran near the Strait of Hormuz",
-          "yayin_tarihi": "Wed, 08 Jul 2026 11:25:28 +0300",
+          "url": "https://tass.com/world/2158019",
+          "ozet": "It is noted that this step once again underscores \"the treachery, baseness, and militarism\" of the US ruling elite",
+          "yayin_tarihi": "Thu, 09 Jul 2026 12:43:51 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ruble’s strengthening hinders Russian firms from competing with Chinese imports — RSPP",
+          "baslik": "Patriot license transfer to Kiev aimed at securing US firms in Ukraine — expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2157299",
-          "ozet": "In recent years, Chinese imports have posed stiff competition to Russian goods, Alexander Shokhin noted",
-          "yayin_tarihi": "Wed, 08 Jul 2026 11:24:12 +0300",
+          "url": "https://tass.com/politics/2157995",
+          "ozet": "Alexander Stepanov added that the technology transfer implies setting up costly production lines",
+          "yayin_tarihi": "Thu, 09 Jul 2026 12:23:28 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US struck school in Iran despite warnings intelligence was outdated — CNN",
+          "baslik": "AfD leader describes NATO as machine for financing Ukraine conflict",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2157295",
-          "ozet": "According to one of the network's sources, the US military determined the cause of the incident within days of the strike on the school, but has yet to release the findings of its investigation",
-          "yayin_tarihi": "Wed, 08 Jul 2026 11:19:49 +0300",
+          "url": "https://tass.com/world/2157989",
+          "ozet": "Tino Chrupalla urged efforts to find impetus for the peaceful coexistence of nations in Europe",
+          "yayin_tarihi": "Thu, 09 Jul 2026 12:13:36 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Magyar reaffirms that Hungary will supply no arms to Ukraine",
+          "baslik": "New round of US strikes on Iran could last up to one month — media",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2157293",
-          "ozet": "The new government will continue to provide humanitarian assistance to Ukraine, the Hungarian prime minister said",
-          "yayin_tarihi": "Wed, 08 Jul 2026 11:16:21 +0300",
+          "url": "https://tass.com/world/2157985",
+          "ozet": "According to the media outlet, \"the current escalation could last a day or two, a week or a month,\" depending on what steps Iran takes",
+          "yayin_tarihi": "Thu, 09 Jul 2026 12:07:37 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Kiev’s refusal to take back soldiers’ bodies unprecedented in history — Russian diplomat",
+          "baslik": "Serbia will never agree to relinquish Kosovo — minister",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2157291",
-          "ozet": "Maria Zakharova emphasized that \"it has always been considered mandatory to retrieve the bodies of one’s fallen warriors from a battlefield in any way",
-          "yayin_tarihi": "Wed, 08 Jul 2026 11:14:38 +0300",
+          "url": "https://tass.com/world/2157979",
+          "ozet": "Nenad Popovic noted that Belgrade feels Russia’s constant support on international platforms",
+          "yayin_tarihi": "Thu, 09 Jul 2026 11:33:51 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-08T08:37:59.507963"
+      "taranma_zamani": "2026-07-09T09:55:44.233832"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-08T08:37:59.507965"
+      "taranma_zamani": "2026-07-09T09:55:44.233834"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": " 一句“走个面儿”，为何引发全网“考古”？",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shehui/2026/07/08/china-internet-celebrity-hanhong-dispute/",
+          "ozet": "一句\"走个面儿\"，为什么会引发全网\"考古\"？当公众开始用\"验证\"代替\"相信\"，中国互联网正在发生什么变化？",
+          "yayin_tarihi": "Wed, 08 Jul 2026 15:25:12 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "中国社团新规8月施行　须建中共党组织",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "对许多离开中国的人来说，跨越国境，并不意味着恐惧就此结束。近年来，这类现象越来越多地被国际人权组织、研究机构和媒体称为\"跨国镇压\"。",
           "yayin_tarihi": "Wed, 01 Jul 2026 11:17:43 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "广州公交六年客流跌六成 番禺线司机罢工讨薪 ",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/06/30/china-guangzhou-bus-strike-unpaid-wages/",
-          "ozet": "广州番禺部分公交线路近期出现停运，司机罢工讨薪的消息随后在社交平台传播。中国媒体披露，广州常规公交近年客流持续下降，2025年日均客流量较2019年减少近六成，过去三年全市公交线路缩减逾百条。",
-          "yayin_tarihi": "Tue, 30 Jun 2026 04:32:51 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-08T08:37:59.507970"
+      "taranma_zamani": "2026-07-09T09:55:44.233839"
     }
   }
 }
