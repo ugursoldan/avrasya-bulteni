@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-07-09",
-  "olusturma_zamani": "2026-07-09T09:55:44.234014",
+  "olusturma_tarihi": "2026-07-10",
+  "olusturma_zamani": "2026-07-10T09:46:18.634769",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "LGS sonuçları açıklandı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/lgs-sonuclari-aciklandi-950826.html",
+          "ozet": "Liselere Geçiş Sistemi (LGS) kapsamında 14 Haziran'da yapılan merkezi sınavın sonuçları açıklandı.",
+          "yayin_tarihi": "Fri, 10 Jul 2026 09:54:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "ABD ordusu: İran'a karşı yeni saldırılar başlattık",
           "kaynak": "www.trthaber.com",
@@ -36,118 +44,118 @@
           "ozet": "Fransa Cumhurbaşkanı Emmanuel Macron, NATO Zirvesi için geldiği Ankara'da koşu yaptı.",
           "yayin_tarihi": "Wed, 08 Jul 2026 09:35:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "ABD  İran savaşı yeniden mi başladı?",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/abd-iran-savasi-yeniden-mi-basladi-950583.html",
-          "ozet": "Hürmüz Boğazı'nda üç petrol tankerine düzenlenen saldırıların ardından Amerika Birleşik Devletleri, İran'a yönelik hava saldırıları başlattı. İran Devrim Muhafızları Ordusu, ABD'nin ateşkes ihlaline karşılık Bahreyn ve Kuveyt'te bulunan 85 Amerikan askeri tesisini füze ve insansız hava araçlarıyla hedef aldığını açıkladı.",
-          "yayin_tarihi": "Wed, 08 Jul 2026 06:29:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-09T09:55:44.233783"
+      "taranma_zamani": "2026-07-10T09:46:18.634520"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "U.S. Launches New Strikes on Iran, Military Says",
+          "baslik": "Iran’s Supreme Leader Remains Absent, a Void at the Top of the Regime",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
-          "ozet": "U.S. Central Command said on social media that it was protecting shipping in the Strait of Hormuz. President Trump said earlier that he thought a three-week-old cease-fire was “over.”",
-          "yayin_tarihi": "Thu, 09 Jul 2026 09:51:04 +0000",
+          "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
+          "ozet": "Ayatollah Mojtaba Khamenei did not appear at his father’s funeral this week, fueling speculation about his physical condition and leaving a power vacuum in a divided country.",
+          "yayin_tarihi": "Fri, 10 Jul 2026 09:00:06 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Trump Praises NATO’s ‘Unity’ After Lashing Out at Allies",
+          "baslik": "China Launches Reusable Rocket, Clearing a Key Hurdle in Race With SpaceX",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine",
-          "ozet": "Though President Trump assailed partners for not joining the war in Iran, he said he would grant Ukraine long-sought authority to make the Patriot defense system.",
-          "yayin_tarihi": "Thu, 09 Jul 2026 09:51:04 +0000",
+          "url": "https://www.nytimes.com/2026/07/10/world/asia/china-space-reusable-rocket-launch-spacex.html",
+          "ozet": "The launch and recovery of the Long March 10B could represent a long-awaited breakthrough for Chinese satellite companies.",
+          "yayin_tarihi": "Fri, 10 Jul 2026 07:39:11 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "At Iran’s Funeral for Ayatollah Khamenei, Mourners Bid an Emotional Farewell",
+          "baslik": "Final Stage of Ayatollah Ali Khamenei’s Funeral Begins After Delay",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/08/world/middleeast/iran-khamenei-funeral-photos.html",
-          "ozet": "Millions of Iranians descended on Tehran to pay their respects to the slain supreme leader.",
-          "yayin_tarihi": "Wed, 08 Jul 2026 14:11:20 +0000",
+          "url": "https://www.nytimes.com/2026/07/09/world/middleeast/khamenei-funeral-iran.html",
+          "ozet": "Thousands gathered for the procession in Mashhad for the supreme leader, who was killed in the first U.S.-Israeli attacks of the war. Hours earlier, the United States and Iran traded strikes.",
+          "yayin_tarihi": "Thu, 09 Jul 2026 21:59:16 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Trump’s Arrival in Turkey for NATO Summit Adds Drama and Spectacle",
+          "baslik": "Factory Blaze in China’s ‘Shoe Capital’ Kills 28",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/08/world/europe/trump-nato-summit.html",
-          "ozet": "The second President Trump landed in Turkey, the center of gravity shifted right to where he likes it best: himself.",
-          "yayin_tarihi": "Wed, 08 Jul 2026 04:00:07 +0000",
+          "url": "https://www.nytimes.com/2026/07/09/world/asia/china-fire-shoe-factory.html",
+          "ozet": "The country’s leader, Xi Jinping, called on the authorities to investigate the fire, the latest of several deadly workplace accidents in China this year.",
+          "yayin_tarihi": "Thu, 09 Jul 2026 20:27:59 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iraqis Turn Out in Droves to Mourn Khamenei and Show Solidarity",
+          "baslik": "Tanker Attacks Risk Overplaying Iran’s Hand, Analysts Say",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/08/world/middleeast/iraq-funeral-ayatollah-khamenei.html",
-          "ozet": "In Najaf and Karbala, home to two of Shiite Islam’s holiest sites, hundreds of thousands joined commemorations for Ayatollah Ali Khamenei, who extended Iran’s influence in Iraq.",
-          "yayin_tarihi": "Wed, 08 Jul 2026 19:47:17 +0000",
+          "url": "https://www.nytimes.com/2026/07/09/world/middleeast/iran-us-war-strait-of-hormuz.html",
+          "ozet": "Iran’s history shows it is willing to dig in, even when it may suffer big losses.",
+          "yayin_tarihi": "Thu, 09 Jul 2026 13:15:59 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-09T09:55:44.233808"
+      "taranma_zamani": "2026-07-10T09:46:18.634549"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Trump's statements confirm US non-compliance with MOU — Iranian Foreign Ministry",
+          "baslik": "China opposes rising tensions in the Arctic — Foreign Ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2158019",
-          "ozet": "It is noted that this step once again underscores \"the treachery, baseness, and militarism\" of the US ruling elite",
-          "yayin_tarihi": "Thu, 09 Jul 2026 12:43:51 +0300",
+          "url": "https://tass.com/world/2158565",
+          "ozet": "\"China firmly opposes the stoking of the so-called 'Chinese threat' myth, as well as the creation of tensions and confrontation in the Arctic,\" Mao Ning said",
+          "yayin_tarihi": "Fri, 10 Jul 2026 12:37:51 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Patriot license transfer to Kiev aimed at securing US firms in Ukraine — expert",
+          "baslik": "Maritime navigation center damaged in US strike on Iran's Chabahar port",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2157995",
-          "ozet": "Alexander Stepanov added that the technology transfer implies setting up costly production lines",
-          "yayin_tarihi": "Thu, 09 Jul 2026 12:23:28 +0300",
+          "url": "https://tass.com/world/2158541",
+          "ozet": "According to the news agency, the incident did not affect port operations",
+          "yayin_tarihi": "Fri, 10 Jul 2026 12:20:13 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "AfD leader describes NATO as machine for financing Ukraine conflict",
+          "baslik": "Russian oil exports rise to 7.71 mln bpd in June, revenues fall to $15.84 bln — IEA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2157989",
-          "ozet": "Tino Chrupalla urged efforts to find impetus for the peaceful coexistence of nations in Europe",
-          "yayin_tarihi": "Thu, 09 Jul 2026 12:13:36 +0300",
+          "url": "https://tass.com/economy/2158529",
+          "ozet": "Meanwhile, export revenues fell by almost 24% to $15.84 billion amid lower prices for Russian energy products",
+          "yayin_tarihi": "Fri, 10 Jul 2026 11:57:08 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "New round of US strikes on Iran could last up to one month — media",
+          "baslik": "Over 800 commercial vessels pass through Strait of Hormuz since early May — US command",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2157985",
-          "ozet": "According to the media outlet, \"the current escalation could last a day or two, a week or a month,\" depending on what steps Iran takes",
-          "yayin_tarihi": "Thu, 09 Jul 2026 12:07:37 +0300",
+          "url": "https://tass.com/world/2158525",
+          "ozet": "The US Central Command also denied claims by Iranian state media that commercial vessel traffic through the Strait of Hormuz is currently limited to a route approved by Tehran",
+          "yayin_tarihi": "Fri, 10 Jul 2026 11:56:15 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Serbia will never agree to relinquish Kosovo — minister",
+          "baslik": "Bank of Russia buys $62.62 mln worth of yuan for July 9 settlements",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2157979",
-          "ozet": "Nenad Popovic noted that Belgrade feels Russia’s constant support on international platforms",
-          "yayin_tarihi": "Thu, 09 Jul 2026 11:33:51 +0300",
+          "url": "https://tass.com/economy/2158527",
+          "ozet": "The volume of foreign currency purchases on the domestic market for settlements dated July 8 amounted to $61.32 mln",
+          "yayin_tarihi": "Fri, 10 Jul 2026 11:54:57 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-09T09:55:44.233832"
+      "taranma_zamani": "2026-07-10T09:46:18.634576"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-09T09:55:44.233834"
+      "taranma_zamani": "2026-07-10T09:46:18.634578"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "彩虹月 在中国是如何一步步消失的？",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shehui/2026/07/10/china-lgbtq-pride-month-banned/",
+          "ozet": "刚刚过去的6月在很多国家又被称之 “彩虹月”，也叫“骄傲月”。在一些中国社交媒体平台搜索“彩虹月”，结果更多出现的是自然风景中的彩虹图片，而不是与LGBTQ相关的话题。\n那么，中国的LGBTQ公共空间，是如何逐渐发生变化的？",
+          "yayin_tarihi": "Fri, 10 Jul 2026 08:35:54 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": " 一句“走个面儿”，为何引发全网“考古”？",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "在敏感的北京和七一时间点，小飞机撞“中国尊”事件，除了“事故正在调查中”的通报之外，中国网络再也搜索不到进一步信息。专家评论：“现在中国最重要的，在他们认为，是让这件事情好像没有发生过一样。可是纸包不了火，让各界更加怀疑内情不单纯",
           "yayin_tarihi": "Thu, 02 Jul 2026 02:14:36 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "专访李老师不是你老师：“没有人是安全的\"",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/2026/07/01/china-transnational-repression-whyyoutouzhele/",
-          "ozet": "对许多离开中国的人来说，跨越国境，并不意味着恐惧就此结束。近年来，这类现象越来越多地被国际人权组织、研究机构和媒体称为\"跨国镇压\"。",
-          "yayin_tarihi": "Wed, 01 Jul 2026 11:17:43 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-09T09:55:44.233839"
+      "taranma_zamani": "2026-07-10T09:46:18.634584"
     }
   }
 }
