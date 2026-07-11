@@ -1,16 +1,24 @@
 {
-  "olusturma_tarihi": "2026-07-10",
-  "olusturma_zamani": "2026-07-10T09:46:18.634769",
+  "olusturma_tarihi": "2026-07-11",
+  "olusturma_zamani": "2026-07-11T08:04:54.269034",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "LGS sonuçları açıklandı",
+          "baslik": "Trump: İran'la müzakereler devam edecek ama ateşkes sona erdi",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/lgs-sonuclari-aciklandi-950826.html",
-          "ozet": "Liselere Geçiş Sistemi (LGS) kapsamında 14 Haziran'da yapılan merkezi sınavın sonuçları açıklandı.",
-          "yayin_tarihi": "Fri, 10 Jul 2026 09:54:00 +0300",
+          "url": "https://www.trthaber.com/haber/dunya/trump-iranla-muzakereler-devam-edecek-ama-ateskes-sona-erdi-950886.html",
+          "ozet": "ABD Başkanı Trump, \"İran bizden “görüşmeleri” devam ettirmemizi istedi. Kabul ettik ancak ABD ateşkesin sona erdiğini açık bir dille bildirdi\" açıklamasında bulundu.",
+          "yayin_tarihi": "Fri, 10 Jul 2026 17:49:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Çin'de sellerin vurduğu çiftlikteki yaklaşık 900 yılan kaçtı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/cinde-sellerin-vurdugu-ciftlikteki-yaklasik-900-yilan-kacti-950828.html",
+          "ozet": "Çin'in güneyinde etkili olan tayfun ve sel felaketi nedeniyle bir barajın çökmesi sonucu sular altında kalan çiftlikten yaklaşık 900 yılan kaçtı. Aralarında ölümcül kobraların da bulunduğu yüzlerce yılanın yayıldığı Dengwei köyünde \"acil durum\" ilan edildi.",
+          "yayin_tarihi": "Fri, 10 Jul 2026 10:02:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -36,27 +44,43 @@
           "ozet": "ABD Başkanı Donald Trump, \"İran'la ateşkes benim için bitti. Artık onlarla anlaşmak istemiyorum\" dedi.",
           "yayin_tarihi": "Wed, 08 Jul 2026 11:05:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Fransa Cumhurbaşkanı Macron, Ankara'da koşu yaptı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/fransa-cumhurbaskani-macron-ankarada-kosu-yapti-950604.html",
-          "ozet": "Fransa Cumhurbaşkanı Emmanuel Macron, NATO Zirvesi için geldiği Ankara'da koşu yaptı.",
-          "yayin_tarihi": "Wed, 08 Jul 2026 09:35:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-10T09:46:18.634520"
+      "taranma_zamani": "2026-07-11T08:04:54.268785"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "‘They Don’t Need People’: The Workers Left Behind by China’s Robot Drive",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html",
+          "ozet": "For out-of-work factory workers in Kunshan, a region made rich by electronics manufacturing, a park is the only place to go.",
+          "yayin_tarihi": "Sat, 11 Jul 2026 04:01:08 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "Iran’s Supreme Leader Remains Absent, a Void at the Top of the Regime",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
           "ozet": "Ayatollah Mojtaba Khamenei did not appear at his father’s funeral this week, fueling speculation about his physical condition and leaving a power vacuum in a divided country.",
-          "yayin_tarihi": "Fri, 10 Jul 2026 09:00:06 +0000",
+          "yayin_tarihi": "Fri, 10 Jul 2026 16:00:30 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Moscow Still Has Art and Culture. Just Don’t Say ‘Ukraine.’",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/07/10/world/europe/russia-moscow-ukraine-war.html",
+          "ozet": "An eerie limbo prevails at small art shows, independent theaters and private political clubs, where the war is the elephant in the room.",
+          "yayin_tarihi": "Fri, 10 Jul 2026 13:03:34 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Mediators Trying to Pull U.S. and Iran Back From Brink, Officials Say",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-us-ceasefire-talks.html",
+          "ozet": "Qatari mediators were in Iran seeking to salvage the tattered truce. President Trump said talks with Tehran would continue, even if the cease-fire was “over.”",
+          "yayin_tarihi": "Fri, 10 Jul 2026 16:15:28 +0000",
           "dil": "İngilizce"
         },
         {
@@ -64,90 +88,74 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/07/10/world/asia/china-space-reusable-rocket-launch-spacex.html",
           "ozet": "The launch and recovery of the Long March 10B could represent a long-awaited breakthrough for Chinese satellite companies.",
-          "yayin_tarihi": "Fri, 10 Jul 2026 07:39:11 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Final Stage of Ayatollah Ali Khamenei’s Funeral Begins After Delay",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/09/world/middleeast/khamenei-funeral-iran.html",
-          "ozet": "Thousands gathered for the procession in Mashhad for the supreme leader, who was killed in the first U.S.-Israeli attacks of the war. Hours earlier, the United States and Iran traded strikes.",
-          "yayin_tarihi": "Thu, 09 Jul 2026 21:59:16 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Factory Blaze in China’s ‘Shoe Capital’ Kills 28",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/09/world/asia/china-fire-shoe-factory.html",
-          "ozet": "The country’s leader, Xi Jinping, called on the authorities to investigate the fire, the latest of several deadly workplace accidents in China this year.",
-          "yayin_tarihi": "Thu, 09 Jul 2026 20:27:59 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Tanker Attacks Risk Overplaying Iran’s Hand, Analysts Say",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/09/world/middleeast/iran-us-war-strait-of-hormuz.html",
-          "ozet": "Iran’s history shows it is willing to dig in, even when it may suffer big losses.",
-          "yayin_tarihi": "Thu, 09 Jul 2026 13:15:59 +0000",
+          "yayin_tarihi": "Fri, 10 Jul 2026 07:39:12 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-10T09:46:18.634549"
+      "taranma_zamani": "2026-07-11T08:04:54.268810"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "China opposes rising tensions in the Arctic — Foreign Ministry",
+          "baslik": "Russian forces strike three ports, two enterprises in Kiev during overnight attack",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2158565",
-          "ozet": "\"China firmly opposes the stoking of the so-called 'Chinese threat' myth, as well as the creation of tensions and confrontation in the Arctic,\" Mao Ning said",
-          "yayin_tarihi": "Fri, 10 Jul 2026 12:37:51 +0300",
+          "url": "https://tass.com/defense/2158965",
+          "ozet": "In Kiev, the \"Fanplit\" enterprise, which assembles \"Fire Point-2\" drones with a range of up to 200 km and is disguised as civilian furniture production, was also struck",
+          "yayin_tarihi": "Sat, 11 Jul 2026 10:40:44 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Maritime navigation center damaged in US strike on Iran's Chabahar port",
+          "baslik": "Explosions in Tehran province caused by destruction of unexploded ordnance",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2158541",
-          "ozet": "According to the news agency, the incident did not affect port operations",
-          "yayin_tarihi": "Fri, 10 Jul 2026 12:20:13 +0300",
+          "url": "https://tass.com/world/2158963",
+          "ozet": "Specialized services were destroying ammunition from the period of active hostilities between Iran and the United States",
+          "yayin_tarihi": "Sat, 11 Jul 2026 10:39:18 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian oil exports rise to 7.71 mln bpd in June, revenues fall to $15.84 bln — IEA",
+          "baslik": "Terms for ending conflict in Ukraine to be worse for Kiev than in 2022 — Russian senator",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2158529",
-          "ozet": "Meanwhile, export revenues fell by almost 24% to $15.84 billion amid lower prices for Russian energy products",
-          "yayin_tarihi": "Fri, 10 Jul 2026 11:57:08 +0300",
+          "url": "https://tass.com/politics/2158959",
+          "ozet": "Ultimately, everything will be decided at the negotiating table, Konstantin Kosachev said",
+          "yayin_tarihi": "Sat, 11 Jul 2026 09:48:32 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Over 800 commercial vessels pass through Strait of Hormuz since early May — US command",
+          "baslik": "Air defense forces destroy 178 Ukrainian drones over Russian regions overnight",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2158525",
-          "ozet": "The US Central Command also denied claims by Iranian state media that commercial vessel traffic through the Strait of Hormuz is currently limited to a route approved by Tehran",
-          "yayin_tarihi": "Fri, 10 Jul 2026 11:56:15 +0300",
+          "url": "https://tass.com/defense/2158955",
+          "ozet": "Duty air defense assets intercepted and destroyed Ukrainian fixed-wing unmanned aerial vehicles over the territories of the Bryansk, Kaluga, Rostov, Smolensk, Tver, Moscow and Krasnodar Regions, as well as the Republics of Crimea and Adygea, and over the waters of the Azov and Black Seas",
+          "yayin_tarihi": "Sat, 11 Jul 2026 09:02:59 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Bank of Russia buys $62.62 mln worth of yuan for July 9 settlements",
+          "baslik": "Russian forces strike military-industrial complex enterprises in Kiev — top brass",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2158527",
-          "ozet": "The volume of foreign currency purchases on the domestic market for settlements dated July 8 amounted to $61.32 mln",
-          "yayin_tarihi": "Fri, 10 Jul 2026 11:54:57 +0300",
+          "url": "https://tass.com/defense/2158953",
+          "ozet": "The Russian Defense Ministry added that port infrastructure facilities in Odessa, Chernomorsk, and Izmail in the Odessa region, used for the delivery and storage of military cargo and fuel and lubricants, were also struck",
+          "yayin_tarihi": "Sat, 11 Jul 2026 08:59:41 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-10T09:46:18.634576"
+      "taranma_zamani": "2026-07-11T08:04:54.268838"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-10T09:46:18.634578"
+      "taranma_zamani": "2026-07-11T08:04:54.268841"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "中国试射巨浪导弹落南太平洋 引发国际关切  ",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/07/10/china-missile-nuclear-submarine-jl2/",
+          "ozet": "中国官方媒体6号发布，当天中午在太平洋试射一枚远程弹道导弹，导弹是由一艘中国核动力潜艇發射，落点在太平洋公海海域。中方并事先通报相关国家，但之后依旧引发北约、澳大利亚、新西兰、日本及所罗门群岛等国家的关切或批评。",
+          "yayin_tarihi": "Fri, 10 Jul 2026 16:30:07 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "彩虹月 在中国是如何一步步消失的？",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "中共总书记习近平7月1日在北京举行的庆祝中国共产党成立105周年大会上发表讲话，中共中央政治局常委出席会议。习近平要求全党坚持底线思维，全文8次提到“斗争”。这篇讲话也突出风险、安全和党内动员.",
           "yayin_tarihi": "Thu, 02 Jul 2026 07:20:41 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "七一党庆前小飞机撞北京高楼 为什么网络很快“被”安静了？",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/07/02/china-beijing-plane-crash-highrise/",
-          "ozet": "在敏感的北京和七一时间点，小飞机撞“中国尊”事件，除了“事故正在调查中”的通报之外，中国网络再也搜索不到进一步信息。专家评论：“现在中国最重要的，在他们认为，是让这件事情好像没有发生过一样。可是纸包不了火，让各界更加怀疑内情不单纯",
-          "yayin_tarihi": "Thu, 02 Jul 2026 02:14:36 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-10T09:46:18.634584"
+      "taranma_zamani": "2026-07-11T08:04:54.268846"
     }
   }
 }
