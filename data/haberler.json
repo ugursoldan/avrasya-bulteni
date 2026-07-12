@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-07-11",
-  "olusturma_zamani": "2026-07-11T08:04:54.269034",
+  "olusturma_tarihi": "2026-07-12",
+  "olusturma_zamani": "2026-07-12T08:26:08.221776",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "ABD İran'a saldırı başlattı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/abd-irana-saldiri-baslatti-950972.html",
+          "ozet": "ABD'nin, Hürmüz Boğazı'ndan geçen ticari bir gemiye ateş açan İran'a karşı bu hafta üçüncü saldırı turunu başlattığı bildirildi.",
+          "yayin_tarihi": "Sun, 12 Jul 2026 02:43:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "15 Temmuz'da binlerce kişi şehitler için yürüyecek",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/15-temmuzda-binlerce-kisi-sehitler-icin-yuruyecek-950969.html",
+          "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı, Gençlik ve Spor Bakanlığı, İstanbul Valiliği ile Türkiye Atletizm Federasyonu koordinasyonunda 15 Temmuz Demokrasi ve Milli Birlik Günü’nün 10. yıl dönümünde binlerce kişi Şehitler Köprüsü’nde şehitler için yürüyecek.",
+          "yayin_tarihi": "Sat, 11 Jul 2026 21:51:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Trump: İran'la müzakereler devam edecek ama ateşkes sona erdi",
           "kaynak": "www.trthaber.com",
@@ -28,29 +44,29 @@
           "ozet": "ABD ordusu, \"ticari gemileri hedef aldığı\" gerekçesiyle İran'a karşı yeni saldırılar başlattığını duyurdu.",
           "yayin_tarihi": "Wed, 08 Jul 2026 23:22:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Ay Yıldız Karargahı kapılarını ilk kez NATO Savunma Bakanları için açtı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/ay-yildiz-karargahi-kapilarini-ilk-kez-nato-savunma-bakanlari-icin-acti-950632.html",
-          "ozet": "Milli Savunma Bakanlığından yapılan açıklamada, Cumhurbaşkanı Recep Tayyip Erdoğan'ın ev sahipliğinde gerçekleştirilen 36. NATO Devlet ve Hükümet Başkanları Zirvesi kapsamında, inşası devam eden Ay Yıldız Müşterek Karargahı kapılarının ilk kez NATO Savunma Bakanları için açıldığı belirtildi.",
-          "yayin_tarihi": "Wed, 08 Jul 2026 12:05:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Trump: İran'la ateşkes bence bitti",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/trump-iranla-ateskes-bence-bitti-950617.html",
-          "ozet": "ABD Başkanı Donald Trump, \"İran'la ateşkes benim için bitti. Artık onlarla anlaşmak istemiyorum\" dedi.",
-          "yayin_tarihi": "Wed, 08 Jul 2026 11:05:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-11T08:04:54.268785"
+      "taranma_zamani": "2026-07-12T08:26:08.221554"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html",
+          "ozet": "Typhoon Bavi made landfall in China after killing 17 in the Philippines, skirting Japan and hitting Taiwan. At its largest, the storm was about the width of France.",
+          "yayin_tarihi": "Sun, 12 Jul 2026 07:17:40 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "How Putin Turned Japan Into a Den of Spies",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html",
+          "ozet": "Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.",
+          "yayin_tarihi": "Sun, 12 Jul 2026 04:01:11 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "‘They Don’t Need People’: The Workers Left Behind by China’s Robot Drive",
           "kaynak": "rss.nytimes.com",
@@ -68,82 +84,66 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "Moscow Still Has Art and Culture. Just Don’t Say ‘Ukraine.’",
+          "baslik": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/10/world/europe/russia-moscow-ukraine-war.html",
-          "ozet": "An eerie limbo prevails at small art shows, independent theaters and private political clubs, where the war is the elephant in the room.",
-          "yayin_tarihi": "Fri, 10 Jul 2026 13:03:34 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Mediators Trying to Pull U.S. and Iran Back From Brink, Officials Say",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-us-ceasefire-talks.html",
-          "ozet": "Qatari mediators were in Iran seeking to salvage the tattered truce. President Trump said talks with Tehran would continue, even if the cease-fire was “over.”",
-          "yayin_tarihi": "Fri, 10 Jul 2026 16:15:28 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "China Launches Reusable Rocket, Clearing a Key Hurdle in Race With SpaceX",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/10/world/asia/china-space-reusable-rocket-launch-spacex.html",
-          "ozet": "The launch and recovery of the Long March 10B could represent a long-awaited breakthrough for Chinese satellite companies.",
-          "yayin_tarihi": "Fri, 10 Jul 2026 07:39:12 +0000",
+          "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html",
+          "ozet": "During the war, Israel attacked Iran’s steel plants, saying they provided forces with revenue and the means to make weapons, but it also hurt the civilian economy.",
+          "yayin_tarihi": "Sat, 11 Jul 2026 13:26:24 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-11T08:04:54.268810"
+      "taranma_zamani": "2026-07-12T08:26:08.221579"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russian forces strike three ports, two enterprises in Kiev during overnight attack",
+          "baslik": "Russian strikes hit Odtrans logistics center, Odessa port infrastructure",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2158965",
-          "ozet": "In Kiev, the \"Fanplit\" enterprise, which assembles \"Fire Point-2\" drones with a range of up to 200 km and is disguised as civilian furniture production, was also struck",
-          "yayin_tarihi": "Sat, 11 Jul 2026 10:40:44 +0300",
+          "url": "https://tass.com/defense/2159131",
+          "ozet": "As previously reported by the ministry, last night, the Russian armed forces carried out group strikes using long-range air-launched precision weapons and attack drones",
+          "yayin_tarihi": "Sun, 12 Jul 2026 10:40:58 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Explosions in Tehran province caused by destruction of unexploded ordnance",
+          "baslik": "Russian strikes hit port infrastructure in Odessa, Chernomorsk",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2158963",
-          "ozet": "Specialized services were destroying ammunition from the period of active hostilities between Iran and the United States",
-          "yayin_tarihi": "Sat, 11 Jul 2026 10:39:18 +0300",
+          "url": "https://tass.com/defense/2159125",
+          "ozet": "Also a crew of Geran drones has destroyed a gas distribution station used in the interests of the Ukrainian armed forces in Kramatorsk",
+          "yayin_tarihi": "Sun, 12 Jul 2026 09:49:34 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Terms for ending conflict in Ukraine to be worse for Kiev than in 2022 — Russian senator",
+          "baslik": "Russian, Chinese navies successfully complete sea phase of joint exercises",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2158959",
-          "ozet": "Ultimately, everything will be decided at the negotiating table, Konstantin Kosachev said",
-          "yayin_tarihi": "Sat, 11 Jul 2026 09:48:32 +0300",
+          "url": "https://tass.com/world/2159121",
+          "ozet": "The exercises were aimed at practicing rescue operations, striking targets at sea, and at assisting air and missile defense, the Chinese Defense Ministry said",
+          "yayin_tarihi": "Sun, 12 Jul 2026 07:59:09 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Air defense forces destroy 178 Ukrainian drones over Russian regions overnight",
+          "baslik": "US perceived possible threat to Trump from Iran as not entirely credible — WSJ",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2158955",
-          "ozet": "Duty air defense assets intercepted and destroyed Ukrainian fixed-wing unmanned aerial vehicles over the territories of the Bryansk, Kaluga, Rostov, Smolensk, Tver, Moscow and Krasnodar Regions, as well as the Republics of Crimea and Adygea, and over the waters of the Azov and Black Seas",
-          "yayin_tarihi": "Sat, 11 Jul 2026 09:02:59 +0300",
+          "url": "https://tass.com/world/2159119",
+          "ozet": "At the same time, the US president used an older jet to return home from the NATO summit in Turkey",
+          "yayin_tarihi": "Sun, 12 Jul 2026 07:45:19 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian forces strike military-industrial complex enterprises in Kiev — top brass",
+          "baslik": "Tanker entering canal in south Russia damaged in drone attack",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2158953",
-          "ozet": "The Russian Defense Ministry added that port infrastructure facilities in Odessa, Chernomorsk, and Izmail in the Odessa region, used for the delivery and storage of military cargo and fuel and lubricants, were also struck",
-          "yayin_tarihi": "Sat, 11 Jul 2026 08:59:41 +0300",
+          "url": "https://tass.com/emergencies/2159109",
+          "ozet": "There were no casualties and there was no threat of an oil leak, Governor Yury Slyusar said",
+          "yayin_tarihi": "Sun, 12 Jul 2026 07:05:48 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-11T08:04:54.268838"
+      "taranma_zamani": "2026-07-12T08:26:08.221740"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-11T08:04:54.268841"
+      "taranma_zamani": "2026-07-12T08:26:08.221743"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-11T08:04:54.268846"
+      "taranma_zamani": "2026-07-12T08:26:08.221750"
     }
   }
 }
