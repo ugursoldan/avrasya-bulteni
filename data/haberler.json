@@ -1,16 +1,24 @@
 {
-  "olusturma_tarihi": "2026-07-12",
-  "olusturma_zamani": "2026-07-12T08:26:08.221776",
+  "olusturma_tarihi": "2026-07-13",
+  "olusturma_zamani": "2026-07-13T09:38:31.541203",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "ABD İran'a saldırı başlattı",
+          "baslik": "ABD İran'ı yine vuruyor",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/abd-irana-saldiri-baslatti-950972.html",
-          "ozet": "ABD'nin, Hürmüz Boğazı'ndan geçen ticari bir gemiye ateş açan İran'a karşı bu hafta üçüncü saldırı turunu başlattığı bildirildi.",
-          "yayin_tarihi": "Sun, 12 Jul 2026 02:43:00 +0300",
+          "url": "https://www.trthaber.com/haber/dunya/abd-irani-yine-vuruyor-951030.html",
+          "ozet": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'a yönelik yeni saldırılar başlattıklarını açıkladı.",
+          "yayin_tarihi": "Mon, 13 Jul 2026 00:25:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "ABD gemileri için rota Türk tersaneleri olabilir",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/abd-gemileri-icin-rota-turk-tersaneleri-olabilir-951045.html",
+          "ozet": "Türkiye ile ABD arasında yeni dönemin önemli konu başlıklarından biri deniz platformları olabilir… ABD deniz araçları üretiminde geçmişi mumla arıyor. Türkiye ise aynı anda en çok gemi üreten dünyanın ikinci ülkesi. Yeni gemi üretimi olmasa bile Akdeniz’de görev yapan ABD gemilerinin bakım/onarım faaliyetleri için Türk tersaneleri biçilmiş kaftan.",
+          "yayin_tarihi": "Mon, 13 Jul 2026 10:00:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -36,118 +44,118 @@
           "ozet": "Çin'in güneyinde etkili olan tayfun ve sel felaketi nedeniyle bir barajın çökmesi sonucu sular altında kalan çiftlikten yaklaşık 900 yılan kaçtı. Aralarında ölümcül kobraların da bulunduğu yüzlerce yılanın yayıldığı Dengwei köyünde \"acil durum\" ilan edildi.",
           "yayin_tarihi": "Fri, 10 Jul 2026 10:02:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "ABD ordusu: İran'a karşı yeni saldırılar başlattık",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/abd-ordusu-irana-karsi-yeni-saldirilar-baslattik-950699.html",
-          "ozet": "ABD ordusu, \"ticari gemileri hedef aldığı\" gerekçesiyle İran'a karşı yeni saldırılar başlattığını duyurdu.",
-          "yayin_tarihi": "Wed, 08 Jul 2026 23:22:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-12T08:26:08.221554"
+      "taranma_zamani": "2026-07-13T09:38:31.540919"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays",
+          "baslik": "Live Updates: Iran Insists It Controls Strait of Hormuz as It Launches New Strikes",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html",
-          "ozet": "Typhoon Bavi made landfall in China after killing 17 in the Philippines, skirting Japan and hitting Taiwan. At its largest, the storm was about the width of France.",
-          "yayin_tarihi": "Sun, 12 Jul 2026 07:17:40 +0000",
+          "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
+          "ozet": "The Iranian military said it had fired at U.S. targets across the Persian Gulf as the two sides engaged in another day of hostilities. President Trump on Sunday denied Iran’s claim to have closed the Strait of Hormuz.",
+          "yayin_tarihi": "Mon, 13 Jul 2026 09:23:11 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "How Putin Turned Japan Into a Den of Spies",
+          "baslik": "Japan Is Building a New Intelligence Agency With Help From the West",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html",
-          "ozet": "Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.",
-          "yayin_tarihi": "Sun, 12 Jul 2026 04:01:11 +0000",
+          "url": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html",
+          "ozet": "Facing threats from Russia and China, Prime Minister Sanae Takaichi is breaking with World War II-era limits on security.",
+          "yayin_tarihi": "Mon, 13 Jul 2026 04:37:31 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "‘They Don’t Need People’: The Workers Left Behind by China’s Robot Drive",
+          "baslik": "A Robot Army Remakes Ground Warfare in Ukraine",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html",
-          "ozet": "For out-of-work factory workers in Kunshan, a region made rich by electronics manufacturing, a park is the only place to go.",
-          "yayin_tarihi": "Sat, 11 Jul 2026 04:01:08 +0000",
+          "url": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html",
+          "ozet": "They began as supply mules. Now ground robots evacuate the wounded, hold trenches and even do the killing.",
+          "yayin_tarihi": "Mon, 13 Jul 2026 09:00:23 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iran’s Supreme Leader Remains Absent, a Void at the Top of the Regime",
+          "baslik": "The Next Phase in Ukraine’s War With Russia: The Battle for Minds",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
-          "ozet": "Ayatollah Mojtaba Khamenei did not appear at his father’s funeral this week, fueling speculation about his physical condition and leaving a power vacuum in a divided country.",
-          "yayin_tarihi": "Fri, 10 Jul 2026 16:00:30 +0000",
+          "url": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-war-russia-cognitive-warfare.html",
+          "ozet": "Ukrainians, already drone innovators, are turning their focus to psychological operations aimed at undercutting Russian support for the war.",
+          "yayin_tarihi": "Mon, 13 Jul 2026 09:02:08 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
+          "baslik": "Hard-Liners in Iran Want to Keep Fighting America",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html",
-          "ozet": "During the war, Israel attacked Iran’s steel plants, saying they provided forces with revenue and the means to make weapons, but it also hurt the civilian economy.",
-          "yayin_tarihi": "Sat, 11 Jul 2026 13:26:24 +0000",
+          "url": "https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html",
+          "ozet": "With much of their leadership killed in the war, Iran’s conservatives have sought to fill the void and intensify the fight against the United States.",
+          "yayin_tarihi": "Sun, 12 Jul 2026 11:24:55 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-12T08:26:08.221579"
+      "taranma_zamani": "2026-07-13T09:38:31.540940"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russian strikes hit Odtrans logistics center, Odessa port infrastructure",
+          "baslik": "Iran in contact with Oman, Pakistan, Qatar to prevent further escalation",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2159131",
-          "ozet": "As previously reported by the ministry, last night, the Russian armed forces carried out group strikes using long-range air-launched precision weapons and attack drones",
-          "yayin_tarihi": "Sun, 12 Jul 2026 10:40:58 +0300",
+          "url": "https://tass.com/world/2159393",
+          "ozet": "Iranian Foreign Ministry Spokesman Esmaeil Baghaei stressed that Tehran would use all necessary means and methods to ensure its national interests and national security",
+          "yayin_tarihi": "Mon, 13 Jul 2026 12:29:40 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian strikes hit port infrastructure in Odessa, Chernomorsk",
+          "baslik": "Russian forces advance toward Druzhkovka despite Ukrainian air counterstrikes — DPR head",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2159125",
-          "ozet": "Also a crew of Geran drones has destroyed a gas distribution station used in the interests of the Ukrainian armed forces in Kramatorsk",
-          "yayin_tarihi": "Sun, 12 Jul 2026 09:49:34 +0300",
+          "url": "https://tass.com/politics/2159391",
+          "ozet": "In the neighboring Krasnoarmeysk-Dobropolye region, Russian forces have strengthened their positions following the liberation of Vasilyevka",
+          "yayin_tarihi": "Mon, 13 Jul 2026 12:25:10 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian, Chinese navies successfully complete sea phase of joint exercises",
+          "baslik": "Reducing economic reliance on China would cost US, European economies $23.6 trillion — FT",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2159121",
-          "ozet": "The exercises were aimed at practicing rescue operations, striking targets at sea, and at assisting air and missile defense, the Chinese Defense Ministry said",
-          "yayin_tarihi": "Sun, 12 Jul 2026 07:59:09 +0300",
+          "url": "https://tass.com/economy/2159383",
+          "ozet": "Experts analyzed the costs of building new production and logistics chains, processing capacity, research centers, and replacing software provided by Chinese companies",
+          "yayin_tarihi": "Mon, 13 Jul 2026 12:11:37 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US perceived possible threat to Trump from Iran as not entirely credible — WSJ",
+          "baslik": "Iran never violated signed memorandum with US — Foreign Ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2159119",
-          "ozet": "At the same time, the US president used an older jet to return home from the NATO summit in Turkey",
-          "yayin_tarihi": "Sun, 12 Jul 2026 07:45:19 +0300",
+          "url": "https://tass.com/world/2159389",
+          "ozet": "Esmaeil Baghaei stated that the Islamic Republic of Iran had always shown meticulousness and seriousness in any negotiations",
+          "yayin_tarihi": "Mon, 13 Jul 2026 12:09:00 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Tanker entering canal in south Russia damaged in drone attack",
+          "baslik": "First Russian-Arab forum to be held in early October — Roscongress",
           "kaynak": "tass.com",
-          "url": "https://tass.com/emergencies/2159109",
-          "ozet": "There were no casualties and there was no threat of an oil leak, Governor Yury Slyusar said",
-          "yayin_tarihi": "Sun, 12 Jul 2026 07:05:48 +0300",
+          "url": "https://tass.com/politics/2159385",
+          "ozet": "The forum will be attended by officials from ministries and agencies, heads of diplomatic missions, representatives of the business and expert communities of Russia and LAS states",
+          "yayin_tarihi": "Mon, 13 Jul 2026 12:08:15 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-12T08:26:08.221740"
+      "taranma_zamani": "2026-07-13T09:38:31.540957"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-12T08:26:08.221743"
+      "taranma_zamani": "2026-07-13T09:38:31.540959"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "报告指中国民商律师正常执业或遭刑事追诉",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/07/13/china-civil-lawyer-incriminated/",
+          "ozet": "公益机构亚洲律师网络发布报告，指中国民商事律师过去被认为处于执业“安全地带”，如今律师代理合同、债务、房地产及公司纠纷，也可能被有关当局追溯认定为“帮助委托人犯罪”。律师提供法律意见、参与诉讼或收取代理费，都可能招致刑事追诉。",
+          "yayin_tarihi": "Mon, 13 Jul 2026 07:00:06 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "中国试射巨浪导弹落南太平洋 引发国际关切  ",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "中国民政部近期公布《社会团体分支机构、代表机构管理办法》。办法要求，社会团体分支机构、代表机构接受中国共产党全面领导，符合条件的，应建立中共基层组织；不符合条件的，也须按要求开展中共相关工作。",
           "yayin_tarihi": "Mon, 06 Jul 2026 08:07:35 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "习近平七一讲话强调斗争 要求全党坚持底线思维",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/2026/07/02/ccp-xi-jinping-anniversary-struggle/",
-          "ozet": "中共总书记习近平7月1日在北京举行的庆祝中国共产党成立105周年大会上发表讲话，中共中央政治局常委出席会议。习近平要求全党坚持底线思维，全文8次提到“斗争”。这篇讲话也突出风险、安全和党内动员.",
-          "yayin_tarihi": "Thu, 02 Jul 2026 07:20:41 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-12T08:26:08.221750"
+      "taranma_zamani": "2026-07-13T09:38:31.541172"
     }
   }
 }
