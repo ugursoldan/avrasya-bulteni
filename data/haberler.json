@@ -1,16 +1,40 @@
 {
-  "olusturma_tarihi": "2026-07-13",
-  "olusturma_zamani": "2026-07-13T09:38:31.541203",
+  "olusturma_tarihi": "2026-07-14",
+  "olusturma_zamani": "2026-07-14T08:18:43.187246",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "ABD İran'ı yine vuruyor",
+          "baslik": "ABD İran'a yeni saldırı başlattı",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/abd-irani-yine-vuruyor-951030.html",
-          "ozet": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'a yönelik yeni saldırılar başlattıklarını açıkladı.",
-          "yayin_tarihi": "Mon, 13 Jul 2026 00:25:00 +0300",
+          "url": "https://www.trthaber.com/haber/dunya/abd-irana-yeni-saldiri-baslatti-951120.html",
+          "ozet": "ABD ordusu, İran'a karşı art arda üçüncü gece saldırılarına başladığını duyurdu. İran'da patlama sesleri duyuldu.",
+          "yayin_tarihi": "Tue, 14 Jul 2026 00:16:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "İran'da Bender Abbas kentinin doğusunda patlama sesleri duyuldu",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/iranda-bender-abbas-kentinin-dogusunda-patlama-sesleri-duyuldu-951111.html",
+          "ozet": "İran’ın Hürmüz eyaletine bağlı Bender Abbas kentinin doğusu ile Sistan ve Beluçistan eyaletine bağlı Çabahar kentinde patlama sesleri duyuldu.",
+          "yayin_tarihi": "Mon, 13 Jul 2026 22:03:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Trump: Hürmüz Boğazı'nı muhtemelen biz yöneteceğiz",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/trump-hurmuz-bogazini-muhtemelen-biz-yonetecegiz-951088.html",
+          "ozet": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nı ellerinde tutacaklarını, \"muhtemelen\" geçişleri yöneteceklerini ve bunun için ödeme alacaklarını belirtti.",
+          "yayin_tarihi": "Mon, 13 Jul 2026 15:22:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Dışişleri Sözcüsü Keçeli: AB'nin yanlı yaklaşımı perçinlenerek devam ediyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/disisleri-sozcusu-keceli-abnin-yanli-yaklasimi-percinlenerek-devam-ediyor-951092.html",
+          "ozet": "Dışişleri Bakanlığı Sözcüsü Öncü Keçeli, \"Avrupa Parlamentosu başta olmak üzere AB kurumlarının, Kıbrıs meselesi konusundaki tümüyle yanlı yaklaşımının son dönemde perçinlenerek devam ettiğini gözlemliyoruz\" dedi.",
+          "yayin_tarihi": "Mon, 13 Jul 2026 16:16:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -20,59 +44,27 @@
           "ozet": "Türkiye ile ABD arasında yeni dönemin önemli konu başlıklarından biri deniz platformları olabilir… ABD deniz araçları üretiminde geçmişi mumla arıyor. Türkiye ise aynı anda en çok gemi üreten dünyanın ikinci ülkesi. Yeni gemi üretimi olmasa bile Akdeniz’de görev yapan ABD gemilerinin bakım/onarım faaliyetleri için Türk tersaneleri biçilmiş kaftan.",
           "yayin_tarihi": "Mon, 13 Jul 2026 10:00:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "15 Temmuz'da binlerce kişi şehitler için yürüyecek",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/15-temmuzda-binlerce-kisi-sehitler-icin-yuruyecek-950969.html",
-          "ozet": "Cumhurbaşkanlığı İletişim Başkanlığı, Gençlik ve Spor Bakanlığı, İstanbul Valiliği ile Türkiye Atletizm Federasyonu koordinasyonunda 15 Temmuz Demokrasi ve Milli Birlik Günü’nün 10. yıl dönümünde binlerce kişi Şehitler Köprüsü’nde şehitler için yürüyecek.",
-          "yayin_tarihi": "Sat, 11 Jul 2026 21:51:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Trump: İran'la müzakereler devam edecek ama ateşkes sona erdi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/trump-iranla-muzakereler-devam-edecek-ama-ateskes-sona-erdi-950886.html",
-          "ozet": "ABD Başkanı Trump, \"İran bizden “görüşmeleri” devam ettirmemizi istedi. Kabul ettik ancak ABD ateşkesin sona erdiğini açık bir dille bildirdi\" açıklamasında bulundu.",
-          "yayin_tarihi": "Fri, 10 Jul 2026 17:49:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Çin'de sellerin vurduğu çiftlikteki yaklaşık 900 yılan kaçtı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/cinde-sellerin-vurdugu-ciftlikteki-yaklasik-900-yilan-kacti-950828.html",
-          "ozet": "Çin'in güneyinde etkili olan tayfun ve sel felaketi nedeniyle bir barajın çökmesi sonucu sular altında kalan çiftlikten yaklaşık 900 yılan kaçtı. Aralarında ölümcül kobraların da bulunduğu yüzlerce yılanın yayıldığı Dengwei köyünde \"acil durum\" ilan edildi.",
-          "yayin_tarihi": "Fri, 10 Jul 2026 10:02:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-13T09:38:31.540919"
+      "taranma_zamani": "2026-07-14T08:18:43.187023"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Live Updates: Iran Insists It Controls Strait of Hormuz as It Launches New Strikes",
+          "baslik": "U.S. Strikes Iran for 3rd Night, in Return to Open Conflict",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
-          "ozet": "The Iranian military said it had fired at U.S. targets across the Persian Gulf as the two sides engaged in another day of hostilities. President Trump on Sunday denied Iran’s claim to have closed the Strait of Hormuz.",
-          "yayin_tarihi": "Mon, 13 Jul 2026 09:23:11 +0000",
+          "ozet": "President Trump announced a 20 percent fee on cargo shipped through the Strait of Hormuz. Iran said it had attacked two tankers transiting the waterway as the battle to control it intensified.",
+          "yayin_tarihi": "Tue, 14 Jul 2026 07:59:13 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Japan Is Building a New Intelligence Agency With Help From the West",
+          "baslik": "Japan Builds Intelligence Agency It Hasn’t Had Since World War II",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html",
-          "ozet": "Facing threats from Russia and China, Prime Minister Sanae Takaichi is breaking with World War II-era limits on security.",
-          "yayin_tarihi": "Mon, 13 Jul 2026 04:37:31 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "A Robot Army Remakes Ground Warfare in Ukraine",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html",
-          "ozet": "They began as supply mules. Now ground robots evacuate the wounded, hold trenches and even do the killing.",
-          "yayin_tarihi": "Mon, 13 Jul 2026 09:00:23 +0000",
+          "ozet": "Facing threats from Russia and China, Prime Minister Sanae Takaichi is  turning to help from Western allies in forming a centralized agency.",
+          "yayin_tarihi": "Mon, 13 Jul 2026 12:57:30 +0000",
           "dil": "İngilizce"
         },
         {
@@ -84,6 +76,14 @@
           "dil": "İngilizce"
         },
         {
+          "baslik": "A Robot Army Remakes Ground Warfare in Ukraine",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html",
+          "ozet": "They began as supply mules. Now ground robots evacuate the wounded, hold trenches and even do the killing.",
+          "yayin_tarihi": "Mon, 13 Jul 2026 16:09:36 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "Hard-Liners in Iran Want to Keep Fighting America",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html",
@@ -92,62 +92,70 @@
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-13T09:38:31.540940"
+      "taranma_zamani": "2026-07-14T08:18:43.187046"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Iran in contact with Oman, Pakistan, Qatar to prevent further escalation",
+          "baslik": "Russian forces deliver overnight precision strikes on Ukrainian military-industrial sites",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2159393",
-          "ozet": "Iranian Foreign Ministry Spokesman Esmaeil Baghaei stressed that Tehran would use all necessary means and methods to ensure its national interests and national security",
-          "yayin_tarihi": "Mon, 13 Jul 2026 12:29:40 +0300",
+          "url": "https://tass.com/politics/2159933",
+          "ozet": "Russian forces hit the Kiev-79 industrial enterprise - a key enterprise in Ukraine for the assembly of combat payloads for unmanned aerial vehicles and missiles of various types",
+          "yayin_tarihi": "Tue, 14 Jul 2026 10:59:45 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian forces advance toward Druzhkovka despite Ukrainian air counterstrikes — DPR head",
+          "baslik": "Russian, Chinese Navy ships head out for joint patrol after drills",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2159391",
-          "ozet": "In the neighboring Krasnoarmeysk-Dobropolye region, Russian forces have strengthened their positions following the liberation of Vasilyevka",
-          "yayin_tarihi": "Mon, 13 Jul 2026 12:25:10 +0300",
+          "url": "https://tass.com/defense/2159931",
+          "ozet": "Rear Admiral Sergey Sinko stressed that the experience gained would be in demand in future naval activities of the two countries and would be an important contribution to deepening mutual trust and Russian-Chinese cooperation",
+          "yayin_tarihi": "Tue, 14 Jul 2026 10:37:03 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Reducing economic reliance on China would cost US, European economies $23.6 trillion — FT",
+          "baslik": "China firmly established as Russia’s key partner — ambassador",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2159383",
-          "ozet": "Experts analyzed the costs of building new production and logistics chains, processing capacity, research centers, and replacing software provided by Chinese companies",
-          "yayin_tarihi": "Mon, 13 Jul 2026 12:11:37 +0300",
+          "url": "https://tass.com/politics/2159917",
+          "ozet": "Igor Morgulov highlighted that Russia ranked among China’s five leading foreign trade partners",
+          "yayin_tarihi": "Tue, 14 Jul 2026 10:13:13 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Iran never violated signed memorandum with US — Foreign Ministry",
+          "baslik": "Russian forces strike military facilities in Kiev, Odessa Region — Defense Ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2159389",
-          "ozet": "Esmaeil Baghaei stated that the Islamic Republic of Iran had always shown meticulousness and seriousness in any negotiations",
-          "yayin_tarihi": "Mon, 13 Jul 2026 12:09:00 +0300",
+          "url": "https://tass.com/politics/2159879",
+          "ozet": "The Russian Armed Forces carried out group strikes using long-range precision air-and ground-launched weapons and unmanned aerial vehicles",
+          "yayin_tarihi": "Tue, 14 Jul 2026 08:29:01 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "First Russian-Arab forum to be held in early October — Roscongress",
+          "baslik": "Kiev struck Russian territory up to 850 times per day over past week — envoy",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2159385",
-          "ozet": "The forum will be attended by officials from ministries and agencies, heads of diplomatic missions, representatives of the business and expert communities of Russia and LAS states",
-          "yayin_tarihi": "Mon, 13 Jul 2026 12:08:15 +0300",
+          "url": "https://tass.com/politics/2159867",
+          "ozet": "Rodion Miroshnik says that over 300 civilians were harmed by the aggression of Ukrainian troops during this period",
+          "yayin_tarihi": "Tue, 14 Jul 2026 07:52:35 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-13T09:38:31.540957"
+      "taranma_zamani": "2026-07-14T08:18:43.187071"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-13T09:38:31.540959"
+      "taranma_zamani": "2026-07-14T08:18:43.187073"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "三十款VPN被列入识别名单 中国翻墙用户遭流量筛查 ",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shehui/2026/07/14/china-internet-vpn-surveillance/",
+          "ozet": "7月11日，网络安全账号NetAskari发布一组“VPN翻墙识别情报库”页面截图，并指相关文件来自中国网络安全企业任子行。截图列出蓝灯、迷雾通、天喵VPN、绿茶VPN等三十多款代理软件，相关识别文件在7月初多次更新。",
+          "yayin_tarihi": "Tue, 14 Jul 2026 07:00:34 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "报告指中国民商律师正常执业或遭刑事追诉",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "一句\"走个面儿\"，为什么会引发全网\"考古\"？当公众开始用\"验证\"代替\"相信\"，中国互联网正在发生什么变化？",
           "yayin_tarihi": "Wed, 08 Jul 2026 15:25:12 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "中国社团新规8月施行　须建中共党组织",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/2026/07/06/ccp-party-branch-prohibition-associations-branches-of-social-organizations/",
-          "ozet": "中国民政部近期公布《社会团体分支机构、代表机构管理办法》。办法要求，社会团体分支机构、代表机构接受中国共产党全面领导，符合条件的，应建立中共基层组织；不符合条件的，也须按要求开展中共相关工作。",
-          "yayin_tarihi": "Mon, 06 Jul 2026 08:07:35 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-13T09:38:31.541172"
+      "taranma_zamani": "2026-07-14T08:18:43.187080"
     }
   }
 }
