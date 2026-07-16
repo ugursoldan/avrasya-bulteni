@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-07-15",
-  "olusturma_zamani": "2026-07-15T08:24:15.857849",
+  "olusturma_tarihi": "2026-07-16",
+  "olusturma_zamani": "2026-07-16T08:23:28.612173",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Türk havacılığının öncü ismi: Vecihi Hürkuş",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/savunma/turk-havaciliginin-oncu-ismi-vecihi-hurkus-951302.html",
+          "ozet": "Türkiye'nin ilk baş tayyarecisi Vecihi Hürkuş, bundan tam 57 yıl önce hayatını kaybetti. Vecihi Hürkuş'un Yeşilköy Tayyare Mektebi'nden Kafkas Cephesi'ne, Hazar Denizi'ndeki Nargin Adası'ndan uçak mühendisliğine uzanan hikayesi haberimizde...",
+          "yayin_tarihi": "Thu, 16 Jul 2026 09:00:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Cumhurbaşkanı Erdoğan: Yeni 15 Temmuzların yaşanmaması için var gücümüzle çalışacağız",
           "kaynak": "www.trthaber.com",
@@ -36,114 +44,106 @@
           "ozet": "Hürmüz Boğazı’ndaki gerilim, nisan ayındaki ateşkesi bozma noktasına getirdi. ABD Başkanı Donald Trump'ın yeni abluka kararı ve gemilerden istediği yüzde 20’lik ücret piyasaları tedirgin ederken, krizin aşılması için gözler iki ülke arasındaki telefon trafiğine çevrildi.",
           "yayin_tarihi": "Tue, 14 Jul 2026 13:16:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "ABD İran'a yeni saldırı başlattı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/abd-irana-yeni-saldiri-baslatti-951120.html",
-          "ozet": "ABD ordusu, İran'a karşı art arda üçüncü gece saldırılarına başladığını duyurdu. İran'da patlama sesleri duyuldu.",
-          "yayin_tarihi": "Tue, 14 Jul 2026 00:16:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-15T08:24:15.857594"
+      "taranma_zamani": "2026-07-16T08:23:28.611945"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "U.S. and Iran Reignite War Over Strait of Hormuz",
+          "baslik": "Iran War Live Updates: U.S. and Iran Exchange Strikes for 5th Straight Day",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz",
-          "ozet": "The two countries slid back to open war over the waterway, as the U.S. planned to reinstate a blockade on Iranian ports on Tuesday. Iran said it had attacked two tankers and fired at U.S. military sites.",
-          "yayin_tarihi": "Tue, 14 Jul 2026 20:36:23 +0000",
+          "url": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz",
+          "ozet": "Though both sides appeared to be digging in, a top Iranian official seemed to leave the door open for a deal, saying, “We must fear neither war nor negotiations.”",
+          "yayin_tarihi": "Thu, 16 Jul 2026 08:14:07 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
+          "baslik": "Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html",
-          "ozet": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.",
-          "yayin_tarihi": "Tue, 14 Jul 2026 19:17:57 +0000",
+          "url": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-russia-crimea-azov-sea.html",
+          "ozet": "After striking roads and railways, Kyiv is now focusing on sea routes as it tries to disrupt fuel supplies and pressure Russia to end the war.",
+          "yayin_tarihi": "Wed, 15 Jul 2026 17:59:48 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "China Purges Top Official Over Corruption and Sex Charges",
+          "baslik": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/14/world/asia/china-expels-politburo-official-sex-corruption.html",
-          "ozet": "Ma Xingrui is the third member of the Politburo to be purged since 2022. He once led the Xinjiang region and was previously head of China’s space program.",
-          "yayin_tarihi": "Tue, 14 Jul 2026 10:23:29 +0000",
+          "url": "https://www.nytimes.com/2026/07/15/world/middleeast/israel-us-iran-trump.html",
+          "ozet": "Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel. Meanwhile, they wait.",
+          "yayin_tarihi": "Wed, 15 Jul 2026 14:44:50 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Ukraine Wants to Make Its Own Antimissile System, Not Just Patriots",
+          "baslik": "U.S. Presses China to Free American Seismologist Accused of Spying",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/14/world/europe/ukraine-fire-point-patriot-missiles.html",
-          "ozet": "The Ukrainian firm Fire Point has produced weapons that hit Russian territory. Its next goal, developing an antimissile system, is a much bigger challenge, experts said.",
-          "yayin_tarihi": "Tue, 14 Jul 2026 11:56:53 +0000",
+          "url": "https://www.nytimes.com/2026/07/15/world/asia/china-seismologist-north-korea-nuclear.html",
+          "ozet": "President Trump has urged Xi Jinping to release the scientist, Youlin Chen, the man’s family says. Dr. Chen studied the detection of North Korean nuclear tests.",
+          "yayin_tarihi": "Wed, 15 Jul 2026 10:58:43 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Japan Builds Intelligence Agency It Hasn’t Had Since World War II",
+          "baslik": "Europe Finds It Hard to Break Up With American and Chinese Technology",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html",
-          "ozet": "Facing threats from Russia and China, Prime Minister Sanae Takaichi is  turning to help from Western allies in forming a centralized agency.",
-          "yayin_tarihi": "Mon, 13 Jul 2026 12:57:30 +0000",
+          "url": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html",
+          "ozet": "France and Germany want to quit relying on America and China for key technology like artificial intelligence, but they’re having to choose where to do it.",
+          "yayin_tarihi": "Thu, 16 Jul 2026 08:20:56 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-15T08:24:15.857625"
+      "taranma_zamani": "2026-07-16T08:23:28.611973"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Ukrainian sabotage operation zone to be extended to Mediterranean — expert",
-          "kaynak": "tass.com",
-          "url": "https://tass.com/world/2160439",
-          "ozet": "According to Alexander Stepanov, any future actions against Russia’s merchant fleet in the Mediterranean Sea will depend on NATO states’ shore infrastructure",
-          "yayin_tarihi": "Wed, 15 Jul 2026 11:00:28 +0300",
-          "dil": "Rusça"
-        },
-        {
-          "baslik": "FACTBOX: Key details of revised US sanctions bill targeting Russia",
-          "kaynak": "tass.com",
-          "url": "https://tass.com/world/2160431",
-          "ozet": "The bill targets the five largest buyers of Russian energy, including China and India",
-          "yayin_tarihi": "Wed, 15 Jul 2026 10:39:47 +0300",
-          "dil": "Rusça"
-        },
-        {
           "baslik": "Russian stock market declines at start of trading",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2160433",
-          "ozet": "As of 10:00 Moscow time, the MOEX and RTS indices fell by 1.35%",
-          "yayin_tarihi": "Wed, 15 Jul 2026 10:37:59 +0300",
+          "url": "https://tass.com/economy/2160937",
+          "ozet": "As of 10:00 Moscow time, the MOEX and RTS indices fell by 1.93%",
+          "yayin_tarihi": "Thu, 16 Jul 2026 10:58:23 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Germany fueling world war by providing military aid to Ukraine — lawmaker",
+          "baslik": "One civilian killed, several injured as air defenses down 375 drones over Russia",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2160429",
-          "ozet": "Retired Major General Leonid Ivlev recalled that Germany was the largest donor to Ukraine",
-          "yayin_tarihi": "Wed, 15 Jul 2026 10:37:00 +0300",
+          "url": "https://tass.com/politics/2160933",
+          "ozet": "The Ukrainian UAVs were shot down over 19 Russian regions",
+          "yayin_tarihi": "Thu, 16 Jul 2026 10:33:09 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "IN BRIEF: What is known about Russian strikes on Ukrainian ports",
+          "baslik": "Russian opponents hit civilian targets out of despair, achieve nothing — security council",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2160421",
-          "ozet": "Russian forces hit Odessa and Chernomorsk port infrastructure facilities used to unload fuel and lubricants and fuel storage tanks for the Ukrainian military",
-          "yayin_tarihi": "Wed, 15 Jul 2026 10:10:07 +0300",
+          "url": "https://tass.com/politics/2160927",
+          "ozet": "The bet on strategically defeating Russia has failed, and it is becoming increasingly evident day by day, Deputy Secretary of the Russian Security Council Yury Kokov stressed",
+          "yayin_tarihi": "Thu, 16 Jul 2026 10:22:57 +0300",
+          "dil": "Rusça"
+        },
+        {
+          "baslik": "Russian defense chief orders to refine hardware-software to assess UAV crews",
+          "kaynak": "tass.com",
+          "url": "https://tass.com/politics/2160915",
+          "ozet": "Andrey Belousov emphasized the importance of innovations for better assessment of UAV crews’ performance",
+          "yayin_tarihi": "Thu, 16 Jul 2026 10:01:16 +0300",
+          "dil": "Rusça"
+        },
+        {
+          "baslik": "Russian agricultural exports rise 26% in H1, exceed $20 bln",
+          "kaynak": "tass.com",
+          "url": "https://tass.com/economy/2160907",
+          "ozet": "According to head of the federal Agroexport center Ilya Ilyushin, exports of grain and pulses rose by 43%, oil and fat products by 22%, fish and seafood by 28%, dairy products by 20%, confectionery by 13%, and processed food products by 15%",
+          "yayin_tarihi": "Thu, 16 Jul 2026 09:39:46 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-15T08:24:15.857656"
+      "taranma_zamani": "2026-07-16T08:23:28.612001"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-15T08:24:15.857658"
+      "taranma_zamani": "2026-07-16T08:23:28.612003"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-15T08:24:15.857664"
+      "taranma_zamani": "2026-07-16T08:23:28.612007"
     }
   }
 }
