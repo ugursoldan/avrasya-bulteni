@@ -1,10 +1,34 @@
 {
-  "olusturma_tarihi": "2026-07-16",
-  "olusturma_zamani": "2026-07-16T08:23:28.612173",
+  "olusturma_tarihi": "2026-07-17",
+  "olusturma_zamani": "2026-07-17T08:19:55.123226",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "ABD, İran'a başlattığı saldırıları bitirdiğini açıkladı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/abd-irana-baslattigi-saldirilari-bitirdigini-acikladi-951446.html",
+          "ozet": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'a yönelik 6 gün art arda devam eden saldırı dalgasının sona erdirildiğini duyurdu.",
+          "yayin_tarihi": "Fri, 17 Jul 2026 09:38:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "İran basını: Ahvaz, Bender Abbas ve Keşm Adası'nda patlama sesleri duyuldu",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/iran-basini-ahvaz-bender-abbas-ve-kesm-adasinda-patlama-sesleri-duyuldu-951406.html",
+          "ozet": "ABD ordusunun saldırı başlattığını duyurmasının ardından Basra Körfezi'nde yer alan Ahvaz kenti ile Hürmüz Boğazı'ndaki Bender Abbas kenti ve Keşm Adası'nda patlama seslerinin duyulduğu bildirildi.",
+          "yayin_tarihi": "Thu, 16 Jul 2026 22:13:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Bakan Fidan: Savaşın Karadeniz'e taşınmasını istemiyoruz",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/bakan-fidan-savasin-karadenize-tasinmasini-istemiyoruz-951350.html",
+          "ozet": "Dışişleri Bakanı Hakan Fidan, \"(Rusya-Ukrayna) Savaşın, Karadeniz'e taşınmasını istemiyoruz\" dedi.",
+          "yayin_tarihi": "Thu, 16 Jul 2026 10:50:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Türk havacılığının öncü ismi: Vecihi Hürkuş",
           "kaynak": "www.trthaber.com",
@@ -20,134 +44,118 @@
           "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"FETÖ’yle mücadele noktasında ise asla geri adım atmayacak, Türkiye düşmanlarına taşeronluk yapan bu ihanet şebekesiyle hukuk içinde mücadelemizi sürdüreceğiz. Yeni 15 Temmuzların yaşanmaması için var gücümüzle çalışacağız\" dedi.",
           "yayin_tarihi": "Tue, 14 Jul 2026 14:43:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "İran'ın Keşm Adasında patlama sesleri duyuldu",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/iranin-kesm-adasinda-patlama-sesleri-duyuldu-951207.html",
-          "ozet": "İran’ın Hürmüzgan eyaletine bağlı Keşm Adası’nda patlama sesleri duyuldu.",
-          "yayin_tarihi": "Tue, 14 Jul 2026 18:38:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Çingene Kızı Mozaiği'nin bir parçası daha Türkiye'de",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/kultur-sanat/cingene-kizi-mozaiginin-bir-parcasi-daha-turkiyede-951182.html",
-          "ozet": "Çingene Kızı mozaiğinin 1965'te ABD'ye kaçırılan 13. parçası, Kültür ve Turizm Bakanlığı'nın çalışmalarıyla Türkiye'ye getirildi. Çingene Kızı Mozaiği'nin 13. panelinin teslimine ilişkin, Zeugma Mozaik Müzesi'nde tören düzenlendi.",
-          "yayin_tarihi": "Tue, 14 Jul 2026 14:15:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Körfez Bölgesi'nde ateşkes öncesi duruma geri mi dönülüyor?",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/korfez-bolgesinde-ateskes-oncesi-duruma-geri-mi-donuluyor-951177.html",
-          "ozet": "Hürmüz Boğazı’ndaki gerilim, nisan ayındaki ateşkesi bozma noktasına getirdi. ABD Başkanı Donald Trump'ın yeni abluka kararı ve gemilerden istediği yüzde 20’lik ücret piyasaları tedirgin ederken, krizin aşılması için gözler iki ülke arasındaki telefon trafiğine çevrildi.",
-          "yayin_tarihi": "Tue, 14 Jul 2026 13:16:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-16T08:23:28.611945"
+      "taranma_zamani": "2026-07-17T08:19:55.122950"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Iran War Live Updates: U.S. and Iran Exchange Strikes for 5th Straight Day",
+          "baslik": "Ukraine’s Ousted Defense Minister Attacks the Military’s Old Guard",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz",
-          "ozet": "Though both sides appeared to be digging in, a top Iranian official seemed to leave the door open for a deal, saying, “We must fear neither war nor negotiations.”",
-          "yayin_tarihi": "Thu, 16 Jul 2026 08:14:07 +0000",
+          "url": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html",
+          "ozet": "Mykhailo Fedorov defended his efforts to modernize the Ukrainian armed forces as thousands of people protested his dismissal.",
+          "yayin_tarihi": "Thu, 16 Jul 2026 16:19:50 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea",
+          "baslik": "Iran War Updates: U.S. Launches New Strikes, as Tensions Escalate Over Strait of Hormuz",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-russia-crimea-azov-sea.html",
-          "ozet": "After striking roads and railways, Kyiv is now focusing on sea routes as it tries to disrupt fuel supplies and pressure Russia to end the war.",
-          "yayin_tarihi": "Wed, 15 Jul 2026 17:59:48 +0000",
+          "url": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz",
+          "ozet": "American forces appeared to be focused on infrastructure, hitting bridges and a railway junction, Iranian state media reported.",
+          "yayin_tarihi": "Fri, 17 Jul 2026 05:45:47 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
+          "baslik": "In Iran war, Trump Risks Another American ‘Forever War’",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/15/world/middleeast/israel-us-iran-trump.html",
-          "ozet": "Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel. Meanwhile, they wait.",
-          "yayin_tarihi": "Wed, 15 Jul 2026 14:44:50 +0000",
+          "url": "https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html",
+          "ozet": "President Trump, who promised to “end wars,” not start them, may have fallen into a familiar presidential trap.",
+          "yayin_tarihi": "Thu, 16 Jul 2026 13:20:24 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "U.S. Presses China to Free American Seismologist Accused of Spying",
+          "baslik": "Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/15/world/asia/china-seismologist-north-korea-nuclear.html",
-          "ozet": "President Trump has urged Xi Jinping to release the scientist, Youlin Chen, the man’s family says. Dr. Chen studied the detection of North Korean nuclear tests.",
-          "yayin_tarihi": "Wed, 15 Jul 2026 10:58:43 +0000",
+          "url": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html",
+          "ozet": "Mykhailo Fedorov announced he was leaving the ministry on Wednesday after conflicts with generals and military contractors over the role of innovative weaponry.",
+          "yayin_tarihi": "Thu, 16 Jul 2026 11:41:48 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Europe Finds It Hard to Break Up With American and Chinese Technology",
+          "baslik": "What to Know About Mykhailo Fedorov, Ukraine’s Ousted Defense Minister",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html",
-          "ozet": "France and Germany want to quit relying on America and China for key technology like artificial intelligence, but they’re having to choose where to do it.",
-          "yayin_tarihi": "Thu, 16 Jul 2026 08:20:56 +0000",
+          "url": "https://www.nytimes.com/2026/07/16/world/europe/who-mykhailo-fedorov-ukraine-defense-minister.html",
+          "ozet": "Mr. Fedorov became the youthful face of Ukraine’s successful drone warfare program. The move to replace him has prompted street protests.",
+          "yayin_tarihi": "Thu, 16 Jul 2026 19:54:22 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-16T08:23:28.611973"
+      "taranma_zamani": "2026-07-17T08:19:55.122979"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russian stock market declines at start of trading",
+          "baslik": "Russian forces advance west, east of Ivolzhanskoye in Sumy Region — expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2160937",
-          "ozet": "As of 10:00 Moscow time, the MOEX and RTS indices fell by 1.93%",
-          "yayin_tarihi": "Thu, 16 Jul 2026 10:58:23 +0300",
+          "url": "https://tass.com/politics/2161433",
+          "ozet": "According to Andrey Marochko, Russian forces have begun a mopping-up operation in the forest east of the settlement",
+          "yayin_tarihi": "Fri, 17 Jul 2026 11:00:14 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "One civilian killed, several injured as air defenses down 375 drones over Russia",
+          "baslik": "US strikes on Iran's Hormozgan Province kill 8 civilians — media",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2160933",
-          "ozet": "The Ukrainian UAVs were shot down over 19 Russian regions",
-          "yayin_tarihi": "Thu, 16 Jul 2026 10:33:09 +0300",
+          "url": "https://tass.com/world/2161427",
+          "ozet": "According to the news agency, US fighter jets carried out multiple strikes on several facilities in Hormozgan Province and fired three missiles at an observation tower at the port of Chabahar",
+          "yayin_tarihi": "Fri, 17 Jul 2026 10:33:30 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian opponents hit civilian targets out of despair, achieve nothing — security council",
+          "baslik": "Situation in Mali remains relatively stable — Russian Foreign Ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2160927",
-          "ozet": "The bet on strategically defeating Russia has failed, and it is becoming increasingly evident day by day, Deputy Secretary of the Russian Security Council Yury Kokov stressed",
-          "yayin_tarihi": "Thu, 16 Jul 2026 10:22:57 +0300",
+          "url": "https://tass.com/politics/2161429",
+          "ozet": "Thanks to the actions of the Malian Armed Forces and the Russian Africa Corps, the situation remains under control, Russian Deputy Foreign Minister Georgy Borisenko stated",
+          "yayin_tarihi": "Fri, 17 Jul 2026 10:31:37 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian defense chief orders to refine hardware-software to assess UAV crews",
+          "baslik": "IN BRIEF: Russian Armed Forces carry out further strikes on Ukrainian ports",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2160915",
-          "ozet": "Andrey Belousov emphasized the importance of innovations for better assessment of UAV crews’ performance",
-          "yayin_tarihi": "Thu, 16 Jul 2026 10:01:16 +0300",
+          "url": "https://tass.com/politics/2161425",
+          "ozet": "Air-launched precision-guided weapons and attack unmanned aerial vehicles struck port infrastructure facilities at the ports of Odessa and Chernomorsk in the Odessa Region",
+          "yayin_tarihi": "Fri, 17 Jul 2026 10:22:35 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian agricultural exports rise 26% in H1, exceed $20 bln",
+          "baslik": "Russia, OPCW hold consultations on prospects for expert visit — envoy",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2160907",
-          "ozet": "According to head of the federal Agroexport center Ilya Ilyushin, exports of grain and pulses rose by 43%, oil and fat products by 22%, fish and seafood by 28%, dairy products by 20%, confectionery by 13%, and processed food products by 15%",
-          "yayin_tarihi": "Thu, 16 Jul 2026 09:39:46 +0300",
+          "url": "https://tass.com/politics/2161399",
+          "ozet": "Moscow's Permanent Representative to the organization Vladimir Tarabrin expressed hope that the parties would be able \"to reach common ground and resolve all issues\"",
+          "yayin_tarihi": "Fri, 17 Jul 2026 09:18:52 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-16T08:23:28.612001"
+      "taranma_zamani": "2026-07-17T08:19:55.123004"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-16T08:23:28.612003"
+      "taranma_zamani": "2026-07-17T08:19:55.123006"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "报告揭中国监狱黑幕　酷刑强迫劳动成常态",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/07/16/china-prisons-human-rights-forced-labor/",
+          "ozet": "国际人权组织保护卫士7月16日发布《铁窗之后：中国监狱状况调查》。报告依据来自中国16个省份和直辖市的59名前服刑人员经历，指出狱中普遍存在暴力、长期禁闭、强迫劳动、医疗不足、通信受限和政治教育等问题。",
+          "yayin_tarihi": "Thu, 16 Jul 2026 08:41:12 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "三十款VPN被列入识别名单 中国翻墙用户遭流量筛查 ",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "刚刚过去的6月在很多国家又被称之 “彩虹月”，也叫“骄傲月”。在一些中国社交媒体平台搜索“彩虹月”，结果更多出现的是自然风景中的彩虹图片，而不是与LGBTQ相关的话题。\n那么，中国的LGBTQ公共空间，是如何逐渐发生变化的？",
           "yayin_tarihi": "Fri, 10 Jul 2026 08:35:54 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": " 一句“走个面儿”，为何引发全网“考古”？",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/07/08/china-internet-celebrity-hanhong-dispute/",
-          "ozet": "一句\"走个面儿\"，为什么会引发全网\"考古\"？当公众开始用\"验证\"代替\"相信\"，中国互联网正在发生什么变化？",
-          "yayin_tarihi": "Wed, 08 Jul 2026 15:25:12 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-16T08:23:28.612007"
+      "taranma_zamani": "2026-07-17T08:19:55.123011"
     }
   }
 }
