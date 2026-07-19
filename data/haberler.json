@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-07-18",
-  "olusturma_zamani": "2026-07-18T08:01:39.230020",
+  "olusturma_tarihi": "2026-07-19",
+  "olusturma_zamani": "2026-07-19T08:27:31.422690",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "YKS sonuçları için geri sayım",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/egitim/yks-sonuclari-icin-geri-sayim-951593.html",
+          "ozet": "Milyonlarca üniversite adayının heyecanla beklediği Yükseköğretim Kurumları Sınavı (YKS) sonuçları, ÖSYM'nin takvimine göre 22 Temmuz Çarşamba günü açıklanacak.",
+          "yayin_tarihi": "Sun, 19 Jul 2026 09:39:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Venezuela'daki depremlerde bilanço ağırlaşıyor: 5 bin 119 ölü",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/venezueladaki-depremlerde-bilanco-agirlasiyor-5-bin-119-olu-951583.html",
+          "ozet": "24 Haziran'da meydana gelen iki büyük depremin ardından Venezuela'da can kaybı 5 bin 119'a yükseldi. Bölgede 1350'den fazla artçı sarsıntı meydana gelirken, arama kurtarma çalışmaları sürüyor.",
+          "yayin_tarihi": "Sun, 19 Jul 2026 07:34:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "ABD, İran'a üst üste 7. gecede de hava saldırıları düzenledi",
           "kaynak": "www.trthaber.com",
@@ -14,136 +30,120 @@
           "dil": "Türkçe"
         },
         {
+          "baslik": "Alper Çelik: Haluk Levent bahislerini benim hesaplarım üzerinden oynuyordu",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/alper-celik-haluk-levent-bahislerini-benim-hesaplarim-uzerinden-oynuyordu-951552.html",
+          "ozet": "Ahbap Derneği adına toplanan bağışların şüphelilerin hesaplarına aktarıldığı iddiasıyla yürütülen soruşturmada tutuklanan Alper Çelik, etkin pişmanlıktan yararlanmak istedi. Çelik, ifadesinde Haluk Levent'in banka hesapları blokeli olduğu için kendi hesaplarını kullandığını ve bahis işlemlerinin de bu hesaplar üzerinden yapıldığını söyledi.",
+          "yayin_tarihi": "Sat, 18 Jul 2026 13:49:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
           "baslik": "Antalya'da uzay zirvesi: Kayıt başvurularında dünya rekoru kırıldı",
           "kaynak": "www.trthaber.com",
           "url": "https://www.trthaber.com/haber/bilim-teknoloji/antalyada-uzay-zirvesi-kayit-basvurularinda-dunya-rekoru-kirildi-951531.html",
           "ozet": "Türkiye'nin ev sahipliğinde ekim ayı başında düzenlenecek 77. Uluslararası Uzay Kongresi (IAC) için 83 ülkeden yapılan 3 binden fazla kesin kayıt başvurusuyla rekor kırıldı.",
           "yayin_tarihi": "Sat, 18 Jul 2026 10:20:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Türkiye'nin yerli atomik saati uzaya fırlatıldı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/bilim-teknoloji/turkiyenin-yerli-atomik-saati-uzaya-firlatildi-951485.html",
-          "ozet": "Milli Uzay Programı'nın stratejik hedefleri arasında yer alan Bölgesel Konumlama ve Zamanlama Sistemi için kritik öneme sahip Rubidyum Atomik Saati (RAFS), SpaceX Transporter-17 görevi kapsamında başarıyla uzaya fırlatıldı. Uzay aracından ilk sinyal de başarıyla alındı.",
-          "yayin_tarihi": "Fri, 17 Jul 2026 15:41:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Venezuela'daki depremlerde bilanço ağırlaşıyor: 5 bin 69 can kaybı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/venezueladaki-depremlerde-bilanco-agirlasiyor-5-bin-69-can-kaybi-951523.html",
-          "ozet": "Venezuela'da 24 Haziran'da meydana gelen 7,2 ve 7,5 büyüklüğündeki iki depremde yaşamını yitirenlerin sayısı 5 bin 69'a yükseldi.",
-          "yayin_tarihi": "Sat, 18 Jul 2026 07:12:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "TürkiyeKKTC doğal gaz boru hattı tüm denklemi değiştirecek",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/turkiye-kktc-dogal-gaz-boru-hatti-tum-denklemi-degistirecek-951454.html",
-          "ozet": "Türkiye ile KKTC’yi denizin altından birbirine bağlayacak doğal gaz boru hattı için imzalar atıldı. Anadolu’dan Ada’ya su taşıyan Ankara bu kez de enerji denklemini doğrudan etkileyecek. İnşa edilecek boru hattı Ada’nın kuzeyini ihya etmekle kalmayacak, gelecek dönemde başka ihtimaller için de Ankara’nın şimdiden pozisyon almasını sağlayacak.",
-          "yayin_tarihi": "Fri, 17 Jul 2026 11:00:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-18T08:01:39.229826"
+      "taranma_zamani": "2026-07-19T08:27:31.422548"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Iran War Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day",
+          "baslik": "Iran War Live Updates: U.S. Launches Strikes After Iranian Attack Kills 2 American Soldiers",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
-          "ozet": "Overnight and into Friday, Iran reported U.S. strikes on infrastructure that can serve civilian purposes and has targeted similar sites in Gulf countries that host American bases. In the afternoon, the U.S. military announced a new round of attacks on Iran.",
-          "yayin_tarihi": "Sat, 18 Jul 2026 06:44:13 +0000",
+          "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
+          "ozet": "The soldiers, killed in Jordan, were the first U.S. troops to die from hostile fire since an April truce. U.S. forces began retaliatory strikes early Sunday.",
+          "yayin_tarihi": "Sun, 19 Jul 2026 06:48:03 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "The 20-Somethings Running Ukraine’s War Machine",
+          "baslik": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/17/world/europe/youth-ukraine-defense-innovation.html",
-          "ozet": "A new generation has been cutting red tape to speed weapons to the front. But the old guard pushed back, and now Ukraine’s young defense minister is out.",
-          "yayin_tarihi": "Fri, 17 Jul 2026 20:57:50 +0000",
+          "url": "https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html",
+          "ozet": "Demonstrators supporting Ukraine’s ousted defense minister have begun denouncing the commander he clashed with in office, Gen. Oleksandr Syrskyi.",
+          "yayin_tarihi": "Sun, 19 Jul 2026 07:13:23 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "‘Suddenly, I Was Free’: A Chinese Pastor’s Journey From Jail to the U.S.",
+          "baslik": "Israel Counters Iranian Spying by Warning Against Recruitment",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/17/world/asia/ezra-jin-china-pastor-trump.html",
-          "ozet": "In his first interview since being released by China, Pastor Ezra Jin Mingri details his surprise release after a direct appeal by President Trump to Xi Jinping.",
-          "yayin_tarihi": "Fri, 17 Jul 2026 12:46:57 +0000",
+          "url": "https://www.nytimes.com/2026/07/18/world/middleeast/israel-recruits-rabbis-iran.html",
+          "ozet": "The Israeli authorities have enacted a broad array of countermeasures to contain what they describe as online recruiting efforts by Iranian agents.",
+          "yayin_tarihi": "Sat, 18 Jul 2026 13:09:16 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "The Rise and Fall of Ukraine’s Drone Warfare Mastermind",
+          "baslik": "Why Jordan Is Becoming a New Focus in the U.S.-Iran War",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/17/world/europe/ukraine-fedorov-defense-minister.html",
-          "ozet": "The popularity of drones, and the defense minister who heavily promoted them, helped lead to a clash in which President Volodymyr Zelensky sided with the military brass.",
-          "yayin_tarihi": "Fri, 17 Jul 2026 23:29:05 +0000",
+          "url": "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html",
+          "ozet": "Four Iranian attacks in five days have targeted U.S. troops in Jordan, U.S. officials said, including one on Friday that killed two soldiers and left another service member missing.",
+          "yayin_tarihi": "Sat, 18 Jul 2026 23:03:24 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "War Between U.S. and Iran Expands, With Strikes Across the Region",
+          "baslik": "Deaths of 2 U.S. Troops in Jordan Brings American Toll in the War With Iran to 16",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/17/world/middleeast/us-iran-war-strikes-infrastructure-civilians.html",
-          "ozet": "Videos and reports in Iranian state media showed damage to bridges, railways and other infrastructure. U.S. allies in the region reported retaliatory strikes by Iran.",
-          "yayin_tarihi": "Fri, 17 Jul 2026 21:49:49 +0000",
+          "url": "https://www.nytimes.com/2026/07/18/world/middleeast/us-troops-killed-iran-war-jordan.html",
+          "ozet": "President Trump vowed to avenge the deaths of any U.S. military personnel.",
+          "yayin_tarihi": "Sat, 18 Jul 2026 22:53:13 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-18T08:01:39.229849"
+      "taranma_zamani": "2026-07-19T08:27:31.422569"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russian drone strike destroys fuel depot used by Ukrainian army in Chernigov Region",
+          "baslik": "Russia will respond proportionately to Seoul’s deployment of Typhon missile systems — MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2161947",
-          "ozet": "Russian military used a Geran-3 Seeker drone",
-          "yayin_tarihi": "Sat, 18 Jul 2026 10:58:09 +0300",
+          "url": "https://tass.com/politics/2162125",
+          "ozet": "However, Andrei Rudenko noted that the Russian Foreign Ministry currently has no information regarding the Republic of Korea's intentions to take such a step",
+          "yayin_tarihi": "Sun, 19 Jul 2026 10:18:41 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "IN BRIEF: Seven killed, over 50 injured in Ukrainian drone attacks on Russian regions",
+          "baslik": "140 Ukrainian UAVs shot down overnight over Russian regions, Sea of Azov, Black Sea",
           "kaynak": "tass.com",
-          "url": "https://tass.com/emergencies/2161943",
-          "ozet": "At least 370 drones were detected flying toward the Moscow region between the evening of July 17 and the morning of July 18",
-          "yayin_tarihi": "Sat, 18 Jul 2026 10:54:47 +0300",
+          "url": "https://tass.com/defense/2162121",
+          "ozet": "They were destroyed over the territories of the Belgorod, Bryansk, Voronezh, Kaluga, Kursk, Rostov regions, the Moscow region, the Krasnodar region, the Republic of Crimea",
+          "yayin_tarihi": "Sun, 19 Jul 2026 09:32:43 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Twenty-five people injured in Ukrainian attack on warehouse in Russia’s Tambov Region",
+          "baslik": "Russia hits railway locomotive used by Ukrainian army",
           "kaynak": "tass.com",
-          "url": "https://tass.com/emergencies/2161935",
-          "ozet": "The governor Yevgeny Pervyshov said earlier that the attack had killed seven night shift workers",
-          "yayin_tarihi": "Sat, 18 Jul 2026 10:11:54 +0300",
+          "url": "https://tass.com/defense/2162111",
+          "ozet": "The Defense Ministry also released footage of objective monitoring of the strike on the railway infrastructure behind enemy lines",
+          "yayin_tarihi": "Sun, 19 Jul 2026 08:07:16 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian forces carry out strikes on Ukrainian ports used for military cargo deliveries",
+          "baslik": "Japan's deployment of Typhon military complexes threatens Russia’s Far East",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2161915",
-          "ozet": "Also the Russian Armed Forces  struck facilities used for unloading fuel intended for the Ukrainian military, as well as storage tanks, at the Odessa port",
-          "yayin_tarihi": "Sat, 18 Jul 2026 09:18:55 +0300",
+          "url": "https://tass.com/politics/2162109",
+          "ozet": "Deputy Foreign Minister Andrey Rudenko noted that Russia is \"closely following the efforts of the Japanese side to expand military activity\"",
+          "yayin_tarihi": "Sun, 19 Jul 2026 07:54:57 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Series of ASEAN foreign ministers' meetings opens in Manila",
+          "baslik": "US aims at double deterrence of Moscow, Beijing — Russian academician",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2161905",
-          "ozet": "The Philippines expects to welcome Russian Foreign Minister Sergey Lavrov, Chinese Foreign Minister Wang Yi, US Secretary of State Marco Rubio, as well as the foreign ministers of several other countries",
-          "yayin_tarihi": "Sat, 18 Jul 2026 07:39:16 +0300",
+          "url": "https://tass.com/politics/2162105",
+          "ozet": "President of the Institute of the World Economy and International Relations Alexander Dynkin says there are forces in the US that do not share president's approach to Russia's proposal to maintain the New START Treaty ceilings",
+          "yayin_tarihi": "Sun, 19 Jul 2026 07:27:45 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-18T08:01:39.229870"
+      "taranma_zamani": "2026-07-19T08:27:31.422587"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-18T08:01:39.229872"
+      "taranma_zamani": "2026-07-19T08:27:31.422589"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-18T08:01:39.229876"
+      "taranma_zamani": "2026-07-19T08:27:31.422593"
     }
   }
 }
