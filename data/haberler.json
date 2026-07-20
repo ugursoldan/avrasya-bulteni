@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-07-19",
-  "olusturma_zamani": "2026-07-19T08:27:31.422690",
+  "olusturma_tarihi": "2026-07-20",
+  "olusturma_zamani": "2026-07-20T09:25:46.064248",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Dışişleri: Türkiye, KKTC'nin menfaatlerini korumaya devam edecektir",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/disisleri-turkiye-kktcnin-menfaatlerini-korumaya-devam-edecektir-951660.html",
+          "ozet": "Dışişleri Bakanlığı, Kıbrıs Barış Harekatı'nın 52. yıl dönümünün gururla kutlandığını belirterek, Türkiye'nin gelecekte de Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) menfaatlerini korumaya, Kıbrıslı Türklerin özden gelen hakkı olan egemen eşitlik ve eşit uluslararası statülerinin tanınması için tüm gücüyle çalışmaya devam edeceğini bildirdi.",
+          "yayin_tarihi": "Mon, 20 Jul 2026 09:48:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "İran: ABD, inşaat halindeki nükleer santrale saldırdı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/iran-abd-insaat-halindeki-nukleer-santrale-saldirdi-951612.html",
+          "ozet": "İran Atom Enerjisi Kurumu, ABD’nin inşaat halindeki Darhovin nükleer enerji santraline saldırdığını duyurdu.",
+          "yayin_tarihi": "Sun, 19 Jul 2026 13:31:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "YKS sonuçları için geri sayım",
           "kaynak": "www.trthaber.com",
@@ -28,122 +44,106 @@
           "ozet": "ABD, İran'a yönelik üst üste yedi gecedir devam ettirdiği hava bombardımanına Tahran'dan misilleme geldi. İran, ABD’nin operasyonlarına yanıt olarak Bahreyn’deki Amerikan askeri unsurlarını balistik füzeler ve insansız hava araçlarıyla hedef aldığını açıkladı.",
           "yayin_tarihi": "Sat, 18 Jul 2026 00:44:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Alper Çelik: Haluk Levent bahislerini benim hesaplarım üzerinden oynuyordu",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/alper-celik-haluk-levent-bahislerini-benim-hesaplarim-uzerinden-oynuyordu-951552.html",
-          "ozet": "Ahbap Derneği adına toplanan bağışların şüphelilerin hesaplarına aktarıldığı iddiasıyla yürütülen soruşturmada tutuklanan Alper Çelik, etkin pişmanlıktan yararlanmak istedi. Çelik, ifadesinde Haluk Levent'in banka hesapları blokeli olduğu için kendi hesaplarını kullandığını ve bahis işlemlerinin de bu hesaplar üzerinden yapıldığını söyledi.",
-          "yayin_tarihi": "Sat, 18 Jul 2026 13:49:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Antalya'da uzay zirvesi: Kayıt başvurularında dünya rekoru kırıldı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/bilim-teknoloji/antalyada-uzay-zirvesi-kayit-basvurularinda-dunya-rekoru-kirildi-951531.html",
-          "ozet": "Türkiye'nin ev sahipliğinde ekim ayı başında düzenlenecek 77. Uluslararası Uzay Kongresi (IAC) için 83 ülkeden yapılan 3 binden fazla kesin kayıt başvurusuyla rekor kırıldı.",
-          "yayin_tarihi": "Sat, 18 Jul 2026 10:20:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-19T08:27:31.422548"
+      "taranma_zamani": "2026-07-20T09:25:46.064079"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Iran War Live Updates: U.S. Launches Strikes After Iranian Attack Kills 2 American Soldiers",
+          "baslik": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
-          "ozet": "The soldiers, killed in Jordan, were the first U.S. troops to die from hostile fire since an April truce. U.S. forces began retaliatory strikes early Sunday.",
-          "yayin_tarihi": "Sun, 19 Jul 2026 06:48:03 +0000",
+          "url": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
+          "ozet": "U.S. and Iranian attacks are unfolding in a way that risks a wider war they cannot contain, analysts warn, unless they can return to negotiations quickly.",
+          "yayin_tarihi": "Mon, 20 Jul 2026 08:09:12 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
+          "baslik": "Ukraine War Momentum Helps Spur Interest in Postwar Investment",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html",
-          "ozet": "Demonstrators supporting Ukraine’s ousted defense minister have begun denouncing the commander he clashed with in office, Gen. Oleksandr Syrskyi.",
-          "yayin_tarihi": "Sun, 19 Jul 2026 07:13:23 +0000",
+          "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html",
+          "ozet": "At a conference on reconstruction, the focus shifted to private investment, not donor assistance.",
+          "yayin_tarihi": "Mon, 20 Jul 2026 08:55:02 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Israel Counters Iranian Spying by Warning Against Recruitment",
+          "baslik": "Another U.S. Service Member Is Killed as Iran War Expands",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/18/world/middleeast/israel-recruits-rabbis-iran.html",
-          "ozet": "The Israeli authorities have enacted a broad array of countermeasures to contain what they describe as online recruiting efforts by Iranian agents.",
-          "yayin_tarihi": "Sat, 18 Jul 2026 13:09:16 +0000",
+          "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
+          "ozet": "The Pentagon said a service member was killed in northern Iraq while troops disposed of an Iranian drone. It also said “unidentified remains” were found in Jordan, where an earlier attack had left two soldiers dead and another missing.",
+          "yayin_tarihi": "Mon, 20 Jul 2026 09:21:37 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Why Jordan Is Becoming a New Focus in the U.S.-Iran War",
+          "baslik": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html",
-          "ozet": "Four Iranian attacks in five days have targeted U.S. troops in Jordan, U.S. officials said, including one on Friday that killed two soldiers and left another service member missing.",
-          "yayin_tarihi": "Sat, 18 Jul 2026 23:03:24 +0000",
+          "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
+          "ozet": "On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.",
+          "yayin_tarihi": "Sun, 19 Jul 2026 18:26:41 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Deaths of 2 U.S. Troops in Jordan Brings American Toll in the War With Iran to 16",
+          "baslik": "Rubio Says That U.S. Is Still Open to Diplomacy With Iran",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/18/world/middleeast/us-troops-killed-iran-war-jordan.html",
-          "ozet": "President Trump vowed to avenge the deaths of any U.S. military personnel.",
-          "yayin_tarihi": "Sat, 18 Jul 2026 22:53:13 +0000",
+          "url": "https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html",
+          "ozet": "Secretary of State Marco Rubio said Iran had signaled it wanted to negotiate. Iran’s foreign ministry spokesman said Tehran had received new proposals from mediators.",
+          "yayin_tarihi": "Mon, 20 Jul 2026 09:21:35 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-19T08:27:31.422569"
+      "taranma_zamani": "2026-07-20T09:25:46.064100"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia will respond proportionately to Seoul’s deployment of Typhon missile systems — MFA",
+          "baslik": "Russia’s Battlegroup North destroys over 150 Ukrainian rotor copters in Kharkov in July",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2162125",
-          "ozet": "However, Andrei Rudenko noted that the Russian Foreign Ministry currently has no information regarding the Republic of Korea's intentions to take such a step",
-          "yayin_tarihi": "Sun, 19 Jul 2026 10:18:41 +0300",
+          "url": "https://tass.com/defense/2162457",
+          "ozet": "Ukrainian troops used the drones to conduct reconnaissance and adjust fire of their artillery units",
+          "yayin_tarihi": "Mon, 20 Jul 2026 12:04:05 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "140 Ukrainian UAVs shot down overnight over Russian regions, Sea of Azov, Black Sea",
+          "baslik": "Russian stocks down as main trading session opens",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2162121",
-          "ozet": "They were destroyed over the territories of the Belgorod, Bryansk, Voronezh, Kaluga, Kursk, Rostov regions, the Moscow region, the Krasnodar region, the Republic of Crimea",
-          "yayin_tarihi": "Sun, 19 Jul 2026 09:32:43 +0300",
+          "url": "https://tass.com/economy/2162437",
+          "ozet": "According to trading data as of 10:00 a.m. Moscow time, the MOEX and RTS indices fell by 2.11% to 1,917.2 and 770.37 points",
+          "yayin_tarihi": "Mon, 20 Jul 2026 11:28:55 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia hits railway locomotive used by Ukrainian army",
+          "baslik": "Russian forces hit 200 railway engines hauling Western arms to Ukraine — diplomat",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2162111",
-          "ozet": "The Defense Ministry also released footage of objective monitoring of the strike on the railway infrastructure behind enemy lines",
-          "yayin_tarihi": "Sun, 19 Jul 2026 08:07:16 +0300",
+          "url": "https://tass.com/politics/2162431",
+          "ozet": "According to Rodion Miroshnik, \"90% of military cargoes arrive from European countries\"",
+          "yayin_tarihi": "Mon, 20 Jul 2026 11:27:52 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Japan's deployment of Typhon military complexes threatens Russia’s Far East",
+          "baslik": "Lavrov meets with visiting top North Korean diplomat in Moscow",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2162109",
-          "ozet": "Deputy Foreign Minister Andrey Rudenko noted that Russia is \"closely following the efforts of the Japanese side to expand military activity\"",
-          "yayin_tarihi": "Sun, 19 Jul 2026 07:54:57 +0300",
+          "url": "https://tass.com/politics/2162429",
+          "ozet": "Choe Son Hui has arrived on an official visit to the Russian capital at Sergey Lavrov’s invitation, the Russian Foreign Ministry said earlier",
+          "yayin_tarihi": "Mon, 20 Jul 2026 11:25:53 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US aims at double deterrence of Moscow, Beijing — Russian academician",
+          "baslik": "Ukrainian military advisers operate in Mali, Russian MFA tells TASS",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2162105",
-          "ozet": "President of the Institute of the World Economy and International Relations Alexander Dynkin says there are forces in the US that do not share president's approach to Russia's proposal to maintain the New START Treaty ceilings",
-          "yayin_tarihi": "Sun, 19 Jul 2026 07:27:45 +0300",
+          "url": "https://tass.com/politics/2162427",
+          "ozet": "Their assistance mainly involves the use of UAVs and counter-UAV operations, Anatoly Bashkin said",
+          "yayin_tarihi": "Mon, 20 Jul 2026 11:25:02 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-19T08:27:31.422587"
+      "taranma_zamani": "2026-07-20T09:25:46.064126"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-19T08:27:31.422589"
+      "taranma_zamani": "2026-07-20T09:25:46.064128"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-19T08:27:31.422593"
+      "taranma_zamani": "2026-07-20T09:25:46.064132"
     }
   }
 }
