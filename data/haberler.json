@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-07-20",
-  "olusturma_zamani": "2026-07-20T09:25:46.064248",
+  "olusturma_tarihi": "2026-07-21",
+  "olusturma_zamani": "2026-07-21T08:37:48.581252",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Yaş ilerledikçe trafik sigortası yaptırmak zorlaşıyor mu?",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/yas-ilerledikce-trafik-sigortasi-yaptirmak-zorlasiyor-mu-951704.html",
+          "ozet": "Trafik sigortası araç sahipleri için zorunlu. Ancak 75 yaş ve üzerindeki bazı kişiler, poliçe yaptırmak istediklerinde sigorta şirketlerinden teklif alamadıklarını söylüyor. Uzmanlara göre yaş, tek başına zorunlu trafik sigortasında engel değil; teklif vermemek ya da poliçe düzenlemekten kaçınmak ise hukuki sonuç doğurabilir.",
+          "yayin_tarihi": "Mon, 20 Jul 2026 15:26:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Dışişleri: Türkiye, KKTC'nin menfaatlerini korumaya devam edecektir",
           "kaynak": "www.trthaber.com",
@@ -36,23 +44,23 @@
           "ozet": "24 Haziran'da meydana gelen iki büyük depremin ardından Venezuela'da can kaybı 5 bin 119'a yükseldi. Bölgede 1350'den fazla artçı sarsıntı meydana gelirken, arama kurtarma çalışmaları sürüyor.",
           "yayin_tarihi": "Sun, 19 Jul 2026 07:34:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "ABD, İran'a üst üste 7. gecede de hava saldırıları düzenledi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/abd-irana-ust-uste-7-gecede-de-hava-saldirilari-duzenledi-951517.html",
-          "ozet": "ABD, İran'a yönelik üst üste yedi gecedir devam ettirdiği hava bombardımanına Tahran'dan misilleme geldi. İran, ABD’nin operasyonlarına yanıt olarak Bahreyn’deki Amerikan askeri unsurlarını balistik füzeler ve insansız hava araçlarıyla hedef aldığını açıkladı.",
-          "yayin_tarihi": "Sat, 18 Jul 2026 00:44:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-20T09:25:46.064079"
+      "taranma_zamani": "2026-07-21T08:37:48.581038"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
+          "baslik": "Hamas Names Khalil al-Hayya as Its New Leader",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/07/20/world/middleeast/gaza-talks-khalil-al-hayya-leader.html",
+          "ozet": "Seen as closer to Iran, Khalil al-Hayya served as the Palestinian militant group’s chief negotiator with Israel and the Trump administration during the Gaza war.",
+          "yayin_tarihi": "Mon, 20 Jul 2026 17:22:44 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Trump Administration and Iran Officials Risk a Wider War They Cannot Afford",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
           "ozet": "U.S. and Iranian attacks are unfolding in a way that risks a wider war they cannot contain, analysts warn, unless they can return to negotiations quickly.",
@@ -60,94 +68,94 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "Ukraine War Momentum Helps Spur Interest in Postwar Investment",
+          "baslik": "Zelensky Faces Pressure to Remove Ukraine’s Top General",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html",
-          "ozet": "At a conference on reconstruction, the focus shifted to private investment, not donor assistance.",
-          "yayin_tarihi": "Mon, 20 Jul 2026 08:55:02 +0000",
+          "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-zelensky-general-defense-minister.html",
+          "ozet": "Demonstrators and many soldiers want President Volodymyr Zelensky to reaffirm the vision of drone warfare laid out by the defense minister he fired last week.",
+          "yayin_tarihi": "Mon, 20 Jul 2026 18:55:43 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Another U.S. Service Member Is Killed as Iran War Expands",
+          "baslik": "Suspected Iranian strikes have targeted the U.S. military in at least 4 countries.",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
-          "ozet": "The Pentagon said a service member was killed in northern Iraq while troops disposed of an Iranian drone. It also said “unidentified remains” were found in Jordan, where an earlier attack had left two soldiers dead and another missing.",
-          "yayin_tarihi": "Mon, 20 Jul 2026 09:21:37 +0000",
+          "url": "https://www.nytimes.com/live/2026/07/20/world/iran-war-strikes-trump-hormuz/suspected-iranian-strikes-have-targeted-us-military-in-at-least-four-countries",
+          "ozet": "Özet oluşturulamadı.",
+          "yayin_tarihi": "Tue, 21 Jul 2026 06:24:45 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
+          "baslik": "Houthis in Yemen Declare Red Sea Blockade on Saudi Arabia",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
-          "ozet": "On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.",
-          "yayin_tarihi": "Sun, 19 Jul 2026 18:26:41 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Rubio Says That U.S. Is Still Open to Diplomacy With Iran",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html",
-          "ozet": "Secretary of State Marco Rubio said Iran had signaled it wanted to negotiate. Iran’s foreign ministry spokesman said Tehran had received new proposals from mediators.",
-          "yayin_tarihi": "Mon, 20 Jul 2026 09:21:35 +0000",
+          "url": "https://www.nytimes.com/2026/07/20/world/middleeast/yemen-houthis-saudi-arabia-red-sea-blockade.html",
+          "ozet": "The Iran-backed Houthi militia, which controls parts of Yemen, has in the past blockaded the Red Sea by threatening a choke point crucial to Saudi oil exports and global shipping.",
+          "yayin_tarihi": "Tue, 21 Jul 2026 02:20:10 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-20T09:25:46.064100"
+      "taranma_zamani": "2026-07-21T08:37:48.581057"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia’s Battlegroup North destroys over 150 Ukrainian rotor copters in Kharkov in July",
+          "baslik": "Russia’s FSB prevents terrorist attack on key enterprise in Urals",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2162457",
-          "ozet": "Ukrainian troops used the drones to conduct reconnaissance and adjust fire of their artillery units",
-          "yayin_tarihi": "Mon, 20 Jul 2026 12:04:05 +0300",
+          "url": "https://tass.com/emergencies/2162863",
+          "ozet": "A 60-year-old Tyumen citizen was killed in a gunfight during the detention attempt",
+          "yayin_tarihi": "Tue, 21 Jul 2026 11:35:28 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian stocks down as main trading session opens",
+          "baslik": "Falling drone debris injures child in Russia’s Black Sea city of Sochi",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2162437",
-          "ozet": "According to trading data as of 10:00 a.m. Moscow time, the MOEX and RTS indices fell by 2.11% to 1,917.2 and 770.37 points",
-          "yayin_tarihi": "Mon, 20 Jul 2026 11:28:55 +0300",
+          "url": "https://tass.com/emergencies/2162861",
+          "ozet": "According to the crisis center, emergency response teams are working at the scene",
+          "yayin_tarihi": "Tue, 21 Jul 2026 11:29:00 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian forces hit 200 railway engines hauling Western arms to Ukraine — diplomat",
+          "baslik": "Russian stock market opens higher, yuan turns lower after initial gains",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2162431",
-          "ozet": "According to Rodion Miroshnik, \"90% of military cargoes arrive from European countries\"",
-          "yayin_tarihi": "Mon, 20 Jul 2026 11:27:52 +0300",
+          "url": "https://tass.com/economy/2162859",
+          "ozet": "As of 10:00 a.m. Moscow time, the MOEX Index and the RTS Index both climbed 4.02% at the opening bell, reaching 2,081.5 and 837.09, respectively",
+          "yayin_tarihi": "Tue, 21 Jul 2026 11:28:04 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Lavrov meets with visiting top North Korean diplomat in Moscow",
+          "baslik": "Ukrainian strikes claim lives of 70 Russians, including two children over week — diplomat",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2162429",
-          "ozet": "Choe Son Hui has arrived on an official visit to the Russian capital at Sergey Lavrov’s invitation, the Russian Foreign Ministry said earlier",
-          "yayin_tarihi": "Mon, 20 Jul 2026 11:25:53 +0300",
+          "url": "https://tass.com/politics/2162857",
+          "ozet": "Rodion Miroshnik said that more than 360 people, including 12 minors, have been injured",
+          "yayin_tarihi": "Tue, 21 Jul 2026 11:25:42 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ukrainian military advisers operate in Mali, Russian MFA tells TASS",
+          "baslik": "North Korea says consensus reached with Russia at talks between two top diplomats",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2162427",
-          "ozet": "Their assistance mainly involves the use of UAVs and counter-UAV operations, Anatoly Bashkin said",
-          "yayin_tarihi": "Mon, 20 Jul 2026 11:25:02 +0300",
+          "url": "https://tass.com/world/2162855",
+          "ozet": "The strategic dialogue between the two foreign ministers involved constructive and beneficial strategic communication",
+          "yayin_tarihi": "Tue, 21 Jul 2026 11:23:49 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-20T09:25:46.064126"
+      "taranma_zamani": "2026-07-21T08:37:48.581083"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-20T09:25:46.064128"
+      "taranma_zamani": "2026-07-21T08:37:48.581085"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "金明日获释背后 锡安教会8人仍面临起诉",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/07/21/china-zion-church-jin-mingri-shouwang-church/",
+          "ozet": "北京锡安教会牧师金明日获释抵达美国后，该教会仍有8名牧师、长老及信徒被羁押。北京知情人士对本台说，金明日获释与美国总统特朗普向中国国家主席习近平交涉有关，其余被捕人员仍面临起诉。",
+          "yayin_tarihi": "Tue, 21 Jul 2026 06:42:29 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "报告揭中国监狱黑幕　酷刑强迫劳动成常态",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "中国官方媒体6号发布，当天中午在太平洋试射一枚远程弹道导弹，导弹是由一艘中国核动力潜艇發射，落点在太平洋公海海域。中方并事先通报相关国家，但之后依旧引发北约、澳大利亚、新西兰、日本及所罗门群岛等国家的关切或批评。",
           "yayin_tarihi": "Fri, 10 Jul 2026 16:30:07 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "彩虹月 在中国是如何一步步消失的？",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/07/10/china-lgbtq-pride-month-banned/",
-          "ozet": "刚刚过去的6月在很多国家又被称之 “彩虹月”，也叫“骄傲月”。在一些中国社交媒体平台搜索“彩虹月”，结果更多出现的是自然风景中的彩虹图片，而不是与LGBTQ相关的话题。\n那么，中国的LGBTQ公共空间，是如何逐渐发生变化的？",
-          "yayin_tarihi": "Fri, 10 Jul 2026 08:35:54 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-20T09:25:46.064132"
+      "taranma_zamani": "2026-07-21T08:37:48.581089"
     }
   }
 }
