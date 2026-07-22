@@ -1,10 +1,42 @@
 {
-  "olusturma_tarihi": "2026-07-21",
-  "olusturma_zamani": "2026-07-21T08:37:48.581252",
+  "olusturma_tarihi": "2026-07-22",
+  "olusturma_zamani": "2026-07-22T08:37:20.156949",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Ankara'da eğitim helikopteri düştü",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/ankarada-egitim-helikopteri-dustu-951853.html",
+          "ozet": "Ankara’nın Temelli ilçesinde bir eğitim helikopteri düştü. Kazada yaralanan 2 kişiyi hastanelere sevk edildi. Kazanın nedeninin belirlenmesi için inceleme başlatıldı.",
+          "yayin_tarihi": "Wed, 22 Jul 2026 10:44:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Yanıltıcı reklamlara yaklaşık 185 milyon lira ceza kesildi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/ekonomi/yaniltici-reklamlara-yaklasik-185-milyon-lira-ceza-kesildi-951844.html",
+          "ozet": "Reklam Kurulu, yanıltıcı reklamlar ve haksız ticari uygulamalara karşı 7 ayda yaklaşık 21 bin dosyayı karara bağlarken 185 milyon liranın üzerinde idari para cezası uygulanmasını kararlaştırdı.",
+          "yayin_tarihi": "Wed, 22 Jul 2026 09:47:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "DOA Sistemi'nde toplu iadeler için Sayma ve Doğrulama Merkezleri kuruldu",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/cevre/doa-sisteminde-toplu-iadeler-icin-sayma-ve-dogrulama-merkezleri-kuruldu-951803.html",
+          "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca, Depozitosu Olan Ambalajlar (DOA) Sistemi'nde, yüksek hacimli toplu iadelerin daha etkin bir şekilde yönetilmesi amacıyla \"Sayma ve Doğrulama Merkezleri\" hayata geçirildi.",
+          "yayin_tarihi": "Tue, 21 Jul 2026 16:20:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Özgür Özel: Yeni partimizi kuruyoruz",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/ozgur-ozel-yeni-partimizi-kuruyoruz-951793.html",
+          "ozet": "CHP Grup Başkanı Özgür Özel, birkaç gün içinde yeni bir parti kuracaklarını açıkladı. \"Bu kürsüye vakti gelmiş bir vedanın hüznünün taşıyarak çıktım\" diyen Özel, kuracakları partinin, milletvekili sayısıyla ana muhalefet partisi olacağını ifade etti.",
+          "yayin_tarihi": "Tue, 21 Jul 2026 14:43:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Yaş ilerledikçe trafik sigortası yaptırmak zorlaşıyor mu?",
           "kaynak": "www.trthaber.com",
@@ -12,142 +44,118 @@
           "ozet": "Trafik sigortası araç sahipleri için zorunlu. Ancak 75 yaş ve üzerindeki bazı kişiler, poliçe yaptırmak istediklerinde sigorta şirketlerinden teklif alamadıklarını söylüyor. Uzmanlara göre yaş, tek başına zorunlu trafik sigortasında engel değil; teklif vermemek ya da poliçe düzenlemekten kaçınmak ise hukuki sonuç doğurabilir.",
           "yayin_tarihi": "Mon, 20 Jul 2026 15:26:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Dışişleri: Türkiye, KKTC'nin menfaatlerini korumaya devam edecektir",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/disisleri-turkiye-kktcnin-menfaatlerini-korumaya-devam-edecektir-951660.html",
-          "ozet": "Dışişleri Bakanlığı, Kıbrıs Barış Harekatı'nın 52. yıl dönümünün gururla kutlandığını belirterek, Türkiye'nin gelecekte de Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) menfaatlerini korumaya, Kıbrıslı Türklerin özden gelen hakkı olan egemen eşitlik ve eşit uluslararası statülerinin tanınması için tüm gücüyle çalışmaya devam edeceğini bildirdi.",
-          "yayin_tarihi": "Mon, 20 Jul 2026 09:48:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "İran: ABD, inşaat halindeki nükleer santrale saldırdı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/iran-abd-insaat-halindeki-nukleer-santrale-saldirdi-951612.html",
-          "ozet": "İran Atom Enerjisi Kurumu, ABD’nin inşaat halindeki Darhovin nükleer enerji santraline saldırdığını duyurdu.",
-          "yayin_tarihi": "Sun, 19 Jul 2026 13:31:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "YKS sonuçları için geri sayım",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/egitim/yks-sonuclari-icin-geri-sayim-951593.html",
-          "ozet": "Milyonlarca üniversite adayının heyecanla beklediği Yükseköğretim Kurumları Sınavı (YKS) sonuçları, ÖSYM'nin takvimine göre 22 Temmuz Çarşamba günü açıklanacak.",
-          "yayin_tarihi": "Sun, 19 Jul 2026 09:39:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Venezuela'daki depremlerde bilanço ağırlaşıyor: 5 bin 119 ölü",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/venezueladaki-depremlerde-bilanco-agirlasiyor-5-bin-119-olu-951583.html",
-          "ozet": "24 Haziran'da meydana gelen iki büyük depremin ardından Venezuela'da can kaybı 5 bin 119'a yükseldi. Bölgede 1350'den fazla artçı sarsıntı meydana gelirken, arama kurtarma çalışmaları sürüyor.",
-          "yayin_tarihi": "Sun, 19 Jul 2026 07:34:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-21T08:37:48.581038"
+      "taranma_zamani": "2026-07-22T08:37:20.156595"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Hamas Names Khalil al-Hayya as Its New Leader",
+          "baslik": "Zelensky Dismisses Ukraine’s Top General After Protests",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/20/world/middleeast/gaza-talks-khalil-al-hayya-leader.html",
-          "ozet": "Seen as closer to Iran, Khalil al-Hayya served as the Palestinian militant group’s chief negotiator with Israel and the Trump administration during the Gaza war.",
-          "yayin_tarihi": "Mon, 20 Jul 2026 17:22:44 +0000",
+          "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html",
+          "ozet": "The move followed the firing of a popular defense minister, who had clashed with the general over how to fight the war.",
+          "yayin_tarihi": "Tue, 21 Jul 2026 21:39:10 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Trump Administration and Iran Officials Risk a Wider War They Cannot Afford",
+          "baslik": "Mykhailo Drapatyi: What to Know About Ukraine’s New Top General",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
-          "ozet": "U.S. and Iranian attacks are unfolding in a way that risks a wider war they cannot contain, analysts warn, unless they can return to negotiations quickly.",
-          "yayin_tarihi": "Mon, 20 Jul 2026 08:09:12 +0000",
+          "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html",
+          "ozet": "Maj. Gen. Mykhailo Drapatyi, a decorated commander, is popular both inside and outside of his country.",
+          "yayin_tarihi": "Tue, 21 Jul 2026 23:39:36 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Zelensky Faces Pressure to Remove Ukraine’s Top General",
+          "baslik": "Iran’s Neighbors Long for a Deal, Any Deal, to End the War",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-zelensky-general-defense-minister.html",
-          "ozet": "Demonstrators and many soldiers want President Volodymyr Zelensky to reaffirm the vision of drone warfare laid out by the defense minister he fired last week.",
-          "yayin_tarihi": "Mon, 20 Jul 2026 18:55:43 +0000",
+          "url": "https://www.nytimes.com/2026/07/22/world/asia/iran-pakistan-karachi-trade-oil.html",
+          "ozet": "Business owners in Pakistan are getting impatient for a chance to finally trade goods and oil along their long shared border with Iran.",
+          "yayin_tarihi": "Wed, 22 Jul 2026 05:02:40 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Suspected Iranian strikes have targeted the U.S. military in at least 4 countries.",
+          "baslik": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/07/20/world/iran-war-strikes-trump-hormuz/suspected-iranian-strikes-have-targeted-us-military-in-at-least-four-countries",
-          "ozet": "Özet oluşturulamadı.",
-          "yayin_tarihi": "Tue, 21 Jul 2026 06:24:45 +0000",
+          "url": "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html",
+          "ozet": "The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening a new front in the war rippling across the Middle East.",
+          "yayin_tarihi": "Tue, 21 Jul 2026 18:16:45 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Houthis in Yemen Declare Red Sea Blockade on Saudi Arabia",
+          "baslik": "With His Latest Threats, Trump Signals to Iran That He Is Willing to Escalate",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/20/world/middleeast/yemen-houthis-saudi-arabia-red-sea-blockade.html",
-          "ozet": "The Iran-backed Houthi militia, which controls parts of Yemen, has in the past blockaded the Red Sea by threatening a choke point crucial to Saudi oil exports and global shipping.",
-          "yayin_tarihi": "Tue, 21 Jul 2026 02:20:10 +0000",
+          "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html",
+          "ozet": "President Trump is facing a critical moment in the war, which has failed to bring about the “unconditional surrender” he once demanded.",
+          "yayin_tarihi": "Wed, 22 Jul 2026 00:00:14 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-21T08:37:48.581057"
+      "taranma_zamani": "2026-07-22T08:37:20.156617"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia’s FSB prevents terrorist attack on key enterprise in Urals",
+          "baslik": "Russia remains among world’s top five fishing nations",
           "kaynak": "tass.com",
-          "url": "https://tass.com/emergencies/2162863",
-          "ozet": "A 60-year-old Tyumen citizen was killed in a gunfight during the detention attempt",
-          "yayin_tarihi": "Tue, 21 Jul 2026 11:35:28 +0300",
+          "url": "https://tass.com/economy/2163393",
+          "ozet": "Rosrybolovstvo added that Russia’s fishing industry continues to deliver stable results year after year",
+          "yayin_tarihi": "Wed, 22 Jul 2026 11:29:27 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Falling drone debris injures child in Russia’s Black Sea city of Sochi",
+          "baslik": "US death toll in Iran conflict increases to 18 — AP",
           "kaynak": "tass.com",
-          "url": "https://tass.com/emergencies/2162861",
-          "ozet": "According to the crisis center, emergency response teams are working at the scene",
-          "yayin_tarihi": "Tue, 21 Jul 2026 11:29:00 +0300",
+          "url": "https://tass.com/world/2163391",
+          "ozet": "According to the report, the total number of wounded American service members since the start of hostilities against Iran has risen to more than 500",
+          "yayin_tarihi": "Wed, 22 Jul 2026 11:16:08 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian stock market opens higher, yuan turns lower after initial gains",
+          "baslik": "Russian, Pakistani foreign ministers discuss interaction within SCO",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2162859",
-          "ozet": "As of 10:00 a.m. Moscow time, the MOEX Index and the RTS Index both climbed 4.02% at the opening bell, reaching 2,081.5 and 837.09, respectively",
-          "yayin_tarihi": "Tue, 21 Jul 2026 11:28:04 +0300",
+          "url": "https://tass.com/politics/2163387",
+          "ozet": "Sergey Lavrov and Ishaq Dar took part in the Association of Southeast Asian Nations ministerial events in Manila",
+          "yayin_tarihi": "Wed, 22 Jul 2026 10:57:12 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ukrainian strikes claim lives of 70 Russians, including two children over week — diplomat",
+          "baslik": "Two people injured in Ukrainian attacks on Russia’s borderline Bryansk Region",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2162857",
-          "ozet": "Rodion Miroshnik said that more than 360 people, including 12 minors, have been injured",
-          "yayin_tarihi": "Tue, 21 Jul 2026 11:25:42 +0300",
+          "url": "https://tass.com/politics/2163385",
+          "ozet": "A security guard suffered shrapnel injuries in a drone strike on a facility belonging to the Miratorg agricultural holding in the Klimovsky District",
+          "yayin_tarihi": "Wed, 22 Jul 2026 10:46:29 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "North Korea says consensus reached with Russia at talks between two top diplomats",
+          "baslik": "IN BRIEF: Wildberries facilities hit as air defenses down 242 drones over Russian regions",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2162855",
-          "ozet": "The strategic dialogue between the two foreign ministers involved constructive and beneficial strategic communication",
-          "yayin_tarihi": "Tue, 21 Jul 2026 11:23:49 +0300",
+          "url": "https://tass.com/emergencies/2163381",
+          "ozet": "One person was killed and ten others suffered injuries in a large-scale drone attack on the Krasnodar Region",
+          "yayin_tarihi": "Wed, 22 Jul 2026 10:36:31 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-21T08:37:48.581083"
+      "taranma_zamani": "2026-07-22T08:37:20.156645"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-21T08:37:48.581085"
+      "taranma_zamani": "2026-07-22T08:37:20.156647"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "统战片《澎湖海战》上映前再传撤档",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/2026/07/22/china-taiwan-moive-unification-penghu-propaganda/",
+          "ozet": "中国历史战争电影《澎湖海战》原定7月25日上映，但再次传出临时撤档的消息，新的上映日期尚未公布。这是该片今年第二次传出撤档消息。影片以清军攻取澎湖和台湾为题材，宣传内容多次直接连接当前两岸政治，撤档消息也引起外界对审查尺度的讨论。",
+          "yayin_tarihi": "Wed, 22 Jul 2026 07:17:27 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "金明日获释背后 锡安教会8人仍面临起诉",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "公益机构亚洲律师网络发布报告，指中国民商事律师过去被认为处于执业“安全地带”，如今律师代理合同、债务、房地产及公司纠纷，也可能被有关当局追溯认定为“帮助委托人犯罪”。律师提供法律意见、参与诉讼或收取代理费，都可能招致刑事追诉。",
           "yayin_tarihi": "Mon, 13 Jul 2026 07:00:06 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "中国试射巨浪导弹落南太平洋 引发国际关切  ",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/07/10/china-missile-nuclear-submarine-jl2/",
-          "ozet": "中国官方媒体6号发布，当天中午在太平洋试射一枚远程弹道导弹，导弹是由一艘中国核动力潜艇發射，落点在太平洋公海海域。中方并事先通报相关国家，但之后依旧引发北约、澳大利亚、新西兰、日本及所罗门群岛等国家的关切或批评。",
-          "yayin_tarihi": "Fri, 10 Jul 2026 16:30:07 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-21T08:37:48.581089"
+      "taranma_zamani": "2026-07-22T08:37:20.156652"
     }
   }
 }
