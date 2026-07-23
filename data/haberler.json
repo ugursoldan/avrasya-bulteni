@@ -1,16 +1,24 @@
 {
-  "olusturma_tarihi": "2026-07-22",
-  "olusturma_zamani": "2026-07-22T08:37:20.156949",
+  "olusturma_tarihi": "2026-07-23",
+  "olusturma_zamani": "2026-07-23T08:39:04.811416",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "Ankara'da eğitim helikopteri düştü",
+          "baslik": "Norveç vazgeçti: Malezya rotayı Türkiyeye çevirebilir",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/ankarada-egitim-helikopteri-dustu-951853.html",
-          "ozet": "Ankara’nın Temelli ilçesinde bir eğitim helikopteri düştü. Kazada yaralanan 2 kişiyi hastanelere sevk edildi. Kazanın nedeninin belirlenmesi için inceleme başlatıldı.",
-          "yayin_tarihi": "Wed, 22 Jul 2026 10:44:00 +0300",
+          "url": "https://www.trthaber.com/haber/gundem/norvec-vazgecti-malezya-rotayi-turkiyeye-cevirebilir-951972.html",
+          "ozet": "Norveç, Malezya’ya satacağı gemisavar füzeleri için son anda geri adım attı ve süreci iptal etti. Gemilerini neyle donatacağı konusunda boşluğa düşen ülke yönetimi Ankara’nın kapısını çalabilir. Yerli füze ATMACA’ya Malezya’nın talepleri doğrultusunda farklı dokunuşlar yapılabileceğine değinen uzmanlar, Türkiye’nin hızla öne çıkabileceği görüşünde.",
+          "yayin_tarihi": "Thu, 23 Jul 2026 11:00:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Kurtulmuş: Terörsüz Türkiye hedefi için yasal düzenleme zarureti ortaya çıktı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/kurtulmus-terorsuz-turkiye-hedefi-icin-yasal-duzenleme-zarureti-ortaya-cikti-951889.html",
+          "ozet": "TBMM Başkanı Kurtulmuş, silahların geride bırakıldığı ve terörün konuşulmadığı bir dönem için yasal düzenlemenin zaruri hale geldiğini belirterek, \"Bu yasa, örgütün silahlarını bıraktığı ve münfesih hale geldiğinin tespit ve teyidiyle ilgili bir mekanizma içermelidir. Bu genel af ya da şahsa ait bir af niteliğinde olmayacaktır\" dedi.",
+          "yayin_tarihi": "Wed, 22 Jul 2026 16:18:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -36,114 +44,106 @@
           "ozet": "CHP Grup Başkanı Özgür Özel, birkaç gün içinde yeni bir parti kuracaklarını açıkladı. \"Bu kürsüye vakti gelmiş bir vedanın hüznünün taşıyarak çıktım\" diyen Özel, kuracakları partinin, milletvekili sayısıyla ana muhalefet partisi olacağını ifade etti.",
           "yayin_tarihi": "Tue, 21 Jul 2026 14:43:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Yaş ilerledikçe trafik sigortası yaptırmak zorlaşıyor mu?",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/yas-ilerledikce-trafik-sigortasi-yaptirmak-zorlasiyor-mu-951704.html",
-          "ozet": "Trafik sigortası araç sahipleri için zorunlu. Ancak 75 yaş ve üzerindeki bazı kişiler, poliçe yaptırmak istediklerinde sigorta şirketlerinden teklif alamadıklarını söylüyor. Uzmanlara göre yaş, tek başına zorunlu trafik sigortasında engel değil; teklif vermemek ya da poliçe düzenlemekten kaçınmak ise hukuki sonuç doğurabilir.",
-          "yayin_tarihi": "Mon, 20 Jul 2026 15:26:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-22T08:37:20.156595"
+      "taranma_zamani": "2026-07-23T08:39:04.811330"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Zelensky Dismisses Ukraine’s Top General After Protests",
+          "baslik": "U.S. Military Presence in Jordan Makes It Iranian Target",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html",
-          "ozet": "The move followed the firing of a popular defense minister, who had clashed with the general over how to fight the war.",
-          "yayin_tarihi": "Tue, 21 Jul 2026 21:39:10 +0000",
+          "url": "https://www.nytimes.com/2026/07/23/world/middleeast/jordan-iran-us-forces.html",
+          "ozet": "Relying heavily on U.S. aid and protection, Jordan is unlikely to restrict the American military presence there, despite escalating Iranian airstrikes.",
+          "yayin_tarihi": "Thu, 23 Jul 2026 07:24:29 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Mykhailo Drapatyi: What to Know About Ukraine’s New Top General",
+          "baslik": "Ukraine’s New Military Chief Faces a Monumental Test",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html",
-          "ozet": "Maj. Gen. Mykhailo Drapatyi, a decorated commander, is popular both inside and outside of his country.",
-          "yayin_tarihi": "Tue, 21 Jul 2026 23:39:36 +0000",
+          "url": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-military-chief-drapatyi.html",
+          "ozet": "Maj. Gen. Mykhailo Drapatyi faces a balancing act between asserting the independence favored by military reformers and accommodating political input on battlefield strategy.",
+          "yayin_tarihi": "Wed, 22 Jul 2026 12:33:29 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iran’s Neighbors Long for a Deal, Any Deal, to End the War",
+          "baslik": "Debate Over Ancient Iranian Jewelry Worn by Zendaya to ‘Odyssey’ Event",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/22/world/asia/iran-pakistan-karachi-trade-oil.html",
-          "ozet": "Business owners in Pakistan are getting impatient for a chance to finally trade goods and oil along their long shared border with Iran.",
-          "yayin_tarihi": "Wed, 22 Jul 2026 05:02:40 +0000",
+          "url": "https://www.nytimes.com/2026/07/22/style/zendaya-odyssey-earrings-jewelry.html",
+          "ozet": "The actress wore earrings to an event for “The Odyssey” that a London gallery has said were made from an ancient artifact.",
+          "yayin_tarihi": "Thu, 23 Jul 2026 00:54:46 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
+          "baslik": "Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html",
-          "ozet": "The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening a new front in the war rippling across the Middle East.",
-          "yayin_tarihi": "Tue, 21 Jul 2026 18:16:45 +0000",
+          "url": "https://www.nytimes.com/2026/07/22/world/middleeast/houthis-saudi-oil-tankers-red-sea.html",
+          "ozet": "The Saudi authorities confirmed a strike on one of the ships. These are the first claimed attacks since the Iranian-backed Yemeni group announced a blockade on Saudi Arabia.",
+          "yayin_tarihi": "Thu, 23 Jul 2026 02:59:44 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "With His Latest Threats, Trump Signals to Iran That He Is Willing to Escalate",
+          "baslik": "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html",
-          "ozet": "President Trump is facing a critical moment in the war, which has failed to bring about the “unconditional surrender” he once demanded.",
-          "yayin_tarihi": "Wed, 22 Jul 2026 00:00:14 +0000",
+          "url": "https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html",
+          "ozet": "Video footage and satellite images reveal new details about Iranian strikes on U.S. targets during the latest flare-up in fighting.",
+          "yayin_tarihi": "Thu, 23 Jul 2026 01:37:39 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-22T08:37:20.156617"
+      "taranma_zamani": "2026-07-23T08:39:04.811353"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia remains among world’s top five fishing nations",
+          "baslik": "US air campaign against Iran running out of steam — Politico",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2163393",
-          "ozet": "Rosrybolovstvo added that Russia’s fishing industry continues to deliver stable results year after year",
-          "yayin_tarihi": "Wed, 22 Jul 2026 11:29:27 +0300",
+          "url": "https://tass.com/world/2164093",
+          "ozet": "According to the report, the conflict is unlikely to shift decisively without a major escalation, including the deployment of ground forces",
+          "yayin_tarihi": "Thu, 23 Jul 2026 11:22:58 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US death toll in Iran conflict increases to 18 — AP",
+          "baslik": "Russian forces strike over two dozen vessels carrying cargoes for Ukraine since July 11",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2163391",
-          "ozet": "According to the report, the total number of wounded American service members since the start of hostilities against Iran has risen to more than 500",
-          "yayin_tarihi": "Wed, 22 Jul 2026 11:16:08 +0300",
+          "url": "https://tass.com/politics/2164077",
+          "ozet": "Four dry-cargo ships and two sea bulkers carrying military cargoes for the Ukrainian armed forces to the ports of Odessa and Chernomorsk were struck overnight to July 22, and also during the day",
+          "yayin_tarihi": "Thu, 23 Jul 2026 11:10:11 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian, Pakistani foreign ministers discuss interaction within SCO",
+          "baslik": "Bank of Russia buys $61.4 mln worth of yuan with July 22 settlement",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2163387",
-          "ozet": "Sergey Lavrov and Ishaq Dar took part in the Association of Southeast Asian Nations ministerial events in Manila",
-          "yayin_tarihi": "Wed, 22 Jul 2026 10:57:12 +0300",
+          "url": "https://tass.com/economy/2164067",
+          "ozet": "The volume of foreign currency purchases on the domestic market with settlement on July 21 also totaled $61.4 mln",
+          "yayin_tarihi": "Thu, 23 Jul 2026 10:56:11 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Two people injured in Ukrainian attacks on Russia’s borderline Bryansk Region",
+          "baslik": "Russian forces carry out more strikes on Ukrainian ports, infrastructure facilities",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2163385",
-          "ozet": "A security guard suffered shrapnel injuries in a drone strike on a facility belonging to the Miratorg agricultural holding in the Klimovsky District",
-          "yayin_tarihi": "Wed, 22 Jul 2026 10:46:29 +0300",
+          "url": "https://tass.com/defense/2164059",
+          "ozet": "Strikes on the port of Odessa hit infrastructure facilities used to unload and store military cargo",
+          "yayin_tarihi": "Thu, 23 Jul 2026 10:55:23 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "IN BRIEF: Wildberries facilities hit as air defenses down 242 drones over Russian regions",
+          "baslik": "Aftermath of Ukrainian drone attack on Russian regions, boy killed in Voronezh Region",
           "kaynak": "tass.com",
-          "url": "https://tass.com/emergencies/2163381",
-          "ozet": "One person was killed and ten others suffered injuries in a large-scale drone attack on the Krasnodar Region",
-          "yayin_tarihi": "Wed, 22 Jul 2026 10:36:31 +0300",
+          "url": "https://tass.com/politics/2164049",
+          "ozet": "One person was killed and four others, including two children, were injured in a Ukrainian attack on Crimea",
+          "yayin_tarihi": "Thu, 23 Jul 2026 10:52:05 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-22T08:37:20.156645"
+      "taranma_zamani": "2026-07-23T08:39:04.811378"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-22T08:37:20.156647"
+      "taranma_zamani": "2026-07-23T08:39:04.811380"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-22T08:37:20.156652"
+      "taranma_zamani": "2026-07-23T08:39:04.811385"
     }
   }
 }
