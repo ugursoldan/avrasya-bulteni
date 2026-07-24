@@ -1,16 +1,32 @@
 {
-  "olusturma_tarihi": "2026-07-23",
-  "olusturma_zamani": "2026-07-23T08:39:04.811416",
+  "olusturma_tarihi": "2026-07-24",
+  "olusturma_zamani": "2026-07-24T08:35:06.380254",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "MSB: Türk personel Eurofighter eğitimi için ağustosta İngiltereye gidecek",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/msb-turk-personel-eurofighter-egitimi-icin-agustosta-ingiltereye-gidecek-951999.html",
+          "ozet": "Milli Savunma Bakanlığı, Eurofighter (EF) tedariki kapsamında Türk uçucu personelin 2026 yılı Ağustos ayında Birleşik Krallık’a gönderilerek kısa süre içerisinde uçuş eğitimlerine başlanmasının planlandığını açıkladı.",
+          "yayin_tarihi": "Thu, 23 Jul 2026 13:00:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Norveç vazgeçti: Malezya rotayı Türkiyeye çevirebilir",
           "kaynak": "www.trthaber.com",
           "url": "https://www.trthaber.com/haber/gundem/norvec-vazgecti-malezya-rotayi-turkiyeye-cevirebilir-951972.html",
           "ozet": "Norveç, Malezya’ya satacağı gemisavar füzeleri için son anda geri adım attı ve süreci iptal etti. Gemilerini neyle donatacağı konusunda boşluğa düşen ülke yönetimi Ankara’nın kapısını çalabilir. Yerli füze ATMACA’ya Malezya’nın talepleri doğrultusunda farklı dokunuşlar yapılabileceğine değinen uzmanlar, Türkiye’nin hızla öne çıkabileceği görüşünde.",
           "yayin_tarihi": "Thu, 23 Jul 2026 11:00:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Filenin Sultanları yarı finalde",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/spor/filenin-sultanlari-yari-finalde-952001.html",
+          "ozet": "A Milli Kadın Voleybol Takımı, 2026 VNL çeyrek final maçında Kanada'yı 3-1 mağlup ederek adını son 4'e yazdırdı. Türkiye'nin yarı finaldeki rakibi Çin oldu. Karşılaşma 25 Temmuz Cumartesi günü oynanacak.",
+          "yayin_tarihi": "Thu, 23 Jul 2026 12:58:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -28,126 +44,118 @@
           "ozet": "Reklam Kurulu, yanıltıcı reklamlar ve haksız ticari uygulamalara karşı 7 ayda yaklaşık 21 bin dosyayı karara bağlarken 185 milyon liranın üzerinde idari para cezası uygulanmasını kararlaştırdı.",
           "yayin_tarihi": "Wed, 22 Jul 2026 09:47:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "DOA Sistemi'nde toplu iadeler için Sayma ve Doğrulama Merkezleri kuruldu",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/cevre/doa-sisteminde-toplu-iadeler-icin-sayma-ve-dogrulama-merkezleri-kuruldu-951803.html",
-          "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca, Depozitosu Olan Ambalajlar (DOA) Sistemi'nde, yüksek hacimli toplu iadelerin daha etkin bir şekilde yönetilmesi amacıyla \"Sayma ve Doğrulama Merkezleri\" hayata geçirildi.",
-          "yayin_tarihi": "Tue, 21 Jul 2026 16:20:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Özgür Özel: Yeni partimizi kuruyoruz",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/ozgur-ozel-yeni-partimizi-kuruyoruz-951793.html",
-          "ozet": "CHP Grup Başkanı Özgür Özel, birkaç gün içinde yeni bir parti kuracaklarını açıkladı. \"Bu kürsüye vakti gelmiş bir vedanın hüznünün taşıyarak çıktım\" diyen Özel, kuracakları partinin, milletvekili sayısıyla ana muhalefet partisi olacağını ifade etti.",
-          "yayin_tarihi": "Tue, 21 Jul 2026 14:43:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-23T08:39:04.811330"
+      "taranma_zamani": "2026-07-24T08:35:06.379998"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "Iran War Live Updates: Iran Rejected a U.S. Cease-Fire Offer Delivered by Iraq, Officials Say",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
+          "ozet": "The prime minister of Iraq, who recently visited the White House, carried the proposal to Tehran. The U.S. military said it conducted a 13th consecutive night of strikes on Iran in the early hours of Friday local time.",
+          "yayin_tarihi": "Fri, 24 Jul 2026 07:48:18 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html",
+          "ozet": "Kyiv is escalating its air war by striking commercial warehouses, trying to bring the conflict closer to home for ordinary Russians.",
+          "yayin_tarihi": "Thu, 23 Jul 2026 13:05:19 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Zelensky’s Dizzying U-Turn Is the Latest Zigzag in a Presidency Full of Them",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/07/23/world/europe/zelensky-ukraine-military-reversal.html",
+          "ozet": "President Volodymyr Zelensky of Ukraine has pivoted from unpopular moves before, but a recent decision about military leadership and strategy could weaken his position.",
+          "yayin_tarihi": "Thu, 23 Jul 2026 15:45:01 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "U.S. Military Presence in Jordan Makes It Iranian Target",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/07/23/world/middleeast/jordan-iran-us-forces.html",
           "ozet": "Relying heavily on U.S. aid and protection, Jordan is unlikely to restrict the American military presence there, despite escalating Iranian airstrikes.",
-          "yayin_tarihi": "Thu, 23 Jul 2026 07:24:29 +0000",
+          "yayin_tarihi": "Thu, 23 Jul 2026 21:16:38 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Ukraine’s New Military Chief Faces a Monumental Test",
+          "baslik": "A Russian Spy, Suddenly Cast Into the Spotlight, Flees Japan",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-military-chief-drapatyi.html",
-          "ozet": "Maj. Gen. Mykhailo Drapatyi faces a balancing act between asserting the independence favored by military reformers and accommodating political input on battlefield strategy.",
-          "yayin_tarihi": "Wed, 22 Jul 2026 12:33:29 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Debate Over Ancient Iranian Jewelry Worn by Zendaya to ‘Odyssey’ Event",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/22/style/zendaya-odyssey-earrings-jewelry.html",
-          "ozet": "The actress wore earrings to an event for “The Odyssey” that a London gallery has said were made from an ancient artifact.",
-          "yayin_tarihi": "Thu, 23 Jul 2026 00:54:46 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/22/world/middleeast/houthis-saudi-oil-tankers-red-sea.html",
-          "ozet": "The Saudi authorities confirmed a strike on one of the ships. These are the first claimed attacks since the Iranian-backed Yemeni group announced a blockade on Saudi Arabia.",
-          "yayin_tarihi": "Thu, 23 Jul 2026 02:59:44 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html",
-          "ozet": "Video footage and satellite images reveal new details about Iranian strikes on U.S. targets during the latest flare-up in fighting.",
-          "yayin_tarihi": "Thu, 23 Jul 2026 01:37:39 +0000",
+          "url": "https://www.nytimes.com/2026/07/23/world/asia/russian-spy-flees-japan.html",
+          "ozet": "The military intelligence officer left the country after The Times reported that he was using the Aeroflot airline office in Tokyo to conduct espionage.",
+          "yayin_tarihi": "Thu, 23 Jul 2026 19:39:53 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-23T08:39:04.811353"
+      "taranma_zamani": "2026-07-24T08:35:06.380027"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "US air campaign against Iran running out of steam — Politico",
+          "baslik": "FACTBOX: Rosatom chief highlights China partnership, Arctic logistics, ZNPP",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2164093",
-          "ozet": "According to the report, the conflict is unlikely to shift decisively without a major escalation, including the deployment of ground forces",
-          "yayin_tarihi": "Thu, 23 Jul 2026 11:22:58 +0300",
+          "url": "https://tass.com/economy/2164591",
+          "ozet": "Alexey Likhachev noted that Russia and China plan to double cargo transportation along the Northern Sea Route by 2030",
+          "yayin_tarihi": "Fri, 24 Jul 2026 11:31:17 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian forces strike over two dozen vessels carrying cargoes for Ukraine since July 11",
+          "baslik": "Moscow remains supporter of continued Iran-US dialogue, deputy foreign minister says",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2164077",
-          "ozet": "Four dry-cargo ships and two sea bulkers carrying military cargoes for the Ukrainian armed forces to the ports of Odessa and Chernomorsk were struck overnight to July 22, and also during the day",
-          "yayin_tarihi": "Thu, 23 Jul 2026 11:10:11 +0300",
+          "url": "https://tass.com/politics/2164589",
+          "ozet": "Andrey Rudenko said Russia views the recent US strikes on Iran as a unilateral violation of the recently concluded memorandum of understanding",
+          "yayin_tarihi": "Fri, 24 Jul 2026 11:25:24 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Bank of Russia buys $61.4 mln worth of yuan with July 22 settlement",
+          "baslik": "FACTBOX: What is known about Russian forces’ group strikes on Ukrainian ports",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2164067",
-          "ozet": "The volume of foreign currency purchases on the domestic market with settlement on July 21 also totaled $61.4 mln",
-          "yayin_tarihi": "Thu, 23 Jul 2026 10:56:11 +0300",
+          "url": "https://tass.com/politics/2164583",
+          "ozet": "According to the Russian Defense Ministry, tanks with fuel and lubricants for the Ukrainian armed forces were struck at the port of Odessa",
+          "yayin_tarihi": "Fri, 24 Jul 2026 11:03:49 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian forces carry out more strikes on Ukrainian ports, infrastructure facilities",
+          "baslik": "Wildberries warehouses in Russia targeted again in overnight Ukrainian drone attacks",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2164059",
-          "ozet": "Strikes on the port of Odessa hit infrastructure facilities used to unload and store military cargo",
-          "yayin_tarihi": "Thu, 23 Jul 2026 10:55:23 +0300",
+          "url": "https://tass.com/politics/2164581",
+          "ozet": "Leningrad Region Governor Alexander Drozdenko said three people were injured",
+          "yayin_tarihi": "Fri, 24 Jul 2026 10:58:33 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Aftermath of Ukrainian drone attack on Russian regions, boy killed in Voronezh Region",
+          "baslik": "IRGC Navy’s HQ in northern Iran comes under US attack — authorities",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2164049",
-          "ozet": "One person was killed and four others, including two children, were injured in a Ukrainian attack on Crimea",
-          "yayin_tarihi": "Thu, 23 Jul 2026 10:52:05 +0300",
+          "url": "https://tass.com/world/2164579",
+          "ozet": "According to preliminary information, no one has been reported injured in the attack",
+          "yayin_tarihi": "Fri, 24 Jul 2026 10:54:09 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-23T08:39:04.811378"
+      "taranma_zamani": "2026-07-24T08:35:06.380054"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-23T08:39:04.811380"
+      "taranma_zamani": "2026-07-24T08:35:06.380057"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": " AI会成为中国的“一带一路2.0″吗？",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/07/23/china-ai-xi-jin-ping/",
+          "ozet": "过去十多年，中国通过\"一带一路\"和\"数字丝绸之路\"，向世界推广基础设施和数字技术。如今，北京开始推动另一项技术走向全球——人工智能。中国为什么急着推动AI走向世界？而这场AI布局，又会给中国民众带来什么改变？",
+          "yayin_tarihi": "Thu, 23 Jul 2026 14:15:50 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "统战片《澎湖海战》上映前再传撤档",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "7月11日，网络安全账号NetAskari发布一组“VPN翻墙识别情报库”页面截图，并指相关文件来自中国网络安全企业任子行。截图列出蓝灯、迷雾通、天喵VPN、绿茶VPN等三十多款代理软件，相关识别文件在7月初多次更新。",
           "yayin_tarihi": "Tue, 14 Jul 2026 07:00:34 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "报告指中国民商律师正常执业或遭刑事追诉",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/07/13/china-civil-lawyer-incriminated/",
-          "ozet": "公益机构亚洲律师网络发布报告，指中国民商事律师过去被认为处于执业“安全地带”，如今律师代理合同、债务、房地产及公司纠纷，也可能被有关当局追溯认定为“帮助委托人犯罪”。律师提供法律意见、参与诉讼或收取代理费，都可能招致刑事追诉。",
-          "yayin_tarihi": "Mon, 13 Jul 2026 07:00:06 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-23T08:39:04.811385"
+      "taranma_zamani": "2026-07-24T08:35:06.380062"
     }
   }
 }
