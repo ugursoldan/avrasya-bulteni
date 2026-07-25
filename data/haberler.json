@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-07-24",
-  "olusturma_zamani": "2026-07-24T08:35:06.380254",
+  "olusturma_tarihi": "2026-07-25",
+  "olusturma_zamani": "2026-07-25T08:14:47.213446",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "35 il için sarı ve turuncu uyarı: Kuvvetli yağış ve fırtınaya dikkat",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/35-il-icin-sari-ve-turuncu-uyari-kuvvetli-yagis-ve-firtinaya-dikkat-952165.html",
+          "ozet": "Meteoroloji Genel Müdürlüğü (MGM), aralarında İstanbul ve Ankara'nın da bulunduğu 35 il için \"sarı\" ve \"turuncu\" kodlu uyarıda bulundu. Ülkenin büyük bölümünde etkili olması beklenen kuvvetli yağış ve fırtına nedeniyle yaşanabilecek olumsuzluklara karşı vatandaşların dikkatli ve tedbirli olması istendi.",
+          "yayin_tarihi": "Sat, 25 Jul 2026 09:13:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "MSB: Türk personel Eurofighter eğitimi için ağustosta İngiltereye gidecek",
           "kaynak": "www.trthaber.com",
@@ -36,114 +44,106 @@
           "ozet": "TBMM Başkanı Kurtulmuş, silahların geride bırakıldığı ve terörün konuşulmadığı bir dönem için yasal düzenlemenin zaruri hale geldiğini belirterek, \"Bu yasa, örgütün silahlarını bıraktığı ve münfesih hale geldiğinin tespit ve teyidiyle ilgili bir mekanizma içermelidir. Bu genel af ya da şahsa ait bir af niteliğinde olmayacaktır\" dedi.",
           "yayin_tarihi": "Wed, 22 Jul 2026 16:18:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Yanıltıcı reklamlara yaklaşık 185 milyon lira ceza kesildi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/ekonomi/yaniltici-reklamlara-yaklasik-185-milyon-lira-ceza-kesildi-951844.html",
-          "ozet": "Reklam Kurulu, yanıltıcı reklamlar ve haksız ticari uygulamalara karşı 7 ayda yaklaşık 21 bin dosyayı karara bağlarken 185 milyon liranın üzerinde idari para cezası uygulanmasını kararlaştırdı.",
-          "yayin_tarihi": "Wed, 22 Jul 2026 09:47:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-24T08:35:06.379998"
+      "taranma_zamani": "2026-07-25T08:14:47.213209"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Iran War Live Updates: Iran Rejected a U.S. Cease-Fire Offer Delivered by Iraq, Officials Say",
+          "baslik": "Iran War Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
-          "ozet": "The prime minister of Iraq, who recently visited the White House, carried the proposal to Tehran. The U.S. military said it conducted a 13th consecutive night of strikes on Iran in the early hours of Friday local time.",
-          "yayin_tarihi": "Fri, 24 Jul 2026 07:48:18 +0000",
+          "url": "https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil",
+          "ozet": "The discussions at the White House came days before a planned meeting with Prime Minister Benjamin Netanyahu of Israel.  Across the region, Iran and the United States continued to trade attacks.",
+          "yayin_tarihi": "Sat, 25 Jul 2026 01:58:53 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon",
+          "baslik": "Russia and Ukraine Trade Deadly Blows With Missiles and Drones",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html",
-          "ozet": "Kyiv is escalating its air war by striking commercial warehouses, trying to bring the conflict closer to home for ordinary Russians.",
-          "yayin_tarihi": "Thu, 23 Jul 2026 13:05:19 +0000",
+          "url": "https://www.nytimes.com/2026/07/24/world/europe/russia-ukraine-war-attacks.html",
+          "ozet": "Ukrainian strikes set fire to warehouses and other sites in Russia, and Russian bombing rocked Ukraine’s capital, as the two countries escalated an air campaign.",
+          "yayin_tarihi": "Fri, 24 Jul 2026 13:41:47 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Zelensky’s Dizzying U-Turn Is the Latest Zigzag in a Presidency Full of Them",
+          "baslik": "‘We’re Trapped in Hell’: Iranians Say Life Is Put On Hold by Months of War",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/23/world/europe/zelensky-ukraine-military-reversal.html",
-          "ozet": "President Volodymyr Zelensky of Ukraine has pivoted from unpopular moves before, but a recent decision about military leadership and strategy could weaken his position.",
-          "yayin_tarihi": "Thu, 23 Jul 2026 15:45:01 +0000",
+          "url": "https://www.nytimes.com/2026/07/24/world/middleeast/iran-war-cycle.html",
+          "ozet": "Devastated by cycles of violence and economic crisis, many are giving up on work and their futures as the United States batters Iran again.",
+          "yayin_tarihi": "Fri, 24 Jul 2026 09:04:59 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "U.S. Military Presence in Jordan Makes It Iranian Target",
+          "baslik": "Iran’s New Leader Is More Open to Pursuing a Nuclear Weapon, U.S. Intelligence Says",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/23/world/middleeast/jordan-iran-us-forces.html",
-          "ozet": "Relying heavily on U.S. aid and protection, Jordan is unlikely to restrict the American military presence there, despite escalating Iranian airstrikes.",
-          "yayin_tarihi": "Thu, 23 Jul 2026 21:16:38 +0000",
+          "url": "https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html",
+          "ozet": "The previous supreme leader, who was killed early in the war, had renounced nuclear weapons. U.S. spy agencies believe his son is more interested in building a bomb.",
+          "yayin_tarihi": "Fri, 24 Jul 2026 18:18:50 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "A Russian Spy, Suddenly Cast Into the Spotlight, Flees Japan",
+          "baslik": "Trump Meets With Top Advisers as He Weighs a Major Escalation in Iran",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/23/world/asia/russian-spy-flees-japan.html",
-          "ozet": "The military intelligence officer left the country after The Times reported that he was using the Aeroflot airline office in Tokyo to conduct espionage.",
-          "yayin_tarihi": "Thu, 23 Jul 2026 19:39:53 +0000",
+          "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html",
+          "ozet": "President Trump has insisted the U.S.-Israeli war in Iran would be a relatively short “excursion,” although it has lasted nearly five months, with no end in sight.",
+          "yayin_tarihi": "Fri, 24 Jul 2026 21:41:12 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-24T08:35:06.380027"
+      "taranma_zamani": "2026-07-25T08:14:47.213227"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "FACTBOX: Rosatom chief highlights China partnership, Arctic logistics, ZNPP",
+          "baslik": "Kyrgyzstan triples coffee imports from Russia in January-May",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2164591",
-          "ozet": "Alexey Likhachev noted that Russia and China plan to double cargo transportation along the Northern Sea Route by 2030",
-          "yayin_tarihi": "Fri, 24 Jul 2026 11:31:17 +0300",
+          "url": "https://tass.com/economy/2165143",
+          "ozet": "Kyrgyzstan imported 319.9 metric tons of coffee from Russia in the first five months of the year, with shipments valued at $3.05 mln. In the same period last year, imports totaled 94.9 metric tons worth $1.08 mln",
+          "yayin_tarihi": "Sat, 25 Jul 2026 10:47:26 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Moscow remains supporter of continued Iran-US dialogue, deputy foreign minister says",
+          "baslik": "Ukraine's metal exports fall more than threefold from 2021 level",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2164589",
-          "ozet": "Andrey Rudenko said Russia views the recent US strikes on Iran as a unilateral violation of the recently concluded memorandum of understanding",
-          "yayin_tarihi": "Fri, 24 Jul 2026 11:25:24 +0300",
+          "url": "https://tass.com/economy/2165139",
+          "ozet": "The share of metals in Ukraine's total exports declined from 19% to 7.4%.",
+          "yayin_tarihi": "Sat, 25 Jul 2026 10:02:44 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "FACTBOX: What is known about Russian forces’ group strikes on Ukrainian ports",
+          "baslik": "Georgia triples oil reexports to Ukraine in 1H 2026",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2164583",
-          "ozet": "According to the Russian Defense Ministry, tanks with fuel and lubricants for the Ukrainian armed forces were struck at the port of Odessa",
-          "yayin_tarihi": "Fri, 24 Jul 2026 11:03:49 +0300",
+          "url": "https://tass.com/economy/2165133",
+          "ozet": "Shipments of oil and petroleum products to Ukraine totaled 522.4 metric tons worth $614,100 from January through June",
+          "yayin_tarihi": "Sat, 25 Jul 2026 09:33:33 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Wildberries warehouses in Russia targeted again in overnight Ukrainian drone attacks",
+          "baslik": "Russian forces strike cargo ship, two tugboats at Nikolayev seaport",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2164581",
-          "ozet": "Leningrad Region Governor Alexander Drozdenko said three people were injured",
-          "yayin_tarihi": "Fri, 24 Jul 2026 10:58:33 +0300",
+          "url": "https://tass.com/defense/2165129",
+          "ozet": "Objective monitoring confirmed the destruction of the cargo ship, the Russian Defense Ministry said",
+          "yayin_tarihi": "Sat, 25 Jul 2026 09:02:44 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "IRGC Navy’s HQ in northern Iran comes under US attack — authorities",
+          "baslik": "Russian air defenses down 328 Ukrainian drones overnight",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2164579",
-          "ozet": "According to preliminary information, no one has been reported injured in the attack",
-          "yayin_tarihi": "Fri, 24 Jul 2026 10:54:09 +0300",
+          "url": "https://tass.com/defense/2165127",
+          "ozet": "During the past night, between 8:00 p.m. Moscow time on July 24 and 8:00 a.m. Moscow time on July 25, the Russian Defense Ministry said",
+          "yayin_tarihi": "Sat, 25 Jul 2026 08:59:43 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-24T08:35:06.380054"
+      "taranma_zamani": "2026-07-25T08:14:47.213250"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-24T08:35:06.380057"
+      "taranma_zamani": "2026-07-25T08:14:47.213252"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-24T08:35:06.380062"
+      "taranma_zamani": "2026-07-25T08:14:47.213257"
     }
   }
 }
