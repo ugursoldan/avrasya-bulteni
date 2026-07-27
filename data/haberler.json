@@ -1,10 +1,34 @@
 {
-  "olusturma_tarihi": "2026-07-26",
-  "olusturma_zamani": "2026-07-26T08:34:08.361700",
+  "olusturma_tarihi": "2026-07-27",
+  "olusturma_zamani": "2026-07-27T10:01:30.611977",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Şara, Cumhurbaşkanı Erdoğanın yaptırımların kaldırılması için arabuluculuk yaptığını söyledi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/sara-cumhurbaskani-erdoganin-yaptirimlarin-kaldirilmasi-icin-arabuluculuk-yaptigini-soyledi-952271.html",
+          "ozet": "Suriye Cumhurbaşkanı Ahmed Şara, Suudi Arabistan ile Türkiye'nin geçen yıl Suriye'ye yönelik yaptırımların kaldırılması konusunda arabuluculuk girişiminde bulunduğunu, Cumhurbaşkanı Recep Tayyip Erdoğan'ın da ABD nezdinde bu konuda devreye girdiğini söyledi.",
+          "yayin_tarihi": "Mon, 27 Jul 2026 00:41:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Şampiyon Filenin Sultanları",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/sampiyon-filenin-sultanlari-952244.html",
+          "ozet": "Çin'in Makau Özel İdari Bölgesi'nde düzenlenen 2026 FIVB Milletler Ligi'nde (VNL) Brezilya'yı 3-1 yenen Filenin Sultanları şampiyon oldu.",
+          "yayin_tarihi": "Sun, 26 Jul 2026 16:36:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "LGS tercihleri için son gün",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/egitim/lgs-tercihleri-icin-son-gun-952270.html",
+          "ozet": "Milli Eğitim Bakanlığınca (MEB) Liselere Geçiş Sistemi (LGS) kapsamındaki merkezi sınav sonucuna göre yapılacak lise tercihleri bugün saat 17.00'de sona erecek. Yerleştirme sonuçları ve boş kalan kontenjanlar, 5 Ağustos Çarşamba günü ilan edilecek.",
+          "yayin_tarihi": "Mon, 27 Jul 2026 00:00:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Ukrayna İran gemisine saldırdı",
           "kaynak": "www.trthaber.com",
@@ -14,43 +38,51 @@
           "dil": "Türkçe"
         },
         {
-          "baslik": "LGS tercihleri için yarın son gün",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/egitim/lgs-tercihleri-icin-yarin-son-gun-952218.html",
-          "ozet": "Milli Eğitim Bakanlığınca (MEB) Liselere Geçiş Sistemi (LGS) kapsamındaki merkezi sınav sonucuna göre yapılacak lise tercihleri yarın saat 17.00'de sona erecek.",
-          "yayin_tarihi": "Sun, 26 Jul 2026 10:07:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
           "baslik": "Filenin Sultanları şampiyonluk için Brezilya karşısında",
           "kaynak": "www.trthaber.com",
           "url": "https://www.trthaber.com/haber/gundem/filenin-sultanlari-sampiyonluk-icin-brezilya-karsisinda-952210.html",
           "ozet": "A Milli Kadın Voleybol Takımımız, 2026 FIVB Milletler Ligi finalinde bugün Brezilya ile karşılaşacak. Milletler Ligi'nde 3. kez finale çıkan Filenin Sultanları, organizasyondaki ikinci şampiyonluğunu hedefliyor. Saat 14.30'da başlayacak olan tarihi maç, TRT 1'den canlı yayınlanacak.",
           "yayin_tarihi": "Sun, 26 Jul 2026 00:06:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Filenin Sultanları finale yükseldi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/spor/filenin-sultanlari-finale-yukseldi-952196.html",
-          "ozet": "A Milli Kadın Voleybol Takımı, FIVB Milletler Ligi yarı finalinde ev sahibi Çin'i 3-0 yenerek finalde Brezilya'nın rakibi oldu.",
-          "yayin_tarihi": "Sat, 25 Jul 2026 15:59:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "35 il için sarı ve turuncu uyarı: Kuvvetli yağış ve fırtınaya dikkat",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/35-il-icin-sari-ve-turuncu-uyari-kuvvetli-yagis-ve-firtinaya-dikkat-952165.html",
-          "ozet": "Meteoroloji Genel Müdürlüğü (MGM), aralarında İstanbul ve Ankara'nın da bulunduğu 35 il için \"sarı\" ve \"turuncu\" kodlu uyarıda bulundu. Ülkenin büyük bölümünde etkili olması beklenen kuvvetli yağış ve fırtına nedeniyle yaşanabilecek olumsuzluklara karşı vatandaşların dikkatli ve tedbirli olması istendi.",
-          "yayin_tarihi": "Sat, 25 Jul 2026 09:13:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-26T08:34:08.361628"
+      "taranma_zamani": "2026-07-27T10:01:30.611741"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "How the Iran-Backed Houthis Cornered Saudi Arabia Into a New Conflict",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html",
+          "ozet": "The Iran-backed Houthis have seized on a vulnerable moment for Saudi Arabia, which is reluctant to enter another war, to try to force political concessions in Yemen.",
+          "yayin_tarihi": "Mon, 27 Jul 2026 09:33:35 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Ukrainian Attacks in Crimea Deprive Towns of Power and Water",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/07/27/world/europe/ukraine-drones-crimea-blackouts.html",
+          "ozet": "Ukraine’s campaign to bring the war home to ordinary Russians is meant to pressure the Kremlin to negotiate. Moscow has acted as if there were no crisis.",
+          "yayin_tarihi": "Mon, 27 Jul 2026 09:04:39 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "In Washington, Netanyahu Faces a Delicate Balancing Act",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html",
+          "ozet": "Prime Minister Benjamin Netanyahu of Israel is set to meet President Trump on Tuesday, with one eye on Iran and another on the coming elections back home.",
+          "yayin_tarihi": "Mon, 27 Jul 2026 08:56:13 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "U.S.-Iran War Pauses for 2nd Straight Day With Both Sides Holding Off on Strikes",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html",
+          "ozet": "President Trump put off plans to escalate the fighting in part because of dwindling stockpiles of interceptor missiles, American officials said.",
+          "yayin_tarihi": "Sun, 26 Jul 2026 12:49:15 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "Iran Journey Reveals Society’s Wartime Defiance and Hope",
           "kaynak": "rss.nytimes.com",
@@ -58,96 +90,80 @@
           "ozet": "From the capital, Tehran, to the holy city of Mashhad, the Iran I saw was a nation of many layers: defiant but also weary, despairing but hopeful.",
           "yayin_tarihi": "Sat, 25 Jul 2026 12:11:26 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "What’s Left of the Cease-Fire Agreement Between the U.S. and Iran?",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/25/world/middleeast/us-iran-cease-fire-deal-violations.html",
-          "ozet": "Nearly all of the agreement’s 14 points have been violated.",
-          "yayin_tarihi": "Sat, 25 Jul 2026 14:46:11 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "U.S.-Iran Strikes Abate as War Enters Latest Crossroads",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
-          "ozet": "The Trump administration pulled back from major escalation, in part because of concerns over the supply of munitions, said people familiar with the matter.",
-          "yayin_tarihi": "Sun, 26 Jul 2026 05:09:59 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html",
-          "ozet": "Among the worries is that expanded hostilities could dangerously drain the diminished stockpile of air defense munitions in the Middle East.",
-          "yayin_tarihi": "Sun, 26 Jul 2026 00:11:49 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Iran’s New Leader Is More Open to Pursuing a Nuclear Weapon, U.S. Intelligence Says",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html",
-          "ozet": "The previous supreme leader, who was killed early in the war, had renounced nuclear weapons. U.S. spy agencies believe his son is more interested in building a bomb.",
-          "yayin_tarihi": "Fri, 24 Jul 2026 18:18:50 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-26T08:34:08.361648"
+      "taranma_zamani": "2026-07-27T10:01:30.611758"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Iran ready to help resolve relations between Saudi Arabia, Houthis — Araghchi",
+          "baslik": "Kremlin dismisses reports of potential air ceasefire in Ukraine as media speculation",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2165459",
-          "ozet": "Iranian authorities believe that the conflict between Saudi Arabia and the Yemeni Houthi rebels of the Ansar Allah movement can be resolved only through diplomatic means, Iranian Foreign Minister Abbas Araghchi said",
-          "yayin_tarihi": "Sun, 26 Jul 2026 11:10:38 +0300",
+          "url": "https://tass.com/politics/2165873",
+          "ozet": "Dmitry Peskov said there are no specific details available",
+          "yayin_tarihi": "Mon, 27 Jul 2026 12:55:57 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Iran’s actions directed not against its regional neighbors but against US — Araghchi",
+          "baslik": "Ukraine intensifies drone attacks on Russia to distract from frontline failures — expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2165457",
-          "ozet": "Following the end of the conflict Tehran intends to engage in dialogue and \"restore trust\" with its neighbors, the minister noted",
-          "yayin_tarihi": "Sun, 26 Jul 2026 10:38:38 +0300",
+          "url": "https://tass.com/world/2165867",
+          "ozet": "According to Ralf Bosshard, the Ukrainian side is waging an \"information war, in which combat operations are often conducted with an eye to information campaigns\"",
+          "yayin_tarihi": "Mon, 27 Jul 2026 12:45:56 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Smart Intelligent System manufacturing UAVs hit in Kiev — Russian defense ministry",
+          "baslik": "Russia open for dialogue but seeks equality — parliament speaker",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2165453",
-          "ozet": "A facility for the assembly and storage of unmanned aerial vehicles in the southwestern part of Kiev was also struck, where up to 1,000 UAVs of various types were produced per month with the involvement of specialists from a Ukrainian-American company",
-          "yayin_tarihi": "Sun, 26 Jul 2026 10:38:05 +0300",
+          "url": "https://tass.com/politics/2165851",
+          "ozet": "Vyacheslav Volodin stressed that Russia did everything to strengthen ties with those who share its principles",
+          "yayin_tarihi": "Mon, 27 Jul 2026 12:27:45 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia struck fuel storage tanks intended to supply Ukrainian army at Chernomorsk port",
+          "baslik": "Kiev loses 10,100 soldiers, mercenaries in special op zone over week — Russian analyst",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2165451",
-          "ozet": "Fuel and lubricant storage tanks intended to supply the Ukrainian army were hit at the port of Chernomorsk in the Odessa region",
-          "yayin_tarihi": "Sun, 26 Jul 2026 09:28:13 +0300",
+          "url": "https://tass.com/defense/2165845",
+          "ozet": "According to Andrey Marochko, soldiers of Russia’s Battlegroup East inflicted the greatest damage on the enemy",
+          "yayin_tarihi": "Mon, 27 Jul 2026 12:21:01 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Air defenses down 133 Ukrainian drones over Russian regions overnight",
+          "baslik": "Chinese AI developer Z.AI may enter Russian market",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2165437",
-          "ozet": "During the past night,on-duty air defense capabilities intercepted and destroyed 133 Ukrainian fixed-wing unmanned aerial vehicles over the territories of the Belgorod, Bryansk, Kaluga, Kursk, Oryol, Rostov, Smolensk, Moscow, Krasnodar Regions",
-          "yayin_tarihi": "Sun, 26 Jul 2026 08:52:24 +0300",
+          "url": "https://tass.com/economy/2165839",
+          "ozet": "The companies have already agreed on integrating GLM models into GPTunneL, testing them in Russian enterprise scenarios",
+          "yayin_tarihi": "Mon, 27 Jul 2026 12:19:50 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-26T08:34:08.361671"
+      "taranma_zamani": "2026-07-27T10:01:30.611789"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-26T08:34:08.361673"
+      "taranma_zamani": "2026-07-27T10:01:30.611791"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "金明日披露锡安教会案　奉献与牧者供养被控诈骗",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shehui/2026/07/27/china-zion-church-pastor-jin-mingri-illegal-business-operations-fraud/",
+          "ozet": "北京锡安教会主任牧师金明日近日获释并抵达美国，他披露中国公安和检察院调查锡安教会的过程。他说，当局将信徒奉献、牧者供养及内部圣经培训列为“诈骗”和“非法经营”。锡安教会仍有8位牧者和同工被关押。",
+          "yayin_tarihi": "Mon, 27 Jul 2026 07:11:08 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "一只流浪狗之死 为何引发公众愤怒和压制 ",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shehui/2026/07/27/china-wangwang-dog-abuse-animal-protection/",
+          "ozet": "一只流浪狗的死亡，为什么会让无数中国网友愤怒，甚至把讨论推向足球场、纽约时代广场 ，还引发海外动物保护组织介入？它叫“旺旺“。一起虐狗案件，最终让越来越多人讨论的，已经不只是动物保护，而是一场关于公共事务如何被讨论的事件。",
+          "yayin_tarihi": "Mon, 27 Jul 2026 06:01:45 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": " AI会成为中国的“一带一路2.0″吗？",
           "kaynak": "www.rfa.org",
@@ -171,25 +187,9 @@
           "ozet": "北京锡安教会牧师金明日获释抵达美国后，该教会仍有8名牧师、长老及信徒被羁押。北京知情人士对本台说，金明日获释与美国总统特朗普向中国国家主席习近平交涉有关，其余被捕人员仍面临起诉。",
           "yayin_tarihi": "Tue, 21 Jul 2026 06:42:29 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "报告揭中国监狱黑幕　酷刑强迫劳动成常态",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/07/16/china-prisons-human-rights-forced-labor/",
-          "ozet": "国际人权组织保护卫士7月16日发布《铁窗之后：中国监狱状况调查》。报告依据来自中国16个省份和直辖市的59名前服刑人员经历，指出狱中普遍存在暴力、长期禁闭、强迫劳动、医疗不足、通信受限和政治教育等问题。",
-          "yayin_tarihi": "Thu, 16 Jul 2026 08:41:12 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "三十款VPN被列入识别名单 中国翻墙用户遭流量筛查 ",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/07/14/china-internet-vpn-surveillance/",
-          "ozet": "7月11日，网络安全账号NetAskari发布一组“VPN翻墙识别情报库”页面截图，并指相关文件来自中国网络安全企业任子行。截图列出蓝灯、迷雾通、天喵VPN、绿茶VPN等三十多款代理软件，相关识别文件在7月初多次更新。",
-          "yayin_tarihi": "Tue, 14 Jul 2026 07:00:34 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-26T08:34:08.361678"
+      "taranma_zamani": "2026-07-27T10:01:30.611796"
     }
   }
 }
