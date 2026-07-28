@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-07-27",
-  "olusturma_zamani": "2026-07-27T10:01:30.611977",
+  "olusturma_tarihi": "2026-07-28",
+  "olusturma_zamani": "2026-07-28T08:44:40.414837",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Yaz misafirleri geldi: Avlamak ciddi suç",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/cevre/yaz-misafirleri-geldi-avlamak-ciddi-suc-952370.html",
+          "ozet": "Türkiye’de 500 civarında kuş yaşıyor. Bunlardan bazıları Türkiye’yi üremek için kullanan göçmen kuşlar. 120 civarında göçmen kuş, yine yaz mevsimi için Türkiye’de. Yılan kartalı, yaz atmacası, kara leylek, saz bülbülü gibi kuşları avlamak ise binlerce lira para cezasını getiriyor...",
+          "yayin_tarihi": "Tue, 28 Jul 2026 08:36:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Türkiye, İspanya'nın ardından Fransa'ya da yangın söndürme uçaklarını gönderdi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/turkiye-ispanyanin-ardindan-fransaya-da-yangin-sondurme-ucaklarini-gonderdi-952369.html",
+          "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, İspanya'nın ardından Fransa'nın da orman yangınlarıyla mücadele için Türkiye'den destek talebinde bulunduğunu, iki yangın söndürme uçağının Fransa'ya gönderildiğini açıkladı.",
+          "yayin_tarihi": "Tue, 28 Jul 2026 08:33:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Şara, Cumhurbaşkanı Erdoğanın yaptırımların kaldırılması için arabuluculuk yaptığını söyledi",
           "kaynak": "www.trthaber.com",
@@ -28,25 +44,9 @@
           "ozet": "Milli Eğitim Bakanlığınca (MEB) Liselere Geçiş Sistemi (LGS) kapsamındaki merkezi sınav sonucuna göre yapılacak lise tercihleri bugün saat 17.00'de sona erecek. Yerleştirme sonuçları ve boş kalan kontenjanlar, 5 Ağustos Çarşamba günü ilan edilecek.",
           "yayin_tarihi": "Mon, 27 Jul 2026 00:00:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Ukrayna İran gemisine saldırdı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/ukrayna-iran-gemisine-saldirdi-952209.html",
-          "ozet": "İran Dışişleri Bakanlığı, Ukrayna'nın Hazar Denizi'nde ülkelerine ait ticaret gemisine yönelik düzenlediği ve bir denizcinin hayatını kaybettiği saldırıyı kınadı. İran'ın uluslararası hukuk gereği meşru müdafaa hakkının olduğu hatırlatıldı.",
-          "yayin_tarihi": "Sat, 25 Jul 2026 23:47:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Filenin Sultanları şampiyonluk için Brezilya karşısında",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/filenin-sultanlari-sampiyonluk-icin-brezilya-karsisinda-952210.html",
-          "ozet": "A Milli Kadın Voleybol Takımımız, 2026 FIVB Milletler Ligi finalinde bugün Brezilya ile karşılaşacak. Milletler Ligi'nde 3. kez finale çıkan Filenin Sultanları, organizasyondaki ikinci şampiyonluğunu hedefliyor. Saat 14.30'da başlayacak olan tarihi maç, TRT 1'den canlı yayınlanacak.",
-          "yayin_tarihi": "Sun, 26 Jul 2026 00:06:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-27T10:01:30.611741"
+      "taranma_zamani": "2026-07-28T08:44:40.414575"
     },
     "en": {
       "dil": "İngilizce",
@@ -55,8 +55,16 @@
           "baslik": "How the Iran-Backed Houthis Cornered Saudi Arabia Into a New Conflict",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html",
-          "ozet": "The Iran-backed Houthis have seized on a vulnerable moment for Saudi Arabia, which is reluctant to enter another war, to try to force political concessions in Yemen.",
-          "yayin_tarihi": "Mon, 27 Jul 2026 09:33:35 +0000",
+          "ozet": "The Iranian-backed Houthi militia in Yemen has seized on a vulnerable moment for neighboring Saudi Arabia. The group hopes to force political concessions in Yemen.",
+          "yayin_tarihi": "Mon, 27 Jul 2026 20:57:07 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "In Washington, Netanyahu Faces a Delicate Balancing Act",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html",
+          "ozet": "Prime Minister Benjamin Netanyahu of Israel is set to meet President Trump on Tuesday, with one eye on Iran and another on the coming elections back home.",
+          "yayin_tarihi": "Mon, 27 Jul 2026 21:11:42 +0000",
           "dil": "İngilizce"
         },
         {
@@ -68,86 +76,86 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "In Washington, Netanyahu Faces a Delicate Balancing Act",
+          "baslik": "Saudis Blame Iran-Backed Militias Based in Iraq for Drone Attacks",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html",
-          "ozet": "Prime Minister Benjamin Netanyahu of Israel is set to meet President Trump on Tuesday, with one eye on Iran and another on the coming elections back home.",
-          "yayin_tarihi": "Mon, 27 Jul 2026 08:56:13 +0000",
+          "url": "https://www.nytimes.com/2026/07/27/world/middleeast/saudi-arabia-drone-attacks-iraq-iran.html",
+          "ozet": "The kingdom is being dragged deeper into the wider regional conflict as it faces attacks from Iraq and Yemen.",
+          "yayin_tarihi": "Mon, 27 Jul 2026 16:07:45 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "U.S.-Iran War Pauses for 2nd Straight Day With Both Sides Holding Off on Strikes",
+          "baslik": "15 Sailors Still Missing After Vietnamese Cargo Ship Sank in South China Sea",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html",
-          "ozet": "President Trump put off plans to escalate the fighting in part because of dwindling stockpiles of interceptor missiles, American officials said.",
-          "yayin_tarihi": "Sun, 26 Jul 2026 12:49:15 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Iran Journey Reveals Society’s Wartime Defiance and Hope",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/25/world/middleeast/iran-war-journey-scars.html",
-          "ozet": "From the capital, Tehran, to the holy city of Mashhad, the Iran I saw was a nation of many layers: defiant but also weary, despairing but hopeful.",
-          "yayin_tarihi": "Sat, 25 Jul 2026 12:11:26 +0000",
+          "url": "https://www.nytimes.com/2026/07/27/world/asia/vietnam-south-china-sea-ship-sink.html",
+          "ozet": "Fifteen people remain missing after the cargo vessel went down in heavily disputed waters. China said it had rescued 47 people who had been aboard.",
+          "yayin_tarihi": "Tue, 28 Jul 2026 02:06:40 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-27T10:01:30.611758"
+      "taranma_zamani": "2026-07-28T08:44:40.414592"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Kremlin dismisses reports of potential air ceasefire in Ukraine as media speculation",
+          "baslik": "Russian stock market opens lower, yuan gains ground",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2165873",
-          "ozet": "Dmitry Peskov said there are no specific details available",
-          "yayin_tarihi": "Mon, 27 Jul 2026 12:55:57 +0300",
+          "url": "https://tass.com/economy/2166267",
+          "ozet": "The benchmark MOEX Index and the dollar-denominated RTS Index both shed 0.29%, dropping to 2,210.6 and 892.61 points, respectively",
+          "yayin_tarihi": "Tue, 28 Jul 2026 11:13:22 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ukraine intensifies drone attacks on Russia to distract from frontline failures — expert",
+          "baslik": "FACTBOX: Aftermath of Ukrainian drone attacks on Russia, one injured in Ryazan Region",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2165867",
-          "ozet": "According to Ralf Bosshard, the Ukrainian side is waging an \"information war, in which combat operations are often conducted with an eye to information campaigns\"",
-          "yayin_tarihi": "Mon, 27 Jul 2026 12:45:56 +0300",
+          "url": "https://tass.com/emergencies/2166263",
+          "ozet": "In the Moscow Region, a drone struck an apartment building in the town of Chekhov",
+          "yayin_tarihi": "Tue, 28 Jul 2026 11:04:45 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia open for dialogue but seeks equality — parliament speaker",
+          "baslik": "Ukrainian forces strike bus in Russia's Belgorod Region, injuring 19 civilians",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2165851",
-          "ozet": "Vyacheslav Volodin stressed that Russia did everything to strengthen ties with those who share its principles",
-          "yayin_tarihi": "Mon, 27 Jul 2026 12:27:45 +0300",
+          "url": "https://tass.com/emergencies/2166259",
+          "ozet": "Acting Governor Alexander Shuvaev said that six people are in serious condition",
+          "yayin_tarihi": "Tue, 28 Jul 2026 10:57:31 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Kiev loses 10,100 soldiers, mercenaries in special op zone over week — Russian analyst",
+          "baslik": "Russian military specialists create tracked robotic platform for mine clearance",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2165845",
-          "ozet": "According to Andrey Marochko, soldiers of Russia’s Battlegroup East inflicted the greatest damage on the enemy",
-          "yayin_tarihi": "Mon, 27 Jul 2026 12:21:01 +0300",
+          "url": "https://tass.com/defense/2166241",
+          "ozet": "The RTK-300 Ruka ground robotic vehicle has been created to safely defuse various objects and unexploded ordnance in remote control mode",
+          "yayin_tarihi": "Tue, 28 Jul 2026 10:10:34 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Chinese AI developer Z.AI may enter Russian market",
+          "baslik": "Russian Pacific Fleet detachment arrives in Vietnamese port Cam Rahn for joint drills",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2165839",
-          "ozet": "The companies have already agreed on integrating GLM models into GPTunneL, testing them in Russian enterprise scenarios",
-          "yayin_tarihi": "Mon, 27 Jul 2026 12:19:50 +0300",
+          "url": "https://tass.com/defense/2166231",
+          "ozet": "The fleet’s press service said that after the exercise planning phase, the two countries’ rescue ships and submarines will practice at sea rescue operations",
+          "yayin_tarihi": "Tue, 28 Jul 2026 09:32:28 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-27T10:01:30.611789"
+      "taranma_zamani": "2026-07-28T08:44:40.414805"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-27T10:01:30.611791"
+      "taranma_zamani": "2026-07-28T08:44:40.414809"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "中国严查离岸信托 征税20%并追缴旧账",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shangye/jingji/2026/07/28/china-offshore-trust-taxation/",
+          "ozet": "中国财政部、税务总局公布离岸信托个人所得税新规，把居民个人装入境外信托的财产、信托存续期间产生的收益，以及信托终止时的清算所得列入申报范围，相关所得适用20%的个人所得税税率。新规还要求部分旧有信托在90日内补报此前未缴税款。",
+          "yayin_tarihi": "Tue, 28 Jul 2026 05:33:12 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "金明日披露锡安教会案　奉献与牧者供养被控诈骗",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "中国历史战争电影《澎湖海战》原定7月25日上映，但再次传出临时撤档的消息，新的上映日期尚未公布。这是该片今年第二次传出撤档消息。影片以清军攻取澎湖和台湾为题材，宣传内容多次直接连接当前两岸政治，撤档消息也引起外界对审查尺度的讨论。",
           "yayin_tarihi": "Wed, 22 Jul 2026 07:17:27 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "金明日获释背后 锡安教会8人仍面临起诉",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/07/21/china-zion-church-jin-mingri-shouwang-church/",
-          "ozet": "北京锡安教会牧师金明日获释抵达美国后，该教会仍有8名牧师、长老及信徒被羁押。北京知情人士对本台说，金明日获释与美国总统特朗普向中国国家主席习近平交涉有关，其余被捕人员仍面临起诉。",
-          "yayin_tarihi": "Tue, 21 Jul 2026 06:42:29 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-27T10:01:30.611796"
+      "taranma_zamani": "2026-07-28T08:44:40.414814"
     }
   }
 }
