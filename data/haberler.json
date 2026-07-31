@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-07-30",
-  "olusturma_zamani": "2026-07-30T08:37:17.921738",
+  "olusturma_tarihi": "2026-07-31",
+  "olusturma_zamani": "2026-07-31T08:57:42.273444",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Aynı yolculukta farklı etki: Neden bazılarını araba tutar?",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/saglik/ayni-yolculukta-farkli-etki-neden-bazilarini-araba-tutar-952609.html",
+          "ozet": "Halk arasında \"araba tutması\" diye bilinen sorun, yolculuklarda mide bulantısından baş dönmesine kadar pek çok belirtiye neden olabiliyor. Bu durumun önüne geçmek için ise bazı küçük tedbirlere başvurulabilir.",
+          "yayin_tarihi": "Thu, 30 Jul 2026 14:35:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "İşsizlik haziranda azaldı",
           "kaynak": "www.trthaber.com",
@@ -36,120 +44,120 @@
           "ozet": "ABD Başkanı Donald Trump, Ürdün’deki ABD güçlerine yönelik saldırılara yanıt olarak İran’ı \"çok sert bir şekilde\" vuracaklarını söyledi.",
           "yayin_tarihi": "Wed, 29 Jul 2026 15:43:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "YKS tercih dönemi bugün başlıyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/yks-tercih-donemi-bugun-basliyor-952441.html",
-          "ozet": "2026-YKS sonuçlarının açıklanmasının ardından üniversite adayları için tercih dönemi bugün başlıyor. YKS tercihleri için üniversitelerde toplam 805 bin 747 kontenjan bulunuyor. YÖK tarafından sektörün ve iş gücü piyasasının taleplerine göre açılan 7'si lisans, 9'u ön lisans olmak üzere 16 program ilk kez öğrenci kabul edecek.",
-          "yayin_tarihi": "Wed, 29 Jul 2026 00:43:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-07-30T08:37:17.921461"
+      "taranma_zamani": "2026-07-31T08:57:42.273208"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "U.S.-Saudi Attack on Iraqi Militias Risks Drawing Them into War",
+          "baslik": "Political Turmoil Will Not Derail Killer Robot Program, Former Minister Says",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/30/world/europe/iraqi-militias-iran-war-saudi-arabia-us.html",
-          "ozet": "Iran-aligned militias in Iraq were under growing pressure to disarm, but the latest strikes may embolden them to get more deeply involved in the war.",
-          "yayin_tarihi": "Thu, 30 Jul 2026 06:20:03 +0000",
+          "url": "https://www.nytimes.com/2026/07/31/world/europe/federov-ukraine-killer-robots.html",
+          "ozet": "The recently ousted Ukrainian defense minister, Mykhailo Fedorov, an advocate for drone and robot warfare, says Ukraine’s tech-heavy strategy will persist.",
+          "yayin_tarihi": "Fri, 31 Jul 2026 04:01:07 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
+          "baslik": "NATO Says Russian Missile Hit Poland During Ukraine Attack",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
-          "ozet": "The case against Pavel Durov reflected an ongoing fight over one of the world’s most popular messaging and media apps, which is widely used in the country.",
-          "yayin_tarihi": "Wed, 29 Jul 2026 13:46:29 +0000",
+          "url": "https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html",
+          "ozet": "Russian missiles have briefly entered Polish airspace in the past. Investigators have yet to definitively identify the object that struck overnight.",
+          "yayin_tarihi": "Thu, 30 Jul 2026 15:03:40 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "BTS Won’t Enter Music From Comeback Album for Grammy Awards",
+          "baslik": "Why China’s A.I. Models Could Threaten the Communist Party",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/29/world/asia/bts-grammys-arirang-boycott-asian-category.html",
-          "ozet": "The group announced it would not submit its most recent album, ‘Arirang,’ for consideration a month after the Recording Academy introduced a new category for Asian pop.",
-          "yayin_tarihi": "Thu, 30 Jul 2026 00:39:27 +0000",
+          "url": "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html",
+          "ozet": "China’s A.I. rise is creating a new dilemma for Beijing. The open models that win influence abroad may pose risks to the country’s security and geopolitical strategy.",
+          "yayin_tarihi": "Thu, 30 Jul 2026 23:31:47 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "How Climate Change and Tariffs Help China Raise More Cattle",
+          "baslik": "Russia Strikes Ukraine With Missiles and Drones, Killing at Least 8",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
-          "ozet": "As increased rain makes grasslands and cornfields possible in areas that once were deserts, the world’s largest beef importer is becoming more self-reliant by expanding domestic herds.",
-          "yayin_tarihi": "Thu, 30 Jul 2026 04:00:12 +0000",
+          "url": "https://www.nytimes.com/2026/07/30/world/europe/russia-ukraine-war-missiles-drones-attacks.html",
+          "ozet": "President Volodymyr Zelensky of Ukraine said five members of a family had been killed in the latest large-scale aerial assault by Moscow.",
+          "yayin_tarihi": "Thu, 30 Jul 2026 14:46:50 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "New Strikes Engulf More Countries in the Iran War",
+          "baslik": "Iran War Is Entangling a Growing List of Mideast Nations",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/29/world/middleeast/iran-war-us-jordan-saudi-iraq.html",
-          "ozet": "The U.S. unleashed new strikes on Iran after a day in which attacks on Iraq, Jordan and Egypt threatened to expand the scope of the war.",
-          "yayin_tarihi": "Thu, 30 Jul 2026 01:34:14 +0000",
+          "url": "https://www.nytimes.com/2026/07/30/world/middleeast/us-iran-war-expansion.html",
+          "ozet": "As the U.S. and Iran exchange strikes, more countries are being touched — and some are joining in.",
+          "yayin_tarihi": "Thu, 30 Jul 2026 22:25:37 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-07-30T08:37:17.921481"
+      "taranma_zamani": "2026-07-31T08:57:42.273230"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "PM calls trips to southern Kuril Islands 'Tokyo’s priority' in relations with Russia",
+          "baslik": "Russian drone operators destroy 120 Ukrainian UAV control posts in Kharkov area over month",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2167157",
-          "ozet": "Japan's Sanae Takaichi said this is a humanitarian issue",
-          "yayin_tarihi": "Thu, 30 Jul 2026 11:09:33 +0300",
+          "url": "https://tass.com/defense/2167569",
+          "ozet": "According to the chief of Planning and Counter-UAV Operations of the 11th Army Corps, the destruction of Ukrainian UAV control posts helps reduce the activity of Ukrainian kamikaze and hexacopter drones at certain sectors of the engagement line",
+          "yayin_tarihi": "Fri, 31 Jul 2026 11:36:10 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian stocks up as main trading session opens",
+          "baslik": "Ukraine strikes may cause ZNPP nuke accident, but West to blame Russia — MP",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2167155",
-          "ozet": "The yuan exchange rate against the ruble lost 2.4 kopecks as trading opened compared with previous closing to 11.771 rubles",
-          "yayin_tarihi": "Thu, 30 Jul 2026 10:59:52 +0300",
+          "url": "https://tass.com/politics/2167567",
+          "ozet": "The Zaporozhye NPP earlier reported that the Ukrainian armed forces had attacked the dry storage site for spent nuclear fuel",
+          "yayin_tarihi": "Fri, 31 Jul 2026 11:34:35 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "FACTBOX: What is known about last night's massive strike by Russia on targets in Ukraine",
+          "baslik": "Russian Battlegroup North’s Lancet drone destroys Ukrainian MLRS in Sumy Region",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2167147",
-          "ozet": "According to the Russian Defense Ministry, the strikes hit military airfields, defense industry enterprises, military telecommunication and logistics centers of Ukraine",
-          "yayin_tarihi": "Thu, 30 Jul 2026 10:42:32 +0300",
+          "url": "https://tass.com/defense/2167565",
+          "ozet": "The distance from the operator to the target was more than 20 kilometers",
+          "yayin_tarihi": "Fri, 31 Jul 2026 11:19:30 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Fires at Wildberries facilities, 258 drones: aftermath of attacks on Russian regions",
+          "baslik": "Russian man detained for scouting defense sites for Ukraine",
           "kaynak": "tass.com",
-          "url": "https://tass.com/emergencies/2167141",
-          "ozet": "According to preliminary information, one person was injured in the Penza Region",
-          "yayin_tarihi": "Thu, 30 Jul 2026 10:24:54 +0300",
+          "url": "https://tass.com/society/2167563",
+          "ozet": "The suspect confessed to conducting reconnaissance of Russian military facilities on behalf of a terrorist organization",
+          "yayin_tarihi": "Fri, 31 Jul 2026 11:18:13 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Jordanian air defenses down five Iranian missiles  — news agency",
+          "baslik": "Allies not ready to provide US with direct military aid in conflict with Iran — newspaper",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2167091",
-          "ozet": "According to reports, no one was injured as a result of the incident",
-          "yayin_tarihi": "Thu, 30 Jul 2026 09:06:14 +0300",
+          "url": "https://tass.com/world/2167561",
+          "ozet": "Politico noted that \"traditional US partners are wary of any direct support until they receive reassurances of a lasting ceasefire – or other promises\" from Washington",
+          "yayin_tarihi": "Fri, 31 Jul 2026 11:16:48 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-07-30T08:37:17.921511"
+      "taranma_zamani": "2026-07-31T08:57:42.273255"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-07-30T08:37:17.921513"
+      "taranma_zamani": "2026-07-31T08:57:42.273257"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
         {
-          "baslik": "汉服热背后？是文化复兴 或对现实的逃离 ",
+          "baslik": "萧强：民主与专制新冷战开打 “AI柔术”思维对抗庞大国家机器 ",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/2026/07/30/china-ai-democracy-autocracy-jiujitsu/",
+          "ozet": "当中国将AI当成国家战略，强调开源和国际合作，对民主世界有什么意涵？而反对极权的阵营又能怎么努力？中国数字时代创办人萧强认为，应思考“如水”策略，以“柔术”之道反向解析、利用AI，或可将中国对外输出的AI，都变成自由的AI市场。",
+          "yayin_tarihi": "Thu, 30 Jul 2026 14:48:43 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "汉服热背后 是文化复兴 或对现实的逃离？ ",
           "kaynak": "www.rfa.org",
           "url": "https://rfa.org/mandarin/shehui/2026/07/30/china-hanfu-culture-lying-flat-recession/",
           "ozet": "近几年，在中国的大街小巷，越来越多年轻人穿着汉服逛街、拍照、喝咖啡，甚至上班、坐地铁。有人学习宋代点茶、焚香，把生活过成古装剧。\n这股席卷全国的“国风热“，真的只是时尚潮流吗？还是反映了年轻人对现实生活越来越深的不满？",
@@ -179,17 +187,9 @@
           "ozet": "北京锡安教会主任牧师金明日近日获释并抵达美国，他披露中国公安和检察院调查锡安教会的过程。他说，当局将信徒奉献、牧者供养及内部圣经培训列为“诈骗”和“非法经营”。锡安教会仍有8位牧者和同工被关押。",
           "yayin_tarihi": "Mon, 27 Jul 2026 07:11:08 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "一只流浪狗之死 为何引发公众愤怒和压制 ",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/07/27/china-wangwang-dog-abuse-animal-protection/",
-          "ozet": "一只流浪狗的死亡，为什么会让无数中国网友愤怒，甚至把讨论推向足球场、纽约时代广场 ，还引发海外动物保护组织介入？它叫“旺旺“。一起虐狗案件，最终让越来越多人讨论的，已经不只是动物保护，而是一场关于公共事务如何被讨论的事件。",
-          "yayin_tarihi": "Mon, 27 Jul 2026 06:01:45 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-07-30T08:37:17.921713"
+      "taranma_zamani": "2026-07-31T08:57:42.273416"
     }
   }
 }
