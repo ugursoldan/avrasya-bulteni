@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-08-01",
-  "olusturma_zamani": "2026-08-01T08:28:47.584994",
+  "olusturma_tarihi": "2026-08-02",
+  "olusturma_zamani": "2026-08-02T08:31:37.193441",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Trump İran'a yönelik saldırıları iptal etti",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/trump-irana-yonelik-saldirilari-iptal-etti-952841.html",
+          "ozet": "ABD Başkanı Donald Trump, İran'la bir anlaşmanın ana hatları üzerinde uzlaşma sağlandığını ve bu nedenle İran'a yönelik planlanan saldırıları askıya aldığını açıkladı.",
+          "yayin_tarihi": "Sun, 02 Aug 2026 05:43:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Türkiye ve Irak arasındaki dev anlaşmada imzalar atıldı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/turkiye-ve-irak-arasindaki-dev-anlasmada-imzalar-atildi-952807.html",
+          "ozet": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, BOTAŞ ile Irak devlet petrol şirketleri SOMO ve NOC arasında petrol boru hattının etkin kullanımı için bir yıllık anlaşma imzalandığını, günlük 750 bin varillik kapasite düzenlemesinin hayata geçtiğini bildirdi.",
+          "yayin_tarihi": "Sat, 01 Aug 2026 15:50:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Aynı yolculukta farklı etki: Neden bazılarını araba tutar?",
           "kaynak": "www.trthaber.com",
@@ -28,122 +44,106 @@
           "ozet": "İnsansız hava araçlarında harp sahasını değiştiren Türk SİHA’ları yeni dönemin en kritik konularından olan insanlı-insansız ortak faaliyetler için de hazırlanıyor. KIZILELMA’nın İtalyan savaş uçağıyla kol uçuşu ya da ANKA-3’ün KAAN ve Eurofighter gibi uçakların yanına eklenme ihtimali Ankara’nın bu alandaki etkinliğin devam ettireceğini gösteriyor.",
           "yayin_tarihi": "Wed, 29 Jul 2026 10:00:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "2026YKS tercih süreci başladı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/2026-yks-tercih-sureci-basladi-952488.html",
-          "ozet": "Yükseköğretim Kurumları Sınavı (2026-YKS) sonuçlarının açıklanmasının ardından üniversite adayları için tercih dönemi başladı.",
-          "yayin_tarihi": "Wed, 29 Jul 2026 11:54:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Trump'tan İran'ı çok sert bir şekilde vuracağız mesajı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/trumptan-irani-cok-sert-bir-sekilde-vuracagiz-mesaji-952504.html",
-          "ozet": "ABD Başkanı Donald Trump, Ürdün’deki ABD güçlerine yönelik saldırılara yanıt olarak İran’ı \"çok sert bir şekilde\" vuracaklarını söyledi.",
-          "yayin_tarihi": "Wed, 29 Jul 2026 15:43:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-01T08:28:47.584795"
+      "taranma_zamani": "2026-08-02T08:31:37.193153"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Russian Missiles Kill 9 in Kyiv, Hours After Trump Backs Off Air Defense Pledge",
+          "baslik": "Trump Says He Is Canceling Strikes on Iran, Pending a Rapid Deal",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html",
-          "ozet": "It was the second deadly barrage to hit the Ukrainian capital in two days, as Moscow escalates its attacks in an apparent effort to exploit Ukraine’s dwindling supply of interceptors.",
-          "yayin_tarihi": "Sat, 01 Aug 2026 07:14:41 +0000",
+          "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
+          "ozet": "President Trump said he agreed to requests from Iran and other Middle Eastern countries to cancel planned attacks, citing what he said was progress in reaching the “perimeters of a deal” with Tehran.",
+          "yayin_tarihi": "Sun, 02 Aug 2026 07:02:40 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Man Accused of Spying for Iran at British Air Base in Cyprus",
+          "baslik": "How China Keeps Tabs on Foreigners",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/31/world/europe/iran-spy-uk-air-base-cyprus-sultanov.html",
-          "ozet": "Rashad Sultanov, a dual British and Azerbaijani citizen, was arrested after accusations he surveilled the military installation, a hub for Mideast operations, and shared the details with the Revolutionary Guards.",
-          "yayin_tarihi": "Fri, 31 Jul 2026 12:16:21 +0000",
+          "url": "https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html",
+          "ozet": "An unsecured police dashboard was a rare window into how the authorities track foreigners by collecting and aggregating vast amounts of private data.",
+          "yayin_tarihi": "Sun, 02 Aug 2026 04:03:06 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians",
+          "baslik": "Iran Plotted Wider War With Help of Its Proxies",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/31/world/middleeast/us-iran-bomb-mk84-qeshm-island.html",
-          "ozet": "The weapon, one of the largest in the U.S.’s arsenal, struck a house in a heavily populated area, according to a Times analysis.",
-          "yayin_tarihi": "Sat, 01 Aug 2026 03:40:13 +0000",
+          "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
+          "ozet": "During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew.",
+          "yayin_tarihi": "Sat, 01 Aug 2026 20:26:35 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
+          "baslik": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html",
-          "ozet": "The president of Ukraine had warned that the country was running out of Patriot interceptors, the most reliable weapon it has to shoot down Russian ballistic missiles.",
-          "yayin_tarihi": "Sat, 01 Aug 2026 05:49:43 +0000",
+          "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
+          "ozet": "The confrontation, over a strategic ridge in southern Lebanon, challenged a fragile cease-fire between Israel and the Iran-backed militant group.",
+          "yayin_tarihi": "Sat, 01 Aug 2026 20:14:08 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Ukraine’s Strike on Iranian Ship Shows How Two Wars Could Spiral",
+          "baslik": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/31/us/politics/iran-ukraine-war.html",
-          "ozet": "Iran sent military aid to Russia for its war against Ukraine. Now the question is whether that conflict and the U.S.-Israeli war against Iran are converging.",
-          "yayin_tarihi": "Fri, 31 Jul 2026 16:57:05 +0000",
+          "url": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html",
+          "ozet": "With none of President Trump’s aims accomplished and the Strait of Hormuz closed, U.S. allies see dysfunction and vulnerability from the war.",
+          "yayin_tarihi": "Sat, 01 Aug 2026 14:46:20 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-01T08:28:47.584808"
+      "taranma_zamani": "2026-08-02T08:31:37.193188"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russian forces strike Kiev facilities producing missile, drone components — top brass",
+          "baslik": "Putin congratulates Russian paratroopers on Airborne Force Day",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2167937",
-          "ozet": "Özet oluşturulamadı.",
-          "yayin_tarihi": "Sat, 01 Aug 2026 11:14:16 +0300",
+          "url": "https://tass.com/defense/2168099",
+          "ozet": "Russian President said he was confident that the Airborne Force personnel would accomplish the assigned objectives with honor and make considerable contribution to ensuring Russia’s defense capability",
+          "yayin_tarihi": "Sun, 02 Aug 2026 10:54:50 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "China has a way to respond to US over new sanctions against Russia, its partners — expert",
+          "baslik": "Russia’s Battlegroup North downs over 120 Ukrainian UAVs heading to border areas at night",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2167919",
-          "ozet": "Тhe bill has the potential to trigger a crisis in US-China relations, Jake Werner, director of the East Asia Program at the Quincy Institute for Responsible Statecraft, told a TASS correspondent",
-          "yayin_tarihi": "Sat, 01 Aug 2026 09:50:30 +0300",
+          "url": "https://tass.com/politics/2168077",
+          "ozet": "Air defense crews of the Battlegroup North destroyed all the detected UAVs of the Ukrainian army",
+          "yayin_tarihi": "Sun, 02 Aug 2026 07:30:00 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ukraine’s total expenditures in 2026 to amount to $176.8 billion",
+          "baslik": "Russian forces eliminate Ukrainian troops, ground robots near Krasny Liman — ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2167917",
-          "ozet": "As a result, the actual level of spending is approaching the country’s total GDP",
-          "yayin_tarihi": "Sat, 01 Aug 2026 09:46:12 +0300",
+          "url": "https://tass.com/politics/2168067",
+          "ozet": "Combat footage shows direct hits by FPV drones, destroying several unmanned ground vehicles and taking out Ukrainian troops,\" the Russian Defense Ministry said",
+          "yayin_tarihi": "Sun, 02 Aug 2026 06:00:00 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Mercenaries from six countries fighting alongside Ukraine in Kharkov Region — authorities",
+          "baslik": "Trump says he agreed to cancel a planned major strike on Iran to reach a deal with Tehran",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2167915",
-          "ozet": "According to the official, some of the mercenaries, primarily those from NATO countries, pose themselves as motivated and experienced fighters",
-          "yayin_tarihi": "Sat, 01 Aug 2026 08:53:50 +0300",
+          "url": "https://tass.com/world/2168065",
+          "ozet": "Donald Trump also stressed that the US is ready \"to go against the Islamic Republic of Iran, at levels of Military Terror, Strength, and Power not seen since World War II\"",
+          "yayin_tarihi": "Sun, 02 Aug 2026 05:40:01 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US pursues own interests in Ukraine settlement — Russian diplomat",
+          "baslik": "US to assess prospects for resuming Ukraine talks in coming weeks — Rubio",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2167911",
-          "ozet": "Russian Foreign Ministry Ambassador-at-Large Rodion Miroshnik pointed out that US President Donald Trump had repeatedly boasted about ending eight conflicts",
-          "yayin_tarihi": "Sat, 01 Aug 2026 08:01:16 +0300",
+          "url": "https://tass.com/world/2168061",
+          "ozet": "US Secretary of State Marco Rubio asserted that Washington intends to take a number of steps in the coming weeks to assess the prospects for resuming peace talks",
+          "yayin_tarihi": "Sun, 02 Aug 2026 05:01:00 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-01T08:28:47.584820"
+      "taranma_zamani": "2026-08-02T08:31:37.193198"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-01T08:28:47.584822"
+      "taranma_zamani": "2026-08-02T08:31:37.193200"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-01T08:28:47.584825"
+      "taranma_zamani": "2026-08-02T08:31:37.193212"
     }
   }
 }
