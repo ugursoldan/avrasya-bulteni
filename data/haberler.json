@@ -1,10 +1,42 @@
 {
-  "olusturma_tarihi": "2026-08-02",
-  "olusturma_zamani": "2026-08-02T08:31:37.193441",
+  "olusturma_tarihi": "2026-08-03",
+  "olusturma_zamani": "2026-08-03T09:57:00.764046",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "GÖKSUR üretimden göz kırptı: Mavi Vatana büyük güç",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/goksur-uretimden-goz-kirpti-mavi-vatana-buyuk-guc-952916.html",
+          "ozet": "GÖKSUR yakın hava savunma sistemi Mavi Vatan’a güç katmak için gün sayıyor. Muadillerinden farklı olarak çift lançer olarak geliştirilen ürün böylece çok daha hızlı ve etkili bir performansa sahip olacak. Dünyanın dört bir yanına gemi ihraç eden Türkiye, bu tür stratejik ürünlerle de küresel çapta adından sıkça söz ettirecek.",
+          "yayin_tarihi": "Mon, 03 Aug 2026 10:30:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "ABDİran müzakereleri bugün yeniden başlayacak",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/abd-iran-muzakereleri-bugun-yeniden-baslayacak-952893.html",
+          "ozet": "ABD Başkanı Trump, İran ile müzakerelerin bugün yeniden başlayacağını ve bir anlaşmanın sağlanması konusunda iyimser olduğunu açıkladı.",
+          "yayin_tarihi": "Mon, 03 Aug 2026 02:03:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "TBMM'de yeni haftada 3 önemli başlık",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/tbmmde-yeni-haftada-3-onemli-baslik-952845.html",
+          "ozet": "Meclis yaz döneminde de yoğun mesaisini sürdürüyor. Bu hafta 18 yaş altı suçlularda ceza üst sınırını artırmaya yönelik düzenlemenin Genel Kurul gündemine gelmesi bekleniyor. Terörsüz Türkiye hedefi için de kanun teklifi hazırlıkları sürüyor. Teklifin Meclis Başkanlığı'na hafta içinde sunulması öngörülüyor.",
+          "yayin_tarihi": "Sun, 02 Aug 2026 09:43:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Yangınların tümü kontrol altında",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/yanginlarin-tumu-kontrol-altinda-952852.html",
+          "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, Aydın Çine, Balıkesir Susurluk ve İzmir Buca yangınlarının tamamının kontrol altına alındığını duyurdu.",
+          "yayin_tarihi": "Sun, 02 Aug 2026 11:06:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Trump İran'a yönelik saldırıları iptal etti",
           "kaynak": "www.trthaber.com",
@@ -12,51 +44,27 @@
           "ozet": "ABD Başkanı Donald Trump, İran'la bir anlaşmanın ana hatları üzerinde uzlaşma sağlandığını ve bu nedenle İran'a yönelik planlanan saldırıları askıya aldığını açıkladı.",
           "yayin_tarihi": "Sun, 02 Aug 2026 05:43:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Türkiye ve Irak arasındaki dev anlaşmada imzalar atıldı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/turkiye-ve-irak-arasindaki-dev-anlasmada-imzalar-atildi-952807.html",
-          "ozet": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, BOTAŞ ile Irak devlet petrol şirketleri SOMO ve NOC arasında petrol boru hattının etkin kullanımı için bir yıllık anlaşma imzalandığını, günlük 750 bin varillik kapasite düzenlemesinin hayata geçtiğini bildirdi.",
-          "yayin_tarihi": "Sat, 01 Aug 2026 15:50:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Aynı yolculukta farklı etki: Neden bazılarını araba tutar?",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/saglik/ayni-yolculukta-farkli-etki-neden-bazilarini-araba-tutar-952609.html",
-          "ozet": "Halk arasında \"araba tutması\" diye bilinen sorun, yolculuklarda mide bulantısından baş dönmesine kadar pek çok belirtiye neden olabiliyor. Bu durumun önüne geçmek için ise bazı küçük tedbirlere başvurulabilir.",
-          "yayin_tarihi": "Thu, 30 Jul 2026 14:35:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "İşsizlik haziranda azaldı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/ekonomi/issizlik-haziranda-azaldi-952575.html",
-          "ozet": "Türkiye'de işsizlik oranı, haziranda bir önceki aya göre 0,5 puan azalarak yüzde 7,6 oldu",
-          "yayin_tarihi": "Thu, 30 Jul 2026 10:04:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Türk SİHAları ortak mimaride de başrolde olacak",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/turk-sihalari-ortak-mimaride-de-basrolde-olacak-952464.html",
-          "ozet": "İnsansız hava araçlarında harp sahasını değiştiren Türk SİHA’ları yeni dönemin en kritik konularından olan insanlı-insansız ortak faaliyetler için de hazırlanıyor. KIZILELMA’nın İtalyan savaş uçağıyla kol uçuşu ya da ANKA-3’ün KAAN ve Eurofighter gibi uçakların yanına eklenme ihtimali Ankara’nın bu alandaki etkinliğin devam ettireceğini gösteriyor.",
-          "yayin_tarihi": "Wed, 29 Jul 2026 10:00:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-02T08:31:37.193153"
+      "taranma_zamani": "2026-08-03T09:57:00.763826"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Trump Says He Is Canceling Strikes on Iran, Pending a Rapid Deal",
+          "baslik": "For Iran, Trump’s Reversal on Escalation Shows Who Has the Upper Hand",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html",
+          "ozet": "By expanding the arena of fighting in the region, experts say, Tehran sent a warning about the dangers of a widening war.",
+          "yayin_tarihi": "Mon, 03 Aug 2026 08:50:11 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
-          "ozet": "President Trump said he agreed to requests from Iran and other Middle Eastern countries to cancel planned attacks, citing what he said was progress in reaching the “perimeters of a deal” with Tehran.",
-          "yayin_tarihi": "Sun, 02 Aug 2026 07:02:40 +0000",
+          "ozet": "President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Mr. Trump not to renew attacks.",
+          "yayin_tarihi": "Mon, 03 Aug 2026 07:03:22 +0000",
           "dil": "İngilizce"
         },
         {
@@ -68,14 +76,6 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iran Plotted Wider War With Help of Its Proxies",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
-          "ozet": "During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew.",
-          "yayin_tarihi": "Sat, 01 Aug 2026 20:26:35 +0000",
-          "dil": "İngilizce"
-        },
-        {
           "baslik": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
@@ -84,70 +84,78 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear",
+          "baslik": "Iran Plotted Wider War With Help of Its Proxies",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html",
-          "ozet": "With none of President Trump’s aims accomplished and the Strait of Hormuz closed, U.S. allies see dysfunction and vulnerability from the war.",
-          "yayin_tarihi": "Sat, 01 Aug 2026 14:46:20 +0000",
+          "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
+          "ozet": "During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew.",
+          "yayin_tarihi": "Sun, 02 Aug 2026 18:36:29 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-02T08:31:37.193188"
+      "taranma_zamani": "2026-08-03T09:57:00.763843"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Putin congratulates Russian paratroopers on Airborne Force Day",
+          "baslik": "US still ready for strikes on Iran on scale \"not seen since World War II\" — Pentagon chief",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2168099",
-          "ozet": "Russian President said he was confident that the Airborne Force personnel would accomplish the assigned objectives with honor and make considerable contribution to ensuring Russia’s defense capability",
-          "yayin_tarihi": "Sun, 02 Aug 2026 10:54:50 +0300",
+          "url": "https://tass.com/world/2168375",
+          "ozet": "Earlier, President Donald Trump said that the United States and Iran would begin negotiations on a peace agreement on August 3",
+          "yayin_tarihi": "Mon, 03 Aug 2026 12:45:09 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia’s Battlegroup North downs over 120 Ukrainian UAVs heading to border areas at night",
+          "baslik": "Russia develops prototype vaccine for non-small cell lung cancer — scientist",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2168077",
-          "ozet": "Air defense crews of the Battlegroup North destroyed all the detected UAVs of the Ukrainian army",
-          "yayin_tarihi": "Sun, 02 Aug 2026 07:30:00 +0300",
+          "url": "https://tass.com/science/2168347",
+          "ozet": "According to Alexander Gintsburg, this is the most common type of cancer as it mainly affects smokers",
+          "yayin_tarihi": "Mon, 03 Aug 2026 12:20:06 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian forces eliminate Ukrainian troops, ground robots near Krasny Liman — ministry",
+          "baslik": "Iran says Oman agreement alone not enough to reopen Strait of Hormuz",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2168067",
-          "ozet": "Combat footage shows direct hits by FPV drones, destroying several unmanned ground vehicles and taking out Ukrainian troops,\" the Russian Defense Ministry said",
-          "yayin_tarihi": "Sun, 02 Aug 2026 06:00:00 +0300",
+          "url": "https://tass.com/world/2168343",
+          "ozet": "Iranian Foreign Ministry Spokesman Esmaeil Baghaei emphasized that the Strait of Hormuz had been closed not because of disagreements between Tehran and Muscat, but because of US and Israeli aggression against Iran",
+          "yayin_tarihi": "Mon, 03 Aug 2026 12:13:13 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Trump says he agreed to cancel a planned major strike on Iran to reach a deal with Tehran",
+          "baslik": "Ukrainian forces targeting Russian evacuation vehicles near Kharkov — soldier",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2168065",
-          "ozet": "Donald Trump also stressed that the US is ready \"to go against the Islamic Republic of Iran, at levels of Military Terror, Strength, and Power not seen since World War II\"",
-          "yayin_tarihi": "Sun, 02 Aug 2026 05:40:01 +0300",
+          "url": "https://tass.com/politics/2168337",
+          "ozet": "According to the Russian serviceman, employees of the Emergencies Ministry and other special services are regularly targeted by Ukrainian drones",
+          "yayin_tarihi": "Mon, 03 Aug 2026 12:08:26 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US to assess prospects for resuming Ukraine talks in coming weeks — Rubio",
+          "baslik": "FSB foils terrorist attack near prosecutor's office in Pyatigorsk",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2168061",
-          "ozet": "US Secretary of State Marco Rubio asserted that Washington intends to take a number of steps in the coming weeks to assess the prospects for resuming peace talks",
-          "yayin_tarihi": "Sun, 02 Aug 2026 05:01:00 +0300",
+          "url": "https://tass.com/society/2168317",
+          "ozet": "The attack was planned by a 2001-born citizen of a Central Asian country and a follower of an international terrorist organization banned in Russia",
+          "yayin_tarihi": "Mon, 03 Aug 2026 11:39:35 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-02T08:31:37.193198"
+      "taranma_zamani": "2026-08-03T09:57:00.763860"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-02T08:31:37.193200"
+      "taranma_zamani": "2026-08-03T09:57:00.763862"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "中国活动人士孙愿平抵澳寻庇护",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/08/02/sun-yuanping-a-chinese-dissident-fled-to-australia-and-sought-political-asylum/",
+          "ozet": "中国社会活动人士孙愿平7月9日抵达澳大利亚，准备申请政治庇护。他向本台披露，自己2019年因推特涉政言论被拘留后，持续受到警方监控和限制出境，7年多来4次在中国边检受阻。今年7月，他在他人协助下离开中国，经泰国、马来西亚抵达澳大利",
+          "yayin_tarihi": "Sun, 02 Aug 2026 14:06:46 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "萧强：民主与专制新冷战开打 “AI柔术”思维对抗庞大国家机器 ",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "中国财政部、税务总局公布离岸信托个人所得税新规，把居民个人装入境外信托的财产、信托存续期间产生的收益，以及信托终止时的清算所得列入申报范围，相关所得适用20%的个人所得税税率。新规还要求部分旧有信托在90日内补报此前未缴税款。",
           "yayin_tarihi": "Tue, 28 Jul 2026 05:33:12 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "金明日披露锡安教会案　奉献与牧者供养被控诈骗",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/07/27/china-zion-church-pastor-jin-mingri-illegal-business-operations-fraud/",
-          "ozet": "北京锡安教会主任牧师金明日近日获释并抵达美国，他披露中国公安和检察院调查锡安教会的过程。他说，当局将信徒奉献、牧者供养及内部圣经培训列为“诈骗”和“非法经营”。锡安教会仍有8位牧者和同工被关押。",
-          "yayin_tarihi": "Mon, 27 Jul 2026 07:11:08 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-02T08:31:37.193212"
+      "taranma_zamani": "2026-08-03T09:57:00.764023"
     }
   }
 }
