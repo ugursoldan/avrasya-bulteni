@@ -1,16 +1,16 @@
 {
-  "olusturma_tarihi": "2026-08-04",
-  "olusturma_zamani": "2026-08-04T08:47:40.488676",
+  "olusturma_tarihi": "2026-08-05",
+  "olusturma_zamani": "2026-08-05T08:44:47.856659",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "Cumhurbaşkanı Erdoğan: TSK milletimizin güven kaynağı olmayı sürdürmektedir",
+          "baslik": "AK Parti Meclis'te Çerçeve Yasa için toplandı",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-tsk-milletimizin-guven-kaynagi-olmayi-surdurmektedir-953025.html",
-          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Yüksek disiplini, üstün görev bilinci, milli iradeye bağlılığı ve artan caydırıcılığı ile Türk Silahlı Kuvvetlerimiz içinden geçtiğimiz zorlu konjonktürde milletimizin güven kaynağı olmayı sürdürmektedir\" dedi.",
-          "yayin_tarihi": "Tue, 04 Aug 2026 11:09:00 +0300",
+          "url": "https://www.trthaber.com/haber/gundem/ak-parti-mecliste-cerceve-yasa-icin-toplandi-953128.html",
+          "ozet": "AK Parti Grup Başkanı Abdullah Güler ile Genel Başkanvekili Efkan Ala başkanlığındaki toplantıda, Terörsüz Türkiye kapsamında hazırlanan kanun teklifi hakkında milletvekillerine bilgi verildi.",
+          "yayin_tarihi": "Wed, 05 Aug 2026 10:22:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -19,6 +19,14 @@
           "url": "https://www.trthaber.com/haber/gundem/bakan-yumaklidan-yesil-vatani-korumak-icin-duyarlilik-cagrisi-953014.html",
           "ozet": "Tarım ve Orman Bakanı Yumaklı, meteorolojik veriler doğrultusunda Türkiye'nin kıyı kesimlerinde beklenen şiddetli rüzgarın orman yangınları açısından büyük risk oluşturduğunu belirterek \"Yeşil Vatan\"ı korumak için duyarlılık çağrısında bulundu.",
           "yayin_tarihi": "Tue, 04 Aug 2026 09:43:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Terörsüz Türkiye sürecinde gözler TBMM'de",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/terorsuz-turkiye-surecinde-gozler-tbmmde-953033.html",
+          "ozet": "AK Parti, Türkiye'nin terör gündeminden tamamen çıkarılmasını hedefleyen \"Terörsüz Türkiye\" sürecinin hukuki altyapısı için hazırlanan \"Çerçeve Kanun Teklifi\"ni milletvekillerinin imzasına açtı. Bugün saat 17.00’ye kadar tamamlanması beklenen imza sürecinin ardından teklifin kısa sürede TBMM Başkanlığına sunulması planlanıyor.",
+          "yayin_tarihi": "Tue, 04 Aug 2026 11:49:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -36,21 +44,21 @@
           "ozet": "Ulaştırma ve Altyapı Bakanlığı Denizcilik Genel Müdürlüğü, Karadeniz'de dron saldırısına uğrayan \"NADEZHDA\" isimli Ro-Ro gemisinde 13'ü Türk vatandaşı olmak üzere toplam 22 mürettebatın bulunduğunu ve gemide bulunan denizcilerin Rusya deniz unsurları tarafından emniyetli şekilde Novorossiysk Limanı'na tahliye edildiğini duyurdu.",
           "yayin_tarihi": "Mon, 03 Aug 2026 22:36:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "GÖKSUR üretimden göz kırptı: Mavi Vatana büyük güç",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/goksur-uretimden-goz-kirpti-mavi-vatana-buyuk-guc-952916.html",
-          "ozet": "GÖKSUR yakın hava savunma sistemi Mavi Vatan’a güç katmak için gün sayıyor. Muadillerinden farklı olarak çift lançer olarak geliştirilen ürün böylece çok daha hızlı ve etkili bir performansa sahip olacak. Dünyanın dört bir yanına gemi ihraç eden Türkiye, bu tür stratejik ürünlerle de küresel çapta adından sıkça söz ettirecek.",
-          "yayin_tarihi": "Mon, 03 Aug 2026 10:30:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-04T08:47:40.488440"
+      "taranma_zamani": "2026-08-05T08:44:47.856326"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "A New Lethal Front in Ukraine: Its Beloved Gas Stations",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html",
+          "ozet": "Russian drone attacks have hit hundreds of gas stations in apparent retaliation for Ukraine’s attacks on oil refineries.",
+          "yayin_tarihi": "Tue, 04 Aug 2026 14:33:18 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
           "kaynak": "rss.nytimes.com",
@@ -68,86 +76,94 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
+          "baslik": "Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
-          "ozet": "President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Mr. Trump not to renew attacks.",
-          "yayin_tarihi": "Mon, 03 Aug 2026 07:03:22 +0000",
+          "url": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
+          "ozet": "At least 17 people were killed, officials said, as the country runs desperately low on interceptor missiles that could fend off Russian bombardments.",
+          "yayin_tarihi": "Wed, 05 Aug 2026 07:58:16 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Drone Explodes on Russian Beach, Killing 7, Officials Say",
+          "baslik": "China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/03/world/europe/drone-russian-beach-explosion.html",
-          "ozet": "It was unclear what the drone was targeting and why it crashed in the crowded resort spot, but it has been a deadly summer for civilians caught up in the Russian-Ukrainian war.",
-          "yayin_tarihi": "Tue, 04 Aug 2026 01:55:27 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Russian Opposition Politician Flees to France",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/03/world/europe/russian-politician-exile-france.html",
-          "ozet": "Boris B. Nadezhdin, 63, appeared in a video standing in front of the Eiffel Tower. He said he was “alive and free, but, unfortunately, not yet in Russia.”",
-          "yayin_tarihi": "Mon, 03 Aug 2026 20:18:10 +0000",
+          "url": "https://www.nytimes.com/2026/08/05/world/asia/china-cigarette-smoking.html",
+          "ozet": "Disputes between smokers and nonsmokers are becoming more visible as a younger generation increasingly refuses to suffer secondhand smoke in silence.",
+          "yayin_tarihi": "Wed, 05 Aug 2026 04:00:05 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-04T08:47:40.488461"
+      "taranma_zamani": "2026-08-05T08:44:47.856345"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Over 80% of power plants destroyed in Ukraine — official",
+          "baslik": "Kiev’s strikes on infrastructure depend on Western navigational support — Russian diplomat",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2168723",
-          "ozet": "Ukraine began experiencing power supply problems in late 2025 amid severe cold weather and significant damage to energy infrastructure",
-          "yayin_tarihi": "Tue, 04 Aug 2026 11:44:38 +0300",
+          "url": "https://tass.com/politics/2169153",
+          "ozet": "According to Russian Deputy Foreign Minister Mikhail Galuzin, Moscow will continue to counter these strikes using military, political and diplomatic means",
+          "yayin_tarihi": "Wed, 05 Aug 2026 11:26:41 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "S-400 systems ‘triumphantly’ down 10 Ukrainian MiG-29s in one day in 2023 — journal",
+          "baslik": "Russian army strength increased by 27,000 personnel to form military construction units",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2168721",
-          "ozet": "According to Chief of the Air Defense Missile Forces of the Russian Aerospace Forces Major General Alexander Romanenkov, at that time, 24 aircraft were shot down in a week, using a new method",
-          "yayin_tarihi": "Tue, 04 Aug 2026 11:42:50 +0300",
+          "url": "https://tass.com/politics/2169147",
+          "ozet": "The new units will improve the efficiency and effectiveness of the military construction complex, the Russian Defense Ministry said",
+          "yayin_tarihi": "Wed, 05 Aug 2026 11:24:54 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Number of foreign tourists visiting Russia up 20% in H1 2026 — minister",
+          "baslik": "Trump expects Iran’s renunciation of nuclear weapons to be formalized",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2168715",
-          "ozet": "Russian Economic Development Minister Maxim Reshetnikov attributed the growth to decisions made by the president and government",
-          "yayin_tarihi": "Tue, 04 Aug 2026 11:39:45 +0300",
+          "url": "https://tass.com/world/2169143",
+          "ozet": "The US leader stressed that Iran \"would never have a nuclear weapon\"",
+          "yayin_tarihi": "Wed, 05 Aug 2026 10:59:50 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia’s Africa Corps takes out Ukrainian drone operators in Mali — military officer",
+          "baslik": "Casualties, fire at Wildberries sorting center, 475 UAVs: aftermath of drone attacks",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2168719",
-          "ozet": "According to the helicopter pilot, the nationality of drone operators was identified through radio intercepts and statements from captured militants",
-          "yayin_tarihi": "Tue, 04 Aug 2026 11:39:05 +0300",
+          "url": "https://tass.com/politics/2169141",
+          "ozet": "On-duty air defenses intercepted and destroyed Ukrainian drones over 17 Russian regions",
+          "yayin_tarihi": "Wed, 05 Aug 2026 10:50:02 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Senior Russian diplomat outlines conditions for Ukraine talks",
+          "baslik": "Russian stocks open higher, yuan edges down",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2168711",
-          "ozet": "According to Russian Deputy Foreign Minister Mikhail Galuzin, Russia had yet to receive substantive proposals from Western countries regarding the Ukraine issue",
-          "yayin_tarihi": "Tue, 04 Aug 2026 11:31:56 +0300",
+          "url": "https://tass.com/economy/2169137",
+          "ozet": "The MOEX and RTS indices gained 0.8% at the open",
+          "yayin_tarihi": "Wed, 05 Aug 2026 10:48:08 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-04T08:47:40.488482"
+      "taranma_zamani": "2026-08-05T08:44:47.856372"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-04T08:47:40.488484"
+      "taranma_zamani": "2026-08-05T08:44:47.856374"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "美国禁中国人形机器人：中美科技战，进入“机器人时代”？",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/08/04/ai-us-china-tech-war-robots/",
+          "ozet": "美国扩大对中国科技产品限制，这一次，目标是人形机器人。\n华盛顿称禁令涉及国家安全和数据风险；北京则批评美方泛化国家安全概念、打压中国企业。\n从芯片、TikTok到人形机器人，中美科技战是否已进入\"机器人时代\"？",
+          "yayin_tarihi": "Tue, 04 Aug 2026 21:06:26 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "中国供销社扩张县域网络　学者指经济重走“回头路”",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/2026/08/04/china-supply-and-marketing-cooperatives-great-canteens-planned-economy/",
+          "ozet": "中华全国供销合作总社发布“十五五”发展规划，提出到2030年新建、改造上百个国家战略农资储备库，并在产粮大县建设约1000个县域农资配送中心。供销社业务正从传统农资供应延伸至农村超市和应急保供。",
+          "yayin_tarihi": "Tue, 04 Aug 2026 08:59:32 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "中国新规纳入技术安全　科技人员出境受关注",
           "kaynak": "www.rfa.org",
@@ -171,25 +187,9 @@
           "ozet": "当中国将AI当成国家战略，强调开源和国际合作，对民主世界有什么意涵？而反对极权的阵营又能怎么努力？中国数字时代创办人萧强认为，应思考“如水”策略，以“柔术”之道反向解析、利用AI，或可将中国对外输出的AI，都变成自由的AI市场。",
           "yayin_tarihi": "Thu, 30 Jul 2026 14:48:43 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "汉服热背后 是文化复兴 或对现实的逃离？ ",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/07/30/china-hanfu-culture-lying-flat-recession/",
-          "ozet": "近几年，在中国的大街小巷，越来越多年轻人穿着汉服逛街、拍照、喝咖啡，甚至上班、坐地铁。有人学习宋代点茶、焚香，把生活过成古装剧。\n这股席卷全国的“国风热“，真的只是时尚潮流吗？还是反映了年轻人对现实生活越来越深的不满？",
-          "yayin_tarihi": "Thu, 30 Jul 2026 06:18:45 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "境外网站写加班经历 中国网民被控寻衅滋事",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/07/29/china-intenet-gfw-crime-speech-freedom/",
-          "ozet": "一名中国网民在境外网站填写前公司的作息和加班情况，发布不足12小时，被公安局以“涉嫌寻衅滋事罪”刑事拘留。北京盈科律师事务所公布案件资料，代理律师提出，相关内容来自当事人的工作经历，没有编造信息，也未造成公共秩序混乱。",
-          "yayin_tarihi": "Wed, 29 Jul 2026 06:32:43 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-04T08:47:40.488489"
+      "taranma_zamani": "2026-08-05T08:44:47.856605"
     }
   }
 }
