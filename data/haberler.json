@@ -1,15 +1,23 @@
 {
-  "olusturma_tarihi": "2026-08-05",
-  "olusturma_zamani": "2026-08-05T08:44:47.856659",
+  "olusturma_tarihi": "2026-08-06",
+  "olusturma_zamani": "2026-08-06T08:46:26.800139",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
+          "baslik": "Cumhurbaşkanı Erdoğan'dan Terörsüz Türkiye yasa teklifine ilişkin paylaşım",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-terorsuz-turkiye-yasa-teklifine-iliskin-paylasim-953185.html",
+          "ozet": "Cumhurbaşkanı Erdoğan, TBMM'ye sunulan Millî Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi'ne ilişkin \"Türkiye’yi terör tehdidinden kalıcı olarak kurtarmayı, millî birlik ve beraberliğimizi perçinlemeyi, ülkemizde ve bölgemizde huzur iklimini güçlendirmeyi hedefleyen bu adımın hayırlara vesile olmasını diliyorum\" dedi.",
+          "yayin_tarihi": "Wed, 05 Aug 2026 19:02:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
           "baslik": "AK Parti Meclis'te Çerçeve Yasa için toplandı",
           "kaynak": "www.trthaber.com",
           "url": "https://www.trthaber.com/haber/gundem/ak-parti-mecliste-cerceve-yasa-icin-toplandi-953128.html",
-          "ozet": "AK Parti Grup Başkanı Abdullah Güler ile Genel Başkanvekili Efkan Ala başkanlığındaki toplantıda, Terörsüz Türkiye kapsamında hazırlanan kanun teklifi hakkında milletvekillerine bilgi verildi.",
+          "ozet": "AK Parti Grup Başkanı Abdullah Güler ile Genel Başkanvekili Efkan Ala başkanlığındaki toplantıda, Terörsüz Türkiye kapsamında hazırlanan kanun teklifi hakkında milletvekillerine bilgi verildi. 12 maddelik yasa teklifinin bugün Meclis'e verilmesi bekleniyor.",
           "yayin_tarihi": "Wed, 05 Aug 2026 10:22:00 +0300",
           "dil": "Türkçe"
         },
@@ -36,51 +44,43 @@
           "ozet": "ABD Başkanı Donald Trump, İran'la müzakerelerin devam ettiğini ve bu görüşmelerin iyi bir anlaşma imzalamak için \"İran'ın son şansı\" olduğunu belirtti.",
           "yayin_tarihi": "Mon, 03 Aug 2026 21:15:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Rusya'dan Samsun'a giden gemiye saldırı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/rusyadan-samsuna-giden-gemiye-saldiri-952981.html",
-          "ozet": "Ulaştırma ve Altyapı Bakanlığı Denizcilik Genel Müdürlüğü, Karadeniz'de dron saldırısına uğrayan \"NADEZHDA\" isimli Ro-Ro gemisinde 13'ü Türk vatandaşı olmak üzere toplam 22 mürettebatın bulunduğunu ve gemide bulunan denizcilerin Rusya deniz unsurları tarafından emniyetli şekilde Novorossiysk Limanı'na tahliye edildiğini duyurdu.",
-          "yayin_tarihi": "Mon, 03 Aug 2026 22:36:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-05T08:44:47.856326"
+      "taranma_zamani": "2026-08-06T08:46:26.799900"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "A New Lethal Front in Ukraine: Its Beloved Gas Stations",
+          "baslik": "Europe’s Control of Its Fate Is Tested by Iran and Ukraine Wars, Wildfires and Migration",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html",
-          "ozet": "Russian drone attacks have hit hundreds of gas stations in apparent retaliation for Ukraine’s attacks on oil refineries.",
-          "yayin_tarihi": "Tue, 04 Aug 2026 14:33:18 +0000",
+          "url": "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html",
+          "ozet": "A brutal summer has exposed how much Britain, France, Spain and other European countries are under pressure from forces largely out of their control.",
+          "yayin_tarihi": "Thu, 06 Aug 2026 04:01:07 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+          "baslik": "The War That’s Happening Above Russia and Ukraine",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
-          "ozet": "President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.",
-          "yayin_tarihi": "Mon, 03 Aug 2026 20:06:28 +0000",
+          "url": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html",
+          "ozet": "The combatants are producing ever larger numbers of innovative aerial weapons, hoping for a breakthrough as ground combat is largely frozen.",
+          "yayin_tarihi": "Wed, 05 Aug 2026 17:28:33 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "For Iran, Trump’s Reversal on Escalation Shows Who Has the Upper Hand",
+          "baslik": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html",
-          "ozet": "By expanding the arena of fighting in the region, experts say, Tehran sent a warning about the dangers of a widening war.",
-          "yayin_tarihi": "Mon, 03 Aug 2026 08:50:11 +0000",
+          "url": "https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html",
+          "ozet": "Saudi Arabia has not commented on the claims by the Houthis, who are backed by Iran and have vowed to close “all access routes” to Saudi oil shipments.",
+          "yayin_tarihi": "Wed, 05 Aug 2026 19:46:50 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
+          "baslik": "Finland Tries to Protect Children Against Deepfakes, With Russia in Mind",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
-          "ozet": "At least 17 people were killed, officials said, as the country runs desperately low on interceptor missiles that could fend off Russian bombardments.",
-          "yayin_tarihi": "Wed, 05 Aug 2026 07:58:16 +0000",
+          "url": "https://www.nytimes.com/2026/08/05/world/europe/finland-deepfakes-ai.html",
+          "ozet": "Finland, wary of misinformation from Moscow and beyond, has a leg up on other nations in spotting fake news. But A.I. is a whole new challenge.",
+          "yayin_tarihi": "Wed, 05 Aug 2026 18:59:01 +0000",
           "dil": "İngilizce"
         },
         {
@@ -92,62 +92,78 @@
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-05T08:44:47.856345"
+      "taranma_zamani": "2026-08-06T08:46:26.799923"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Kiev’s strikes on infrastructure depend on Western navigational support — Russian diplomat",
+          "baslik": "Iran-Oman Strait of Hormuz deal may give Tehran control over shipping traffic — agency",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2169153",
-          "ozet": "According to Russian Deputy Foreign Minister Mikhail Galuzin, Moscow will continue to counter these strikes using military, political and diplomatic means",
-          "yayin_tarihi": "Wed, 05 Aug 2026 11:26:41 +0300",
+          "url": "https://tass.com/world/2169577",
+          "ozet": "Such an arrangement would mark one of the major concessions to Iran so far, the news agency said",
+          "yayin_tarihi": "Thu, 06 Aug 2026 11:43:39 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian army strength increased by 27,000 personnel to form military construction units",
+          "baslik": "Russia cripples Ukraine’s 'southern gateway,' Kherson Region official says",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2169147",
-          "ozet": "The new units will improve the efficiency and effectiveness of the military construction complex, the Russian Defense Ministry said",
-          "yayin_tarihi": "Wed, 05 Aug 2026 11:24:54 +0300",
+          "url": "https://tass.com/politics/2169575",
+          "ozet": "Since July 10, Russian forces have repeatedly targeted ports in Greater Odessa",
+          "yayin_tarihi": "Thu, 06 Aug 2026 11:42:17 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Trump expects Iran’s renunciation of nuclear weapons to be formalized",
+          "baslik": "Iran-Oman Strait of Hormuz agreement to create room for maneuver — expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2169143",
-          "ozet": "The US leader stressed that Iran \"would never have a nuclear weapon\"",
-          "yayin_tarihi": "Wed, 05 Aug 2026 10:59:50 +0300",
+          "url": "https://tass.com/world/2169571",
+          "ozet": "Li Zixin cautioned that failing to resolve the issue of control over the Strait of Hormuz could, with a significant likelihood, lead to further escalation and potentially trigger a new conflict",
+          "yayin_tarihi": "Thu, 06 Aug 2026 11:33:15 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Casualties, fire at Wildberries sorting center, 475 UAVs: aftermath of drone attacks",
+          "baslik": "Russia’s Investigative Committee reveals details of Ukraine’s Kursk Region incursion",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2169141",
-          "ozet": "On-duty air defenses intercepted and destroyed Ukrainian drones over 17 Russian regions",
-          "yayin_tarihi": "Wed, 05 Aug 2026 10:50:02 +0300",
+          "url": "https://tass.com/politics/2169569",
+          "ozet": "According to Russian Investigative Committee Spokesperson Svetlana Petrenko, 640 civilians were killed and over 560 were wounded",
+          "yayin_tarihi": "Thu, 06 Aug 2026 11:26:50 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian stocks open higher, yuan edges down",
+          "baslik": "Fire reported aboard ship off Ukraine’s Odessa Region coast",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2169137",
-          "ozet": "The MOEX and RTS indices gained 0.8% at the open",
-          "yayin_tarihi": "Wed, 05 Aug 2026 10:48:08 +0300",
+          "url": "https://tass.com/world/2169565",
+          "ozet": "The ship's hull was damaged",
+          "yayin_tarihi": "Thu, 06 Aug 2026 11:15:07 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-05T08:44:47.856372"
+      "taranma_zamani": "2026-08-06T08:46:26.799945"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-05T08:44:47.856374"
+      "taranma_zamani": "2026-08-06T08:46:26.799947"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "外国打印设备遭安全审查　中国贸易调查扩大",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shangye/jingji/2026/08/06/china-ministry-of-commerce-scrutinizing-foreign-printers-trade-war/",
+          "ozet": "中国商务部宣布，对装有外国系统软件、具有打印和复印功能的进口办公设备启动国家安全调查。这是中国首次进行对外贸易国家安全调查。调查除涉及设备和软件安全，还包括进口产品对中国相关产业的影响，引起外界对审查范围扩大的关注。",
+          "yayin_tarihi": "Thu, 06 Aug 2026 08:34:38 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "中国新冠阳性率升至两成　多地居民称高烧咳嗽增多",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shehui/2026/08/05/china-covid-19-pandemic-hospitals-overcrowded-china-cdc/",
+          "ozet": "中国疾控中心7月30日公布，全国哨点医院门急诊流感样病例中新冠阳性率升至20.3%。广东、河南等地受访者说，近期高烧、咳嗽、乏力患者增多，前往医院就诊的人数明显增加。部分居民质疑，当地医院仅按普通感冒解释病情，刻意回避提及新冠。",
+          "yayin_tarihi": "Wed, 05 Aug 2026 08:52:28 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "美国禁中国人形机器人：中美科技战，进入“机器人时代”？",
           "kaynak": "www.rfa.org",
@@ -171,25 +187,9 @@
           "ozet": "中国出台新规，将限制出境范围延伸至出口管制、产业安全和技术安全领域。掌握受管制技术的科研人员和工程师，也可能被纳入行政边控。新规将于9月15日起施行，多位受访学者担忧，行政部门可能扩大限制范围。",
           "yayin_tarihi": "Mon, 03 Aug 2026 10:47:21 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "中国活动人士孙愿平抵澳寻庇护",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/08/02/sun-yuanping-a-chinese-dissident-fled-to-australia-and-sought-political-asylum/",
-          "ozet": "中国社会活动人士孙愿平7月9日抵达澳大利亚，准备申请政治庇护。他向本台披露，自己2019年因推特涉政言论被拘留后，持续受到警方监控和限制出境，7年多来4次在中国边检受阻。今年7月，他在他人协助下离开中国，经泰国、马来西亚抵达澳大利",
-          "yayin_tarihi": "Sun, 02 Aug 2026 14:06:46 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "萧强：民主与专制新冷战开打 “AI柔术”思维对抗庞大国家机器 ",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/2026/07/30/china-ai-democracy-autocracy-jiujitsu/",
-          "ozet": "当中国将AI当成国家战略，强调开源和国际合作，对民主世界有什么意涵？而反对极权的阵营又能怎么努力？中国数字时代创办人萧强认为，应思考“如水”策略，以“柔术”之道反向解析、利用AI，或可将中国对外输出的AI，都变成自由的AI市场。",
-          "yayin_tarihi": "Thu, 30 Jul 2026 14:48:43 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-05T08:44:47.856605"
+      "taranma_zamani": "2026-08-06T08:46:26.800110"
     }
   }
 }
