@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-08-06",
-  "olusturma_zamani": "2026-08-06T08:46:26.800139",
+  "olusturma_tarihi": "2026-08-07",
+  "olusturma_zamani": "2026-08-07T07:24:57.508965",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Cumhurbaşkanı Erdoğan, Suudi Arabistan'a gitti",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-suudi-arabistana-gitti-953328.html",
+          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, günübirlik çalışma ziyareti için Suudi Arabistan'a hareket etti.",
+          "yayin_tarihi": "Fri, 07 Aug 2026 07:39:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Terörsüz Türkiye süreci için kritik gün: Çerçeve teklif bugün komisyonda",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/terorsuz-turkiye-sureci-icin-kritik-gun-cerceve-teklif-bugun-komisyonda-953333.html",
+          "ozet": "TBMM Adalet Komisyonu, Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi'ni görüşmek üzere bugün toplanacak.",
+          "yayin_tarihi": "Fri, 07 Aug 2026 09:10:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Cumhurbaşkanı Erdoğan'dan Terörsüz Türkiye yasa teklifine ilişkin paylaşım",
           "kaynak": "www.trthaber.com",
@@ -28,35 +44,35 @@
           "ozet": "Tarım ve Orman Bakanı Yumaklı, meteorolojik veriler doğrultusunda Türkiye'nin kıyı kesimlerinde beklenen şiddetli rüzgarın orman yangınları açısından büyük risk oluşturduğunu belirterek \"Yeşil Vatan\"ı korumak için duyarlılık çağrısında bulundu.",
           "yayin_tarihi": "Tue, 04 Aug 2026 09:43:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Terörsüz Türkiye sürecinde gözler TBMM'de",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/terorsuz-turkiye-surecinde-gozler-tbmmde-953033.html",
-          "ozet": "AK Parti, Türkiye'nin terör gündeminden tamamen çıkarılmasını hedefleyen \"Terörsüz Türkiye\" sürecinin hukuki altyapısı için hazırlanan \"Çerçeve Kanun Teklifi\"ni milletvekillerinin imzasına açtı. Bugün saat 17.00’ye kadar tamamlanması beklenen imza sürecinin ardından teklifin kısa sürede TBMM Başkanlığına sunulması planlanıyor.",
-          "yayin_tarihi": "Tue, 04 Aug 2026 11:49:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Trump: Görüşmeler, iyi bir anlaşma imzalamak için İran'ın son şansı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/trump-gorusmeler-iyi-bir-anlasma-imzalamak-icin-iranin-son-sansi-952977.html",
-          "ozet": "ABD Başkanı Donald Trump, İran'la müzakerelerin devam ettiğini ve bu görüşmelerin iyi bir anlaşma imzalamak için \"İran'ın son şansı\" olduğunu belirtti.",
-          "yayin_tarihi": "Mon, 03 Aug 2026 21:15:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-06T08:46:26.799900"
+      "taranma_zamani": "2026-08-07T07:24:57.508822"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Europe’s Control of Its Fate Is Tested by Iran and Ukraine Wars, Wildfires and Migration",
+          "baslik": "Amid Intensifying Russian Strikes, Ukraine’s Pleas for Air Defenses Are Falling Flat",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/06/world/europe/ukraine-russia-missile-defense-patriots.html",
+          "ozet": "Western allies are more hesitant to give up interceptor missiles they may need for their own defense as war rages on multiple fronts.",
+          "yayin_tarihi": "Thu, 06 Aug 2026 12:47:40 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Houthi Attacks on Yemeni Military Threaten to Reignite Civil War",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/06/world/middleeast/houthi-yemen-strikes.html",
+          "ozet": "The Iranian-backed militia said it had targeted the armed forces in two resource-rich provinces, as escalating violence in Yemen imperils a fragile truce.",
+          "yayin_tarihi": "Thu, 06 Aug 2026 23:38:15 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Wars, Wildfires and Migrants Leave Europe Straining for Control",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html",
-          "ozet": "A brutal summer has exposed how much Britain, France, Spain and other European countries are under pressure from forces largely out of their control.",
-          "yayin_tarihi": "Thu, 06 Aug 2026 04:01:07 +0000",
+          "ozet": "A brutal summer has exposed how much pressure European countries are under from forces largely out of their grip: war in Iran and Ukraine, record heat and more.",
+          "yayin_tarihi": "Thu, 06 Aug 2026 13:18:36 +0000",
           "dil": "İngilizce"
         },
         {
@@ -68,82 +84,66 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers",
+          "baslik": "Iran Says It Is Nearing Final Agreement With Oman on Strait of Hormuz",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html",
-          "ozet": "Saudi Arabia has not commented on the claims by the Houthis, who are backed by Iran and have vowed to close “all access routes” to Saudi oil shipments.",
-          "yayin_tarihi": "Wed, 05 Aug 2026 19:46:50 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Finland Tries to Protect Children Against Deepfakes, With Russia in Mind",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/05/world/europe/finland-deepfakes-ai.html",
-          "ozet": "Finland, wary of misinformation from Moscow and beyond, has a leg up on other nations in spotting fake news. But A.I. is a whole new challenge.",
-          "yayin_tarihi": "Wed, 05 Aug 2026 18:59:01 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/05/world/asia/china-cigarette-smoking.html",
-          "ozet": "Disputes between smokers and nonsmokers are becoming more visible as a younger generation increasingly refuses to suffer secondhand smoke in silence.",
-          "yayin_tarihi": "Wed, 05 Aug 2026 04:00:05 +0000",
+          "url": "https://www.nytimes.com/2026/08/05/world/middleeast/iran-oman-strait-of-hormuz.html",
+          "ozet": "The agreement on an acceptable route for ships to pass through the strait would effectively ratify Tehran’s control over the crucial waterway.",
+          "yayin_tarihi": "Wed, 05 Aug 2026 17:08:46 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-06T08:46:26.799923"
+      "taranma_zamani": "2026-08-07T07:24:57.508836"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Iran-Oman Strait of Hormuz deal may give Tehran control over shipping traffic — agency",
+          "baslik": "NATO directly involved in strikes on Russian territory, hackers say citing files",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2169577",
-          "ozet": "Such an arrangement would mark one of the major concessions to Iran so far, the news agency said",
-          "yayin_tarihi": "Thu, 06 Aug 2026 11:43:39 +0300",
+          "url": "https://tass.com/politics/2169989",
+          "ozet": "According to available information, a NATO intelligence-linked hybrid warfare specialist, Bart de Wachter, provided the coordinates of oil and gas terminals in the Leningrad and Kaliningrad regions to Ukraine’s Security Service",
+          "yayin_tarihi": "Fri, 07 Aug 2026 10:03:51 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia cripples Ukraine’s 'southern gateway,' Kherson Region official says",
+          "baslik": "Russia ready to assist with prior task of expanding number of EAEU partners — Russian PM",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2169575",
-          "ozet": "Since July 10, Russian forces have repeatedly targeted ports in Greater Odessa",
-          "yayin_tarihi": "Thu, 06 Aug 2026 11:42:17 +0300",
+          "url": "https://tass.com/economy/2169991",
+          "ozet": "According to Mikhail Mishustin, Moscow expects the number of the Eurasian Economic Union’s preferential trade partners to increase",
+          "yayin_tarihi": "Fri, 07 Aug 2026 10:01:36 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Iran-Oman Strait of Hormuz agreement to create room for maneuver — expert",
+          "baslik": "Russian naval drones to prevent enemy ships from participating in conflicts — admiral",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2169571",
-          "ozet": "Li Zixin cautioned that failing to resolve the issue of control over the Strait of Hormuz could, with a significant likelihood, lead to further escalation and potentially trigger a new conflict",
-          "yayin_tarihi": "Thu, 06 Aug 2026 11:33:15 +0300",
+          "url": "https://tass.com/defense/2169993",
+          "ozet": "Admiral Nikolay Yevmenov specified that unmanned maritime systems could perform more than just strike missions",
+          "yayin_tarihi": "Fri, 07 Aug 2026 10:00:45 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia’s Investigative Committee reveals details of Ukraine’s Kursk Region incursion",
+          "baslik": "EAEU’s key indicators have risen despite global challenges — Russian PM",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2169569",
-          "ozet": "According to Russian Investigative Committee Spokesperson Svetlana Petrenko, 640 civilians were killed and over 560 were wounded",
-          "yayin_tarihi": "Thu, 06 Aug 2026 11:26:50 +0300",
+          "url": "https://tass.com/economy/2169983",
+          "ozet": "The EAEU countries are working together to strengthen Eurasian integration, Mikhail Mishustin underscored",
+          "yayin_tarihi": "Fri, 07 Aug 2026 09:40:33 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Fire reported aboard ship off Ukraine’s Odessa Region coast",
+          "baslik": "Hackers obtain files on Ukrainian strikes against oil storage terminals in Russia",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2169565",
-          "ozet": "The ship's hull was damaged",
-          "yayin_tarihi": "Thu, 06 Aug 2026 11:15:07 +0300",
+          "url": "https://tass.com/politics/2169981",
+          "ozet": "The Russian hackers gained access to communications and files revealing who provided the exact coordinates of the facilities and who \"pushed Ukraine toward terrorism in the Leningrad and Kaliningrad regions\"",
+          "yayin_tarihi": "Fri, 07 Aug 2026 09:39:35 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-06T08:46:26.799945"
+      "taranma_zamani": "2026-08-07T07:24:57.508860"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-06T08:46:26.799947"
+      "taranma_zamani": "2026-08-07T07:24:57.508862"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-06T08:46:26.800110"
+      "taranma_zamani": "2026-08-07T07:24:57.508868"
     }
   }
 }
