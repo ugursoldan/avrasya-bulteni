@@ -1,24 +1,24 @@
 {
-  "olusturma_tarihi": "2026-08-07",
-  "olusturma_zamani": "2026-08-07T07:24:57.508965",
+  "olusturma_tarihi": "2026-08-08",
+  "olusturma_zamani": "2026-08-08T07:02:30.287099",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "Cumhurbaşkanı Erdoğan, Suudi Arabistan'a gitti",
+          "baslik": "Bakan Gürlek: Terör belasından kurtulma arifesindeyiz",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-suudi-arabistana-gitti-953328.html",
-          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, günübirlik çalışma ziyareti için Suudi Arabistan'a hareket etti.",
-          "yayin_tarihi": "Fri, 07 Aug 2026 07:39:00 +0300",
+          "url": "https://www.trthaber.com/haber/gundem/bakan-gurlek-teror-belasindan-kurtulma-arifesindeyiz-953384.html",
+          "ozet": "Adalet Bakanı Akın Gürlek, \"Bölge insanımızın 40 yılı aşkın kanayan yarısı, devletimizin gelişmesi, kalkınması ve huzur ortamının en büyük tehdidi olan terör belasından kurtulma arifesindeyiz. Allah'ın izniyle, milletimizin şuurlu duruşu ile bu defter kapanacak ve ülkemiz için bembeyaz bir sayfa açılacaktır\" ifadelerini kullandı.",
+          "yayin_tarihi": "Fri, 07 Aug 2026 21:53:00 +0300",
           "dil": "Türkçe"
         },
         {
-          "baslik": "Terörsüz Türkiye süreci için kritik gün: Çerçeve teklif bugün komisyonda",
+          "baslik": "FETÖ firarisi Karatepe'nin gömdüğü mühimmat aranıyor",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/terorsuz-turkiye-sureci-icin-kritik-gun-cerceve-teklif-bugun-komisyonda-953333.html",
-          "ozet": "TBMM Adalet Komisyonu, Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi'ni görüşmek üzere bugün toplanacak.",
-          "yayin_tarihi": "Fri, 07 Aug 2026 09:10:00 +0300",
+          "url": "https://www.trthaber.com/haber/gundem/feto-firarisi-karatepenin-gomdugu-muhimmat-araniyor-953360.html",
+          "ozet": "15 Temmuz darbe girişiminde Marmaris'te Cumhurbaşkanı Erdoğan'a yönelik suikast teşebbüsüne katılan ve 10 yıl sonra yakalanan FETÖ'cü terörist Burkay Karatepe'nin beyanları doğrultusunda, Marmaris'te gömülü olduğu iddia edilen silah ve mühmmatın  bulunması için geniş kapsamlı çalışma başlatıldı.",
+          "yayin_tarihi": "Fri, 07 Aug 2026 14:18:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -46,108 +46,124 @@
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-07T07:24:57.508822"
+      "taranma_zamani": "2026-08-08T07:02:30.286980"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Amid Intensifying Russian Strikes, Ukraine’s Pleas for Air Defenses Are Falling Flat",
+          "baslik": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/06/world/europe/ukraine-russia-missile-defense-patriots.html",
-          "ozet": "Western allies are more hesitant to give up interceptor missiles they may need for their own defense as war rages on multiple fronts.",
-          "yayin_tarihi": "Thu, 06 Aug 2026 12:47:40 +0000",
+          "url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
+          "ozet": "The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice.",
+          "yayin_tarihi": "Fri, 07 Aug 2026 16:29:25 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Houthi Attacks on Yemeni Military Threaten to Reignite Civil War",
+          "baslik": "The State of Iran’s Three Key Nuclear Sites ",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/06/world/middleeast/houthi-yemen-strikes.html",
-          "ozet": "The Iranian-backed militia said it had targeted the armed forces in two resource-rich provinces, as escalating violence in Yemen imperils a fragile truce.",
-          "yayin_tarihi": "Thu, 06 Aug 2026 23:38:15 +0000",
+          "url": "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html",
+          "ozet": "The conflict may have slowed, but not stopped, Iran’s nuclear program, officials and experts said.",
+          "yayin_tarihi": "Fri, 07 Aug 2026 13:18:35 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Wars, Wildfires and Migrants Leave Europe Straining for Control",
+          "baslik": "She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html",
-          "ozet": "A brutal summer has exposed how much pressure European countries are under from forces largely out of their grip: war in Iran and Ukraine, record heat and more.",
-          "yayin_tarihi": "Thu, 06 Aug 2026 13:18:36 +0000",
+          "url": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html",
+          "ozet": "As Ukraine repeatedly strikes warehouses of the e-commerce site Wildberries, Tatyana Kim, its billionaire co-founder, faces her biggest test yet.",
+          "yayin_tarihi": "Sat, 08 Aug 2026 04:01:50 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "The War That’s Happening Above Russia and Ukraine",
+          "baslik": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html",
-          "ozet": "The combatants are producing ever larger numbers of innovative aerial weapons, hoping for a breakthrough as ground combat is largely frozen.",
-          "yayin_tarihi": "Wed, 05 Aug 2026 17:28:33 +0000",
+          "url": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html",
+          "ozet": "The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics.",
+          "yayin_tarihi": "Sat, 08 Aug 2026 04:01:31 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iran Says It Is Nearing Final Agreement With Oman on Strait of Hormuz",
+          "baslik": "What to Know About Wildberries, the Company in Ukraine’s Cross Hairs",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/05/world/middleeast/iran-oman-strait-of-hormuz.html",
-          "ozet": "The agreement on an acceptable route for ships to pass through the strait would effectively ratify Tehran’s control over the crucial waterway.",
-          "yayin_tarihi": "Wed, 05 Aug 2026 17:08:46 +0000",
+          "url": "https://www.nytimes.com/2026/08/08/world/europe/wildberries-russia-ukraine.html",
+          "ozet": "Ukrainian drones have increasingly targeted warehouses belonging to Wildberries, which many Russians rely on as the country’s largest e-commerce business.",
+          "yayin_tarihi": "Sat, 08 Aug 2026 04:01:17 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-07T07:24:57.508836"
+      "taranma_zamani": "2026-08-08T07:02:30.287003"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "NATO directly involved in strikes on Russian territory, hackers say citing files",
+          "baslik": "Kiev, West trying to drag Tbilisi into bloody adventures in South Caucasus — Russian MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2169989",
-          "ozet": "According to available information, a NATO intelligence-linked hybrid warfare specialist, Bart de Wachter, provided the coordinates of oil and gas terminals in the Leningrad and Kaliningrad regions to Ukraine’s Security Service",
-          "yayin_tarihi": "Fri, 07 Aug 2026 10:03:51 +0300",
+          "url": "https://tass.com/politics/2170453",
+          "ozet": "A real contribution to stabilizing the situation in the border areas should be the launch of the process of delimitation of the Georgian-South Ossetian and Georgian-Abkhaz state borders, followed by their demarcation, the ministry said",
+          "yayin_tarihi": "Sat, 08 Aug 2026 09:59:38 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia ready to assist with prior task of expanding number of EAEU partners — Russian PM",
+          "baslik": "Kiev promises US not to attack CPC infrastructure in Black Sea — Bloomberg",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2169991",
-          "ozet": "According to Mikhail Mishustin, Moscow expects the number of the Eurasian Economic Union’s preferential trade partners to increase",
-          "yayin_tarihi": "Fri, 07 Aug 2026 10:01:36 +0300",
+          "url": "https://tass.com/world/2170445",
+          "ozet": "Kiev will refrain from striking Caspian Pipeline Consortium infrastructure and vessels approaching the terminal if they are not linked to Russia, not sanctioned by Ukraine and do not transport Russian cargo, the agency reported",
+          "yayin_tarihi": "Sat, 08 Aug 2026 08:28:45 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian naval drones to prevent enemy ships from participating in conflicts — admiral",
+          "baslik": "Russian forces strike defense enterprise, fuel depot in Kiev",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2169993",
-          "ozet": "Admiral Nikolay Yevmenov specified that unmanned maritime systems could perform more than just strike missions",
-          "yayin_tarihi": "Fri, 07 Aug 2026 10:00:45 +0300",
+          "url": "https://tass.com/defense/2170441",
+          "ozet": "According to the Russian Defense Ministry, the group strike involved high-precision land-based weapons",
+          "yayin_tarihi": "Sat, 08 Aug 2026 08:02:52 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "EAEU’s key indicators have risen despite global challenges — Russian PM",
+          "baslik": "Two wounded by drone fragments in Central Russia’s Lipetsk Region",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2169983",
-          "ozet": "The EAEU countries are working together to strengthen Eurasian integration, Mikhail Mishustin underscored",
-          "yayin_tarihi": "Fri, 07 Aug 2026 09:40:33 +0300",
+          "url": "https://tass.com/emergencies/2170435",
+          "ozet": "The drone fell in the city of Zadonsk",
+          "yayin_tarihi": "Sat, 08 Aug 2026 07:45:30 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Hackers obtain files on Ukrainian strikes against oil storage terminals in Russia",
+          "baslik": "Fire breaks out at south Russian refinery after drone attack, 5 wounded",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2169981",
-          "ozet": "The Russian hackers gained access to communications and files revealing who provided the exact coordinates of the facilities and who \"pushed Ukraine toward terrorism in the Leningrad and Kaliningrad regions\"",
-          "yayin_tarihi": "Fri, 07 Aug 2026 09:39:35 +0300",
+          "url": "https://tass.com/emergencies/2170429",
+          "ozet": "First responders and security services are working in the area",
+          "yayin_tarihi": "Sat, 08 Aug 2026 07:26:26 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-07T07:24:57.508860"
+      "taranma_zamani": "2026-08-08T07:02:30.287028"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-07T07:24:57.508862"
+      "taranma_zamani": "2026-08-08T07:02:30.287030"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "中国民族团结新法上路，藏人为何担心文化消失？",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/08/08/tibet-china-tibetan-language/",
+          "ozet": "中国《民族团结进步促进法》今年7月正式实施，引发印度流亡藏人抗议。\n他们担心，随着普通话教育扩大和藏区寄宿制学校增加，藏语、藏族文化和民族身份将进一步被同化。\n北京则表示，新法旨在促进民族团结，并强调保障少数民族语言文化权利。",
+          "yayin_tarihi": "Sat, 08 Aug 2026 01:22:27 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "从水饺到锂电池：美国再将43家中企纳入涉疆进口限制",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/2026/08/07/xinjiang-uflpa-us-ban-forced-labor-43-uyghur/",
+          "ozet": "美国将43家中国企业新增列入《维吾尔强迫劳动预防法》实体清单，涉及食品、服装、电容器、金属和锂电池材料等行业。新规进一步扩大进口限制范围，也加重了进口商对供应链追溯和举证的要求。中国政府随后宣布对6家美国实体采取反制措施。",
+          "yayin_tarihi": "Fri, 07 Aug 2026 15:11:24 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "外国打印设备遭安全审查　中国贸易调查扩大",
           "kaynak": "www.rfa.org",
@@ -171,25 +187,9 @@
           "ozet": "美国扩大对中国科技产品限制，这一次，目标是人形机器人。\n华盛顿称禁令涉及国家安全和数据风险；北京则批评美方泛化国家安全概念、打压中国企业。\n从芯片、TikTok到人形机器人，中美科技战是否已进入\"机器人时代\"？",
           "yayin_tarihi": "Tue, 04 Aug 2026 21:06:26 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "中国供销社扩张县域网络　学者指经济重走“回头路”",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/2026/08/04/china-supply-and-marketing-cooperatives-great-canteens-planned-economy/",
-          "ozet": "中华全国供销合作总社发布“十五五”发展规划，提出到2030年新建、改造上百个国家战略农资储备库，并在产粮大县建设约1000个县域农资配送中心。供销社业务正从传统农资供应延伸至农村超市和应急保供。",
-          "yayin_tarihi": "Tue, 04 Aug 2026 08:59:32 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "中国新规纳入技术安全　科技人员出境受关注",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/08/03/new-chinese-regulations-include-technology-security-overseas-travel-of-scientific-and-technological-personnel-draws-attention/",
-          "ozet": "中国出台新规，将限制出境范围延伸至出口管制、产业安全和技术安全领域。掌握受管制技术的科研人员和工程师，也可能被纳入行政边控。新规将于9月15日起施行，多位受访学者担忧，行政部门可能扩大限制范围。",
-          "yayin_tarihi": "Mon, 03 Aug 2026 10:47:21 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-07T07:24:57.508868"
+      "taranma_zamani": "2026-08-08T07:02:30.287080"
     }
   }
 }
