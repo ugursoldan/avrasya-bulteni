@@ -1,10 +1,34 @@
 {
-  "olusturma_tarihi": "2026-08-08",
-  "olusturma_zamani": "2026-08-08T07:02:30.287099",
+  "olusturma_tarihi": "2026-08-09",
+  "olusturma_zamani": "2026-08-09T07:04:32.344144",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Bakan Gürlek, suç örgütlerine seslendi: Devlet tepenize binecek ve gereği neyse yapacak",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/bakan-gurlek-suc-orgutlerine-seslendi-devlet-tepenize-binecek-ve-geregi-neyse-yapacak-953434.html",
+          "ozet": "Adalet Bakanı Akın Gürlek, \"Kendisini devletin gücünün üzerinde gören, toplumun huzurunu, vatandaşın can ve mal güvenliğini tehdit altına almak isteyen yapılar şunu bilsin, devlet tepenize binecek ve gereği neyse yapacak. Çünkü biz bunun için varız\" dedi.",
+          "yayin_tarihi": "Sat, 08 Aug 2026 22:12:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Öğrenci affı Resmi Gazete'de: Üniversiteye dönüş için 4 ay süre",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/egitim/ogrenci-affi-resmi-gazetede-universiteye-donus-icin-4-ay-sure-953448.html",
+          "ozet": "Öğrenci affına ve yükseköğretime ilişkin düzenlemeleri içeren \"Yükseköğretim Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun\" Resmi Gazete'de yayımlandı.",
+          "yayin_tarihi": "Sun, 09 Aug 2026 09:34:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "İran ve Umman, Hürmüz Boğazının açılması için anlaşmaya çok yakın",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/iran-ve-umman-hurmuz-bogazinin-acilmasi-icin-anlasmaya-cok-yakin-953420.html",
+          "ozet": "İran Dışişleri Bakanı Abbas Arakçi, Hürmüz Boğazı’nın yeniden açılması için Umman’la anlaşmaya çok yakın olduklarını açıkladı. Arakçi, mevcut trafik düzeninin Tahran için kabul edilemez olduğunu ve yeni bir güzergaha ihtiyaç duyulduğunu belirtti.",
+          "yayin_tarihi": "Sat, 08 Aug 2026 14:33:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Bakan Gürlek: Terör belasından kurtulma arifesindeyiz",
           "kaynak": "www.trthaber.com",
@@ -20,59 +44,43 @@
           "ozet": "15 Temmuz darbe girişiminde Marmaris'te Cumhurbaşkanı Erdoğan'a yönelik suikast teşebbüsüne katılan ve 10 yıl sonra yakalanan FETÖ'cü terörist Burkay Karatepe'nin beyanları doğrultusunda, Marmaris'te gömülü olduğu iddia edilen silah ve mühmmatın  bulunması için geniş kapsamlı çalışma başlatıldı.",
           "yayin_tarihi": "Fri, 07 Aug 2026 14:18:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Cumhurbaşkanı Erdoğan'dan Terörsüz Türkiye yasa teklifine ilişkin paylaşım",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-terorsuz-turkiye-yasa-teklifine-iliskin-paylasim-953185.html",
-          "ozet": "Cumhurbaşkanı Erdoğan, TBMM'ye sunulan Millî Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi'ne ilişkin \"Türkiye’yi terör tehdidinden kalıcı olarak kurtarmayı, millî birlik ve beraberliğimizi perçinlemeyi, ülkemizde ve bölgemizde huzur iklimini güçlendirmeyi hedefleyen bu adımın hayırlara vesile olmasını diliyorum\" dedi.",
-          "yayin_tarihi": "Wed, 05 Aug 2026 19:02:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "AK Parti Meclis'te Çerçeve Yasa için toplandı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/ak-parti-mecliste-cerceve-yasa-icin-toplandi-953128.html",
-          "ozet": "AK Parti Grup Başkanı Abdullah Güler ile Genel Başkanvekili Efkan Ala başkanlığındaki toplantıda, Terörsüz Türkiye kapsamında hazırlanan kanun teklifi hakkında milletvekillerine bilgi verildi. 12 maddelik yasa teklifinin bugün Meclis'e verilmesi bekleniyor.",
-          "yayin_tarihi": "Wed, 05 Aug 2026 10:22:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Bakan Yumaklı'dan Yeşil Vatanı korumak için duyarlılık çağrısı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/bakan-yumaklidan-yesil-vatani-korumak-icin-duyarlilik-cagrisi-953014.html",
-          "ozet": "Tarım ve Orman Bakanı Yumaklı, meteorolojik veriler doğrultusunda Türkiye'nin kıyı kesimlerinde beklenen şiddetli rüzgarın orman yangınları açısından büyük risk oluşturduğunu belirterek \"Yeşil Vatan\"ı korumak için duyarlılık çağrısında bulundu.",
-          "yayin_tarihi": "Tue, 04 Aug 2026 09:43:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-08T07:02:30.286980"
+      "taranma_zamani": "2026-08-09T07:04:32.343888"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+          "baslik": "How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
-          "ozet": "The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice.",
-          "yayin_tarihi": "Fri, 07 Aug 2026 16:29:25 +0000",
+          "url": "https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html",
+          "ozet": "Inspired by Ukraine’s battlefield gains, Taiwan is betting on drones to deter a potential Chinese invasion.",
+          "yayin_tarihi": "Sun, 09 Aug 2026 04:01:15 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "The State of Iran’s Three Key Nuclear Sites ",
+          "baslik": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html",
-          "ozet": "The conflict may have slowed, but not stopped, Iran’s nuclear program, officials and experts said.",
-          "yayin_tarihi": "Fri, 07 Aug 2026 13:18:35 +0000",
+          "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
+          "ozet": "The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.",
+          "yayin_tarihi": "Sat, 08 Aug 2026 19:04:41 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.",
+          "baslik": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html",
-          "ozet": "As Ukraine repeatedly strikes warehouses of the e-commerce site Wildberries, Tatyana Kim, its billionaire co-founder, faces her biggest test yet.",
-          "yayin_tarihi": "Sat, 08 Aug 2026 04:01:50 +0000",
+          "url": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html",
+          "ozet": "While the Middle East waits to hear whether a deal can be reached to reopen the Strait of Hormuz, the Yemeni government’s conflict with Iran-backed Houthi rebels escalated overnight.",
+          "yayin_tarihi": "Sat, 08 Aug 2026 14:57:24 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Whirling Like Dervishes in Turkey, but Open to Everyone",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html",
+          "ozet": "Hundreds of people attended a seven-day retreat in the Turkish countryside seeking transcendence through sema, the spiritual practice of whirling.",
+          "yayin_tarihi": "Sat, 08 Aug 2026 20:29:49 +0000",
           "dil": "İngilizce"
         },
         {
@@ -82,68 +90,60 @@
           "ozet": "The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics.",
           "yayin_tarihi": "Sat, 08 Aug 2026 04:01:31 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "What to Know About Wildberries, the Company in Ukraine’s Cross Hairs",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/08/world/europe/wildberries-russia-ukraine.html",
-          "ozet": "Ukrainian drones have increasingly targeted warehouses belonging to Wildberries, which many Russians rely on as the country’s largest e-commerce business.",
-          "yayin_tarihi": "Sat, 08 Aug 2026 04:01:17 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-08T07:02:30.287003"
+      "taranma_zamani": "2026-08-09T07:04:32.343912"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Kiev, West trying to drag Tbilisi into bloody adventures in South Caucasus — Russian MFA",
+          "baslik": "Russian forces strike fuel, military equipment depots at Chernomorsk port",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2170453",
-          "ozet": "A real contribution to stabilizing the situation in the border areas should be the launch of the process of delimitation of the Georgian-South Ossetian and Georgian-Abkhaz state borders, followed by their demarcation, the ministry said",
-          "yayin_tarihi": "Sat, 08 Aug 2026 09:59:38 +0300",
+          "url": "https://tass.com/defense/2170639",
+          "ozet": "Özet oluşturulamadı.",
+          "yayin_tarihi": "Sun, 09 Aug 2026 09:45:37 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Kiev promises US not to attack CPC infrastructure in Black Sea — Bloomberg",
+          "baslik": "Russian forces strike fuel storage tanks near Odessa",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2170445",
-          "ozet": "Kiev will refrain from striking Caspian Pipeline Consortium infrastructure and vessels approaching the terminal if they are not linked to Russia, not sanctioned by Ukraine and do not transport Russian cargo, the agency reported",
-          "yayin_tarihi": "Sat, 08 Aug 2026 08:28:45 +0300",
+          "url": "https://tass.com/defense/2170637",
+          "ozet": "Özet oluşturulamadı.",
+          "yayin_tarihi": "Sun, 09 Aug 2026 09:43:53 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian forces strike defense enterprise, fuel depot in Kiev",
+          "baslik": "Moldovans do not want to unite with Romania - Russian MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2170441",
-          "ozet": "According to the Russian Defense Ministry, the group strike involved high-precision land-based weapons",
-          "yayin_tarihi": "Sat, 08 Aug 2026 08:02:52 +0300",
+          "url": "https://tass.com/politics/2170625",
+          "ozet": "According to the Russian Foreign Ministry Second European Department Director Yury Pilipson, \"promoting the subject of unification between the two countries in the media is part of a campaign to shape Moldovan public opinion and create the impression of growing mass support for the so-called unirea, as the unification process is called there.\"",
+          "yayin_tarihi": "Sun, 09 Aug 2026 09:14:44 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Two wounded by drone fragments in Central Russia’s Lipetsk Region",
+          "baslik": "Russian troops strike Ukrainian UAV, radio-electronic equipment depots in Kharkov Region",
           "kaynak": "tass.com",
-          "url": "https://tass.com/emergencies/2170435",
-          "ozet": "The drone fell in the city of Zadonsk",
-          "yayin_tarihi": "Sat, 08 Aug 2026 07:45:30 +0300",
+          "url": "https://tass.com/defense/2170623",
+          "ozet": "Geran attack UAVs striking Ukrainian depots containing various types of unmanned aerial vehicles, their components and radio-electronic equipment",
+          "yayin_tarihi": "Sun, 09 Aug 2026 08:46:49 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Fire breaks out at south Russian refinery after drone attack, 5 wounded",
+          "baslik": "Alexandrova defeats world’s No.1 Sabalenka during Toronto tournament",
           "kaynak": "tass.com",
-          "url": "https://tass.com/emergencies/2170429",
-          "ozet": "First responders and security services are working in the area",
-          "yayin_tarihi": "Sat, 08 Aug 2026 07:26:26 +0300",
+          "url": "https://tass.com/sports/2170617",
+          "ozet": "In the quarterfinal match, the Russian player will face Elina Svitolina of Ukraine",
+          "yayin_tarihi": "Sun, 09 Aug 2026 08:00:51 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-08T07:02:30.287028"
+      "taranma_zamani": "2026-08-09T07:04:32.343952"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-08T07:02:30.287030"
+      "taranma_zamani": "2026-08-09T07:04:32.343956"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-08T07:02:30.287080"
+      "taranma_zamani": "2026-08-09T07:04:32.344122"
     }
   }
 }
