@@ -1,16 +1,40 @@
 {
-  "olusturma_tarihi": "2026-08-09",
-  "olusturma_zamani": "2026-08-09T07:04:32.344144",
+  "olusturma_tarihi": "2026-08-10",
+  "olusturma_zamani": "2026-08-10T07:51:39.539721",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "Bakan Gürlek, suç örgütlerine seslendi: Devlet tepenize binecek ve gereği neyse yapacak",
+          "baslik": "Kuzey Kore Rusya'ya 50 bin asker gönderiyor",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/bakan-gurlek-suc-orgutlerine-seslendi-devlet-tepenize-binecek-ve-geregi-neyse-yapacak-953434.html",
-          "ozet": "Adalet Bakanı Akın Gürlek, \"Kendisini devletin gücünün üzerinde gören, toplumun huzurunu, vatandaşın can ve mal güvenliğini tehdit altına almak isteyen yapılar şunu bilsin, devlet tepenize binecek ve gereği neyse yapacak. Çünkü biz bunun için varız\" dedi.",
-          "yayin_tarihi": "Sat, 08 Aug 2026 22:12:00 +0300",
+          "url": "https://www.trthaber.com/haber/dunya/kuzey-kore-rusyaya-50-bin-asker-gonderiyor-953509.html",
+          "ozet": "Ukrayna Devlet Başkanı Zelenski, Kuzey Kore askerlerinin Rusya'daki varlığına ilişkin yeni açıklamalarda bulundu. Zelenski, Rusya'ya konuşlandırılan Kuzey Koreli asker sayısının 50 bine ulaşacağını ifade etti.",
+          "yayin_tarihi": "Mon, 10 Aug 2026 08:32:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "İran, Hürmüz Boğazı'nın açılması için ABD'den savaş tazminatı talep ediyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinin-acilmasi-icin-abdden-savas-tazminati-talep-ediyor-953508.html",
+          "ozet": "İran, Hürmüz Boğazı'nı kısmen açmak amacıyla Umman ile bir anlaşmaya varmak için ABD'nin karşılaması gereken bir dizi şart belirledi. Bu şartlar arasında savaş tazminatı ödenmesi de yer alıyor.",
+          "yayin_tarihi": "Mon, 10 Aug 2026 08:26:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "1 Haziran'dan bugüne kadar çıkan yangınlarda 9 tutuklama",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/1-hazirandan-bugune-kadar-cikan-yanginlarda-9-tutuklama-953482.html",
+          "ozet": "Adalet Bakanı Akın Gürlek, 1 Haziran 2026'dan bu yana adli işlem yapılan 52 orman yangınına ilişkin soruşturmalarda 34 şüphelinin tespit edildiğini, bunlardan 9'unun tutuklandığını açıkladı.",
+          "yayin_tarihi": "Sun, 09 Aug 2026 17:44:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "YKS tercih süreci bugün sona eriyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/egitim/yks-tercih-sureci-bugun-sona-eriyor-953501.html",
+          "ozet": "Üniversite hayali kuran adaylar için geri sayım başladı. 29 Temmuz'da başlayan 2026-YKS tercih süreci bugün sona eriyor. Adaylar tercih işlemlerini ÖSYM'nin internet sitesi ve mobil uygulaması üzerinden saat 23.59'a kadar tamamlayabilecek.",
+          "yayin_tarihi": "Mon, 10 Aug 2026 07:18:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -20,130 +44,106 @@
           "ozet": "Öğrenci affına ve yükseköğretime ilişkin düzenlemeleri içeren \"Yükseköğretim Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun\" Resmi Gazete'de yayımlandı.",
           "yayin_tarihi": "Sun, 09 Aug 2026 09:34:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "İran ve Umman, Hürmüz Boğazının açılması için anlaşmaya çok yakın",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/iran-ve-umman-hurmuz-bogazinin-acilmasi-icin-anlasmaya-cok-yakin-953420.html",
-          "ozet": "İran Dışişleri Bakanı Abbas Arakçi, Hürmüz Boğazı’nın yeniden açılması için Umman’la anlaşmaya çok yakın olduklarını açıkladı. Arakçi, mevcut trafik düzeninin Tahran için kabul edilemez olduğunu ve yeni bir güzergaha ihtiyaç duyulduğunu belirtti.",
-          "yayin_tarihi": "Sat, 08 Aug 2026 14:33:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Bakan Gürlek: Terör belasından kurtulma arifesindeyiz",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/bakan-gurlek-teror-belasindan-kurtulma-arifesindeyiz-953384.html",
-          "ozet": "Adalet Bakanı Akın Gürlek, \"Bölge insanımızın 40 yılı aşkın kanayan yarısı, devletimizin gelişmesi, kalkınması ve huzur ortamının en büyük tehdidi olan terör belasından kurtulma arifesindeyiz. Allah'ın izniyle, milletimizin şuurlu duruşu ile bu defter kapanacak ve ülkemiz için bembeyaz bir sayfa açılacaktır\" ifadelerini kullandı.",
-          "yayin_tarihi": "Fri, 07 Aug 2026 21:53:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "FETÖ firarisi Karatepe'nin gömdüğü mühimmat aranıyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/feto-firarisi-karatepenin-gomdugu-muhimmat-araniyor-953360.html",
-          "ozet": "15 Temmuz darbe girişiminde Marmaris'te Cumhurbaşkanı Erdoğan'a yönelik suikast teşebbüsüne katılan ve 10 yıl sonra yakalanan FETÖ'cü terörist Burkay Karatepe'nin beyanları doğrultusunda, Marmaris'te gömülü olduğu iddia edilen silah ve mühmmatın  bulunması için geniş kapsamlı çalışma başlatıldı.",
-          "yayin_tarihi": "Fri, 07 Aug 2026 14:18:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-09T07:04:32.343888"
+      "taranma_zamani": "2026-08-10T07:51:39.539656"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan",
+          "baslik": "Typhoon Dolphin Barrels Into China, Prompting Mass Evacuations",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html",
-          "ozet": "Inspired by Ukraine’s battlefield gains, Taiwan is betting on drones to deter a potential Chinese invasion.",
-          "yayin_tarihi": "Sun, 09 Aug 2026 04:01:15 +0000",
+          "url": "https://www.nytimes.com/2026/08/10/world/asia/typhoon-dolphin-china-evacuations.html",
+          "ozet": "The storm, which made landfall on Sunday evening, is the strongest to hit China this year and also caused flooding in parts of the Philippines.",
+          "yayin_tarihi": "Mon, 10 Aug 2026 06:46:22 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
+          "baslik": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
-          "ozet": "The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.",
-          "yayin_tarihi": "Sat, 08 Aug 2026 19:04:41 +0000",
+          "url": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
+          "ozet": "The Strait of Hormuz is Iran’s best leverage to get Washington to release Iran’s frozen assets, lift economic sanctions and end its naval blockade.",
+          "yayin_tarihi": "Sun, 09 Aug 2026 17:58:22 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
+          "baslik": "Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html",
-          "ozet": "While the Middle East waits to hear whether a deal can be reached to reopen the Strait of Hormuz, the Yemeni government’s conflict with Iran-backed Houthi rebels escalated overnight.",
-          "yayin_tarihi": "Sat, 08 Aug 2026 14:57:24 +0000",
+          "url": "https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html",
+          "ozet": "The United States and Israel attacked Iran on Feb. 28, starting a monthslong war that spread to neighboring countries and rocked global markets.",
+          "yayin_tarihi": "Sun, 09 Aug 2026 21:34:51 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Whirling Like Dervishes in Turkey, but Open to Everyone",
+          "baslik": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html",
-          "ozet": "Hundreds of people attended a seven-day retreat in the Turkish countryside seeking transcendence through sema, the spiritual practice of whirling.",
-          "yayin_tarihi": "Sat, 08 Aug 2026 20:29:49 +0000",
+          "url": "https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html",
+          "ozet": "The appointment of Mohsen Rezaei as secretary of the Supreme National Security Council suggests that Iran’s old guard is consolidating power.",
+          "yayin_tarihi": "Sun, 09 Aug 2026 18:18:22 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
+          "baslik": "Syria Agrees to Reorganized Russian Military Presence",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html",
-          "ozet": "The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics.",
-          "yayin_tarihi": "Sat, 08 Aug 2026 04:01:31 +0000",
+          "url": "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html",
+          "ozet": "After more than a year and a half of negotiations, Syria and Russia have agreed on new parameters of Russia’s military presence in Syria. Syria said it opens the way for a new phase in relations.",
+          "yayin_tarihi": "Sun, 09 Aug 2026 15:57:54 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-09T07:04:32.343912"
+      "taranma_zamani": "2026-08-10T07:51:39.539679"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russian forces strike fuel, military equipment depots at Chernomorsk port",
+          "baslik": "Russia’s Battlegroup West shoots down over 100 Ukrainian heavy hexacopters over past day",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2170639",
-          "ozet": "Özet oluşturulamadı.",
-          "yayin_tarihi": "Sun, 09 Aug 2026 09:45:37 +0300",
+          "url": "https://tass.com/defense/2170825",
+          "ozet": "The battlegroup’s service members also destroyed 63 UAV control centers, three Starlink satellite communication stations",
+          "yayin_tarihi": "Mon, 10 Aug 2026 10:42:22 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian forces strike fuel storage tanks near Odessa",
+          "baslik": "Kiev suffers 9,600 troop, mercenary losses in combat over week — Russian military expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2170637",
-          "ozet": "Özet oluşturulamadı.",
-          "yayin_tarihi": "Sun, 09 Aug 2026 09:43:53 +0300",
+          "url": "https://tass.com/defense/2170819",
+          "ozet": "Andrey Marochko said the greatest manpower losses were inflicted on Ukrainian armed formations in the area of responsibility of Battlegroup East, operating in the Dnepropetrovsk and Zaporozhye regions",
+          "yayin_tarihi": "Mon, 10 Aug 2026 10:24:06 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Moldovans do not want to unite with Romania - Russian MFA",
+          "baslik": "Moscow sees legally binding guarantees from West possible — MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2170625",
-          "ozet": "According to the Russian Foreign Ministry Second European Department Director Yury Pilipson, \"promoting the subject of unification between the two countries in the media is part of a campaign to shape Moldovan public opinion and create the impression of growing mass support for the so-called unirea, as the unification process is called there.\"",
-          "yayin_tarihi": "Sun, 09 Aug 2026 09:14:44 +0300",
+          "url": "https://tass.com/politics/2170811",
+          "ozet": "Russian Deputy Foreign Minister Mikhail Galuzin said that Moscow is confident that a diplomatic settlement of the situation around Ukraine is possible",
+          "yayin_tarihi": "Mon, 10 Aug 2026 10:22:16 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian troops strike Ukrainian UAV, radio-electronic equipment depots in Kharkov Region",
+          "baslik": "Russia's jet fuel production to add 4% in August, stocks sufficient — ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2170623",
-          "ozet": "Geran attack UAVs striking Ukrainian depots containing various types of unmanned aerial vehicles, their components and radio-electronic equipment",
-          "yayin_tarihi": "Sun, 09 Aug 2026 08:46:49 +0300",
+          "url": "https://tass.com/economy/2170809",
+          "ozet": "As of the beginning of August, jet fuel stocks in Russia are at normal levels and can be increased, the Energy Ministry noted",
+          "yayin_tarihi": "Mon, 10 Aug 2026 10:20:40 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Alexandrova defeats world’s No.1 Sabalenka during Toronto tournament",
+          "baslik": "US to unblock Iranian ports after transit through Strait of Hormuz restored — Reuters",
           "kaynak": "tass.com",
-          "url": "https://tass.com/sports/2170617",
-          "ozet": "In the quarterfinal match, the Russian player will face Elina Svitolina of Ukraine",
-          "yayin_tarihi": "Sun, 09 Aug 2026 08:00:51 +0300",
+          "url": "https://tass.com/world/2170791",
+          "ozet": "The sources emphasized that further US actions will be tied to Iran's fulfillment of its obligations to ensure shipping in the strait",
+          "yayin_tarihi": "Mon, 10 Aug 2026 09:55:15 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-09T07:04:32.343952"
+      "taranma_zamani": "2026-08-10T07:51:39.539694"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-09T07:04:32.343956"
+      "taranma_zamani": "2026-08-10T07:51:39.539696"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-09T07:04:32.344122"
+      "taranma_zamani": "2026-08-10T07:51:39.539703"
     }
   }
 }
