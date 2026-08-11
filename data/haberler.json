@@ -1,16 +1,16 @@
 {
-  "olusturma_tarihi": "2026-08-10",
-  "olusturma_zamani": "2026-08-10T07:51:39.539721",
+  "olusturma_tarihi": "2026-08-11",
+  "olusturma_zamani": "2026-08-11T07:16:45.015370",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "Kuzey Kore Rusya'ya 50 bin asker gönderiyor",
+          "baslik": "Terörsüz Türkiye için tarihi düzenleme Meclis'ten geçti",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/kuzey-kore-rusyaya-50-bin-asker-gonderiyor-953509.html",
-          "ozet": "Ukrayna Devlet Başkanı Zelenski, Kuzey Kore askerlerinin Rusya'daki varlığına ilişkin yeni açıklamalarda bulundu. Zelenski, Rusya'ya konuşlandırılan Kuzey Koreli asker sayısının 50 bine ulaşacağını ifade etti.",
-          "yayin_tarihi": "Mon, 10 Aug 2026 08:32:00 +0300",
+          "url": "https://www.trthaber.com/haber/gundem/terorsuz-turkiye-icin-tarihi-duzenleme-meclisten-gecti-953588.html",
+          "ozet": "Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi, TBMM Genel Kurulu’nda 467 oyla kabul edilerek yasalaştı.",
+          "yayin_tarihi": "Mon, 10 Aug 2026 22:33:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -22,49 +22,65 @@
           "dil": "Türkçe"
         },
         {
+          "baslik": "Yeni haftada hava nasıl olacak?",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/yeni-haftada-hava-nasil-olacak-953521.html",
+          "ozet": "Yeni haftada sıcaklıkların yurdun genelinde mevsim normalleri civarında ve üzerinde seyretmesi beklenirken, kuzey ve doğu kesimlerde sağanak etkili olacak. Samsun ve çevresi için bugün kuvvetli yağış uyarısı yapıldı.",
+          "yayin_tarihi": "Mon, 10 Aug 2026 09:32:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Kuzey Kore Rusya'ya 50 bin asker gönderiyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/kuzey-kore-rusyaya-50-bin-asker-gonderiyor-953509.html",
+          "ozet": "Ukrayna Devlet Başkanı Zelenski, Kuzey Kore askerlerinin Rusya'daki varlığına ilişkin yeni açıklamalarda bulundu. Zelenski, Rusya'ya konuşlandırılan Kuzey Koreli asker sayısının 50 bine ulaşacağını ifade etti.",
+          "yayin_tarihi": "Mon, 10 Aug 2026 08:32:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
           "baslik": "1 Haziran'dan bugüne kadar çıkan yangınlarda 9 tutuklama",
           "kaynak": "www.trthaber.com",
           "url": "https://www.trthaber.com/haber/gundem/1-hazirandan-bugune-kadar-cikan-yanginlarda-9-tutuklama-953482.html",
           "ozet": "Adalet Bakanı Akın Gürlek, 1 Haziran 2026'dan bu yana adli işlem yapılan 52 orman yangınına ilişkin soruşturmalarda 34 şüphelinin tespit edildiğini, bunlardan 9'unun tutuklandığını açıkladı.",
           "yayin_tarihi": "Sun, 09 Aug 2026 17:44:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "YKS tercih süreci bugün sona eriyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/egitim/yks-tercih-sureci-bugun-sona-eriyor-953501.html",
-          "ozet": "Üniversite hayali kuran adaylar için geri sayım başladı. 29 Temmuz'da başlayan 2026-YKS tercih süreci bugün sona eriyor. Adaylar tercih işlemlerini ÖSYM'nin internet sitesi ve mobil uygulaması üzerinden saat 23.59'a kadar tamamlayabilecek.",
-          "yayin_tarihi": "Mon, 10 Aug 2026 07:18:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Öğrenci affı Resmi Gazete'de: Üniversiteye dönüş için 4 ay süre",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/egitim/ogrenci-affi-resmi-gazetede-universiteye-donus-icin-4-ay-sure-953448.html",
-          "ozet": "Öğrenci affına ve yükseköğretime ilişkin düzenlemeleri içeren \"Yükseköğretim Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun\" Resmi Gazete'de yayımlandı.",
-          "yayin_tarihi": "Sun, 09 Aug 2026 09:34:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-10T07:51:39.539656"
+      "taranma_zamani": "2026-08-11T07:16:45.015100"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "Southern Iran Bears Brunt of U.S. Bombing",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html",
+          "ozet": "While fighting has abated in much of Iran, near-constant U.S. airstrikes in Qeshm island and other southern spots have upended lives and livelihoods.",
+          "yayin_tarihi": "Mon, 10 Aug 2026 09:02:27 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Ukraine Drone Attack on Industrial City in Russia Kills at Least 13",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html",
+          "ozet": "The strike, on an industrial center in Tatarstan, killed at least 13 people.",
+          "yayin_tarihi": "Mon, 10 Aug 2026 15:17:41 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Iran Insists Strait of Hormuz Will Stay Closed Until Trump Agrees to Demands",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html",
+          "ozet": "A spokesman for the Iranian Foreign Ministry said that talks with Oman on shipping routes in the Strait of Hormuz were “separate” from discussions to fully reopen the waterway.",
+          "yayin_tarihi": "Mon, 10 Aug 2026 15:18:29 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "Typhoon Dolphin Barrels Into China, Prompting Mass Evacuations",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/08/10/world/asia/typhoon-dolphin-china-evacuations.html",
           "ozet": "The storm, which made landfall on Sunday evening, is the strongest to hit China this year and also caused flooding in parts of the Philippines.",
-          "yayin_tarihi": "Mon, 10 Aug 2026 06:46:22 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
-          "ozet": "The Strait of Hormuz is Iran’s best leverage to get Washington to release Iran’s frozen assets, lift economic sanctions and end its naval blockade.",
-          "yayin_tarihi": "Sun, 09 Aug 2026 17:58:22 +0000",
+          "yayin_tarihi": "Mon, 10 Aug 2026 15:59:01 +0000",
           "dil": "İngilizce"
         },
         {
@@ -74,80 +90,72 @@
           "ozet": "The United States and Israel attacked Iran on Feb. 28, starting a monthslong war that spread to neighboring countries and rocked global markets.",
           "yayin_tarihi": "Sun, 09 Aug 2026 21:34:51 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html",
-          "ozet": "The appointment of Mohsen Rezaei as secretary of the Supreme National Security Council suggests that Iran’s old guard is consolidating power.",
-          "yayin_tarihi": "Sun, 09 Aug 2026 18:18:22 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Syria Agrees to Reorganized Russian Military Presence",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html",
-          "ozet": "After more than a year and a half of negotiations, Syria and Russia have agreed on new parameters of Russia’s military presence in Syria. Syria said it opens the way for a new phase in relations.",
-          "yayin_tarihi": "Sun, 09 Aug 2026 15:57:54 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-10T07:51:39.539679"
+      "taranma_zamani": "2026-08-11T07:16:45.015122"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia’s Battlegroup West shoots down over 100 Ukrainian heavy hexacopters over past day",
+          "baslik": "Russia’s Battlegroup West destroys 85 Ukrainian heavy drones, EW station over past day",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2170825",
-          "ozet": "The battlegroup’s service members also destroyed 63 UAV control centers, three Starlink satellite communication stations",
-          "yayin_tarihi": "Mon, 10 Aug 2026 10:42:22 +0300",
+          "url": "https://tass.com/defense/2171215",
+          "ozet": "The battlegroup’s fighters also located and destroyed 61 enemy UAV control centers",
+          "yayin_tarihi": "Tue, 11 Aug 2026 10:02:28 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Kiev suffers 9,600 troop, mercenary losses in combat over week — Russian military expert",
+          "baslik": "Russian Aerospace Forces strike Ukrainian targets in DPR, Kharkov, Sumy",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2170819",
-          "ozet": "Andrey Marochko said the greatest manpower losses were inflicted on Ukrainian armed formations in the area of responsibility of Battlegroup East, operating in the Dnepropetrovsk and Zaporozhye regions",
-          "yayin_tarihi": "Mon, 10 Aug 2026 10:24:06 +0300",
+          "url": "https://tass.com/defense/2171203",
+          "ozet": "The Defense Ministry reported that Russian Aerospace Forces crews carried out airstrikes on the identified targets using FAB-250 aerial bombs",
+          "yayin_tarihi": "Tue, 11 Aug 2026 09:44:02 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Moscow sees legally binding guarantees from West possible — MFA",
+          "baslik": "Iranian bill on Hormuz makes no mention of specific countries — lawmaker",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2170811",
-          "ozet": "Russian Deputy Foreign Minister Mikhail Galuzin said that Moscow is confident that a diplomatic settlement of the situation around Ukraine is possible",
-          "yayin_tarihi": "Mon, 10 Aug 2026 10:22:16 +0300",
+          "url": "https://tass.com/world/2171197",
+          "ozet": "Abolfazl Zohrevand said the bill is comprehensive",
+          "yayin_tarihi": "Tue, 11 Aug 2026 09:28:59 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia's jet fuel production to add 4% in August, stocks sufficient — ministry",
+          "baslik": "Iran’s parliament to consider new law on Strait of Hormuz within two weeks — lawmaker",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2170809",
-          "ozet": "As of the beginning of August, jet fuel stocks in Russia are at normal levels and can be increased, the Energy Ministry noted",
-          "yayin_tarihi": "Mon, 10 Aug 2026 10:20:40 +0300",
+          "url": "https://tass.com/world/2171189",
+          "ozet": "According to Abolfazl Zohrevand, the new bill is being drafted with a long-term perspective to prevent aggression against Iran and consolidate Tehran’s position in the Persian Gulf region",
+          "yayin_tarihi": "Tue, 11 Aug 2026 09:13:58 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US to unblock Iranian ports after transit through Strait of Hormuz restored — Reuters",
+          "baslik": "Russia warns Ukraine against any provocations against Belarus — Russian diplomat",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2170791",
-          "ozet": "The sources emphasized that further US actions will be tied to Iran's fulfillment of its obligations to ensure shipping in the strait",
-          "yayin_tarihi": "Mon, 10 Aug 2026 09:55:15 +0300",
+          "url": "https://tass.com/politics/2171175",
+          "ozet": "Mikhail Galuzin reiterated that the Agreement on Security Guarantees between Russia and Belarus implies \"an obvious mechanism for joint response\" to actions considered threats to a member of the Union State",
+          "yayin_tarihi": "Tue, 11 Aug 2026 07:27:14 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-10T07:51:39.539694"
+      "taranma_zamani": "2026-08-11T07:16:45.015145"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-10T07:51:39.539696"
+      "taranma_zamani": "2026-08-11T07:16:45.015147"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "中国异议人士张毅拉萨展示达赖喇嘛照片被捕",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/08/10/china-tibet-1989-student-movement-zhang-yi-dalai-lama-incitement-to-separatism/",
+          "ozet": "武汉八九学运人士张毅，在西藏拉萨色拉寺向藏人展示达赖喇嘛照片，被警方带走，并以涉嫌“煽动分裂国家罪”刑事拘留并批准逮捕。张毅的儿子张弘远接受本台采访时说，父亲当时只是向一位不懂汉语的藏族妇女借朝拜垫子，双方没有进行涉及政治的交谈。",
+          "yayin_tarihi": "Mon, 10 Aug 2026 08:14:06 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "中国民族团结新法上路，藏人为何担心文化消失？",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "中国疾控中心7月30日公布，全国哨点医院门急诊流感样病例中新冠阳性率升至20.3%。广东、河南等地受访者说，近期高烧、咳嗽、乏力患者增多，前往医院就诊的人数明显增加。部分居民质疑，当地医院仅按普通感冒解释病情，刻意回避提及新冠。",
           "yayin_tarihi": "Wed, 05 Aug 2026 08:52:28 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "美国禁中国人形机器人：中美科技战，进入“机器人时代”？",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/08/04/ai-us-china-tech-war-robots/",
-          "ozet": "美国扩大对中国科技产品限制，这一次，目标是人形机器人。\n华盛顿称禁令涉及国家安全和数据风险；北京则批评美方泛化国家安全概念、打压中国企业。\n从芯片、TikTok到人形机器人，中美科技战是否已进入\"机器人时代\"？",
-          "yayin_tarihi": "Tue, 04 Aug 2026 21:06:26 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-10T07:51:39.539703"
+      "taranma_zamani": "2026-08-11T07:16:45.015343"
     }
   }
 }
