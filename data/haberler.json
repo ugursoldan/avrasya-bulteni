@@ -1,6 +1,6 @@
 {
-  "olusturma_tarihi": "2026-08-11",
-  "olusturma_zamani": "2026-08-11T07:16:45.015370",
+  "olusturma_tarihi": "2026-08-12",
+  "olusturma_zamani": "2026-08-12T07:40:54.697699",
   "diller": {
     "tr": {
       "dil": "Türkçe",
@@ -9,7 +9,7 @@
           "baslik": "Terörsüz Türkiye için tarihi düzenleme Meclis'ten geçti",
           "kaynak": "www.trthaber.com",
           "url": "https://www.trthaber.com/haber/gundem/terorsuz-turkiye-icin-tarihi-duzenleme-meclisten-gecti-953588.html",
-          "ozet": "Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi, TBMM Genel Kurulu’nda 467 oyla kabul edilerek yasalaştı.",
+          "ozet": "Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi, TBMM Genel Kurulu’nda 467 oyla kabul edildi.",
           "yayin_tarihi": "Mon, 10 Aug 2026 22:33:00 +0300",
           "dil": "Türkçe"
         },
@@ -46,108 +46,116 @@
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-11T07:16:45.015100"
+      "taranma_zamani": "2026-08-12T07:40:54.697454"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Southern Iran Bears Brunt of U.S. Bombing",
+          "baslik": "Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html",
-          "ozet": "While fighting has abated in much of Iran, near-constant U.S. airstrikes in Qeshm island and other southern spots have upended lives and livelihoods.",
-          "yayin_tarihi": "Mon, 10 Aug 2026 09:02:27 +0000",
+          "url": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html",
+          "ozet": "The higher tempo of Ukrainian strikes has fueled discontent among Russians, but it is far from clear that it will change the Kremlin’s calculus about the war.",
+          "yayin_tarihi": "Tue, 11 Aug 2026 11:43:18 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Ukraine Drone Attack on Industrial City in Russia Kills at Least 13",
+          "baslik": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html",
-          "ozet": "The strike, on an industrial center in Tatarstan, killed at least 13 people.",
-          "yayin_tarihi": "Mon, 10 Aug 2026 15:17:41 +0000",
+          "url": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html",
+          "ozet": "The Yemeni government said the ship was carrying food supplies to a port on the Bab al-Mandab Strait while the Iran-backed Houthis accused Saudi Arabia of transporting weapons.",
+          "yayin_tarihi": "Tue, 11 Aug 2026 18:29:19 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iran Insists Strait of Hormuz Will Stay Closed Until Trump Agrees to Demands",
+          "baslik": "Ex-Marine Robert Gilman, Freed by Russia After 4 Years in Prison, Arrives in the U.S.",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html",
-          "ozet": "A spokesman for the Iranian Foreign Ministry said that talks with Oman on shipping routes in the Strait of Hormuz were “separate” from discussions to fully reopen the waterway.",
-          "yayin_tarihi": "Mon, 10 Aug 2026 15:18:29 +0000",
+          "url": "https://www.nytimes.com/2026/08/11/world/europe/russia-robert-gilman-release.html",
+          "ozet": "Russia released Robert Gilman on “a humanitarian basis,” President Trump said. Mr. Gilman’s family had said he was in dire physical condition.",
+          "yayin_tarihi": "Wed, 12 Aug 2026 07:18:15 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Typhoon Dolphin Barrels Into China, Prompting Mass Evacuations",
+          "baslik": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/10/world/asia/typhoon-dolphin-china-evacuations.html",
-          "ozet": "The storm, which made landfall on Sunday evening, is the strongest to hit China this year and also caused flooding in parts of the Philippines.",
-          "yayin_tarihi": "Mon, 10 Aug 2026 15:59:01 +0000",
+          "url": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html",
+          "ozet": "The former president was convicted of crimes against humanity during the country’s civil war, the first verdict since he fled to Russia in 2024.",
+          "yayin_tarihi": "Tue, 11 Aug 2026 15:00:43 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign",
+          "baslik": "Yabloko, Russian Antiwar Party, Is Banned From Parliament Elections",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html",
-          "ozet": "The United States and Israel attacked Iran on Feb. 28, starting a monthslong war that spread to neighboring countries and rocked global markets.",
-          "yayin_tarihi": "Sun, 09 Aug 2026 21:34:51 +0000",
+          "url": "https://www.nytimes.com/2026/08/10/world/europe/russia-yabloko-party-ban-parliament.html",
+          "ozet": "The party, Yabloko, has navigated a delicate balancing act with an increasingly heavy-handed Kremlin, but its pro-peace manifesto turned out to be the red line.",
+          "yayin_tarihi": "Tue, 11 Aug 2026 09:05:50 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-11T07:16:45.015122"
+      "taranma_zamani": "2026-08-12T07:40:54.697469"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia’s Battlegroup West destroys 85 Ukrainian heavy drones, EW station over past day",
+          "baslik": "IN BRIEF: One child killed in southern city of Novorossiysk, 502 UAV attack aftermath",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2171215",
-          "ozet": "The battlegroup’s fighters also located and destroyed 61 enemy UAV control centers",
-          "yayin_tarihi": "Tue, 11 Aug 2026 10:02:28 +0300",
+          "url": "https://tass.com/emergencies/2171681",
+          "ozet": "Air defense forces shot down several hundred UAVs during a massive attack on Russia’s southern Krasnodar Region",
+          "yayin_tarihi": "Wed, 12 Aug 2026 10:29:25 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian Aerospace Forces strike Ukrainian targets in DPR, Kharkov, Sumy",
+          "baslik": "Over 600 civilians killed in Ukrainian attacks on Russia’s Belgorod Region since Feb 2022",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2171203",
-          "ozet": "The Defense Ministry reported that Russian Aerospace Forces crews carried out airstrikes on the identified targets using FAB-250 aerial bombs",
-          "yayin_tarihi": "Tue, 11 Aug 2026 09:44:02 +0300",
+          "url": "https://tass.com/society/2171677",
+          "ozet": "According to Acting Governor Alexander Shuvayev, as many as 4,737 people have been injured",
+          "yayin_tarihi": "Wed, 12 Aug 2026 10:25:57 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Iranian bill on Hormuz makes no mention of specific countries — lawmaker",
+          "baslik": "Russian Air Force aircraft fleet almost 100% modernized — commander",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2171197",
-          "ozet": "Abolfazl Zohrevand said the bill is comprehensive",
-          "yayin_tarihi": "Tue, 11 Aug 2026 09:28:59 +0300",
+          "url": "https://tass.com/defense/2171675",
+          "ozet": "Sergey Kobylash added that since the start of the Russian special military operation in Ukraine, the Russian Air Force has \"achieved impressive results in engaging both ground and air targets\"",
+          "yayin_tarihi": "Wed, 12 Aug 2026 10:23:50 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Iran’s parliament to consider new law on Strait of Hormuz within two weeks — lawmaker",
+          "baslik": "Russia’s BARS-Kursk crew destroys over 30 Ukrainian UAVs in Sumy Region — soldier",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2171189",
-          "ozet": "According to Abolfazl Zohrevand, the new bill is being drafted with a long-term perspective to prevent aggression against Iran and consolidate Tehran’s position in the Persian Gulf region",
-          "yayin_tarihi": "Tue, 11 Aug 2026 09:13:58 +0300",
+          "url": "https://tass.com/defense/2171661",
+          "ozet": "The serviceman added that using radar stations, the troops track the flight of Ukrainian UAVs, lock onto the target, and then a Russian drone approaches the target and detonates",
+          "yayin_tarihi": "Wed, 12 Aug 2026 10:03:57 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia warns Ukraine against any provocations against Belarus — Russian diplomat",
+          "baslik": "US could face 'bloodbath' if it launches ground operation against Iran — expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2171175",
-          "ozet": "Mikhail Galuzin reiterated that the Agreement on Security Guarantees between Russia and Belarus implies \"an obvious mechanism for joint response\" to actions considered threats to a member of the Union State",
-          "yayin_tarihi": "Tue, 11 Aug 2026 07:27:14 +0300",
+          "url": "https://tass.com/politics/2171657",
+          "ozet": "Mikhail Margelov said there can be a lot of scenarios",
+          "yayin_tarihi": "Wed, 12 Aug 2026 10:00:12 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-11T07:16:45.015145"
+      "taranma_zamani": "2026-08-12T07:40:54.697484"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-11T07:16:45.015147"
+      "taranma_zamani": "2026-08-12T07:40:54.697486"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "涉犯渗透罪行，原中国籍人士徐春莺遭台法院判刑七年",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/2026/08/11/china-agent-taiwan-accused/",
+          "ozet": "台湾新北地方法院周二（11日）判处原中国大陆籍人士徐春莺七年有期徒刑，罪名包括违反《反渗透法》、《银行法》、诈欺取财、使大陆地区人民非法入境台湾等罪。周二的判决为一审判决，本案仍然可以上诉。",
+          "yayin_tarihi": "Tue, 11 Aug 2026 08:18:37 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "中国异议人士张毅拉萨展示达赖喇嘛照片被捕",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "中国商务部宣布，对装有外国系统软件、具有打印和复印功能的进口办公设备启动国家安全调查。这是中国首次进行对外贸易国家安全调查。调查除涉及设备和软件安全，还包括进口产品对中国相关产业的影响，引起外界对审查范围扩大的关注。",
           "yayin_tarihi": "Thu, 06 Aug 2026 08:34:38 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "中国新冠阳性率升至两成　多地居民称高烧咳嗽增多",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/08/05/china-covid-19-pandemic-hospitals-overcrowded-china-cdc/",
-          "ozet": "中国疾控中心7月30日公布，全国哨点医院门急诊流感样病例中新冠阳性率升至20.3%。广东、河南等地受访者说，近期高烧、咳嗽、乏力患者增多，前往医院就诊的人数明显增加。部分居民质疑，当地医院仅按普通感冒解释病情，刻意回避提及新冠。",
-          "yayin_tarihi": "Wed, 05 Aug 2026 08:52:28 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-11T07:16:45.015343"
+      "taranma_zamani": "2026-08-12T07:40:54.697491"
     }
   }
 }
