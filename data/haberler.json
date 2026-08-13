@@ -1,10 +1,34 @@
 {
-  "olusturma_tarihi": "2026-08-12",
-  "olusturma_zamani": "2026-08-12T07:40:54.697699",
+  "olusturma_tarihi": "2026-08-13",
+  "olusturma_zamani": "2026-08-13T07:42:19.831475",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Yılın 3. enflasyon raporu bugün açıklanacak",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/ekonomi/yilin-3-enflasyon-raporu-bugun-aciklanacak-953823.html",
+          "ozet": "Yılın 3. enflasyon raporu için gözler Merkez Bankası'na çevrildi. Enflasyon Raporu Bilgilendirme Toplantısı, bugün İstanbul Finans Merkezi'nde gerçekleştirecek.",
+          "yayin_tarihi": "Thu, 13 Aug 2026 08:27:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Bakan Şimşek, motorinde kademeli ÖTV uygulamasını değerlendirdi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-motorinde-kademeli-otv-uygulamasini-degerlendirdi-953838.html",
+          "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, motorin için devreye alınan kademeli özel tüketim vergisi (ÖTV) uygulamasına ilişkin, \"Böylece maliyet baskılarını hafifletmenin yanı sıra enflasyon beklentileri ve fiyatlama davranışları üzerindeki etkileri de azaltmayı amaçlıyoruz\" dedi.",
+          "yayin_tarihi": "Thu, 13 Aug 2026 10:22:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Cumhurbaşkanı Erdoğan: Filistin davasını en güçlü şekilde savunmaya devam edeceğiz",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-filistin-davasini-en-guclu-sekilde-savunmaya-devam-edecegiz-953785.html",
+          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Türkiye olarak Filistin davasını her platformda en güçlü şekilde savunmaya devam edeceğiz. 1967 sınırları temelinde başkenti Doğu Kudüs olan bağımsız, egemen ve coğrafi bütünlüğü haiz Filistin devletinin vücut bulması için kararlılıkla mücadele edeceğiz\" dedi.",
+          "yayin_tarihi": "Wed, 12 Aug 2026 18:01:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Terörsüz Türkiye için tarihi düzenleme Meclis'ten geçti",
           "kaynak": "www.trthaber.com",
@@ -20,51 +44,43 @@
           "ozet": "İran, Hürmüz Boğazı'nı kısmen açmak amacıyla Umman ile bir anlaşmaya varmak için ABD'nin karşılaması gereken bir dizi şart belirledi. Bu şartlar arasında savaş tazminatı ödenmesi de yer alıyor.",
           "yayin_tarihi": "Mon, 10 Aug 2026 08:26:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Yeni haftada hava nasıl olacak?",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/yeni-haftada-hava-nasil-olacak-953521.html",
-          "ozet": "Yeni haftada sıcaklıkların yurdun genelinde mevsim normalleri civarında ve üzerinde seyretmesi beklenirken, kuzey ve doğu kesimlerde sağanak etkili olacak. Samsun ve çevresi için bugün kuvvetli yağış uyarısı yapıldı.",
-          "yayin_tarihi": "Mon, 10 Aug 2026 09:32:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Kuzey Kore Rusya'ya 50 bin asker gönderiyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/kuzey-kore-rusyaya-50-bin-asker-gonderiyor-953509.html",
-          "ozet": "Ukrayna Devlet Başkanı Zelenski, Kuzey Kore askerlerinin Rusya'daki varlığına ilişkin yeni açıklamalarda bulundu. Zelenski, Rusya'ya konuşlandırılan Kuzey Koreli asker sayısının 50 bine ulaşacağını ifade etti.",
-          "yayin_tarihi": "Mon, 10 Aug 2026 08:32:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "1 Haziran'dan bugüne kadar çıkan yangınlarda 9 tutuklama",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/1-hazirandan-bugune-kadar-cikan-yanginlarda-9-tutuklama-953482.html",
-          "ozet": "Adalet Bakanı Akın Gürlek, 1 Haziran 2026'dan bu yana adli işlem yapılan 52 orman yangınına ilişkin soruşturmalarda 34 şüphelinin tespit edildiğini, bunlardan 9'unun tutuklandığını açıkladı.",
-          "yayin_tarihi": "Sun, 09 Aug 2026 17:44:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-12T07:40:54.697454"
+      "taranma_zamani": "2026-08-13T07:42:19.831230"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War",
+          "baslik": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html",
-          "ozet": "The higher tempo of Ukrainian strikes has fueled discontent among Russians, but it is far from clear that it will change the Kremlin’s calculus about the war.",
-          "yayin_tarihi": "Tue, 11 Aug 2026 11:43:18 +0000",
+          "url": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
+          "ozet": "The deadly strikes are part of a long-running maritime battle with Ukraine and echo battles over other key shipping routes around the world.",
+          "yayin_tarihi": "Thu, 13 Aug 2026 04:01:08 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
+          "baslik": "Arabian Sea Bird and Turtle Habitat Threatened by Oil From Grounded Tanker",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html",
-          "ozet": "The Yemeni government said the ship was carrying food supplies to a port on the Bab al-Mandab Strait while the Iran-backed Houthis accused Saudi Arabia of transporting weapons.",
-          "yayin_tarihi": "Tue, 11 Aug 2026 18:29:19 +0000",
+          "url": "https://www.nytimes.com/2026/08/12/world/middleeast/oil-spill-oman.html",
+          "ozet": "The spill of Russian crude bound for India compounds the environmental damage from spills in and around the Strait of Hormuz, where tankers and oil facilities have come under attack.",
+          "yayin_tarihi": "Thu, 13 Aug 2026 00:43:39 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html",
+          "ozet": "President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.",
+          "yayin_tarihi": "Wed, 12 Aug 2026 21:37:33 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Zhu Rongji, Former Premier Who Pushed China to a Market Economy, Dies at 97",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html",
+          "ozet": "As a vice premier and then premier, he helped transform China into the world’s leading manufacturing power and led his country into the World Trade Organization.",
+          "yayin_tarihi": "Wed, 12 Aug 2026 23:13:17 +0000",
           "dil": "İngilizce"
         },
         {
@@ -74,80 +90,88 @@
           "ozet": "Russia released Robert Gilman on “a humanitarian basis,” President Trump said. Mr. Gilman’s family had said he was in dire physical condition.",
           "yayin_tarihi": "Wed, 12 Aug 2026 07:18:15 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html",
-          "ozet": "The former president was convicted of crimes against humanity during the country’s civil war, the first verdict since he fled to Russia in 2024.",
-          "yayin_tarihi": "Tue, 11 Aug 2026 15:00:43 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Yabloko, Russian Antiwar Party, Is Banned From Parliament Elections",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/10/world/europe/russia-yabloko-party-ban-parliament.html",
-          "ozet": "The party, Yabloko, has navigated a delicate balancing act with an increasingly heavy-handed Kremlin, but its pro-peace manifesto turned out to be the red line.",
-          "yayin_tarihi": "Tue, 11 Aug 2026 09:05:50 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-12T07:40:54.697469"
+      "taranma_zamani": "2026-08-13T07:42:19.831245"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "IN BRIEF: One child killed in southern city of Novorossiysk, 502 UAV attack aftermath",
+          "baslik": "Ensuring Russia’s security on all fronts: what is known about meeting held by Putin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/emergencies/2171681",
-          "ozet": "Air defense forces shot down several hundred UAVs during a massive attack on Russia’s southern Krasnodar Region",
-          "yayin_tarihi": "Wed, 12 Aug 2026 10:29:25 +0300",
+          "url": "https://tass.com/defense/2172231",
+          "ozet": "The Russian leader stated that the main tasks are being addressed today as part of the special military operation, but it is necessary to \"ensure the security of the Russian state along all its borders\"",
+          "yayin_tarihi": "Thu, 13 Aug 2026 10:36:53 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Over 600 civilians killed in Ukrainian attacks on Russia’s Belgorod Region since Feb 2022",
+          "baslik": "Battlegroup Center recon teams spend month deep behind Ukrainian lines undetected",
           "kaynak": "tass.com",
-          "url": "https://tass.com/society/2171677",
-          "ozet": "According to Acting Governor Alexander Shuvayev, as many as 4,737 people have been injured",
-          "yayin_tarihi": "Wed, 12 Aug 2026 10:25:57 +0300",
+          "url": "https://tass.com/defense/2172229",
+          "ozet": "According to a reconnaissance rifleman, Russian units moved into areas where Ukrainian soldiers were without armor and were moving freely in the open",
+          "yayin_tarihi": "Thu, 13 Aug 2026 10:30:07 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian Air Force aircraft fleet almost 100% modernized — commander",
+          "baslik": "Malaysia, Russia see potential for cooperation in energy sector — minister",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2171675",
-          "ozet": "Sergey Kobylash added that since the start of the Russian special military operation in Ukraine, the Russian Air Force has \"achieved impressive results in engaging both ground and air targets\"",
-          "yayin_tarihi": "Wed, 12 Aug 2026 10:23:50 +0300",
+          "url": "https://tass.com/economy/2172225",
+          "ozet": "Zambry Abdul Kadir said the sides reaffirmed shared interest in finalizing the memorandum of understanding with the Malaysian Nuclear Agency on the peaceful use of nuclear energy and power generation",
+          "yayin_tarihi": "Thu, 13 Aug 2026 10:24:36 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia’s BARS-Kursk crew destroys over 30 Ukrainian UAVs in Sumy Region — soldier",
+          "baslik": "Ukraine needs 5% of US Patriot missile stockpiles to survive winter — Zelensky",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2171661",
-          "ozet": "The serviceman added that using radar stations, the troops track the flight of Ukrainian UAVs, lock onto the target, and then a Russian drone approaches the target and detonates",
-          "yayin_tarihi": "Wed, 12 Aug 2026 10:03:57 +0300",
+          "url": "https://tass.com/world/2172213",
+          "ozet": "According to Vladimir Zelensky, this year Ukraine received 2.5 times fewer interceptor missiles for Patriot systems than in 2025",
+          "yayin_tarihi": "Thu, 13 Aug 2026 09:37:06 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US could face 'bloodbath' if it launches ground operation against Iran — expert",
+          "baslik": "Russia continues to strike Ukrainian naval forces facilities — Defense Ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2171657",
-          "ozet": "Mikhail Margelov said there can be a lot of scenarios",
-          "yayin_tarihi": "Wed, 12 Aug 2026 10:00:12 +0300",
+          "url": "https://tass.com/defense/2172211",
+          "ozet": "During the night, unmanned aerial vehicles struck a command post of the Ukrainian naval forces in the port of Reni, the ministry reported",
+          "yayin_tarihi": "Thu, 13 Aug 2026 09:33:38 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-12T07:40:54.697484"
+      "taranma_zamani": "2026-08-13T07:42:19.831267"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-12T07:40:54.697486"
+      "taranma_zamani": "2026-08-13T07:42:19.831269"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "中国90年代经济改革领军人物朱镕基逝世 享年98岁",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/08/12/zhurongji-former-chinese-premier-dies/",
+          "ozet": "中国前总理朱镕基8月12日在北京逝世，官方称享年98岁。他主导国企、财税和金融改革，推动中国加入世贸组织，为经济高速增长铺路，也留下大规模下岗等社会阵痛。其市场化路线与习近平时代形成鲜明对照。",
+          "yayin_tarihi": "Wed, 12 Aug 2026 19:46:25 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "（突发）中国国务院前总理朱镕基逝世，享年98岁",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/2026/08/12/ccp-leader-passaway-zhurongji/",
+          "ozet": "新华社于8月12日傍晚六点发布消息，证实中国国务院前总理告朱镕基”因病医治无效”，于8月12日11时06分在北京逝世，享年98岁。",
+          "yayin_tarihi": "Wed, 12 Aug 2026 12:16:59 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "中国多行业被收护照　限制出境延伸至体制外",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shehui/2026/08/12/china-entryexit-passport-revocation-exit-restriction/",
+          "ozet": "8月9日，社交平台X有关中国各行业人员被要求上交护照的讨论获得超过10万次浏览。网络列出13类岗位及人员，包括研究所和重点实验室人员、公务员、公共事业单位人员及高新技术民企员工，受访者表示，兰州、四川藏区居民也被收回护照。",
+          "yayin_tarihi": "Wed, 12 Aug 2026 11:59:54 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "涉犯渗透罪行，原中国籍人士徐春莺遭台法院判刑七年",
           "kaynak": "www.rfa.org",
@@ -163,33 +187,9 @@
           "ozet": "武汉八九学运人士张毅，在西藏拉萨色拉寺向藏人展示达赖喇嘛照片，被警方带走，并以涉嫌“煽动分裂国家罪”刑事拘留并批准逮捕。张毅的儿子张弘远接受本台采访时说，父亲当时只是向一位不懂汉语的藏族妇女借朝拜垫子，双方没有进行涉及政治的交谈。",
           "yayin_tarihi": "Mon, 10 Aug 2026 08:14:06 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "中国民族团结新法上路，藏人为何担心文化消失？",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/08/08/tibet-china-tibetan-language/",
-          "ozet": "中国《民族团结进步促进法》今年7月正式实施，引发印度流亡藏人抗议。\n他们担心，随着普通话教育扩大和藏区寄宿制学校增加，藏语、藏族文化和民族身份将进一步被同化。\n北京则表示，新法旨在促进民族团结，并强调保障少数民族语言文化权利。",
-          "yayin_tarihi": "Sat, 08 Aug 2026 01:22:27 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "从水饺到锂电池：美国再将43家中企纳入涉疆进口限制",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/2026/08/07/xinjiang-uflpa-us-ban-forced-labor-43-uyghur/",
-          "ozet": "美国将43家中国企业新增列入《维吾尔强迫劳动预防法》实体清单，涉及食品、服装、电容器、金属和锂电池材料等行业。新规进一步扩大进口限制范围，也加重了进口商对供应链追溯和举证的要求。中国政府随后宣布对6家美国实体采取反制措施。",
-          "yayin_tarihi": "Fri, 07 Aug 2026 15:11:24 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "外国打印设备遭安全审查　中国贸易调查扩大",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shangye/jingji/2026/08/06/china-ministry-of-commerce-scrutinizing-foreign-printers-trade-war/",
-          "ozet": "中国商务部宣布，对装有外国系统软件、具有打印和复印功能的进口办公设备启动国家安全调查。这是中国首次进行对外贸易国家安全调查。调查除涉及设备和软件安全，还包括进口产品对中国相关产业的影响，引起外界对审查范围扩大的关注。",
-          "yayin_tarihi": "Thu, 06 Aug 2026 08:34:38 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-12T07:40:54.697491"
+      "taranma_zamani": "2026-08-13T07:42:19.831450"
     }
   }
 }
