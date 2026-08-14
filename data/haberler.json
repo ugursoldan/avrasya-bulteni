@@ -1,16 +1,24 @@
 {
-  "olusturma_tarihi": "2026-08-13",
-  "olusturma_zamani": "2026-08-13T07:42:19.831475",
+  "olusturma_tarihi": "2026-08-14",
+  "olusturma_zamani": "2026-08-14T07:40:07.830355",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "Yılın 3. enflasyon raporu bugün açıklanacak",
+          "baslik": "Muğla'da bayrağımızı yakan şüpheli tutuklandı",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/ekonomi/yilin-3-enflasyon-raporu-bugun-aciklanacak-953823.html",
-          "ozet": "Yılın 3. enflasyon raporu için gözler Merkez Bankası'na çevrildi. Enflasyon Raporu Bilgilendirme Toplantısı, bugün İstanbul Finans Merkezi'nde gerçekleştirecek.",
-          "yayin_tarihi": "Thu, 13 Aug 2026 08:27:00 +0300",
+          "url": "https://www.trthaber.com/haber/turkiye/muglada-bayragimizi-yakan-supheli-tutuklandi-953874.html",
+          "ozet": "Muğla'nın Menteşe ilçesinde Türk bayrağını çakmakla ateşe verdiği için gözaltına alınan şüpheli tutuklandı.",
+          "yayin_tarihi": "Thu, 13 Aug 2026 15:16:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Füze üretimi için Türkiyenin kapısı çalınabilir",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/fuze-uretimi-icin-turkiyenin-kapisi-calinabilir-953841.html",
+          "ozet": "Son dönemlerde artan savaşlar ve bölgesel riskler bazı ülkelerin stoklarını eritmekle kalmadı çok sayıda başkentte ‘Biz ne kadar hazırız?’ sorusuna neden oldu. Füze üretimi çokça para, ciddi bir süre ve farklı etkenlerin egemen olduğu karmaşık bir denklem. Türkiye, dünyanın dört bir yanında oluşacak füze ihtiyacı için en doğru adreslerden olabilir.",
+          "yayin_tarihi": "Thu, 13 Aug 2026 11:00:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -22,31 +30,23 @@
           "dil": "Türkçe"
         },
         {
+          "baslik": "Yılın 3. enflasyon raporu bugün açıklanacak",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/ekonomi/yilin-3-enflasyon-raporu-bugun-aciklanacak-953823.html",
+          "ozet": "Yılın 3. enflasyon raporu için gözler Merkez Bankası'na çevrildi. Enflasyon Raporu Bilgilendirme Toplantısı, bugün İstanbul Finans Merkezi'nde gerçekleştirecek.",
+          "yayin_tarihi": "Thu, 13 Aug 2026 08:27:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
           "baslik": "Cumhurbaşkanı Erdoğan: Filistin davasını en güçlü şekilde savunmaya devam edeceğiz",
           "kaynak": "www.trthaber.com",
           "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-filistin-davasini-en-guclu-sekilde-savunmaya-devam-edecegiz-953785.html",
           "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Türkiye olarak Filistin davasını her platformda en güçlü şekilde savunmaya devam edeceğiz. 1967 sınırları temelinde başkenti Doğu Kudüs olan bağımsız, egemen ve coğrafi bütünlüğü haiz Filistin devletinin vücut bulması için kararlılıkla mücadele edeceğiz\" dedi.",
           "yayin_tarihi": "Wed, 12 Aug 2026 18:01:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Terörsüz Türkiye için tarihi düzenleme Meclis'ten geçti",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/terorsuz-turkiye-icin-tarihi-duzenleme-meclisten-gecti-953588.html",
-          "ozet": "Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi, TBMM Genel Kurulu’nda 467 oyla kabul edildi.",
-          "yayin_tarihi": "Mon, 10 Aug 2026 22:33:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "İran, Hürmüz Boğazı'nın açılması için ABD'den savaş tazminatı talep ediyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinin-acilmasi-icin-abdden-savas-tazminati-talep-ediyor-953508.html",
-          "ozet": "İran, Hürmüz Boğazı'nı kısmen açmak amacıyla Umman ile bir anlaşmaya varmak için ABD'nin karşılaması gereken bir dizi şart belirledi. Bu şartlar arasında savaş tazminatı ödenmesi de yer alıyor.",
-          "yayin_tarihi": "Mon, 10 Aug 2026 08:26:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-13T07:42:19.831230"
+      "taranma_zamani": "2026-08-14T07:40:07.830119"
     },
     "en": {
       "dil": "İngilizce",
@@ -56,7 +56,23 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
           "ozet": "The deadly strikes are part of a long-running maritime battle with Ukraine and echo battles over other key shipping routes around the world.",
-          "yayin_tarihi": "Thu, 13 Aug 2026 04:01:08 +0000",
+          "yayin_tarihi": "Thu, 13 Aug 2026 10:22:18 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "How China Remembers Zhu Rongji, the Premier Who Spoke His Mind",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html",
+          "ozet": "Tributes to the former premier recalled his spirited style and his efforts to integrate China into global commerce, in contrast with the rigidity of the Xi era.",
+          "yayin_tarihi": "Thu, 13 Aug 2026 11:21:59 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
+          "ozet": "Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.",
+          "yayin_tarihi": "Thu, 13 Aug 2026 22:38:32 +0000",
           "dil": "İngilizce"
         },
         {
@@ -64,90 +80,90 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/08/12/world/middleeast/oil-spill-oman.html",
           "ozet": "The spill of Russian crude bound for India compounds the environmental damage from spills in and around the Strait of Hormuz, where tankers and oil facilities have come under attack.",
-          "yayin_tarihi": "Thu, 13 Aug 2026 00:43:39 +0000",
+          "yayin_tarihi": "Thu, 13 Aug 2026 20:25:38 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’",
+          "baslik": "Trump’s Plane Switch Ruse Pales in Comparison With Putin’s Secrecy",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html",
           "ozet": "President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.",
           "yayin_tarihi": "Wed, 12 Aug 2026 21:37:33 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "Zhu Rongji, Former Premier Who Pushed China to a Market Economy, Dies at 97",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html",
-          "ozet": "As a vice premier and then premier, he helped transform China into the world’s leading manufacturing power and led his country into the World Trade Organization.",
-          "yayin_tarihi": "Wed, 12 Aug 2026 23:13:17 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Ex-Marine Robert Gilman, Freed by Russia After 4 Years in Prison, Arrives in the U.S.",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/11/world/europe/russia-robert-gilman-release.html",
-          "ozet": "Russia released Robert Gilman on “a humanitarian basis,” President Trump said. Mr. Gilman’s family had said he was in dire physical condition.",
-          "yayin_tarihi": "Wed, 12 Aug 2026 07:18:15 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-13T07:42:19.831245"
+      "taranma_zamani": "2026-08-14T07:40:07.830134"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Ensuring Russia’s security on all fronts: what is known about meeting held by Putin",
+          "baslik": "Iran continues US talks through intermediaries — ambassador",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2172231",
-          "ozet": "The Russian leader stated that the main tasks are being addressed today as part of the special military operation, but it is necessary to \"ensure the security of the Russian state along all its borders\"",
-          "yayin_tarihi": "Thu, 13 Aug 2026 10:36:53 +0300",
+          "url": "https://tass.com/world/2172693",
+          "ozet": "Nassereddin Heidari said the extent of the American side's adherence to its commitments is the thing that matters",
+          "yayin_tarihi": "Fri, 14 Aug 2026 10:24:15 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Battlegroup Center recon teams spend month deep behind Ukrainian lines undetected",
+          "baslik": "Russia’s Battlegroup West shoots down 110 Ukrainian heavy hexacopters over past day",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2172229",
-          "ozet": "According to a reconnaissance rifleman, Russian units moved into areas where Ukrainian soldiers were without armor and were moving freely in the open",
-          "yayin_tarihi": "Thu, 13 Aug 2026 10:30:07 +0300",
+          "url": "https://tass.com/defense/2172685",
+          "ozet": "Over the past 24 hours, the battlegroup detected and destroyed 58 UAV control posts, three Starlink satellite communication stations",
+          "yayin_tarihi": "Fri, 14 Aug 2026 10:02:06 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Malaysia, Russia see potential for cooperation in energy sector — minister",
+          "baslik": "Russian forces strike two tugboats, Izmail port rail station in new attacks",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2172225",
-          "ozet": "Zambry Abdul Kadir said the sides reaffirmed shared interest in finalizing the memorandum of understanding with the Malaysian Nuclear Agency on the peaceful use of nuclear energy and power generation",
-          "yayin_tarihi": "Thu, 13 Aug 2026 10:24:36 +0300",
+          "url": "https://tass.com/defense/2172683",
+          "ozet": "According to the Russian Defense Ministry, a rail station at the port of Izmail has been used to load, store and transport military cargo and fuel for Ukrainian troops",
+          "yayin_tarihi": "Fri, 14 Aug 2026 09:53:25 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ukraine needs 5% of US Patriot missile stockpiles to survive winter — Zelensky",
+          "baslik": "Ukraine needs at least one year to repair high-capacity power plants — US intelligence",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2172213",
-          "ozet": "According to Vladimir Zelensky, this year Ukraine received 2.5 times fewer interceptor missiles for Patriot systems than in 2025",
-          "yayin_tarihi": "Thu, 13 Aug 2026 09:37:06 +0300",
+          "url": "https://tass.com/economy/2172657",
+          "ozet": "Ukrainian repair timelines are contingent on the level of further damage that Russian strikes inflict on them as well as partner contributions for repair equipment, the report says",
+          "yayin_tarihi": "Fri, 14 Aug 2026 08:03:44 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia continues to strike Ukrainian naval forces facilities — Defense Ministry",
+          "baslik": "Israel stunned by Iran’s rapid military recovery — newspaper",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2172211",
-          "ozet": "During the night, unmanned aerial vehicles struck a command post of the Ukrainian naval forces in the port of Reni, the ministry reported",
-          "yayin_tarihi": "Thu, 13 Aug 2026 09:33:38 +0300",
+          "url": "https://tass.com/world/2172653",
+          "ozet": "If Iran can return to manufacturing 100-300 missiles per month, then it can restore its missile arsenal to June 2025 levels by early to mid-2027, the newspaper said",
+          "yayin_tarihi": "Fri, 14 Aug 2026 07:25:32 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-13T07:42:19.831267"
+      "taranma_zamani": "2026-08-14T07:40:07.830162"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-13T07:42:19.831269"
+      "taranma_zamani": "2026-08-14T07:40:07.830163"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "朱镕基逝世　讣告罕见赞其“敢说真话”",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/2026/08/13/china-zhu-rongji-reform-and-opening-up-state-owned-enterprise-reform-gao-yu/",
+          "ozet": "中国国务院前总理朱镕基8月12日在北京去世，享年98岁。中国官方当天发布讣告，回顾朱镕基在上海以及担任国务院副总理、总理期间的经历，并提到他主持财税、金融、投资融资体制改革，推动国有企业改革及中国加入世界贸易组织等。",
+          "yayin_tarihi": "Thu, 13 Aug 2026 10:36:29 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "中国、印尼海军首度于台湾东部海域共同演练",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/2026/08/13/china-pla-taiwan-military-exercises-first-island-chain/",
+          "ozet": "中国国防部8月11日公布，中国海军红河舰将在8月中旬与印尼海军“莱”号护卫舰在台湾岛以东海域举行“通航演练”，科目包括通信操演和海上补给。印尼海军表示，相关演练为符合其不结盟外交政策的“过航演习”，绝非作战性质演习。这是中国海军首",
+          "yayin_tarihi": "Thu, 13 Aug 2026 10:27:26 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "中国90年代经济改革领军人物朱镕基逝世 享年98岁",
           "kaynak": "www.rfa.org",
@@ -171,25 +187,9 @@
           "ozet": "8月9日，社交平台X有关中国各行业人员被要求上交护照的讨论获得超过10万次浏览。网络列出13类岗位及人员，包括研究所和重点实验室人员、公务员、公共事业单位人员及高新技术民企员工，受访者表示，兰州、四川藏区居民也被收回护照。",
           "yayin_tarihi": "Wed, 12 Aug 2026 11:59:54 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "涉犯渗透罪行，原中国籍人士徐春莺遭台法院判刑七年",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/2026/08/11/china-agent-taiwan-accused/",
-          "ozet": "台湾新北地方法院周二（11日）判处原中国大陆籍人士徐春莺七年有期徒刑，罪名包括违反《反渗透法》、《银行法》、诈欺取财、使大陆地区人民非法入境台湾等罪。周二的判决为一审判决，本案仍然可以上诉。",
-          "yayin_tarihi": "Tue, 11 Aug 2026 08:18:37 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "中国异议人士张毅拉萨展示达赖喇嘛照片被捕",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/08/10/china-tibet-1989-student-movement-zhang-yi-dalai-lama-incitement-to-separatism/",
-          "ozet": "武汉八九学运人士张毅，在西藏拉萨色拉寺向藏人展示达赖喇嘛照片，被警方带走，并以涉嫌“煽动分裂国家罪”刑事拘留并批准逮捕。张毅的儿子张弘远接受本台采访时说，父亲当时只是向一位不懂汉语的藏族妇女借朝拜垫子，双方没有进行涉及政治的交谈。",
-          "yayin_tarihi": "Mon, 10 Aug 2026 08:14:06 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-13T07:42:19.831450"
+      "taranma_zamani": "2026-08-14T07:40:07.830173"
     }
   }
 }
