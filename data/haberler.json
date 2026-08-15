@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-08-14",
-  "olusturma_zamani": "2026-08-14T07:40:07.830355",
+  "olusturma_tarihi": "2026-08-15",
+  "olusturma_zamani": "2026-08-15T06:48:07.773571",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Cumhurbaşkanı Erdoğan: Türkiye için aşkla çalışmayı sürdüreceğim",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-turkiye-icin-askla-calismayi-surdurecegim-953986.html",
+          "ozet": "Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan, \"Daha yeni başlıyoruz. Türkiye'yi bu hareket, bu kadro, bu gençler, onların çocukları, torunları önce 2053'e, sonra da 2071'e taşıyacak\" dedi. Cumhurbaşkanı Erdoğan, \"Türkiye'ye hizmet mücadelesi içinde olacağım. Türkiye için aşkla çalışmayı sürdüreceğim\" açıklamasını yaptı.",
+          "yayin_tarihi": "Fri, 14 Aug 2026 20:50:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Devlet Bahçeliden AK Partinin 25. kuruluş yıl dönümüne özel çelenk",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/devlet-bahceliden-ak-partinin-25-kurulus-yil-donumune-ozel-celenk-953990.html",
+          "ozet": "MHP Genel Başkanı Devlet Bahçeli, AK Parti’nin 25. kuruluş yıl dönümü için özel çelenk gönderdi.",
+          "yayin_tarihi": "Fri, 14 Aug 2026 20:08:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Muğla'da bayrağımızı yakan şüpheli tutuklandı",
           "kaynak": "www.trthaber.com",
@@ -28,43 +44,27 @@
           "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, motorin için devreye alınan kademeli özel tüketim vergisi (ÖTV) uygulamasına ilişkin, \"Böylece maliyet baskılarını hafifletmenin yanı sıra enflasyon beklentileri ve fiyatlama davranışları üzerindeki etkileri de azaltmayı amaçlıyoruz\" dedi.",
           "yayin_tarihi": "Thu, 13 Aug 2026 10:22:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Yılın 3. enflasyon raporu bugün açıklanacak",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/ekonomi/yilin-3-enflasyon-raporu-bugun-aciklanacak-953823.html",
-          "ozet": "Yılın 3. enflasyon raporu için gözler Merkez Bankası'na çevrildi. Enflasyon Raporu Bilgilendirme Toplantısı, bugün İstanbul Finans Merkezi'nde gerçekleştirecek.",
-          "yayin_tarihi": "Thu, 13 Aug 2026 08:27:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Cumhurbaşkanı Erdoğan: Filistin davasını en güçlü şekilde savunmaya devam edeceğiz",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-filistin-davasini-en-guclu-sekilde-savunmaya-devam-edecegiz-953785.html",
-          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Türkiye olarak Filistin davasını her platformda en güçlü şekilde savunmaya devam edeceğiz. 1967 sınırları temelinde başkenti Doğu Kudüs olan bağımsız, egemen ve coğrafi bütünlüğü haiz Filistin devletinin vücut bulması için kararlılıkla mücadele edeceğiz\" dedi.",
-          "yayin_tarihi": "Wed, 12 Aug 2026 18:01:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-14T07:40:07.830119"
+      "taranma_zamani": "2026-08-15T06:48:07.773339"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
+          "baslik": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
-          "ozet": "The deadly strikes are part of a long-running maritime battle with Ukraine and echo battles over other key shipping routes around the world.",
-          "yayin_tarihi": "Thu, 13 Aug 2026 10:22:18 +0000",
+          "url": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
+          "ozet": "In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.",
+          "yayin_tarihi": "Fri, 14 Aug 2026 23:55:21 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "How China Remembers Zhu Rongji, the Premier Who Spoke His Mind",
+          "baslik": "Wary of Trump, Europe Seeks Role in Eventual Russia-Ukraine Talks",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html",
-          "ozet": "Tributes to the former premier recalled his spirited style and his efforts to integrate China into global commerce, in contrast with the rigidity of the Xi era.",
-          "yayin_tarihi": "Thu, 13 Aug 2026 11:21:59 +0000",
+          "url": "https://www.nytimes.com/2026/08/15/world/europe/wary-of-trump-europe-seeks-role-in-any-russia-ukraine-talks.html",
+          "ozet": "French, German and British diplomats are working on a format for future negotiations — even if Russia has shown little interest.",
+          "yayin_tarihi": "Sat, 15 Aug 2026 04:01:09 +0000",
           "dil": "İngilizce"
         },
         {
@@ -76,78 +76,86 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "Arabian Sea Bird and Turtle Habitat Threatened by Oil From Grounded Tanker",
+          "baslik": "How China Remembers Zhu Rongji, the Premier Who Spoke His Mind",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/12/world/middleeast/oil-spill-oman.html",
-          "ozet": "The spill of Russian crude bound for India compounds the environmental damage from spills in and around the Strait of Hormuz, where tankers and oil facilities have come under attack.",
-          "yayin_tarihi": "Thu, 13 Aug 2026 20:25:38 +0000",
+          "url": "https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html",
+          "ozet": "Tributes to the former premier recalled his spirited style and his efforts to integrate China into global commerce, in contrast with the rigidity of the Xi era.",
+          "yayin_tarihi": "Thu, 13 Aug 2026 11:21:59 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Trump’s Plane Switch Ruse Pales in Comparison With Putin’s Secrecy",
+          "baslik": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html",
-          "ozet": "President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.",
-          "yayin_tarihi": "Wed, 12 Aug 2026 21:37:33 +0000",
+          "url": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
+          "ozet": "The deadly strikes are part of a long-running maritime battle with Ukraine and echo battles over other key shipping routes around the world.",
+          "yayin_tarihi": "Thu, 13 Aug 2026 10:22:18 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-14T07:40:07.830134"
+      "taranma_zamani": "2026-08-15T06:48:07.773353"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Iran continues US talks through intermediaries — ambassador",
+          "baslik": "World Archery allows Russian athletes to compete with flag, anthem",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2172693",
-          "ozet": "Nassereddin Heidari said the extent of the American side's adherence to its commitments is the thing that matters",
-          "yayin_tarihi": "Fri, 14 Aug 2026 10:24:15 +0300",
+          "url": "https://tass.com/sports/2173651",
+          "ozet": "At the same time, participation in competitions governed by World Archery Europe remains under the authority of the continental federation, and it should make a separate decision on the matter",
+          "yayin_tarihi": "Sat, 15 Aug 2026 08:07:35 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia’s Battlegroup West shoots down 110 Ukrainian heavy hexacopters over past day",
+          "baslik": "Thailand requests Russia’s support for free trade zone talks with EAEU — ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2172685",
-          "ozet": "Over the past 24 hours, the battlegroup detected and destroyed 58 UAV control posts, three Starlink satellite communication stations",
-          "yayin_tarihi": "Fri, 14 Aug 2026 10:02:06 +0300",
+          "url": "https://tass.com/economy/2173645",
+          "ozet": "According to the Thai Foreign Ministry, participants of the 9th joint Russian-Thai commission on bilateral cooperation placed emphasis on promoting economic cooperation, particularly expanding trade and investment",
+          "yayin_tarihi": "Sat, 15 Aug 2026 07:53:14 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian forces strike two tugboats, Izmail port rail station in new attacks",
+          "baslik": "Power supplies to some 1,000 households disrupted by drone attack on south Russia",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2172683",
-          "ozet": "According to the Russian Defense Ministry, a rail station at the port of Izmail has been used to load, store and transport military cargo and fuel for Ukrainian troops",
-          "yayin_tarihi": "Fri, 14 Aug 2026 09:53:25 +0300",
+          "url": "https://tass.com/emergencies/2173641",
+          "ozet": "No casualties have been reported, Governor Yury Slyusar says",
+          "yayin_tarihi": "Sat, 15 Aug 2026 07:32:30 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ukraine needs at least one year to repair high-capacity power plants — US intelligence",
+          "baslik": "Trump’s envoys never visited Kiev before — Ukraine’s ex-premier",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2172657",
-          "ozet": "Ukrainian repair timelines are contingent on the level of further damage that Russian strikes inflict on them as well as partner contributions for repair equipment, the report says",
-          "yayin_tarihi": "Fri, 14 Aug 2026 08:03:44 +0300",
+          "url": "https://tass.com/world/2173637",
+          "ozet": "Nikolay Azarov says the visit is being delayed by the lack of \"new approaches that could be discussed\" at the meeting",
+          "yayin_tarihi": "Sat, 15 Aug 2026 07:25:42 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Israel stunned by Iran’s rapid military recovery — newspaper",
+          "baslik": "Suspension of navigation in Black Sea to become Ukraine’s slow death — expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2172653",
-          "ozet": "If Iran can return to manufacturing 100-300 missiles per month, then it can restore its missile arsenal to June 2025 levels by early to mid-2027, the newspaper said",
-          "yayin_tarihi": "Fri, 14 Aug 2026 07:25:32 +0300",
+          "url": "https://tass.com/politics/2173633",
+          "ozet": "According to Alexander Pataman, head of the secretariat of the Zaporozhye Region office of the World Russian People’s Council, Russia has sufficient resources and logistical alternatives to minimize the consequences of this scenario",
+          "yayin_tarihi": "Sat, 15 Aug 2026 07:00:22 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-14T07:40:07.830162"
+      "taranma_zamani": "2026-08-15T06:48:07.773374"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-14T07:40:07.830163"
+      "taranma_zamani": "2026-08-15T06:48:07.773376"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "美台打造无人机“蜂巢”，能否绕开中国供应链？ ",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/08/14/taiwan-drone-supply-chain-china-parts/",
+          "ozet": "台湾推动无人机“非红供应链”，但马达、电芯等关键环节仍依赖中国。台湾能否在危机中持续生产、维修和补充无人机？",
+          "yayin_tarihi": "Fri, 14 Aug 2026 15:58:13 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "朱镕基逝世　讣告罕见赞其“敢说真话”",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "新华社于8月12日傍晚六点发布消息，证实中国国务院前总理告朱镕基”因病医治无效”，于8月12日11时06分在北京逝世，享年98岁。",
           "yayin_tarihi": "Wed, 12 Aug 2026 12:16:59 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "中国多行业被收护照　限制出境延伸至体制外",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/08/12/china-entryexit-passport-revocation-exit-restriction/",
-          "ozet": "8月9日，社交平台X有关中国各行业人员被要求上交护照的讨论获得超过10万次浏览。网络列出13类岗位及人员，包括研究所和重点实验室人员、公务员、公共事业单位人员及高新技术民企员工，受访者表示，兰州、四川藏区居民也被收回护照。",
-          "yayin_tarihi": "Wed, 12 Aug 2026 11:59:54 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-14T07:40:07.830173"
+      "taranma_zamani": "2026-08-15T06:48:07.773386"
     }
   }
 }
