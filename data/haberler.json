@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-08-16",
-  "olusturma_zamani": "2026-08-16T06:49:05.766426",
+  "olusturma_tarihi": "2026-08-17",
+  "olusturma_zamani": "2026-08-17T07:05:53.791847",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Cumhurbaşkanı Erdoğan: Trump'tan F35 sözü aldım, yerine getirilmesini bekliyorum",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-trumptan-f35-sozu-aldim-yerine-getirilmesini-bekliyorum-954105.html",
+          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, El Cezire'ye Türkiye'nin dış politika gündemini değerlendirdi. F-35 programına dönüş, Mekke Anlaşması, Suriye, Gazze ve AB ilişkilerine ilişkin mesajlar verdi. Erdoğan, F-35'ler için ABD Başkanı Trump'tan söz aldığını belirterek, \"Sözün yerine getirilmesini bekliyorum\" dedi.",
+          "yayin_tarihi": "Sun, 16 Aug 2026 22:35:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Çocuğun formasını çıkarttıran zanlıya ev hapsi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/cocugun-formasini-cikarttiran-zanliya-ev-hapsi-954063.html",
+          "ozet": "Gençlerbirliği-Fenerbahçe maçında küçük çocuğun formasının çıkarttırılmasıyla ilgili soruşturma kapsamında şüpheliye ev hapsi verildi. İçişleri Bakanı Mustafa Çiftçi, çocuğu koruyan polis memuruna teşekkür ederek, \"Tribünlerde holiganizme asla geçit vermeyecek, çocuklarımızın huzurunu her daim koruyacağız\"dedi.",
+          "yayin_tarihi": "Sun, 16 Aug 2026 07:59:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Cumhurbaşkanı Erdoğan: Türkiye için aşkla çalışmayı sürdüreceğim",
           "kaynak": "www.trthaber.com",
@@ -28,29 +44,29 @@
           "ozet": "Muğla'nın Menteşe ilçesinde Türk bayrağını çakmakla ateşe verdiği için gözaltına alınan şüpheli tutuklandı.",
           "yayin_tarihi": "Thu, 13 Aug 2026 15:16:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Füze üretimi için Türkiyenin kapısı çalınabilir",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/fuze-uretimi-icin-turkiyenin-kapisi-calinabilir-953841.html",
-          "ozet": "Son dönemlerde artan savaşlar ve bölgesel riskler bazı ülkelerin stoklarını eritmekle kalmadı çok sayıda başkentte ‘Biz ne kadar hazırız?’ sorusuna neden oldu. Füze üretimi çokça para, ciddi bir süre ve farklı etkenlerin egemen olduğu karmaşık bir denklem. Türkiye, dünyanın dört bir yanında oluşacak füze ihtiyacı için en doğru adreslerden olabilir.",
-          "yayin_tarihi": "Thu, 13 Aug 2026 11:00:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Bakan Şimşek, motorinde kademeli ÖTV uygulamasını değerlendirdi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-motorinde-kademeli-otv-uygulamasini-degerlendirdi-953838.html",
-          "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, motorin için devreye alınan kademeli özel tüketim vergisi (ÖTV) uygulamasına ilişkin, \"Böylece maliyet baskılarını hafifletmenin yanı sıra enflasyon beklentileri ve fiyatlama davranışları üzerindeki etkileri de azaltmayı amaçlıyoruz\" dedi.",
-          "yayin_tarihi": "Thu, 13 Aug 2026 10:22:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-16T06:49:05.766199"
+      "taranma_zamani": "2026-08-17T07:05:53.791601"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+          "ozet": "The United States and Iran are poised to blow past a deadline they had set themselves to broker terms on peace and Iran’s nuclear program.",
+          "yayin_tarihi": "Sun, 16 Aug 2026 17:39:39 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/16/world/europe/russia-detained-ukrainians-war-murdid.html",
+          "ozet": "Artem Murdid, his mother and his girlfriend are accused of terrorism. They say they did nothing wrong.",
+          "yayin_tarihi": "Sun, 16 Aug 2026 09:01:44 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "The Iranian YouTube Show Posing Questions Few Dare Ask",
           "kaynak": "rss.nytimes.com",
@@ -60,90 +76,74 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "Wary of Trump, Europe Seeks Role in Eventual Russia-Ukraine Talks",
+          "baslik": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/15/world/europe/europe-russia-ukraine-talks.html",
-          "ozet": "French, German and British diplomats are working on a format for future negotiations — even if Russia has shown little interest.",
-          "yayin_tarihi": "Sat, 15 Aug 2026 04:01:09 +0000",
+          "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
+          "ozet": "President Trump said a cease-fire agreed in June would lead to limits on Iran’s nuclear program and finish the conflict, but the countries appear far apart.",
+          "yayin_tarihi": "Mon, 17 Aug 2026 04:01:18 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
+          "baslik": "China Wants Its Data to Power the World’s A.I.",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
-          "ozet": "Iran said the airmen have been held since March 2 when their fighter jets were shot down. The Qatari government denies detaining any Iranian pilots.",
-          "yayin_tarihi": "Sat, 15 Aug 2026 19:36:20 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
-          "ozet": "In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.",
-          "yayin_tarihi": "Sat, 15 Aug 2026 09:03:54 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
-          "ozet": "Asian allies are beginning to wonder whether the United States would or could defend them in a war.",
-          "yayin_tarihi": "Sat, 15 Aug 2026 09:01:01 +0000",
+          "url": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
+          "ozet": "China is exporting more than A.I. models. It wants its data to influence the world’s chatbots, raising fears that Beijing’s narratives will spread with the technology.",
+          "yayin_tarihi": "Mon, 17 Aug 2026 04:01:07 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-16T06:49:05.766210"
+      "taranma_zamani": "2026-08-17T07:05:53.791623"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Thailand shocked by murder of Russian tourists in Pattaya, foreign minister says",
+          "baslik": "Russian forces strike Ukraine’s Tarantul-class patrol boat at Odessa port overnight",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2173819",
-          "ozet": "Bangkok is taking additional measures to ensure the safety of all travelers, said Sihasak Phuangketkeow",
-          "yayin_tarihi": "Sun, 16 Aug 2026 09:32:07 +0300",
+          "url": "https://tass.com/politics/2174001",
+          "ozet": "Russian attack drones has also struck fuel tanks in Odessa port",
+          "yayin_tarihi": "Mon, 17 Aug 2026 09:56:56 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Three killed, one injured in drone attack on Russia’s Rostov Region — governor",
+          "baslik": "Iran prepares to resume conflict with US — newspaper",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2173809",
-          "ozet": "According to Yury Slyusar, more than 150 UAVs were destroyed over three cities and nine districts in the region",
-          "yayin_tarihi": "Sun, 16 Aug 2026 07:49:01 +0300",
+          "url": "https://tass.com/world/2173969",
+          "ozet": "The newspaper noted that Tehran believes that the memorandum signed was likely just an attempt by the US and Israel to take pressure off the global economy and buy time for a bigger attack down the road",
+          "yayin_tarihi": "Mon, 17 Aug 2026 06:58:51 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Flight from Damascus lands in Moscow as Syria, Russia reopen air service — airport",
+          "baslik": "Ukraine has over hundred nationalist battalions — French expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2173807",
-          "ozet": "The direct air link between the cities was suspended in December 2024 amid the situation in the Arab republic",
-          "yayin_tarihi": "Sun, 16 Aug 2026 07:35:31 +0300",
+          "url": "https://tass.com/world/2173967",
+          "ozet": "Laurent Braillard said that he counted the equivalent of 106 battalions across 85 units",
+          "yayin_tarihi": "Mon, 17 Aug 2026 06:35:00 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US launches 49 probes into weapons supplies to Ukraine",
+          "baslik": "Takaichi has no right to criticize Putin for his visit to Iturup — news outlet",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2173795",
-          "ozet": "Representatives from the Pentagon, the Department of State, the Department of Homeland Security, the FBI, as well as the US Navy and Air Force are taking part and are cooperating with Ukraine's NABU, SAPO, the police, and the prosecutor general’s office",
-          "yayin_tarihi": "Sun, 16 Aug 2026 06:29:00 +0300",
+          "url": "https://tass.com/world/2173965",
+          "ozet": "Japanese Prime Minister Sanae Takaichi has the cheek to lecture Russia about 'hurting Japanese feelings,' while Tokyo has the blood of Russian civilians on its hands by supporting the Kiev regime, the news outlet said",
+          "yayin_tarihi": "Mon, 17 Aug 2026 06:10:00 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ukrainian counterattacks weak near Olkhovatka, enemy focused on defensive action — expert",
+          "baslik": "West testing all its new weapons in Ukraine — Russian defense official",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2173793",
-          "ozet": "Earlier, Andrey Marochko said that Russian forces are on the offensive on a front of 10 kilometers near the town",
-          "yayin_tarihi": "Sun, 16 Aug 2026 06:09:47 +0300",
+          "url": "https://tass.com/politics/2173959",
+          "ozet": "Akhmat Special Forces Commander Lieutenant General Apty Alaudinov opined that the West is preparing for a future conflict with Russia",
+          "yayin_tarihi": "Mon, 17 Aug 2026 05:21:42 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-16T06:49:05.766224"
+      "taranma_zamani": "2026-08-17T07:05:53.791639"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-16T06:49:05.766226"
+      "taranma_zamani": "2026-08-17T07:05:53.791642"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-16T06:49:05.766402"
+      "taranma_zamani": "2026-08-17T07:05:53.791653"
     }
   }
 }
