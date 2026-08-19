@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-08-18",
-  "olusturma_zamani": "2026-08-18T06:52:57.598979",
+  "olusturma_tarihi": "2026-08-19",
+  "olusturma_zamani": "2026-08-19T06:53:25.936238",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Birleşik Arap Emirlikleri, İran'la tüm faaliyetlerini durdurdu",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/birlesik-arap-emirlikleri-iranla-tum-faaliyetlerini-durdurdu-954299.html",
+          "ozet": "Birleşik Arap Emirlikleri (BAE) Dışişleri Bakanlığı, İran'la tüm ticari faaliyetlerin, alışverişlerin ve mali işlemlerin ikinci bir duyuruya kadar durdurulduğunu duyurdu.",
+          "yayin_tarihi": "Tue, 18 Aug 2026 23:41:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Hac kesin kayıtlarında bugün son gün",
           "kaynak": "www.trthaber.com",
@@ -36,21 +44,29 @@
           "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, El Cezire'ye Türkiye'nin dış politika gündemini değerlendirdi. F-35 programına dönüş, Mekke Anlaşması, Suriye, Gazze ve AB ilişkilerine ilişkin mesajlar verdi. Erdoğan, F-35'ler için ABD Başkanı Trump'tan söz aldığını belirterek, \"Sözün yerine getirilmesini bekliyorum\" dedi.",
           "yayin_tarihi": "Sun, 16 Aug 2026 22:35:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Çocuğun formasını çıkarttıran zanlıya ev hapsi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cocugun-formasini-cikarttiran-zanliya-ev-hapsi-954063.html",
-          "ozet": "Gençlerbirliği-Fenerbahçe maçında küçük çocuğun formasının çıkarttırılmasıyla ilgili soruşturma kapsamında şüpheliye ev hapsi verildi. İçişleri Bakanı Mustafa Çiftçi, çocuğu koruyan polis memuruna teşekkür ederek, \"Tribünlerde holiganizme asla geçit vermeyecek, çocuklarımızın huzurunu her daim koruyacağız\"dedi.",
-          "yayin_tarihi": "Sun, 16 Aug 2026 07:59:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-18T06:52:57.598632"
+      "taranma_zamani": "2026-08-19T06:53:25.935996"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html",
+          "ozet": "They made a risky bid to reunite after three years of separation, illness and deprivation — the kind of ordeal suffered by many thousands of families torn apart by the war in eastern Ukraine.",
+          "yayin_tarihi": "Tue, 18 Aug 2026 20:55:38 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "At Ex-Premier Zhu Rongji’s Funeral, China’s Past Shadows Its Present",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/18/world/asia/zhu-rongji-funeral-china.html",
+          "ozet": "Beijing wants to portray today’s China as carrying forward Zhu Rongji’s era of growth, but for many Chinese, the optimism of that time has since faded.",
+          "yayin_tarihi": "Tue, 18 Aug 2026 16:12:57 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing",
           "kaynak": "rss.nytimes.com",
@@ -74,76 +90,60 @@
           "ozet": "China is exporting more than A.I. models. It wants its data to influence the world’s chatbots, raising fears that Beijing’s narratives will spread with the technology.",
           "yayin_tarihi": "Mon, 17 Aug 2026 11:10:29 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "Barred From Ballot, a Party Becomes a Vessel for Russians’ Discontent",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/17/world/europe/russia-yabloko-party-election.html",
-          "ozet": "The spotlight on the country’s only antiwar party has brought a spark to what had looked like another dull, tightly controlled election campaign.",
-          "yayin_tarihi": "Mon, 17 Aug 2026 19:39:22 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Houthis Claim Strike on Saudi Vessel as Red Sea Violence Escalates",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/17/world/middleeast/houthis-saudi-strike.html",
-          "ozet": "The armed group, based in Yemen and backed by Iran, said it had launched missiles near the vital maritime trade route, in a conflict that shows no sign of abating.",
-          "yayin_tarihi": "Mon, 17 Aug 2026 15:16:11 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-18T06:52:57.598657"
+      "taranma_zamani": "2026-08-19T06:53:25.936017"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia comes under one of this year’s largest Ukrainian drone attacks last night",
+          "baslik": "No contacts currently exist between Russian, US senators — Federation Council official",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2174447",
-          "ozet": "In total, 791 Ukrainian UAVs were intercepted and destroyed over 16 Russian regions",
-          "yayin_tarihi": "Tue, 18 Aug 2026 09:14:38 +0300",
+          "url": "https://tass.com/politics/2174915",
+          "ozet": "First Deputy Chairman of the Federation Council Committee on International Affairs Andrey Denisov noted that the Russian lawmakers’ trip to the US in the spring could \"only be welcomed\"",
+          "yayin_tarihi": "Wed, 19 Aug 2026 09:04:13 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Visiting Myanmar’s leader to discuss deepening strategic cooperation with Russia — daily",
+          "baslik": "Russia’s stance against acts of Western piracy to resonate with China — senator",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2174445",
-          "ozet": "Min Aung Hlaing arrived in Moscow on Monday",
-          "yayin_tarihi": "Tue, 18 Aug 2026 08:53:37 +0300",
+          "url": "https://tass.com/politics/2174899",
+          "ozet": "First Deputy Chairman of the Federation Council Committee on International Affairs Andrey Denisov says China is interested in freedom of navigation and the absence of incidents",
+          "yayin_tarihi": "Wed, 19 Aug 2026 04:56:39 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Armenia to feel impact of Russian export restrictions in 2H 2026 — expert",
+          "baslik": "Israel could cease to exist after the Middle East conflict — senior Russian officer",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2174433",
-          "ozet": "According to Anna Fedyunina, the restrictions will affect a significant share of seasonal shipments of berries, vegetables and fruit",
-          "yayin_tarihi": "Tue, 18 Aug 2026 08:14:36 +0300",
+          "url": "https://tass.com/politics/2174897",
+          "ozet": "Apty Alaudinov says Israel’s objective is to drag both the US and the entire NATO bloc into the struggle",
+          "yayin_tarihi": "Wed, 19 Aug 2026 04:02:56 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ukrainian strikes kill around 70 Russian residents in past week, including 3 children",
+          "baslik": "US has changed tactics regarding Iran, halted negotiations — CNN",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2174439",
-          "ozet": "406 people were injured",
-          "yayin_tarihi": "Tue, 18 Aug 2026 08:12:07 +0300",
+          "url": "https://tass.com/world/2174891",
+          "ozet": "According to sources cited by the TV channel, before resuming negotiations, Donald Trump wants to wait until the leaders of the Islamic Republic demonstrate their willingness to conclude the deal he is seeking",
+          "yayin_tarihi": "Wed, 19 Aug 2026 03:25:29 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia expects fish export revenue to remain at 2025 level in 2026 — Shestakov",
+          "baslik": "Employees of Urenco that enriches uranium for Ukraine have voted to strike",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2174435",
-          "ozet": "In 2025, Russia exported 2.1 mln metric tons of fish products worth more than $6 bln",
-          "yayin_tarihi": "Tue, 18 Aug 2026 08:10:30 +0300",
+          "url": "https://tass.com/economy/2174887",
+          "ozet": "The workers disagreed with a potential 4.1% salary rise despite record orders of 27.3 bln euros",
+          "yayin_tarihi": "Wed, 19 Aug 2026 02:41:11 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-18T06:52:57.598711"
+      "taranma_zamani": "2026-08-19T06:53:25.936201"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-18T06:52:57.598714"
+      "taranma_zamani": "2026-08-19T06:53:25.936204"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-18T06:52:57.598724"
+      "taranma_zamani": "2026-08-19T06:53:25.936213"
     }
   }
 }
