@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-08-19",
-  "olusturma_zamani": "2026-08-19T06:53:25.936238",
+  "olusturma_tarihi": "2026-08-20",
+  "olusturma_zamani": "2026-08-20T06:54:40.887854",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "ABD Başkanı Trump'tan İran'a ekonomik savaş ilanı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/abd-baskani-trumptan-irana-ekonomik-savas-ilani-954411.html",
+          "ozet": "ABD Başkanı Donald Trump, İran'a karşı ekonomik bir savaş başlatacağını duyurdu. Trump, \"Herhangi bir ülkeye karşı şimdiye kadar uygulanmış en ezici ekonomik operasyonu ilan ediyorum. Bu, eşi benzeri görülmemiş ölçekte ekonomik savaş ve izolasyon olacak\" ifadelerini kullandı.",
+          "yayin_tarihi": "Thu, 20 Aug 2026 02:12:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Birleşik Arap Emirlikleri, İran'la tüm faaliyetlerini durdurdu",
           "kaynak": "www.trthaber.com",
@@ -36,118 +44,134 @@
           "ozet": "Avrupa Birliği (AB) Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kaja Kallas, sonbaharda Rusya'ya yönelik savaşın başlangıcından bu yana en geniş kapsamlı yaptırım listesini sunmayı planladığını bildirdi.",
           "yayin_tarihi": "Mon, 17 Aug 2026 11:18:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Cumhurbaşkanı Erdoğan: Trump'tan F35 sözü aldım, yerine getirilmesini bekliyorum",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-trumptan-f35-sozu-aldim-yerine-getirilmesini-bekliyorum-954105.html",
-          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, El Cezire'ye Türkiye'nin dış politika gündemini değerlendirdi. F-35 programına dönüş, Mekke Anlaşması, Suriye, Gazze ve AB ilişkilerine ilişkin mesajlar verdi. Erdoğan, F-35'ler için ABD Başkanı Trump'tan söz aldığını belirterek, \"Sözün yerine getirilmesini bekliyorum\" dedi.",
-          "yayin_tarihi": "Sun, 16 Aug 2026 22:35:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-19T06:53:25.935996"
+      "taranma_zamani": "2026-08-20T06:54:40.887743"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
+          "baslik": "Trump, With Limited Options in Iran, Tries Economic Pressure — Again",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html",
-          "ozet": "They made a risky bid to reunite after three years of separation, illness and deprivation — the kind of ordeal suffered by many thousands of families torn apart by the war in eastern Ukraine.",
-          "yayin_tarihi": "Tue, 18 Aug 2026 20:55:38 +0000",
+          "url": "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html",
+          "ozet": "Iran has survived decades of sanctions. Faced with more, it is likely to escalate rather than surrender, analysts said.",
+          "yayin_tarihi": "Wed, 19 Aug 2026 12:37:33 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "At Ex-Premier Zhu Rongji’s Funeral, China’s Past Shadows Its Present",
+          "baslik": "Ukraine’s Ex-Defense Minister Calls for Election, Cementing Break With Zelensky",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/18/world/asia/zhu-rongji-funeral-china.html",
-          "ozet": "Beijing wants to portray today’s China as carrying forward Zhu Rongji’s era of growth, but for many Chinese, the optimism of that time has since faded.",
-          "yayin_tarihi": "Tue, 18 Aug 2026 16:12:57 +0000",
+          "url": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-fedorov-zelensky-elections.html",
+          "ozet": "Mykhailo Fedorov, a popular young leader who was fired last month, said Russia should not be allowed to dictate when Ukrainians can choose their next government.",
+          "yayin_tarihi": "Wed, 19 Aug 2026 12:53:51 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing",
+          "baslik": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html",
-          "ozet": "Ayatollah Mojtaba Khamenei’s appointment of hard-line loyalists to top jobs suggests he is prepared to keep the country on a war footing and to quash domestic dissent.",
-          "yayin_tarihi": "Mon, 17 Aug 2026 09:42:01 +0000",
+          "url": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
+          "ozet": "The Emirates has long been a major trading hub for Iran, and analysts say it has been key to Iranian efforts to evade international sanctions, which Emirati officials deny.",
+          "yayin_tarihi": "Thu, 20 Aug 2026 04:46:27 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "How Ukraine’s Satellites Help Drive Its War Drones",
+          "baslik": "Kyiv’s Dormition Cathedral is Revived After Russian Drone Strike",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
-          "ozet": "Ukrainian drone teams have a powerful new tool: near real-time information on troop movements and locations.",
-          "yayin_tarihi": "Mon, 17 Aug 2026 20:38:44 +0000",
+          "url": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-kyiv-cathedral-russia-drone-strike.html",
+          "ozet": "Volunteers and priests rallied to clean up Kyiv’s Dormition Cathedral, still smelling of smoke from a massive blaze, for an anniversary celebration.",
+          "yayin_tarihi": "Wed, 19 Aug 2026 09:29:36 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "China Wants Its Data to Power the World’s A.I.",
+          "baslik": "How the Iran War Made Africa’s Richest Man Even Richer",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
-          "ozet": "China is exporting more than A.I. models. It wants its data to influence the world’s chatbots, raising fears that Beijing’s narratives will spread with the technology.",
-          "yayin_tarihi": "Mon, 17 Aug 2026 11:10:29 +0000",
+          "url": "https://www.nytimes.com/2026/08/19/world/africa/dangote-iran-refinery-oil-nigeria.html",
+          "ozet": "Africans have turned to one of their own for fuel as the world’s supplies run low. But they are not the only ones with the continent’s richest man on speed dial.",
+          "yayin_tarihi": "Wed, 19 Aug 2026 09:00:49 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-19T06:53:25.936017"
+      "taranma_zamani": "2026-08-20T06:54:40.887773"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "No contacts currently exist between Russian, US senators — Federation Council official",
+          "baslik": "Russian forces deliver strike on Antonov plant assembling Lyuty UAVs in Kiev — top brass",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2174915",
-          "ozet": "First Deputy Chairman of the Federation Council Committee on International Affairs Andrey Denisov noted that the Russian lawmakers’ trip to the US in the spring could \"only be welcomed\"",
-          "yayin_tarihi": "Wed, 19 Aug 2026 09:04:13 +0300",
+          "url": "https://tass.com/politics/2175459",
+          "ozet": "The enterprise also developed and manufactured various types of manned aircraft",
+          "yayin_tarihi": "Thu, 20 Aug 2026 09:48:40 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia’s stance against acts of Western piracy to resonate with China — senator",
+          "baslik": "Japan seeks to integrate into NATO, Chinese ambassador to Russia says",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2174899",
-          "ozet": "First Deputy Chairman of the Federation Council Committee on International Affairs Andrey Denisov says China is interested in freedom of navigation and the absence of incidents",
-          "yayin_tarihi": "Wed, 19 Aug 2026 04:56:39 +0300",
+          "url": "https://tass.com/world/2175455",
+          "ozet": "According to Zhang Hanhui, the official Tokyo's steps are steadily eroding the peaceful nature of the Japanese Constitution",
+          "yayin_tarihi": "Thu, 20 Aug 2026 09:46:55 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Israel could cease to exist after the Middle East conflict — senior Russian officer",
+          "baslik": "Russian forces hit Ukraine’s military warehouses in Chernomorsk, Yuzhny ports — top brass",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2174897",
-          "ozet": "Apty Alaudinov says Israel’s objective is to drag both the US and the entire NATO bloc into the struggle",
-          "yayin_tarihi": "Wed, 19 Aug 2026 04:02:56 +0300",
+          "url": "https://tass.com/politics/2175449",
+          "ozet": "Targets were hit on the evening of August 19",
+          "yayin_tarihi": "Thu, 20 Aug 2026 09:39:10 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US has changed tactics regarding Iran, halted negotiations — CNN",
+          "baslik": "Russian forces hit Fire Point facility manufacturing attack drone components in Kiev",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2174891",
-          "ozet": "According to sources cited by the TV channel, before resuming negotiations, Donald Trump wants to wait until the leaders of the Islamic Republic demonstrate their willingness to conclude the deal he is seeking",
-          "yayin_tarihi": "Wed, 19 Aug 2026 03:25:29 +0300",
+          "url": "https://tass.com/politics/2175447",
+          "ozet": "The enterprise also assembled and stored boosters used in Flamingo cruise missiles",
+          "yayin_tarihi": "Thu, 20 Aug 2026 09:38:23 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Employees of Urenco that enriches uranium for Ukraine have voted to strike",
+          "baslik": "Russia is China’s most reliable supplier of energy sources — Russian senator",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2174887",
-          "ozet": "The workers disagreed with a potential 4.1% salary rise despite record orders of 27.3 bln euros",
-          "yayin_tarihi": "Wed, 19 Aug 2026 02:41:11 +0300",
+          "url": "https://tass.com/economy/2175417",
+          "ozet": "Andrey Denisov says oil supplies from Russia to China grew by 92% in the first seven months amid the crisis around the Strait of Hormuz",
+          "yayin_tarihi": "Thu, 20 Aug 2026 07:35:22 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-19T06:53:25.936201"
+      "taranma_zamani": "2026-08-20T06:54:40.887801"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-19T06:53:25.936204"
+      "taranma_zamani": "2026-08-20T06:54:40.887803"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "环保新法上路，保护居民还是管得太细？",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/08/19/china-environmental-code/",
+          "ozet": "中国生态环境法典正式施行，从广场舞、露天烧烤到企业污染都被纳入治理。新规能否在保护居民与限制公共生活之间划清边界？",
+          "yayin_tarihi": "Wed, 19 Aug 2026 21:06:10 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "“陆配”徐春莺被判7年：台湾为何重判这起“介选案”",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/2026/08/19/taiwan-xu-chunying-election-interference-case-7-year-sentence/",
+          "ozet": "陆配”徐春莺被判7年，为什么？\n台湾法院认定，她曾接受中国大陆相关人士指示，介入台湾选举，并涉及地下汇兑、诈欺等罪。\n而类似的“中国政治影响”案件，也在美国引发关注。\n在两岸和中美关系持续紧张的背景下，外国影响与政治渗透的界线在哪",
+          "yayin_tarihi": "Wed, 19 Aug 2026 13:45:26 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "诺基亚中国业务缩减　杭州研发中心关闭裁逾千人",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shangye/jingji/2026/08/19/nokia-china-closes-hangzhou-rd-center-withdraws-from-china/",
+          "ozet": "芬兰电信设备制造商诺基亚正在进一步缩减中国业务。美国通信行业媒体Light Reading 8月14日报道，诺基亚将关闭位于中国杭州的一处研发中心，约1600个职位受到影响。芬兰媒体随后报道，该研发单位主要从事无线电技术研发。",
+          "yayin_tarihi": "Wed, 19 Aug 2026 08:28:39 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "中国公安新规瞄准个人 手机数据恐遭公安查阅",
           "kaynak": "www.rfa.org",
@@ -163,33 +187,9 @@
           "ozet": "台湾推动无人机“非红供应链”，但马达、电芯等关键环节仍依赖中国。台湾能否在危机中持续生产、维修和补充无人机？",
           "yayin_tarihi": "Fri, 14 Aug 2026 15:58:13 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "朱镕基逝世　讣告罕见赞其“敢说真话”",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/2026/08/13/china-zhu-rongji-reform-and-opening-up-state-owned-enterprise-reform-gao-yu/",
-          "ozet": "中国国务院前总理朱镕基8月12日在北京去世，享年98岁。中国官方当天发布讣告，回顾朱镕基在上海以及担任国务院副总理、总理期间的经历，并提到他主持财税、金融、投资融资体制改革，推动国有企业改革及中国加入世界贸易组织等。",
-          "yayin_tarihi": "Thu, 13 Aug 2026 10:36:29 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "中国、印尼海军首度于台湾东部海域共同演练",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/2026/08/13/china-pla-taiwan-military-exercises-first-island-chain/",
-          "ozet": "中国国防部8月11日公布，中国海军红河舰将在8月中旬与印尼海军“莱”号护卫舰在台湾岛以东海域举行“通航演练”，科目包括通信操演和海上补给。印尼海军表示，相关演练为符合其不结盟外交政策的“过航演习”，绝非作战性质演习。这是中国海军首",
-          "yayin_tarihi": "Thu, 13 Aug 2026 10:27:26 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "中国90年代经济改革领军人物朱镕基逝世 享年98岁",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/08/12/zhurongji-former-chinese-premier-dies/",
-          "ozet": "中国前总理朱镕基8月12日在北京逝世，官方称享年98岁。他主导国企、财税和金融改革，推动中国加入世贸组织，为经济高速增长铺路，也留下大规模下岗等社会阵痛。其市场化路线与习近平时代形成鲜明对照。",
-          "yayin_tarihi": "Wed, 12 Aug 2026 19:46:25 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-19T06:53:25.936213"
+      "taranma_zamani": "2026-08-20T06:54:40.887813"
     }
   }
 }
