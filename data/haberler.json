@@ -1,10 +1,42 @@
 {
-  "olusturma_tarihi": "2026-08-20",
-  "olusturma_zamani": "2026-08-20T06:54:40.887854",
+  "olusturma_tarihi": "2026-08-21",
+  "olusturma_zamani": "2026-08-21T06:55:57.776075",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "2027 için alarm verildi: En sıcak El Nino olacak",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/2027-icin-alarm-verildi-en-sicak-el-nino-olacak-954517.html",
+          "ozet": "İngiltere Meteoroloji Ofisi (Met Office), Pasifik Okyanusu'nda gelişmekte olan El Nino olayının insan hafızasındaki en güçlü seviyeye ulaşmasının muhtemel olduğu konusunda uyarıda bulundu.",
+          "yayin_tarihi": "Fri, 21 Aug 2026 06:31:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Kamu borçlarının yapılandırılmasında son günler",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/ekonomi/kamu-borclarinin-yapilandirilmasinda-son-gunler-954525.html",
+          "ozet": "Kamuya borcu olan mükelleflere ve esnafa nefes aldıracak yapılandırma için başvurular devam ediyor. Düzenleme kapsamında, bazı borçlar 72 aya kadar taksitlendirilebiliyor. \nDüzenleme, faiz ve teminat yükünü de hafifletiyor. Son başvuru tarihi ise 31 Ağustos Pazartesi.",
+          "yayin_tarihi": "Fri, 21 Aug 2026 07:55:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "İletişim Başkanı Duran: Netanyahu'nun oyunlarını Türkiye'nin barışçıl dış politikası bozacak",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-netanyahunun-oyunlarini-turkiyenin-bariscil-dis-politikasi-bozacak-954468.html",
+          "ozet": "İletişim Başkanı Burhanettin Duran, \"Politik geleceklerini garanti altına almak için bölgeyi ateşe atmaktan çekinmeyecek Netanyahu gibi itibarsızların oyunlarını Türkiye'nin barışçıl dış politikası bozacaktır\" dedi.",
+          "yayin_tarihi": "Thu, 20 Aug 2026 14:00:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Selçuk Bayraktar'dan TEKNOFEST çağrısı: Mavi Vatan'ın kalbinin attığı yere herkesi bekliyoruz",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/selcuk-bayraktardan-teknofest-cagrisi-mavi-vatanin-kalbinin-attigi-yere-herkesi-bekliyoruz-954450.html",
+          "ozet": "TEKNOFEST Yönetim Kurulu Başkanı ve Türkiye Teknoloji Takımı Vakfı (T3 Vakfı) Mütevelli Heyeti Başkanı Selçuk Bayraktar, 4 gün sürecek TEKNOFEST Mavi Vatan için vatandaşları Gölcük Tersanesi Komutanlığı'na davet etti.",
+          "yayin_tarihi": "Thu, 20 Aug 2026 11:49:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "ABD Başkanı Trump'tan İran'a ekonomik savaş ilanı",
           "kaynak": "www.trthaber.com",
@@ -12,51 +44,43 @@
           "ozet": "ABD Başkanı Donald Trump, İran'a karşı ekonomik bir savaş başlatacağını duyurdu. Trump, \"Herhangi bir ülkeye karşı şimdiye kadar uygulanmış en ezici ekonomik operasyonu ilan ediyorum. Bu, eşi benzeri görülmemiş ölçekte ekonomik savaş ve izolasyon olacak\" ifadelerini kullandı.",
           "yayin_tarihi": "Thu, 20 Aug 2026 02:12:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Birleşik Arap Emirlikleri, İran'la tüm faaliyetlerini durdurdu",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/birlesik-arap-emirlikleri-iranla-tum-faaliyetlerini-durdurdu-954299.html",
-          "ozet": "Birleşik Arap Emirlikleri (BAE) Dışişleri Bakanlığı, İran'la tüm ticari faaliyetlerin, alışverişlerin ve mali işlemlerin ikinci bir duyuruya kadar durdurulduğunu duyurdu.",
-          "yayin_tarihi": "Tue, 18 Aug 2026 23:41:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Hac kesin kayıtlarında bugün son gün",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/hac-kesin-kayitlarinda-bugun-son-gun-954211.html",
-          "ozet": "Gelecek yıl kutsal topraklara gidecek hacı adaylarının kesin kayıt işlemlerinde sona yaklaşıldı. İşlemler, bugünsaat 17.00'ye kadar e-Devlet'ten yapılabilecek. Boş kalan kontenjanlar için ek kayıt dönemi ise 24 Ağustos'ta başlayacak.",
-          "yayin_tarihi": "Tue, 18 Aug 2026 06:43:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Mavi Vatan'daki koruma alanları genişliyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/mavi-vatandaki-koruma-alanlari-genisliyor-954169.html",
-          "ozet": "Türkiye, Mavi Vatan'daki haklarını ve çevresel zenginliği korumak için tarihi karara imza attı. Resmi Gazete'de yayımlanan kararla, Ege ve Akdeniz'deki 2 alan deniz milli parkı ilan edildi.",
-          "yayin_tarihi": "Mon, 17 Aug 2026 15:51:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "AB, sonbaharda Rusya'ya yaptırımları genişletmeyi planlıyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/ab-sonbaharda-rusyaya-yaptirimlari-genisletmeyi-planliyor-954144.html",
-          "ozet": "Avrupa Birliği (AB) Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kaja Kallas, sonbaharda Rusya'ya yönelik savaşın başlangıcından bu yana en geniş kapsamlı yaptırım listesini sunmayı planladığını bildirdi.",
-          "yayin_tarihi": "Mon, 17 Aug 2026 11:18:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-20T06:54:40.887743"
+      "taranma_zamani": "2026-08-21T06:55:57.775982"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Trump, With Limited Options in Iran, Tries Economic Pressure — Again",
+          "baslik": "Missile Barrage Shows Russia’s Doubt That Ukraine Can Defend Itself",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html",
-          "ozet": "Iran has survived decades of sanctions. Faced with more, it is likely to escalate rather than surrender, analysts said.",
-          "yayin_tarihi": "Wed, 19 Aug 2026 12:37:33 +0000",
+          "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html",
+          "ozet": "Moscow is taking advantage of Ukraine’s depleted stock of interceptors and is intensifying attacks, worsening the civilian death toll.",
+          "yayin_tarihi": "Thu, 20 Aug 2026 14:20:36 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html",
+          "ozet": "For weeks, there has been no diplomatic progress, but also no full-scale fighting, as each side seems to believe it can hold out longer than the other.",
+          "yayin_tarihi": "Thu, 20 Aug 2026 17:14:53 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "China Sentences Evergrande Founder to Life in Prison",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
+          "ozet": "Hui Ka Yan’s punishment caps the downfall of a property empire whose collapse set off a prolonged crisis in the Chinese economy.",
+          "yayin_tarihi": "Thu, 20 Aug 2026 19:52:04 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Bare Grocery Shelves Are a New Wartime Hardship for Ukrainians",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-grocery-stores-shortages.html",
+          "ozet": "After years of pounding power plants and cities, Russia’s air war has taken aim at Ukraine’s supermarket warehouses.",
+          "yayin_tarihi": "Thu, 20 Aug 2026 09:28:09 +0000",
           "dil": "İngilizce"
         },
         {
@@ -66,88 +90,72 @@
           "ozet": "Mykhailo Fedorov, a popular young leader who was fired last month, said Russia should not be allowed to dictate when Ukrainians can choose their next government.",
           "yayin_tarihi": "Wed, 19 Aug 2026 12:53:51 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
-          "ozet": "The Emirates has long been a major trading hub for Iran, and analysts say it has been key to Iranian efforts to evade international sanctions, which Emirati officials deny.",
-          "yayin_tarihi": "Thu, 20 Aug 2026 04:46:27 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Kyiv’s Dormition Cathedral is Revived After Russian Drone Strike",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-kyiv-cathedral-russia-drone-strike.html",
-          "ozet": "Volunteers and priests rallied to clean up Kyiv’s Dormition Cathedral, still smelling of smoke from a massive blaze, for an anniversary celebration.",
-          "yayin_tarihi": "Wed, 19 Aug 2026 09:29:36 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "How the Iran War Made Africa’s Richest Man Even Richer",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/19/world/africa/dangote-iran-refinery-oil-nigeria.html",
-          "ozet": "Africans have turned to one of their own for fuel as the world’s supplies run low. But they are not the only ones with the continent’s richest man on speed dial.",
-          "yayin_tarihi": "Wed, 19 Aug 2026 09:00:49 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-20T06:54:40.887773"
+      "taranma_zamani": "2026-08-21T06:55:57.776001"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russian forces deliver strike on Antonov plant assembling Lyuty UAVs in Kiev — top brass",
+          "baslik": "Hormuz risks remain even if outcome of Iran-Oman talks successful, Russian diplomat says",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2175459",
-          "ozet": "The enterprise also developed and manufactured various types of manned aircraft",
-          "yayin_tarihi": "Thu, 20 Aug 2026 09:48:40 +0300",
+          "url": "https://tass.com/politics/2175933",
+          "ozet": "The current situation in the Persian Gulf can hardly be called a `pause,’ given quite a regular exchange of strikes, Russian Deputy Foreign Minister Sergey Ryabkov noted",
+          "yayin_tarihi": "Fri, 21 Aug 2026 09:47:27 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Japan seeks to integrate into NATO, Chinese ambassador to Russia says",
+          "baslik": "Russian aircraft hit Ukrainian army’s deployment sites by FAB-500 bombs in Kharkov area",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2175455",
-          "ozet": "According to Zhang Hanhui, the official Tokyo's steps are steadily eroding the peaceful nature of the Japanese Constitution",
-          "yayin_tarihi": "Thu, 20 Aug 2026 09:46:55 +0300",
+          "url": "https://tass.com/politics/2175921",
+          "ozet": "Live-recording images verified the successful destruction of all the designated targets",
+          "yayin_tarihi": "Fri, 21 Aug 2026 09:30:50 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian forces hit Ukraine’s military warehouses in Chernomorsk, Yuzhny ports — top brass",
+          "baslik": "By attacking ships, Kiev risks to spoil relations with partners — Kherson governor",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2175449",
-          "ozet": "Targets were hit on the evening of August 19",
-          "yayin_tarihi": "Thu, 20 Aug 2026 09:39:10 +0300",
+          "url": "https://tass.com/politics/2175889",
+          "ozet": "Vladimir Saldo stressed that Ukraine is destroying its own reputation among international partners",
+          "yayin_tarihi": "Fri, 21 Aug 2026 07:53:27 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian forces hit Fire Point facility manufacturing attack drone components in Kiev",
+          "baslik": "Some US allies in Mideast took 'semi-neutral' stance on Iran",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2175447",
-          "ozet": "The enterprise also assembled and stored boosters used in Flamingo cruise missiles",
-          "yayin_tarihi": "Thu, 20 Aug 2026 09:38:23 +0300",
+          "url": "https://tass.com/world/2175877",
+          "ozet": "The Iranian authorities said on many occasions that Tehran had not attacked any country in the region, targeting only US military bases",
+          "yayin_tarihi": "Fri, 21 Aug 2026 06:31:40 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia is China’s most reliable supplier of energy sources — Russian senator",
+          "baslik": "US has no idea of how long its economic pressure on Iran will take — Vance",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2175417",
-          "ozet": "Andrey Denisov says oil supplies from Russia to China grew by 92% in the first seven months amid the crisis around the Strait of Hormuz",
-          "yayin_tarihi": "Thu, 20 Aug 2026 07:35:22 +0300",
+          "url": "https://tass.com/economy/2175859",
+          "ozet": "Earlier, US President Donald Trump announced the beginning of the \"most crushing economic operation\" against Iran",
+          "yayin_tarihi": "Fri, 21 Aug 2026 04:52:01 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-20T06:54:40.887801"
+      "taranma_zamani": "2026-08-21T06:55:57.776021"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-20T06:54:40.887803"
+      "taranma_zamani": "2026-08-21T06:55:57.776023"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "恒大集团案 许家印一审判无期徒刑",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/2026/08/20/businessman-xujiayin-cerdiction/",
+          "ozet": "中国知名地产商人，恒大集团前负责人许家印因涉犯多起案件，周四（20日）遭一审法院判处无期徒刑，没收个人全部财产。他的两个儿子也因涉及非法吸收公众存款等案，被判处有期徒刑。",
+          "yayin_tarihi": "Thu, 20 Aug 2026 12:18:43 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "环保新法上路，保护居民还是管得太细？",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "中国公安部公布《公安机关网络空间安全监督检查办法》，与2018年的规定相比，新《办法》扩大公安网络监督检查对象和范围，数据处理者、个人信息处理者等被纳入其中，并明确规定“被检查对象为个人的”，由其经常居住住地公安监督检查。",
           "yayin_tarihi": "Mon, 17 Aug 2026 09:19:02 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "美台打造无人机“蜂巢”，能否绕开中国供应链？ ",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/08/14/taiwan-drone-supply-chain-china-parts/",
-          "ozet": "台湾推动无人机“非红供应链”，但马达、电芯等关键环节仍依赖中国。台湾能否在危机中持续生产、维修和补充无人机？",
-          "yayin_tarihi": "Fri, 14 Aug 2026 15:58:13 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-20T06:54:40.887813"
+      "taranma_zamani": "2026-08-21T06:55:57.776032"
     }
   }
 }
