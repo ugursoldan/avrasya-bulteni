@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-08-23",
-  "olusturma_zamani": "2026-08-23T06:50:20.395652",
+  "olusturma_tarihi": "2026-08-24",
+  "olusturma_zamani": "2026-08-24T07:08:38.627626",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Terörsüz Türkiye Takip Kurulu ilk toplantısını bugün yapacak",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/terorsuz-turkiye-takip-kurulu-ilk-toplantisini-bugun-yapacak-954729.html",
+          "ozet": "Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun kapsamında oluşturulan Takip ve Değerlendirme Kurulu, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'ın başkanlığında ilk kez bugün toplanacak. Terör örgütünün fesih ve silah bırakma sürecinin takibi için yürütülecek çalışmalar toplantının ana gündemi olacak.",
+          "yayin_tarihi": "Mon, 24 Aug 2026 00:13:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Orman yangınıyla ilgili 12 şüpheli tutuklandı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/orman-yanginiyla-ilgili-12-supheli-tutuklandi-954694.html",
+          "ozet": "Adalet Bakanı Akın Gürlek, 1 Haziran 2026 tarihinden itibaren 25 ilde meydana gelen 73 orman yangınıyla ilgili adli soruşturmaların sürdüğünü belirterek, \"46 şüpheli tespit edilmiş; 12 şüpheli tutuklanmış, 21 şüpheli hakkında adli kontrol tedbiri uygulanmıştır\" dedi.",
+          "yayin_tarihi": "Sun, 23 Aug 2026 12:35:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "2027 için alarm verildi: En sıcak El Nino olacak",
           "kaynak": "www.trthaber.com",
@@ -28,43 +44,19 @@
           "ozet": "İletişim Başkanı Burhanettin Duran, \"Politik geleceklerini garanti altına almak için bölgeyi ateşe atmaktan çekinmeyecek Netanyahu gibi itibarsızların oyunlarını Türkiye'nin barışçıl dış politikası bozacaktır\" dedi.",
           "yayin_tarihi": "Thu, 20 Aug 2026 14:00:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Selçuk Bayraktar'dan TEKNOFEST çağrısı: Mavi Vatan'ın kalbinin attığı yere herkesi bekliyoruz",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/selcuk-bayraktardan-teknofest-cagrisi-mavi-vatanin-kalbinin-attigi-yere-herkesi-bekliyoruz-954450.html",
-          "ozet": "TEKNOFEST Yönetim Kurulu Başkanı ve Türkiye Teknoloji Takımı Vakfı (T3 Vakfı) Mütevelli Heyeti Başkanı Selçuk Bayraktar, 4 gün sürecek TEKNOFEST Mavi Vatan için vatandaşları Gölcük Tersanesi Komutanlığı'na davet etti.",
-          "yayin_tarihi": "Thu, 20 Aug 2026 11:49:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "ABD Başkanı Trump'tan İran'a ekonomik savaş ilanı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/abd-baskani-trumptan-irana-ekonomik-savas-ilani-954411.html",
-          "ozet": "ABD Başkanı Donald Trump, İran'a karşı ekonomik bir savaş başlatacağını duyurdu. Trump, \"Herhangi bir ülkeye karşı şimdiye kadar uygulanmış en ezici ekonomik operasyonu ilan ediyorum. Bu, eşi benzeri görülmemiş ölçekte ekonomik savaş ve izolasyon olacak\" ifadelerini kullandı.",
-          "yayin_tarihi": "Thu, 20 Aug 2026 02:12:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-23T06:50:20.395415"
+      "taranma_zamani": "2026-08-24T07:08:38.627372"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "At 77, She Walked 9 Miles Under Drone-Filled Skies to Escape From ‘Hell’",
+          "baslik": "Iran Warns Gulf States Not to Join Trump’s Economic War",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/21/world/europe/ukraine-lyman-donetsk-donbas-russia.html",
-          "ozet": "Rescue teams no longer enter the city of Lyman, in eastern Ukraine, because it is deemed too dangerous. The only way out is a terrifying journey on foot.",
-          "yayin_tarihi": "Fri, 21 Aug 2026 14:43:07 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-          "ozet": "Mohammad Bagher Ghalibaf, lead negotiator in talks with Washington, made the comments after President Trump vowed an “economic D-Day” against Iran.",
-          "yayin_tarihi": "Fri, 21 Aug 2026 14:41:40 +0000",
+          "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
+          "ozet": "Iran’s new hard-line national security adviser, Mohsen Rezaei, vowed to prevent “a single drop of oil” from leaving the region.",
+          "yayin_tarihi": "Sun, 23 Aug 2026 17:00:10 +0000",
           "dil": "İngilizce"
         },
         {
@@ -90,60 +82,68 @@
           "ozet": "China’s regulator ordered changes after vehicle occupants sometimes had difficulty exiting electric cars, an issue that has led to lawsuits against Tesla in the United States.",
           "yayin_tarihi": "Fri, 21 Aug 2026 20:23:13 +0000",
           "dil": "İngilizce"
+        },
+        {
+          "baslik": "Why China Thinks It Can Resist Trump’s Economic Threats on Iran",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/21/world/asia/china-iran-trump-economic-threats.html",
+          "ozet": "Beijing can squeeze U.S. critical mineral supplies and has enough oil to withstand the loss of Iranian crude, Chinese analysts say.",
+          "yayin_tarihi": "Fri, 21 Aug 2026 14:48:14 +0000",
+          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-23T06:50:20.395437"
+      "taranma_zamani": "2026-08-24T07:08:38.627392"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Ukraine attacks Ozon warehouse in Orenburg with drones — official",
+          "baslik": "New coalition of states could form around Trans-Arctic Corridor — expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/emergencies/2176603",
-          "ozet": "There are no casualties",
-          "yayin_tarihi": "Sun, 23 Aug 2026 08:51:14 +0300",
+          "url": "https://tass.com/society/2176777",
+          "ozet": "Irina Strelnikova, director of the Center for Interdisciplinary Arctic Studies at the Higher School of Economics, said that China, India, and the United Arab Emirates could become potential participants in this alliance",
+          "yayin_tarihi": "Mon, 24 Aug 2026 06:45:44 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Shock from massive drone attacks on Donbass and Novorossiya mostly over — envoy",
+          "baslik": "Russian Soyuz-2.1b rocket with spacecraft lifts off from Plesetsk spaceport — ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2176599",
-          "ozet": "Rodion Miroshnik said that Russian authorities are finding ways to reduce the pressure from Ukraine and to create acceptable living conditions for the civilian population",
-          "yayin_tarihi": "Sun, 23 Aug 2026 07:39:09 +0300",
+          "url": "https://tass.com/defense/2176775",
+          "ozet": "The rocket carries a spacecraft in the Russian Defense Ministry’s interests",
+          "yayin_tarihi": "Mon, 24 Aug 2026 06:26:31 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Kiev attacks civilian targets to exert political pressure on Russia — envoy",
+          "baslik": "US to launch 'financial offensive' against Iran on Monday — Treasury Secretary",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2176595",
-          "ozet": "Rodion Miroshnik added that his working trip to Novorossiya confirmed information about attempts to blockade entire cities, complicate logistics, disrupt the delivery of food, priority goods and medicines, and the supply of energy and water",
-          "yayin_tarihi": "Sun, 23 Aug 2026 07:02:52 +0300",
+          "url": "https://tass.com/world/2176773",
+          "ozet": "Scott Bessent added that the US was \"entering the endgame\" in the conflict",
+          "yayin_tarihi": "Mon, 24 Aug 2026 06:10:19 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Intensity of attacks on Donbass, Novorossiya directly linked to Western subsidies — envoy",
+          "baslik": "Diversification in energy sector to be discussed at EEF — official",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2176593",
-          "ozet": "Rodion Miroshnik said that after the 90-billion-euro loan to Ukraine was approved by the EU in April, a sharp escalation began",
-          "yayin_tarihi": "Sun, 23 Aug 2026 06:59:01 +0300",
+          "url": "https://tass.com/economy/2176761",
+          "ozet": "Deputy Prime Minister Yury Trutnev added that business dialogues with representatives from China, India, the UAE, Mongolia, Vietnam, and ASEAN countries are scheduled as part of the forum",
+          "yayin_tarihi": "Mon, 24 Aug 2026 04:40:56 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Protests in Ukraine unlikely to change regime, expert believes",
+          "baslik": "Russia ready to undertake mediation efforts to stabilize Middle East — MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2176585",
-          "ozet": "Alexander Dudchak, a leading researcher at the Institute of CIS Countries, said that the protests \"can be used as a formal pretext\" if there is an order \"to replace Zelensky\"",
-          "yayin_tarihi": "Sun, 23 Aug 2026 06:00:20 +0300",
+          "url": "https://tass.com/politics/2176727",
+          "ozet": "Deputy Foreign Minister Alexander Alimov emphasized that the situation in Lebanon is a factor complicating attempts to revitalize the negotiation process between Washington and Tehran",
+          "yayin_tarihi": "Mon, 24 Aug 2026 01:12:56 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-23T06:50:20.395455"
+      "taranma_zamani": "2026-08-24T07:08:38.627405"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-23T06:50:20.395457"
+      "taranma_zamani": "2026-08-24T07:08:38.627407"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-23T06:50:20.395626"
+      "taranma_zamani": "2026-08-24T07:08:38.627415"
     }
   }
 }
