@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-08-24",
-  "olusturma_zamani": "2026-08-24T07:08:38.627626",
+  "olusturma_tarihi": "2026-08-25",
+  "olusturma_zamani": "2026-08-25T06:56:51.290068",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Terörsüz Türkiye Takip Kurulu'nun ilk toplantısı tamamlandı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/terorsuz-turkiye-takip-kurulunun-ilk-toplantisi-tamamlandi-954794.html",
+          "ozet": "Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun kapsamında kurulan Takip ve Değerlendirme Kurulu toplantısının ardından yapılan açıklamada, \"Devletimiz, tüm kurumlarıyla tam bir eş güdüm içinde, toplumsal bütünleşmeyi güçlendirecek tarihi adımları kararlılıkla uygulamaya devam edecektir\" ifadeleri kullanıldı.",
+          "yayin_tarihi": "Mon, 24 Aug 2026 16:13:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Cumhurbaşkanı Erdoğan Mevlid Kandili'ni kutladı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-mevlid-kandilini-kutladi-954810.html",
+          "ozet": "Cumhurbaşkanı Erdoğan, sosyal medya hesabından yaptığı paylaşımda, \"Leyle-i Mevlid’in ülkemiz, milletimiz ve tüm insanlık için hayırlara vesile olmasını niyaz ediyorum\" ifadelerini kullandı.",
+          "yayin_tarihi": "Mon, 24 Aug 2026 22:06:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Terörsüz Türkiye Takip Kurulu ilk toplantısını bugün yapacak",
           "kaynak": "www.trthaber.com",
@@ -28,122 +44,106 @@
           "ozet": "İngiltere Meteoroloji Ofisi (Met Office), Pasifik Okyanusu'nda gelişmekte olan El Nino olayının insan hafızasındaki en güçlü seviyeye ulaşmasının muhtemel olduğu konusunda uyarıda bulundu.",
           "yayin_tarihi": "Fri, 21 Aug 2026 06:31:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Kamu borçlarının yapılandırılmasında son günler",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/ekonomi/kamu-borclarinin-yapilandirilmasinda-son-gunler-954525.html",
-          "ozet": "Kamuya borcu olan mükelleflere ve esnafa nefes aldıracak yapılandırma için başvurular devam ediyor. Düzenleme kapsamında, bazı borçlar 72 aya kadar taksitlendirilebiliyor. \nDüzenleme, faiz ve teminat yükünü de hafifletiyor. Son başvuru tarihi ise 31 Ağustos Pazartesi.",
-          "yayin_tarihi": "Fri, 21 Aug 2026 07:55:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "İletişim Başkanı Duran: Netanyahu'nun oyunlarını Türkiye'nin barışçıl dış politikası bozacak",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-netanyahunun-oyunlarini-turkiyenin-bariscil-dis-politikasi-bozacak-954468.html",
-          "ozet": "İletişim Başkanı Burhanettin Duran, \"Politik geleceklerini garanti altına almak için bölgeyi ateşe atmaktan çekinmeyecek Netanyahu gibi itibarsızların oyunlarını Türkiye'nin barışçıl dış politikası bozacaktır\" dedi.",
-          "yayin_tarihi": "Thu, 20 Aug 2026 14:00:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-24T07:08:38.627372"
+      "taranma_zamani": "2026-08-25T06:56:51.289856"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Iran Warns Gulf States Not to Join Trump’s Economic War",
+          "baslik": "Chinese Artist Sentenced to Three Years in Prison for Mao Sculptures",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
-          "ozet": "Iran’s new hard-line national security adviser, Mohsen Rezaei, vowed to prevent “a single drop of oil” from leaving the region.",
-          "yayin_tarihi": "Sun, 23 Aug 2026 17:00:10 +0000",
+          "url": "https://www.nytimes.com/2026/08/25/world/asia/china-artist-gao-zhen-jailed-mao-sculpture.html",
+          "ozet": "Gao Zhen, part of a brotherly duo famous for satirical artworks, was convicted of slandering one of China’s heroes after a secret one-day trial.",
+          "yayin_tarihi": "Tue, 25 Aug 2026 05:32:54 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Turkey Requests Netanyahu’s Arrest, Saying Israel Abused Flotilla Activists",
+          "baslik": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/21/world/middleeast/turkey-netanyahu-arrest-israel.html",
-          "ozet": "Turkey’s request for an Interpol ‘red notice’ came at a time of escalating tensions between the two countries.",
-          "yayin_tarihi": "Fri, 21 Aug 2026 20:35:40 +0000",
+          "url": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
+          "ozet": "An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to humans.",
+          "yayin_tarihi": "Mon, 24 Aug 2026 14:24:53 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Germany Identifies a Plot After Finding a Weapons Cache, but Names No Culprit",
+          "baslik": "Iran Cracks Down on One Luxury Left to Its Youth: Coffee Shops",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/21/world/europe/germany-foreign-plot-hidden-guns.html",
-          "ozet": "Officials were careful not to point a finger, after revealing what they said was a plan for a political attack, at a time when a series of destabilizing actions have been blamed on Russia.",
-          "yayin_tarihi": "Fri, 21 Aug 2026 17:28:45 +0000",
+          "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html",
+          "ozet": "In recent weeks, the police have closed dozens of cafes, often citing laws that stipulate women must veil in public. Experts say the closures are part of an effort to control public space.",
+          "yayin_tarihi": "Mon, 24 Aug 2026 11:49:33 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "In China’s Biggest Car Recall, Tesla and 8 Others Will Address Door Safety",
+          "baslik": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html",
-          "ozet": "China’s regulator ordered changes after vehicle occupants sometimes had difficulty exiting electric cars, an issue that has led to lawsuits against Tesla in the United States.",
-          "yayin_tarihi": "Fri, 21 Aug 2026 20:23:13 +0000",
+          "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
+          "ozet": "In his first foreign trip since taking office, the British prime minister pledged to stand by Kyiv despite new warnings of potential consequences.",
+          "yayin_tarihi": "Mon, 24 Aug 2026 22:16:57 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Why China Thinks It Can Resist Trump’s Economic Threats on Iran",
+          "baslik": "Iran Pledges to Defy Trump’s Economic Sanctions",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/21/world/asia/china-iran-trump-economic-threats.html",
-          "ozet": "Beijing can squeeze U.S. critical mineral supplies and has enough oil to withstand the loss of Iranian crude, Chinese analysts say.",
-          "yayin_tarihi": "Fri, 21 Aug 2026 14:48:14 +0000",
+          "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html",
+          "ozet": "Analysts say Tehran could intensify the dispute militarily after the United States announced new efforts to squeeze Iran’s economy.  One Iranian official vowed that “not a single drop of oil” would leave the gulf.",
+          "yayin_tarihi": "Mon, 24 Aug 2026 21:12:01 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-24T07:08:38.627392"
+      "taranma_zamani": "2026-08-25T06:56:51.289877"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "New coalition of states could form around Trans-Arctic Corridor — expert",
+          "baslik": "West seeks to create flashpoints along Russia’s borders, Medvedev says",
           "kaynak": "tass.com",
-          "url": "https://tass.com/society/2176777",
-          "ozet": "Irina Strelnikova, director of the Center for Interdisciplinary Arctic Studies at the Higher School of Economics, said that China, India, and the United Arab Emirates could become potential participants in this alliance",
-          "yayin_tarihi": "Mon, 24 Aug 2026 06:45:44 +0300",
+          "url": "https://tass.com/politics/2177267",
+          "ozet": "The Russian Security Council deputy chairman said that it had been going on for centuries",
+          "yayin_tarihi": "Tue, 25 Aug 2026 09:12:25 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian Soyuz-2.1b rocket with spacecraft lifts off from Plesetsk spaceport — ministry",
+          "baslik": "Ukrainian attacks affect over 400 people, including 21 children, in past week — MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2176775",
-          "ozet": "The rocket carries a spacecraft in the Russian Defense Ministry’s interests",
-          "yayin_tarihi": "Mon, 24 Aug 2026 06:26:31 +0300",
+          "url": "https://tass.com/politics/2177253",
+          "ozet": "Russian Foreign Ministry Ambassador-at-Large Rodion Miroshnik specified that 407 people, or 99% of the total number of casualties, were affected by attack drones",
+          "yayin_tarihi": "Tue, 25 Aug 2026 08:03:20 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US to launch 'financial offensive' against Iran on Monday — Treasury Secretary",
+          "baslik": "Covert mobilization of women underway in Ukraine — underground resistance",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2176773",
-          "ozet": "Scott Bessent added that the US was \"entering the endgame\" in the conflict",
-          "yayin_tarihi": "Mon, 24 Aug 2026 06:10:19 +0300",
+          "url": "https://tass.com/world/2177247",
+          "ozet": "Document checks of women are already underway, territorial recruitment centers are compiling lists, and universities and employers are providing data, first and foremost on medical workers and pharmacists, a pro-Russian underground resistance source said",
+          "yayin_tarihi": "Tue, 25 Aug 2026 06:40:00 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Diversification in energy sector to be discussed at EEF — official",
+          "baslik": "Party radio debates ahead of State Duma elections begin in Russia",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2176761",
-          "ozet": "Deputy Prime Minister Yury Trutnev added that business dialogues with representatives from China, India, the UAE, Mongolia, Vietnam, and ASEAN countries are scheduled as part of the forum",
-          "yayin_tarihi": "Mon, 24 Aug 2026 04:40:56 +0300",
+          "url": "https://tass.com/politics/2177245",
+          "ozet": "Television debates will begin on August 31",
+          "yayin_tarihi": "Tue, 25 Aug 2026 06:20:09 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia ready to undertake mediation efforts to stabilize Middle East — MFA",
+          "baslik": "Lavrov, top Vatican diplomat to hold first Moscow talks since start of special op",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2176727",
-          "ozet": "Deputy Foreign Minister Alexander Alimov emphasized that the situation in Lebanon is a factor complicating attempts to revitalize the negotiation process between Washington and Tehran",
-          "yayin_tarihi": "Mon, 24 Aug 2026 01:12:56 +0300",
+          "url": "https://tass.com/politics/2177241",
+          "ozet": "The sides will discuss international issues and prospects for bilateral cooperation, the Russian Foreign Ministry said",
+          "yayin_tarihi": "Tue, 25 Aug 2026 06:10:01 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-24T07:08:38.627405"
+      "taranma_zamani": "2026-08-25T06:56:51.289908"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-24T07:08:38.627407"
+      "taranma_zamani": "2026-08-25T06:56:51.289910"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-24T07:08:38.627415"
+      "taranma_zamani": "2026-08-25T06:56:51.290045"
     }
   }
 }
