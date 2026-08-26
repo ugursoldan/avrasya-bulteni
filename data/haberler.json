@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-08-25",
-  "olusturma_zamani": "2026-08-25T06:56:51.290068",
+  "olusturma_tarihi": "2026-08-26",
+  "olusturma_zamani": "2026-08-26T06:57:54.648023",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Prim ve vergi borçları için son başvuru tarihi 31 Ağustos",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/ekonomi/prim-ve-vergi-borclari-icin-son-basvuru-tarihi-31-agustos-954940.html",
+          "ozet": "Kamuya borcu olan mükelleflere ve esnafa nefes aldıracak yapılandırma başvurularında süre daralıyor. Düzenleme kapsamında, bazı borçlar 72 aya kadar taksitlendirilebiliyor. \nFaiz ve teminat yükü hafifleyecek. Başvurular için son tarih 31 Ağustos Pazartesi.",
+          "yayin_tarihi": "Wed, 26 Aug 2026 06:43:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Hazine taşınmazları üzerinden haksız kazanç sağlayanlara operasyon: 27 gözaltı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/hazine-tasinmazlari-uzerinden-haksiz-kazanc-saglayanlara-operasyon-27-gozalti-954867.html",
+          "ozet": "Adalet Bakanı Akın Gürlek, hazine taşınmazlarının usulsüz devrine ilişkin Antalya merkezli soruşturmaya ilişkin, \"Devletin malı milletimizin ortak hakkıdır. Kamu görevini kişisel menfaat için kullanan, hazine taşınmazları üzerinden haksız kazanç sağlayan veya buna aracılık eden kim olursa olsun hukuk önünde hesap verecektir.\" ifadelerini kullandı.",
+          "yayin_tarihi": "Tue, 25 Aug 2026 11:09:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Terörsüz Türkiye Takip Kurulu'nun ilk toplantısı tamamlandı",
           "kaynak": "www.trthaber.com",
@@ -28,29 +44,45 @@
           "ozet": "Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun kapsamında oluşturulan Takip ve Değerlendirme Kurulu, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'ın başkanlığında ilk kez bugün toplanacak. Terör örgütünün fesih ve silah bırakma sürecinin takibi için yürütülecek çalışmalar toplantının ana gündemi olacak.",
           "yayin_tarihi": "Mon, 24 Aug 2026 00:13:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Orman yangınıyla ilgili 12 şüpheli tutuklandı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/orman-yanginiyla-ilgili-12-supheli-tutuklandi-954694.html",
-          "ozet": "Adalet Bakanı Akın Gürlek, 1 Haziran 2026 tarihinden itibaren 25 ilde meydana gelen 73 orman yangınıyla ilgili adli soruşturmaların sürdüğünü belirterek, \"46 şüpheli tespit edilmiş; 12 şüpheli tutuklanmış, 21 şüpheli hakkında adli kontrol tedbiri uygulanmıştır\" dedi.",
-          "yayin_tarihi": "Sun, 23 Aug 2026 12:35:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "2027 için alarm verildi: En sıcak El Nino olacak",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/2027-icin-alarm-verildi-en-sicak-el-nino-olacak-954517.html",
-          "ozet": "İngiltere Meteoroloji Ofisi (Met Office), Pasifik Okyanusu'nda gelişmekte olan El Nino olayının insan hafızasındaki en güçlü seviyeye ulaşmasının muhtemel olduğu konusunda uyarıda bulundu.",
-          "yayin_tarihi": "Fri, 21 Aug 2026 06:31:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-25T06:56:51.289856"
+      "taranma_zamani": "2026-08-26T06:57:54.647738"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html",
+          "ozet": "Experts warn that a campaign aimed at avoiding military escalation could instead provoke it, as Iranian leaders vow retaliation across the oil-rich Gulf.",
+          "yayin_tarihi": "Tue, 25 Aug 2026 18:28:40 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/25/world/middleeast/artemis-ghasemzadeh-iran-christian-us-deported-canada-asylum.html",
+          "ozet": "Artemis Ghasemzadeh, who had escaped religious persecution, was deported to Panama under Trump’s immigration crackdown. Now, Canada has given her asylum.",
+          "yayin_tarihi": "Tue, 25 Aug 2026 23:58:05 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "What Happened to the Coveted Western Tanks Sent to Ukraine?",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/25/world/europe/ukraine-russia-tanks.html",
+          "ozet": "Ukraine pleaded for the expensive weapons, and ultimately got them, but drones have rendered them almost unusable.",
+          "yayin_tarihi": "Tue, 25 Aug 2026 09:01:55 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Trump Administration to Return Diplomats to Middle East Embassies",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/25/world/middleeast/us-diplomats-middle-east-embassies.html",
+          "ozet": "Evacuated foreign service officers could begin heading back to their posts as early as this week, an internal document shows, suggesting Washington does not anticipate a renewal of full-scale conflict with Iran.",
+          "yayin_tarihi": "Tue, 25 Aug 2026 09:32:55 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "Chinese Artist Sentenced to Three Years in Prison for Mao Sculptures",
           "kaynak": "rss.nytimes.com",
@@ -58,92 +90,60 @@
           "ozet": "Gao Zhen, part of a brotherly duo famous for satirical artworks, was convicted of slandering one of China’s heroes after a secret one-day trial.",
           "yayin_tarihi": "Tue, 25 Aug 2026 05:32:54 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
-          "ozet": "An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to humans.",
-          "yayin_tarihi": "Mon, 24 Aug 2026 14:24:53 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Iran Cracks Down on One Luxury Left to Its Youth: Coffee Shops",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html",
-          "ozet": "In recent weeks, the police have closed dozens of cafes, often citing laws that stipulate women must veil in public. Experts say the closures are part of an effort to control public space.",
-          "yayin_tarihi": "Mon, 24 Aug 2026 11:49:33 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
-          "ozet": "In his first foreign trip since taking office, the British prime minister pledged to stand by Kyiv despite new warnings of potential consequences.",
-          "yayin_tarihi": "Mon, 24 Aug 2026 22:16:57 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Iran Pledges to Defy Trump’s Economic Sanctions",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html",
-          "ozet": "Analysts say Tehran could intensify the dispute militarily after the United States announced new efforts to squeeze Iran’s economy.  One Iranian official vowed that “not a single drop of oil” would leave the gulf.",
-          "yayin_tarihi": "Mon, 24 Aug 2026 21:12:01 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-25T06:56:51.289877"
+      "taranma_zamani": "2026-08-26T06:57:54.647765"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "West seeks to create flashpoints along Russia’s borders, Medvedev says",
+          "baslik": "Ukrainian tactics in Zaporozhye Region resemble medieval siege methods — Russian diplomat",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2177267",
-          "ozet": "The Russian Security Council deputy chairman said that it had been going on for centuries",
-          "yayin_tarihi": "Tue, 25 Aug 2026 09:12:25 +0300",
+          "url": "https://tass.com/politics/2177717",
+          "ozet": "Rodion Miroshnik said that Kiev attempts to isolate settlements in violation of international humanitarian law",
+          "yayin_tarihi": "Wed, 26 Aug 2026 08:53:58 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ukrainian attacks affect over 400 people, including 21 children, in past week — MFA",
+          "baslik": "US authority allocates almost $40 million for drone purchases to combat crime in Ukraine",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2177253",
-          "ozet": "Russian Foreign Ministry Ambassador-at-Large Rodion Miroshnik specified that 407 people, or 99% of the total number of casualties, were affected by attack drones",
-          "yayin_tarihi": "Tue, 25 Aug 2026 08:03:20 +0300",
+          "url": "https://tass.com/world/2177711",
+          "ozet": "The authority works with foreign governments, law enforcement agencies and the private sector",
+          "yayin_tarihi": "Wed, 26 Aug 2026 07:31:27 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Covert mobilization of women underway in Ukraine — underground resistance",
+          "baslik": "CIA chief arrived in Russia for contacts between special services, Kremlin tells WP",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2177247",
-          "ozet": "Document checks of women are already underway, territorial recruitment centers are compiling lists, and universities and employers are providing data, first and foremost on medical workers and pharmacists, a pro-Russian underground resistance source said",
-          "yayin_tarihi": "Tue, 25 Aug 2026 06:40:00 +0300",
+          "url": "https://tass.com/politics/2177705",
+          "ozet": "Dmitry Peskov declined to provide any further details",
+          "yayin_tarihi": "Wed, 26 Aug 2026 06:40:00 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Party radio debates ahead of State Duma elections begin in Russia",
+          "baslik": "Russia, Ukraine working toward new large POW exchange — ombudswoman",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2177245",
-          "ozet": "Television debates will begin on August 31",
-          "yayin_tarihi": "Tue, 25 Aug 2026 06:20:09 +0300",
+          "url": "https://tass.com/politics/2177701",
+          "ozet": "Lists are being agreed, Russian human rights commissioner Yana Lantratov said",
+          "yayin_tarihi": "Wed, 26 Aug 2026 05:50:00 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Lavrov, top Vatican diplomat to hold first Moscow talks since start of special op",
+          "baslik": "Iranian attacks cause billions in damage to US surveillance hardware in Middle East — TV",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2177241",
-          "ozet": "The sides will discuss international issues and prospects for bilateral cooperation, the Russian Foreign Ministry said",
-          "yayin_tarihi": "Tue, 25 Aug 2026 06:10:01 +0300",
+          "url": "https://tass.com/world/2177687",
+          "ozet": "The Iranian attacks raise doubts about whether the Department of State, the Pentagon and the US intelligence community are sufficiently prepared to guarantee due protection to US sites in the region, the TV channel said",
+          "yayin_tarihi": "Wed, 26 Aug 2026 03:52:00 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-25T06:56:51.289908"
+      "taranma_zamani": "2026-08-26T06:57:54.647796"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-25T06:56:51.289910"
+      "taranma_zamani": "2026-08-26T06:57:54.647798"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-25T06:56:51.290045"
+      "taranma_zamani": "2026-08-26T06:57:54.647808"
     }
   }
 }
