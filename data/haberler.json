@@ -1,10 +1,42 @@
 {
-  "olusturma_tarihi": "2026-08-27",
-  "olusturma_zamani": "2026-08-27T17:31:38.798061",
+  "olusturma_tarihi": "2026-08-28",
+  "olusturma_zamani": "2026-08-28T18:27:12.844999",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Kamuda çalışan ebeveynlere günlük 3 saat uyum eğitimi izni",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/egitim/kamuda-calisan-ebeveynlere-gunluk-3-saat-uyum-egitimi-izni-955178.html",
+          "ozet": "Milli Eğitim Bakanlığınca yeni eğitim öğretim yılında öğrencilerin okula uyum süreçlerinde aile katılımını güçlendirecek uygulamalar kapsamında kamuda çalışan ebeveynlerden biri, okul öncesi eğitim, ilkokul 1. sınıf ve ortaokul 5. sınıf öğrencisi çocukları için 7-11 Eylül'de ders saatlerine uygun olarak 3 saat idari izinli sayılacak.",
+          "yayin_tarihi": "Fri, 28 Aug 2026 09:49:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Nepal'deki selde hayatını kaybedenlerin sayısı 538'e çıktı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/nepaldeki-selde-hayatini-kaybedenlerin-sayisi-538e-cikti-955226.html",
+          "ozet": "Nepal'in Çin sınırına yakın Rasuwa bölgesinde ve çevresinde meydana gelen selde yaşamını yitirenlerin sayısının 538'e yükseldiği bildirildi.",
+          "yayin_tarihi": "Fri, 28 Aug 2026 13:49:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Bazı iller için kuvvetli sağanak ve fırtına uyarısı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/bazi-iller-icin-kuvvetli-saganak-ve-firtina-uyarisi-955221.html",
+          "ozet": "Meteoroloji Genel Müdürlüğü, yurdun bazı kesimleri için kuvvetli sağanak ve fırtına uyarısında bulundu.",
+          "yayin_tarihi": "Fri, 28 Aug 2026 13:24:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Nepal'de sel felaketinde can kaybı 469'a yükseldi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/nepalde-sel-felaketinde-can-kaybi-469a-yukseldi-955164.html",
+          "ozet": "Nepal'de meydana gelen yıkıcı sel felaketinde yaşamını yitirenlerin sayısı 469'a çıktı. Arama kurtarma ekipleri felaketten etkilenen bölgelerde hayatta kalanları bulmak için zamanla yarışırken, ülkenin kuzey kesimleri için yeni sel uyarıları yapıldı.",
+          "yayin_tarihi": "Fri, 28 Aug 2026 06:35:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Nepal'deki selde can kaybı 332'ye çıktı",
           "kaynak": "www.trthaber.com",
@@ -12,51 +44,27 @@
           "ozet": "Nepal'in Çin sınırına yakın Rasuwa bölgesinde ve çevresinde meydana gelen selde yaşamını yitirenlerin sayısının 332'ye yükseldiği duyuruldu.",
           "yayin_tarihi": "Thu, 27 Aug 2026 12:08:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Nepal'de selde hayatını kaybedenlerin sayısı 162'ye yükseldi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/nepalde-selde-hayatini-kaybedenlerin-sayisi-162ye-yukseldi-955028.html",
-          "ozet": "Nepal'in Çin sınırına yakın Rasuwa ve çevresinde meydana gelen selde hayatını kaybedenlerin sayısının 162'ye çıktığı, yüzlerce kişiden haber alınamadığı belirtildi.",
-          "yayin_tarihi": "Wed, 26 Aug 2026 21:31:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Cumhurbaşkanı Erdoğan: Terörsüz bölge için atımızın kuyruğunu bağladık",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-terorsuz-bolge-icin-atimizin-kuyrugunu-bagladik-954966.html",
-          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Türkiye Yüzyılı’nı inşa etmek için atımızın kuyruğunu bağladık. Terörsüz Türkiye ve terörsüz bölge hedeflerimizi gerçekleştirmek üzere atımızın kuyruğunu bağladık\" dedi.",
-          "yayin_tarihi": "Wed, 26 Aug 2026 11:10:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Türkiye'nin risk primi 6,5 ayın en düşük seviyesinde",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/ekonomi/turkiyenin-risk-primi-65-ayin-en-dusuk-seviyesinde-954953.html",
-          "ozet": "Türkiye'nin 5 yıllık kredi risk primi (CDS), Orta Doğu'da jeopolitik risklerin azalabileceği beklentileri ve yurt içinde likidite yönetimine ilişkin atılan adımların etkisiyle 217 baz puana inerek 18 Şubat'tan bu yana en düşük seviyesine geriledi.",
-          "yayin_tarihi": "Wed, 26 Aug 2026 08:44:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Prim ve vergi borçları için son başvuru tarihi 31 Ağustos",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/ekonomi/prim-ve-vergi-borclari-icin-son-basvuru-tarihi-31-agustos-954940.html",
-          "ozet": "Kamuya borcu olan mükelleflere ve esnafa nefes aldıracak yapılandırma başvurularında süre daralıyor. Düzenleme kapsamında, bazı borçlar 72 aya kadar taksitlendirilebiliyor. \nFaiz ve teminat yükü hafifleyecek. Başvurular için son tarih 31 Ağustos Pazartesi.",
-          "yayin_tarihi": "Wed, 26 Aug 2026 06:43:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-27T17:31:38.797756"
+      "taranma_zamani": "2026-08-28T18:27:12.844759"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Where Drones Cannot See, the Ukraine War Is a Deadly Game of Cat and Mouse",
+          "baslik": "Why Many Iranians Are Losing Hope After Six Months of War",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/27/world/europe/ukraine-russia-war-zaporizhzhia-frontline-fighting.html",
-          "ozet": "Russian troops are trying to infiltrate the vast, overgrown reservoir basin of a dam they blew up three years ago as Ukrainian soldiers hunt them at close quarters.",
-          "yayin_tarihi": "Thu, 27 Aug 2026 10:23:22 +0000",
+          "url": "https://www.nytimes.com/2026/08/28/world/middleeast/iran-war-six-months-israel-us.html",
+          "ozet": "Iranians have become increasingly desperate, as they grapple with an economic crisis made worse by the conflict and grow increasingly skeptical about President Trump’s motives.",
+          "yayin_tarihi": "Fri, 28 Aug 2026 18:14:28 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Six Months In, Iran Appears Stronger and U.S. Goals Unclear",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/28/world/europe/iran-regime-war-us.html",
+          "ozet": "Trump’s replacement of a military war with a heightened economic one is not expected to alter Iran’s strategy, while further impoverishing its people.",
+          "yayin_tarihi": "Fri, 28 Aug 2026 08:55:52 +0000",
           "dil": "İngilizce"
         },
         {
@@ -64,23 +72,15 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/08/27/world/canada/canada-car-theft-russia-sanctions.html",
           "ozet": "Russia is the largest destination for stolen Canadian cars. Smugglers are meeting the demand of a booming black market.",
-          "yayin_tarihi": "Thu, 27 Aug 2026 11:38:20 +0000",
+          "yayin_tarihi": "Thu, 27 Aug 2026 11:38:21 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Saudi Response to Houthis’ Attacks on Ships May Be a New War",
+          "baslik": "China Offers Condolences to Nepal While Emphasizing Disaster Began There",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/27/world/middleeast/saudi-arabia-yemen-houthis-war.html",
-          "ozet": "Analysts say that weeks of Houthi attacks on Saudi targets have brought the kingdom and the Iranian-backed militia to the brink of full-blown conflict, and could open a new front in the Iran war.",
-          "yayin_tarihi": "Thu, 27 Aug 2026 11:59:43 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Qatari Prime Minister Travels to Tehran as Iran War Nears Six-Month Mark",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/27/world/middleeast/qatar-visit-iran.html",
-          "ozet": "Sheikh Mohammed bin Abdulrahman Al Thani has been a key mediator in the conflict, even as his country has blamed Tehran for hundreds of missile and drone attacks.",
-          "yayin_tarihi": "Thu, 27 Aug 2026 16:35:09 +0000",
+          "url": "https://www.nytimes.com/2026/08/28/world/asia/china-nepal-floods-xi-jinping.html",
+          "ozet": "China’s leader, Xi Jinping, issued his first message to Nepal’s government  since the landslide on Wednesday that has left hundreds dead near the countries’ border.",
+          "yayin_tarihi": "Fri, 28 Aug 2026 15:20:02 +0000",
           "dil": "İngilizce"
         },
         {
@@ -88,62 +88,62 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/08/27/climate/nepal-flooding-climate-change.html",
           "ozet": "Glaciers and permafrost in the Himalayas are melting faster as temperatures rise, though scientists are still studying the exact causes of this week’s landslide.",
-          "yayin_tarihi": "Thu, 27 Aug 2026 17:18:32 +0000",
+          "yayin_tarihi": "Fri, 28 Aug 2026 03:22:45 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-27T17:31:38.797776"
+      "taranma_zamani": "2026-08-28T18:27:12.844771"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russian Deputy PM lays out objectives of new economic subcommission",
+          "baslik": "Whole world underestimated AI’s military potential — Medvedev",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2178545",
-          "ozet": "The resilience of the sectors will be assessed by the subcommission through the lens of existing risks and damage incurred, Denis Manturov said",
-          "yayin_tarihi": "Thu, 27 Aug 2026 20:12:33 +0300",
+          "url": "https://tass.com/politics/2179119",
+          "ozet": "The Russian security council deputy chairman noted that Russia had barely worked on drones before the start of the special military operation",
+          "yayin_tarihi": "Fri, 28 Aug 2026 21:02:29 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Foreign ministers to hold meeting on Iran in Istanbul on Sunday — media",
+          "baslik": "Russia tops medal standings at 2026 World Aquatics Junior Diving Championships",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2178541",
-          "ozet": "The ministers will discuss ways to ensure freedom of navigation in the Strait of Hormuz and the regional security situation",
-          "yayin_tarihi": "Thu, 27 Aug 2026 20:02:01 +0300",
+          "url": "https://tass.com/sports/2179115",
+          "ozet": "The Russians won six gold, three silver and two bronze medals at the competition",
+          "yayin_tarihi": "Fri, 28 Aug 2026 20:49:01 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Lukashenko arrives in Russia for visit",
+          "baslik": "Russia to win both hot, economic wars — Medvedev",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2178539",
-          "ozet": "Earlier, BelTA reported that the Belarusian President plans to hold talks with President Vladimir Putin and Prime Minister Mikhail Mishustin during his working visit to Russia",
-          "yayin_tarihi": "Thu, 27 Aug 2026 19:51:48 +0300",
+          "url": "https://tass.com/politics/2179111",
+          "ozet": "The information war will continue indefinitely, the Russian security council deputy chairman said",
+          "yayin_tarihi": "Fri, 28 Aug 2026 20:43:33 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Share of foreign investment in Russian federal loan bonds up to 3.1% in July — regulator",
+          "baslik": "Guests from Indonesia, Mongolia, Myanmar, China to address EEF alongside Putin — aide",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2178537",
-          "ozet": "As of July 1, 2026, the share of non-residents in OFZ equaled 3%",
-          "yayin_tarihi": "Thu, 27 Aug 2026 19:45:27 +0300",
+          "url": "https://tass.com/politics/2179097",
+          "ozet": "The Eastern Economic Forum will be held in Vladivostok on September 1 through 4",
+          "yayin_tarihi": "Fri, 28 Aug 2026 20:17:23 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia ranks fourth by number of billionaires in 2025 — study",
+          "baslik": "Putin will participate in Eastern Economic Forum on September 1-3 — Kremlin aide",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2178533",
-          "ozet": "The United States remained the leading country by the number of billionaires",
-          "yayin_tarihi": "Thu, 27 Aug 2026 19:44:22 +0300",
+          "url": "https://tass.com/politics/2179085",
+          "ozet": "On the evening of September 1, the Russian president will fly to Vladivostok, Yury Ushakov said",
+          "yayin_tarihi": "Fri, 28 Aug 2026 19:56:18 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-27T17:31:38.797803"
+      "taranma_zamani": "2026-08-28T18:27:12.844791"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-27T17:31:38.797805"
+      "taranma_zamani": "2026-08-28T18:27:12.844793"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-27T17:31:38.797813"
+      "taranma_zamani": "2026-08-28T18:27:12.844800"
     }
   }
 }
