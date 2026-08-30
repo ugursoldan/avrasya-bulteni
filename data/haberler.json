@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-08-29",
-  "olusturma_zamani": "2026-08-29T12:33:39.023353",
+  "olusturma_tarihi": "2026-08-30",
+  "olusturma_zamani": "2026-08-30T11:40:28.686090",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Dışişleri Bakanlığı: Uluslararası toplum Netanyahu hükümetinin yalanlarına inanmıyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/disisleri-bakanligi-uluslararasi-toplum-netanyahu-hukumetinin-yalanlarina-inanmiyor-955331.html",
+          "ozet": "Dışişleri Bakanlığı, \"İsrail Dışişleri Bakanlığı tarafından yapılan açıklamada Sayın Cumhurbaşkanımızı hedef alan yalan ve iftiralar, Netanyahu başta olmak üzere İsrail hükümetinde görev yapan suçluların içinde bulunduğu korkak ve çürümüş zihniyeti yansıtmaktadır\" açıklamasını yaptı.",
+          "yayin_tarihi": "Sat, 29 Aug 2026 22:29:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Ukrayna'nın Ankara Büyükelçisi Dışişleri Bakanlığı'na çağrıldı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/ukraynanin-ankara-buyukelcisi-disisleri-bakanligina-cagrildi-955320.html",
+          "ozet": "Ukrayna'nın Ankara Büyükelçisi Neriman Celal, Karadeniz'de vurulan bir Türk gemisi ile onu çekmek için gönderilen başka bir geminin hedef alınmasıyla ilgili Dışişleri Bakanlığına çağrıldı.",
+          "yayin_tarihi": "Sat, 29 Aug 2026 16:26:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Kamuda çalışan ebeveynlere günlük 3 saat uyum eğitimi izni",
           "kaynak": "www.trthaber.com",
@@ -28,59 +44,43 @@
           "ozet": "Meteoroloji Genel Müdürlüğü, yurdun bazı kesimleri için kuvvetli sağanak ve fırtına uyarısında bulundu.",
           "yayin_tarihi": "Fri, 28 Aug 2026 13:24:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Nepal'de sel felaketinde can kaybı 469'a yükseldi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/nepalde-sel-felaketinde-can-kaybi-469a-yukseldi-955164.html",
-          "ozet": "Nepal'de meydana gelen yıkıcı sel felaketinde yaşamını yitirenlerin sayısı 469'a çıktı. Arama kurtarma ekipleri felaketten etkilenen bölgelerde hayatta kalanları bulmak için zamanla yarışırken, ülkenin kuzey kesimleri için yeni sel uyarıları yapıldı.",
-          "yayin_tarihi": "Fri, 28 Aug 2026 06:35:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Nepal'deki selde can kaybı 332'ye çıktı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/nepaldeki-selde-can-kaybi-332ye-cikti-955097.html",
-          "ozet": "Nepal'in Çin sınırına yakın Rasuwa bölgesinde ve çevresinde meydana gelen selde yaşamını yitirenlerin sayısının 332'ye yükseldiği duyuruldu.",
-          "yayin_tarihi": "Thu, 27 Aug 2026 12:08:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-08-29T12:33:39.023085"
+      "taranma_zamani": "2026-08-30T11:40:28.685843"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Turkey and Israel Vie for Middle East Influence as Tensions Spike",
+          "baslik": "China Says 261 Foreigners From 23 Countries Are Missing in Tibet Flood",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/29/world/middleeast/turkey-israel-tensions-region.html",
-          "ozet": "Israel’s strike on a Syrian base to pre-empt the feared deployment of Turkish forces was part of a growing competition in the Middle East and beyond.",
-          "yayin_tarihi": "Sat, 29 Aug 2026 09:03:50 +0000",
+          "url": "https://www.nytimes.com/2026/08/30/world/asia/tibet-nepal-flood-death-toll-china.html",
+          "ozet": "The disclosure offered one of the clearest pictures yet of the disaster on the Chinese side of the border, where authorities have released few details.",
+          "yayin_tarihi": "Sun, 30 Aug 2026 06:25:52 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Six Months In, Iran Appears Stronger and U.S. Goals Unclear",
+          "baslik": "Long Lines for Gas in Iran Show War and U.S. Blockade Squeezing Supply",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/28/world/europe/iran-regime-war-us.html",
-          "ozet": "Trump’s replacement of a military war with a heightened economic one is not expected to alter Iran’s strategy, while further impoverishing its people.",
-          "yayin_tarihi": "Fri, 28 Aug 2026 19:43:42 +0000",
+          "url": "https://www.nytimes.com/2026/08/30/world/middleeast/iran-fuel-supplies-blockade.html",
+          "ozet": "The government is struggling to meet a shortfall in fuel and is wary that higher prices at the pump could stir unrest.",
+          "yayin_tarihi": "Sun, 30 Aug 2026 10:12:06 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Why Putin Is Fighting On, Even as His Problems Multiply",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/08/28/world/europe/russia-ukraine-war-putin.html",
-          "ozet": "There is little sign that public exhaustion, economic headwinds or increased Ukrainian strikes are changing the Russian leader’s view that he will eventually achieve victory.",
-          "yayin_tarihi": "Fri, 28 Aug 2026 21:22:41 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "37 Killed Near Kyiv as Russian Drone Blitz Exposes Air Defense Gap",
+          "baslik": "37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html",
-          "ozet": "The strike, on a warehouse near Ukraine’s capital, came after days of attacks that strained air defenses and struck fear in civilians.",
-          "yayin_tarihi": "Sat, 29 Aug 2026 12:15:06 +0000",
+          "ozet": "The depot, which was in a civilian area near Kyiv, “definitely shouldn’t have been there,” President Volodymyr Zelensky said.",
+          "yayin_tarihi": "Sat, 29 Aug 2026 21:47:52 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Soldiers in Niger Attack Presidential Palace and Airport, Shaking Junta",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/08/29/world/africa/niger-special-forces-attack.html",
+          "ozet": "Renegade Nigerien soldiers attacked sites around the capital, the defense ministry said, including a key air base that hosts Russian mercenaries.",
+          "yayin_tarihi": "Sat, 29 Aug 2026 22:14:16 +0000",
           "dil": "İngilizce"
         },
         {
@@ -92,58 +92,58 @@
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-08-29T12:33:39.023105"
+      "taranma_zamani": "2026-08-30T11:40:28.685864"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Bank of Russia may pause key rate cuts at next board meeting — Aksakov",
+          "baslik": "Angelina Jolie arrives in Ukraine — news agency",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2179317",
-          "ozet": "According to State Duma Financial Market Committee Chairman, rapidly lowering the key rate amid high inflation does not automatically lead to lower lending rates",
-          "yayin_tarihi": "Sat, 29 Aug 2026 15:28:59 +0300",
+          "url": "https://tass.com/world/2179481",
+          "ozet": "According to UNIAN news agency, the actress visited Lvov and Ternopol",
+          "yayin_tarihi": "Sun, 30 Aug 2026 14:37:21 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Switzerland lost its neutrality in eyes of more than just Russia — ambassador",
+          "baslik": "Russia supports Niger in its fight against extremists — Foreign Ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2179315",
-          "ozet": "The Swiss authorities have \"taken an unequivocally pro-Kiev position and consistently adhered to it\" since 2022, Sergey Garmonin said",
-          "yayin_tarihi": "Sat, 29 Aug 2026 15:25:21 +0300",
+          "url": "https://tass.com/politics/2179475",
+          "ozet": "The ministry assured that Russia will continue to support its friends in Niger in their fight against extremists, including those incited by former European colonial powers",
+          "yayin_tarihi": "Sun, 30 Aug 2026 14:35:25 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian icebreaker fleet may boost NSR popularity in Arctic — Kobyakov",
+          "baslik": "Iran’s supreme leader calls on all Muslim countries to stand up to US",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2179313",
-          "ozet": "According to Executive Secretary of the Eastern Economic Forum Organizing Committee, Russia plans to build another 14 icebreakers by 2030",
-          "yayin_tarihi": "Sat, 29 Aug 2026 15:17:16 +0300",
+          "url": "https://tass.com/world/2179473",
+          "ozet": "Mojtaba Khamenei pointed out that the US and Israel are at war not only with Iran and its regional allies, but also with all Muslims, \"including the peoples of West Asia and North Africa\"",
+          "yayin_tarihi": "Sun, 30 Aug 2026 14:33:25 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Cryptocurrency trading in Russia may reach $46.43 bln in first year",
+          "baslik": "Putin warmly congratulates Lukashenko on his birthday",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2179311",
-          "ozet": "The conservative forecast reflects the fact that a significant share of transactions will continue to be conducted through cryptocurrency exchange services, bypassing exchange trading",
-          "yayin_tarihi": "Sat, 29 Aug 2026 15:12:53 +0300",
+          "url": "https://tass.com/politics/2179471",
+          "ozet": "Russian President congratulated his Belarusian counterpart over the phone",
+          "yayin_tarihi": "Sun, 30 Aug 2026 13:05:13 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Eight Russians missing on China-Nepal border — Russian Embassy",
+          "baslik": "Russia readies to strike Ukraine’s energy sites to retaliate attacks on its infrastructure",
           "kaynak": "tass.com",
-          "url": "https://tass.com/emergencies/2179309",
-          "ozet": "The diplomatic mission reported that they had not received any information about their discovery",
-          "yayin_tarihi": "Sat, 29 Aug 2026 15:08:37 +0300",
+          "url": "https://tass.com/defense/2179463",
+          "ozet": "At the same time, Russian servicemen continued to launch coordinated strikes against Ukrainian military-industrial facilities that support the Ukrainian military overnight, the ministry emphasized",
+          "yayin_tarihi": "Sun, 30 Aug 2026 12:21:06 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-08-29T12:33:39.023130"
+      "taranma_zamani": "2026-08-30T11:40:28.685883"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-08-29T12:33:39.023133"
+      "taranma_zamani": "2026-08-30T11:40:28.685885"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-08-29T12:33:39.023141"
+      "taranma_zamani": "2026-08-30T11:40:28.685893"
     }
   }
 }
