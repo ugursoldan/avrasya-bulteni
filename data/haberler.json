@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-09-02",
-  "olusturma_zamani": "2026-09-02T11:00:21.085034",
+  "olusturma_tarihi": "2026-09-03",
+  "olusturma_zamani": "2026-09-03T10:59:09.315311",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Başakşehir'de inşaat alanında toprak kayması: 1 ölü",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/basaksehirde-insaat-alaninda-toprak-kaymasi-1-olu-955762.html",
+          "ozet": "İstanbul Başakşehir'de bir inşaat alanında meydana gelen toprak kaymasında göçük altında kalan 3 işçiden 2'si kurtarıldı, diğer işçinin cansız bedenine ulaşıldı.",
+          "yayin_tarihi": "Thu, 03 Sep 2026 11:00:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Filenin Sultanları yarı final için sahaya çıkıyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/filenin-sultanlari-yari-final-icin-sahaya-cikiyor-955744.html",
+          "ozet": "CEV Trendyol Avrupa Şampiyonası'nda mücadele eden Filenin Sultanları, adını yarı finale yazdırmak için mücadele edecek. Ay-Yıldızlılarımız, grup aşamasında yendiği Almanya ile karşılaşacak. Bugün saat 19.00'da başlayacak çeyrek final maçı, TRT 1'den naklen yayınlanacak.",
+          "yayin_tarihi": "Thu, 03 Sep 2026 09:30:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Eski İçişleri Bakanı Şahin için adli kontrol talebi",
           "kaynak": "www.trthaber.com",
@@ -28,126 +44,118 @@
           "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Rusya Devlet Başkanı Vladimir Putin ile görüştü. Erdoğan, Putin ile yaptığı basın açıklamasında, \"Şuanda artık Akkuyu Santrali'nin bitim dönemine girmiş vaziyetteyiz. Akkuyu Santrali'nin açılışı ile yeni bazı santrallerinin açılış adımlarını birlikte atacağız\" dedi.",
           "yayin_tarihi": "Tue, 01 Sep 2026 16:42:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "TCG Işın alabora olan geminin enkazı için taramalara başladı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/tcg-isin-alabora-olan-geminin-enkazi-icin-taramalara-basladi-955562.html",
-          "ozet": "Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) Girne kenti açıklarında alabora olan yolcu gemisinde kaybolan kişilere ve gemi enkazına ulaşmak üzere Türkiye'den gelen TCG Işın bölgede robotik taramalara başladı.",
-          "yayin_tarihi": "Tue, 01 Sep 2026 14:59:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "135 Alo Adalet Hattı hayata geçti",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/135-alo-adalet-hatti-hayata-gecti-955520.html",
-          "ozet": "Adalet Bakanı Akın Gürlek, 135 Alo Adalet Hattı ile 5 yılı aşan dava dosyaları, 3 yılı aşan soruşturma dosyaları için vatandaşların doğrudan başvuruda bulunabileceğini açıkladı.",
-          "yayin_tarihi": "Tue, 01 Sep 2026 09:38:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-02T11:00:21.084780"
+      "taranma_zamani": "2026-09-03T10:59:09.315157"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+          "baslik": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
-          "ozet": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
-          "yayin_tarihi": "Wed, 02 Sep 2026 03:04:58 +0000",
+          "url": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html",
+          "ozet": "Each side is using missiles and drones to try to pound the other into giving up, breeding ceaseless human suffering. But there is no sign that either country’s determination will weaken.",
+          "yayin_tarihi": "Thu, 03 Sep 2026 09:08:39 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "China Censors and Punishes to Shape Narrative on Floods in Tibet, a Contrast to Nepal",
+          "baslik": "The New Jet-Powered Drones That Are Breeding Anxiety in Ukraine",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/01/world/asia/china-tibet-floods-nepal-censorship.html",
-          "ozet": "While journalists can report freely on grief and anger in Nepal, China’s official media have presented a sanitized disaster aftermath in Tibet.",
-          "yayin_tarihi": "Tue, 01 Sep 2026 21:10:03 +0000",
+          "url": "https://www.nytimes.com/2026/09/03/world/europe/ukraine-russia-jet-powered-drones.html",
+          "ozet": "These Russian drones are more destructive, faster and harder to shoot down than the propeller-driven models that Moscow has used throughout the war.",
+          "yayin_tarihi": "Thu, 03 Sep 2026 10:44:22 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "U.S. Sanctions on Iran Cut Off Students From Tests Needed for Study Abroad",
+          "baslik": "U.S. and Iran Survey the Damage After a Night of Intense Strikes",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html",
-          "ozet": "The latest measures have forced the cancellation of English proficiency and graduate exams, isolating many Iranians most eager to foster ties with the world.",
-          "yayin_tarihi": "Tue, 01 Sep 2026 15:04:17 +0000",
+          "url": "https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html",
+          "ozet": "The American military said its barrage was retaliation against recent attacks on U.S. forces and marine traffic. Iranian officials said a wedding was hit and civilians killed.",
+          "yayin_tarihi": "Wed, 02 Sep 2026 17:38:57 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
+          "baslik": "In Small Iranian Town, a U.S. Attack Turns a Wedding Into a Tragedy",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html",
-          "ozet": "The country said Moscow was behind an explosive-laden drone found near a Ukrainian plane at a German airport last month. President Vladimir Putin of Russia called the accusation “a grave mistake.”",
-          "yayin_tarihi": "Tue, 01 Sep 2026 23:38:03 +0000",
+          "url": "https://www.nytimes.com/2026/09/02/video/iran-us-attack-wedding.html",
+          "ozet": "The bomb that hit the residential area was American, according to a weapons expert and a visual analysis by The Times. It killed five people and wounded 67 others, the Iranian authorities said.",
+          "yayin_tarihi": "Thu, 03 Sep 2026 00:03:43 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "These Ukrainian Children Go to School Underground. They’re the Lucky Ones.",
+          "baslik": "Attacks in Black Sea Threaten to Strangle Global Grain Supply",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/01/world/europe/ukraine-underground-schools.html",
-          "ozet": "In a frontline city, parents don’t see schools built below ground as apocalyptic. Instead, they offer relief from worry about the threat of Russian strikes.",
-          "yayin_tarihi": "Tue, 01 Sep 2026 17:11:38 +0000",
+          "url": "https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html",
+          "ozet": "Strikes on ports and vessels by both Russia and Ukraine have left farmers facing ruin and could cause another worldwide food shock.",
+          "yayin_tarihi": "Wed, 02 Sep 2026 09:05:50 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-02T11:00:21.084801"
+      "taranma_zamani": "2026-09-03T10:59:09.315180"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russian refineries better protected than those in UAE, Novak says",
+          "baslik": "Authorities note improvement in fuel situation in Russia this week — Novak",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2181179",
-          "ozet": "The official highlighted that protecting the refineries had been quite costly for oil companies",
-          "yayin_tarihi": "Wed, 02 Sep 2026 13:53:21 +0300",
+          "url": "https://tass.com/economy/2182083",
+          "ozet": "Deputy Prime Minister Alexander Novak said that a number of oil refineries had supplied additional volumes of fuel to the Russian market, after which the market situation improved",
+          "yayin_tarihi": "Thu, 03 Sep 2026 13:56:36 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia, China boosting tourism exchanges — Kremlin",
+          "baslik": "Russian businesses invest in protection from Ukrainian attacks — Putin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2181177",
-          "ozet": "A visa-free regime is in effect for business and tourist trips between Russia and China until December 31, 2027",
-          "yayin_tarihi": "Wed, 02 Sep 2026 13:51:55 +0300",
+          "url": "https://tass.com/politics/2182075",
+          "ozet": "This approach has already yielded the necessary results and effects, the head of state noted",
+          "yayin_tarihi": "Thu, 03 Sep 2026 13:51:07 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian parliamentary election results to be finalized by October 5 — election official",
+          "baslik": "Ensuring Russian electric power sector’s security under special control of government",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2181175",
-          "ozet": "The overall election results will be established based on the CEC protocol and decision on the election outcome in the nationwide constituency",
-          "yayin_tarihi": "Wed, 02 Sep 2026 13:51:32 +0300",
+          "url": "https://tass.com/economy/2182077",
+          "ozet": "Russian authorities are holding meetings focused on the issue, Deputy Prime Minister Alexander Novak said",
+          "yayin_tarihi": "Thu, 03 Sep 2026 13:51:02 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Kremlin notes closeness with China on key global issues",
+          "baslik": "Repairs at Russian oil refineries following Ukrainian attacks 90% complete — Putin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2181165",
-          "ozet": "The two countries closely coordinate their positions at the UN and in multilateral forums",
-          "yayin_tarihi": "Wed, 02 Sep 2026 13:26:35 +0300",
+          "url": "https://tass.com/economy/2182073",
+          "ozet": "The head of state noted that repairs are progressing at a fairly rapid pace",
+          "yayin_tarihi": "Thu, 03 Sep 2026 13:49:03 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Moscow vows to respond as Germany announces shutdown of Russian consulate",
+          "baslik": "Putin announces transition to 10-year Far East development strategy",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2181163",
-          "ozet": "Russian Ambassador to Germany Sergey Nechayev strongly rejected Berlin’s allegations of Moscow’s involvement in the incident at Leipzig/Halle Airport as unfounded and absurd",
-          "yayin_tarihi": "Wed, 02 Sep 2026 13:21:52 +0300",
+          "url": "https://tass.com/economy/2182069",
+          "ozet": "According to the Russian president, the key task is to maintain the strong pace of development achieved so far and launch new investment cycles in the region",
+          "yayin_tarihi": "Thu, 03 Sep 2026 13:47:05 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-02T11:00:21.084835"
+      "taranma_zamani": "2026-09-03T10:59:09.315274"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-02T11:00:21.084837"
+      "taranma_zamani": "2026-09-03T10:59:09.315276"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "中国收紧人员出境　内部实行“谁批准谁担责”",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shehui/2026/09/03/china-entry-and-exit-management-regulations-capital-fleeing-technology-and-talent-outflow-strict-approval-processing/",
+          "ozet": "中国各出入境口岸将于9月15日起正式实施新的出入境管理规定。据知情人士透露，新规实行“谁审批、谁负责”制度，公务员、国有企业及事业单位人员，包括大学教师、医生、上市公司高管，以及大学生，出境前均须提出申请并获得批准。",
+          "yayin_tarihi": "Thu, 03 Sep 2026 09:51:12 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "中尼泥石流数千人失踪　中国严控灾情信息",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "中国艺术家高兟8月25日被河北省三河市法院以“侵害英雄烈士名誉、荣誉罪”判处有期徒刑3年。案件涉及的多件讽刺毛泽东作品创作于2005年至2009年，早于相关刑事条款实施十多年。高兟已经决定提出上诉。",
           "yayin_tarihi": "Thu, 27 Aug 2026 08:47:54 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "恒大集团案 许家印一审判无期徒刑",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/2026/08/20/businessman-xujiayin-cerdiction/",
-          "ozet": "中国知名地产商人，恒大集团前负责人许家印因涉犯多起案件，周四（20日）遭一审法院判处无期徒刑，没收个人全部财产。他的两个儿子也因涉及非法吸收公众存款等案，被判处有期徒刑。",
-          "yayin_tarihi": "Thu, 20 Aug 2026 12:18:43 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-02T11:00:21.084843"
+      "taranma_zamani": "2026-09-03T10:59:09.315284"
     }
   }
 }
