@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-09-03",
-  "olusturma_zamani": "2026-09-03T10:59:09.315311",
+  "olusturma_tarihi": "2026-09-04",
+  "olusturma_zamani": "2026-09-04T10:59:44.379408",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Gülistan Doku soruşturmasında tutuklu sayısı 32'ye yükseldi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/gulistan-doku-sorusturmasinda-tutuklu-sayisi-32ye-yukseldi-955793.html",
+          "ozet": "Gülistan Doku soruşturması kapsamında gözaltına alınan eski Tunceli İl Jandarma Komutan Yardımcısı Ali Kahraman ile eşi Burçin Hızlı Kahraman tutuklandı, toplam tutuklu sayısı 32'ye çıktı.",
+          "yayin_tarihi": "Thu, 03 Sep 2026 15:50:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Başakşehir'de inşaat alanında toprak kayması: 1 ölü",
           "kaynak": "www.trthaber.com",
@@ -36,114 +44,106 @@
           "ozet": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'da Devrim Muhafızları Ordusu hedeflerine saldırı başlattıklarını açıkladı.",
           "yayin_tarihi": "Tue, 01 Sep 2026 19:41:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Cumhurbaşkanı Erdoğan: Akkuyu Santrali'nin bitim dönemine girmiş vaziyetteyiz",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-akkuyu-santralinin-bitim-donemine-girmis-vaziyetteyiz-955572.html",
-          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Rusya Devlet Başkanı Vladimir Putin ile görüştü. Erdoğan, Putin ile yaptığı basın açıklamasında, \"Şuanda artık Akkuyu Santrali'nin bitim dönemine girmiş vaziyetteyiz. Akkuyu Santrali'nin açılışı ile yeni bazı santrallerinin açılış adımlarını birlikte atacağız\" dedi.",
-          "yayin_tarihi": "Tue, 01 Sep 2026 16:42:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-03T10:59:09.315157"
+      "taranma_zamani": "2026-09-04T10:59:44.379137"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "The Risk of Russian Sabotage in Europe: A Fight That Spirals Out of Control",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/04/world/europe/russia-europe-nato-sabotage.html",
+          "ozet": "Europe’s options are limited in responding to an unnerving series of plots and provocations. But the odds of unpredictable consequences are rising.",
+          "yayin_tarihi": "Fri, 04 Sep 2026 09:03:31 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "After Fighting Russia Fiercely, He Wants to Forge Ukraine’s Path to Peace",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/04/world/europe/ukraine-russia-talks-kyrylo-budanov.html",
+          "ozet": "Kyrylo Budanov, a decorated soldier and former military spy chief, advocates a negotiated settlement. Talks are expected to resume this month.",
+          "yayin_tarihi": "Fri, 04 Sep 2026 09:03:23 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html",
           "ozet": "Each side is using missiles and drones to try to pound the other into giving up, breeding ceaseless human suffering. But there is no sign that either country’s determination will weaken.",
-          "yayin_tarihi": "Thu, 03 Sep 2026 09:08:39 +0000",
+          "yayin_tarihi": "Thu, 03 Sep 2026 11:35:45 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "The New Jet-Powered Drones That Are Breeding Anxiety in Ukraine",
+          "baslik": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/03/world/europe/ukraine-russia-jet-powered-drones.html",
-          "ozet": "These Russian drones are more destructive, faster and harder to shoot down than the propeller-driven models that Moscow has used throughout the war.",
-          "yayin_tarihi": "Thu, 03 Sep 2026 10:44:22 +0000",
+          "url": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
+          "ozet": "Empowered by an international court order, Norway captured the vessel as part of a global effort to seize Russian assets. The Russians called it “piracy.”",
+          "yayin_tarihi": "Thu, 03 Sep 2026 21:12:44 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "U.S. and Iran Survey the Damage After a Night of Intense Strikes",
+          "baslik": "Israel Says It Cleared Tunnels to Strategic Hezbollah Fortress in Lebanon",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html",
-          "ozet": "The American military said its barrage was retaliation against recent attacks on U.S. forces and marine traffic. Iranian officials said a wedding was hit and civilians killed.",
-          "yayin_tarihi": "Wed, 02 Sep 2026 17:38:57 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "In Small Iranian Town, a U.S. Attack Turns a Wedding Into a Tragedy",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/02/video/iran-us-attack-wedding.html",
-          "ozet": "The bomb that hit the residential area was American, according to a weapons expert and a visual analysis by The Times. It killed five people and wounded 67 others, the Iranian authorities said.",
-          "yayin_tarihi": "Thu, 03 Sep 2026 00:03:43 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Attacks in Black Sea Threaten to Strangle Global Grain Supply",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html",
-          "ozet": "Strikes on ports and vessels by both Russia and Ukraine have left farmers facing ruin and could cause another worldwide food shock.",
-          "yayin_tarihi": "Wed, 02 Sep 2026 09:05:50 +0000",
+          "url": "https://www.nytimes.com/2026/09/03/world/middleeast/israeli-hezbollah-lebanon.html",
+          "ozet": "The operation, which began in June and is ongoing, came as fighting between the U.S. and Iran flared anew.",
+          "yayin_tarihi": "Fri, 04 Sep 2026 01:42:01 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-03T10:59:09.315180"
+      "taranma_zamani": "2026-09-04T10:59:44.379159"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Authorities note improvement in fuel situation in Russia this week — Novak",
+          "baslik": "Serbia seeks long-term extension of gas deal with Russia — Srbijagas",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2182083",
-          "ozet": "Deputy Prime Minister Alexander Novak said that a number of oil refineries had supplied additional volumes of fuel to the Russian market, after which the market situation improved",
-          "yayin_tarihi": "Thu, 03 Sep 2026 13:56:36 +0300",
+          "url": "https://tass.com/economy/2182709",
+          "ozet": "Aleksandar Vulin, leader of the Serbian Movement of Socialists party, described the extension of the gas agreement with Russia as \"one of the most important issues\" for Serbia",
+          "yayin_tarihi": "Fri, 04 Sep 2026 13:50:10 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian businesses invest in protection from Ukrainian attacks — Putin",
+          "baslik": "What is known about European Commission’s plans to restrict visas for Russia, EU reaction",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2182075",
-          "ozet": "This approach has already yielded the necessary results and effects, the head of state noted",
-          "yayin_tarihi": "Thu, 03 Sep 2026 13:51:07 +0300",
+          "url": "https://tass.com/world/2182713",
+          "ozet": "According to the diplomatic source, the European Commission has spent the last four years trying to implement a plan that would make entry into the EU a privilege for Russians",
+          "yayin_tarihi": "Fri, 04 Sep 2026 13:47:08 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ensuring Russian electric power sector’s security under special control of government",
+          "baslik": "Russian forces tightening Ukrainian troops’ encirclement in Volchansk — defense source",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2182077",
-          "ozet": "Russian authorities are holding meetings focused on the issue, Deputy Prime Minister Alexander Novak said",
-          "yayin_tarihi": "Thu, 03 Sep 2026 13:51:02 +0300",
+          "url": "https://tass.com/defense/2182711",
+          "ozet": "According to the source, many Ukrainian soldiers have already begun to surrender",
+          "yayin_tarihi": "Fri, 04 Sep 2026 13:44:50 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Repairs at Russian oil refineries following Ukrainian attacks 90% complete — Putin",
+          "baslik": "Russian underground gas storage facilities already 90% full — Gazprom CEO",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2182073",
-          "ozet": "The head of state noted that repairs are progressing at a fairly rapid pace",
-          "yayin_tarihi": "Thu, 03 Sep 2026 13:49:03 +0300",
+          "url": "https://tass.com/economy/2182705",
+          "ozet": "Alexey Miller noted that Gazprom will bring its operational gas reserves in underground storage facilities to 73.296 bln cubic meters this year",
+          "yayin_tarihi": "Fri, 04 Sep 2026 13:42:03 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Putin announces transition to 10-year Far East development strategy",
+          "baslik": "Moscow won't ask Kiev to stop terrorist attacks ahead of US envoys' visit to Russia",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2182069",
-          "ozet": "According to the Russian president, the key task is to maintain the strong pace of development achieved so far and launch new investment cycles in the region",
-          "yayin_tarihi": "Thu, 03 Sep 2026 13:47:05 +0300",
+          "url": "https://tass.com/politics/2182703",
+          "ozet": "According to earlier reports, US envoys Steve Witkoff and Jared Kushner intend to travel to Moscow and Kiev on September 5-6",
+          "yayin_tarihi": "Fri, 04 Sep 2026 13:35:57 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-03T10:59:09.315274"
+      "taranma_zamani": "2026-09-04T10:59:44.379184"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-03T10:59:09.315276"
+      "taranma_zamani": "2026-09-04T10:59:44.379186"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-03T10:59:09.315284"
+      "taranma_zamani": "2026-09-04T10:59:44.379194"
     }
   }
 }
