@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-09-04",
-  "olusturma_zamani": "2026-09-04T10:59:44.379408",
+  "olusturma_tarihi": "2026-09-05",
+  "olusturma_zamani": "2026-09-05T10:21:50.885714",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Üsküdar Belediyesi'nde başkan vekili seçimi ertelendi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/uskudar-belediyesinde-baskan-vekili-secimi-ertelendi-955970.html",
+          "ozet": "Üsküdar Belediyesi'nde başkan vekili seçimi salt çoğunluk sağlanamadığı için 8 Eylül'e ertelendi.",
+          "yayin_tarihi": "Sat, 05 Sep 2026 10:44:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Gülistan Doku soruşturmasında tutuklu sayısı 32'ye yükseldi",
           "kaynak": "www.trthaber.com",
@@ -36,21 +44,37 @@
           "ozet": "Eski İçişleri Bakanı İdris Naim Şahin'in, Alihan Kuriş suç örgütü soruşturması kapsamında ifadesine başvuruldu.  Şahin, ifadesinin ardından adli kontrol talebiyle nöbetçi sulh ceza hakimliğine sevk edildi.",
           "yayin_tarihi": "Tue, 01 Sep 2026 20:59:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "ABD: İranda Devrim Muhafızları Ordusu hedeflerine saldırılar başlattık",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/abd-iranda-devrim-muhafizlari-ordusu-hedeflerine-saldirilar-baslattik-955588.html",
-          "ozet": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'da Devrim Muhafızları Ordusu hedeflerine saldırı başlattıklarını açıkladı.",
-          "yayin_tarihi": "Tue, 01 Sep 2026 19:41:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-04T10:59:44.379137"
+      "taranma_zamani": "2026-09-05T10:21:50.885464"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "Trump Envoys Arrive in Moscow for Talks on Ukraine War",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
+          "ozet": "Steve Witkoff, President Trump’s special envoy, and Jared Kushner, his son-in-law, plan to visit Kyiv next, in an effort to revive peace negotiations between Russia and Ukraine.",
+          "yayin_tarihi": "Sat, 05 Sep 2026 10:05:20 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Flee, Hide or Sit Tight? Russians Are on Edge Over Rumors of a Draft.",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-war-mobilization-draft.html",
+          "ozet": "The Kremlin has denied that a mass mobilization is being prepared, but some military-age men are taking no chances.",
+          "yayin_tarihi": "Sat, 05 Sep 2026 09:02:35 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Here Is Where Ukraine Peace Talks Stand, as a New Round Approaches",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/05/world/europe/ukraine-russia-talks-wtk.html",
+          "ozet": "A deadly campaign of Russian and Ukrainian airstrikes has escalated since the last U.S.-brokered negotiations stalled in February.",
+          "yayin_tarihi": "Sat, 05 Sep 2026 10:10:43 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "The Risk of Russian Sabotage in Europe: A Fight That Spirals Out of Control",
           "kaynak": "rss.nytimes.com",
@@ -60,94 +84,86 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "After Fighting Russia Fiercely, He Wants to Forge Ukraine’s Path to Peace",
+          "baslik": "Yemen’s Houthis Push Toward Red Sea Strait as Ground Fighting Escalates",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/04/world/europe/ukraine-russia-talks-kyrylo-budanov.html",
-          "ozet": "Kyrylo Budanov, a decorated soldier and former military spy chief, advocates a negotiated settlement. Talks are expected to resume this month.",
-          "yayin_tarihi": "Fri, 04 Sep 2026 09:03:23 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html",
-          "ozet": "Each side is using missiles and drones to try to pound the other into giving up, breeding ceaseless human suffering. But there is no sign that either country’s determination will weaken.",
-          "yayin_tarihi": "Thu, 03 Sep 2026 11:35:45 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
-          "ozet": "Empowered by an international court order, Norway captured the vessel as part of a global effort to seize Russian assets. The Russians called it “piracy.”",
-          "yayin_tarihi": "Thu, 03 Sep 2026 21:12:44 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Israel Says It Cleared Tunnels to Strategic Hezbollah Fortress in Lebanon",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/03/world/middleeast/israeli-hezbollah-lebanon.html",
-          "ozet": "The operation, which began in June and is ongoing, came as fighting between the U.S. and Iran flared anew.",
-          "yayin_tarihi": "Fri, 04 Sep 2026 01:42:01 +0000",
+          "url": "https://www.nytimes.com/2026/09/04/world/middleeast/yemen-houthis-red-sea-strait.html",
+          "ozet": "The Houthis, an Iran-backed militia, appear to be trying to gain control of a port city near the Bab al-Mandab Strait, a key choke point for global trade.",
+          "yayin_tarihi": "Fri, 04 Sep 2026 14:08:53 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-04T10:59:44.379159"
+      "taranma_zamani": "2026-09-05T10:21:50.885482"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Serbia seeks long-term extension of gas deal with Russia — Srbijagas",
+          "baslik": "Russian presidential envoy arrives at Moscow airport to meet US negotiators",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2182709",
-          "ozet": "Aleksandar Vulin, leader of the Serbian Movement of Socialists party, described the extension of the gas agreement with Russia as \"one of the most important issues\" for Serbia",
-          "yayin_tarihi": "Fri, 04 Sep 2026 13:50:10 +0300",
+          "url": "https://tass.com/politics/2183099",
+          "ozet": "A flight carrying US negotiators Steve Witkoff and Jared Kushner is expected to land at Vnukovo shortly",
+          "yayin_tarihi": "Sat, 05 Sep 2026 13:02:11 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "What is known about European Commission’s plans to restrict visas for Russia, EU reaction",
+          "baslik": "Special US flight crosses Russian border amid expectations of negotiators’ visit",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2182713",
-          "ozet": "According to the diplomatic source, the European Commission has spent the last four years trying to implement a plan that would make entry into the EU a privilege for Russians",
-          "yayin_tarihi": "Fri, 04 Sep 2026 13:47:08 +0300",
+          "url": "https://tass.com/politics/2183075",
+          "ozet": "According to earlier reports, US negotiators Steve Witkoff and Jared Kushner plan to visit Moscow and Kiev on September 5-6",
+          "yayin_tarihi": "Sat, 05 Sep 2026 12:27:48 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian forces tightening Ukrainian troops’ encirclement in Volchansk — defense source",
+          "baslik": "US strikes tanker near Iran’s Kharg Island — TV",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2182711",
-          "ozet": "According to the source, many Ukrainian soldiers have already begun to surrender",
-          "yayin_tarihi": "Fri, 04 Sep 2026 13:44:50 +0300",
+          "url": "https://tass.com/world/2183071",
+          "ozet": "According to the broadcaster, there were no casualties",
+          "yayin_tarihi": "Sat, 05 Sep 2026 11:44:02 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian underground gas storage facilities already 90% full — Gazprom CEO",
+          "baslik": "Animated film about Captain Nevelskoy to be screened in Singapore, Toronto, Tokyo, Dubai",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2182705",
-          "ozet": "Alexey Miller noted that Gazprom will bring its operational gas reserves in underground storage facilities to 73.296 bln cubic meters this year",
-          "yayin_tarihi": "Fri, 04 Sep 2026 13:42:03 +0300",
+          "url": "https://tass.com/society/2183021",
+          "ozet": "The film became one of flagship projects for the development of creative industries in the Russian Far East",
+          "yayin_tarihi": "Sat, 05 Sep 2026 07:43:51 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Moscow won't ask Kiev to stop terrorist attacks ahead of US envoys' visit to Russia",
+          "baslik": "Russian forces establish foothold on southeastern outskirts of Dobropolye — expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2182703",
-          "ozet": "According to earlier reports, US envoys Steve Witkoff and Jared Kushner intend to travel to Moscow and Kiev on September 5-6",
-          "yayin_tarihi": "Fri, 04 Sep 2026 13:35:57 +0300",
+          "url": "https://tass.com/defense/2183019",
+          "ozet": "Andrey Marochko says Russian troops are advancing and clearing the settlement",
+          "yayin_tarihi": "Sat, 05 Sep 2026 07:33:07 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-04T10:59:44.379184"
+      "taranma_zamani": "2026-09-05T10:21:50.885512"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-04T10:59:44.379186"
+      "taranma_zamani": "2026-09-05T10:21:50.885514"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "“996”能举报到欧盟吗？",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shehui/2026/09/04/china-996-eu-forced-labour-regulation/",
+          "ozet": "中国劳动者开始关注，能否借助欧盟强迫劳动新规举报“996”。但超时加班并不自动构成强迫劳动，新规针对的是商品和供应链，统一信息提交入口也要到2027年12月才开放。",
+          "yayin_tarihi": "Fri, 04 Sep 2026 13:42:33 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "为锡安教会辩护遭迫害，王夏红律师抵达台湾",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/09/04/wangxiahon-zion-church-repression/",
+          "ozet": "中国律师王夏红日前为北京地下教会「锡安教会」辩护，遭到中国政府对她本人及所属律师事务所施压迫害。美联社报导证实王夏红已经抵达台湾，台湾政府准许停留，同时协助她前往其它国家安置。",
+          "yayin_tarihi": "Fri, 04 Sep 2026 11:57:56 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "中国收紧人员出境　内部实行“谁批准谁担责”",
           "kaynak": "www.rfa.org",
@@ -171,25 +187,9 @@
           "ozet": "中国对维吾尔人的压力，是否已经跨越国境？\n无国界记者组织（RSF）最新报告指出，中国不断扩大在土耳其的媒体影响力，让维吾尔记者和活动人士更难发声。\n2025年瑞士政府报告也指出，维吾尔人和藏人可能面临来自中国的“跨国镇压”，包括监",
           "yayin_tarihi": "Mon, 31 Aug 2026 13:21:36 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "牧师曹三强被禁出境 癌症晚期盼赴美团聚",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/08/31/china-family-gatherings-pastor-cao-sanqiang-entry-and-exit-restrictions/",
-          "ozet": "湖南家庭教会牧师曹三强服满7年刑期获释两年半后，仍被中国当局限制出境。他近日在接受本台专访时说，出狱后多次申请护照，但因被列入边控名单，至今无法办理。曹三强今年4月确诊前列腺癌晚期，希望当局基于人道考虑向他签发护照。",
-          "yayin_tarihi": "Mon, 31 Aug 2026 11:28:51 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "艺术家高兟因讽毛作品获刑3年提上诉",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/08/27/china-gao-xin-satirizing-mao-zedong-amnesty-international-sentenced-to-three-years-in-prison/",
-          "ozet": "中国艺术家高兟8月25日被河北省三河市法院以“侵害英雄烈士名誉、荣誉罪”判处有期徒刑3年。案件涉及的多件讽刺毛泽东作品创作于2005年至2009年，早于相关刑事条款实施十多年。高兟已经决定提出上诉。",
-          "yayin_tarihi": "Thu, 27 Aug 2026 08:47:54 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-04T10:59:44.379194"
+      "taranma_zamani": "2026-09-05T10:21:50.885521"
     }
   }
 }
