@@ -1,24 +1,24 @@
 {
-  "olusturma_tarihi": "2026-09-06",
-  "olusturma_zamani": "2026-09-06T10:40:20.012108",
+  "olusturma_tarihi": "2026-09-07",
+  "olusturma_zamani": "2026-09-07T12:06:48.790494",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Rusya: Almanlar yine savaş istiyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/rusya-almanlar-yine-savas-istiyor-956122.html",
+          "ozet": "Rusya Dışişleri Bakanı Sergey Lavrov, Almanya’nın Rusya'ya yönelik aldığı kararları \"gerçek bir savaşın başlangıcı\" olarak nitelendirerek, \"Onlar (Almanlar), yine savaş istiyor.\" dedi.",
+          "yayin_tarihi": "Mon, 07 Sep 2026 12:39:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Ekonomide 3 yıllık yol haritası açıklandı",
           "kaynak": "www.trthaber.com",
           "url": "https://www.trthaber.com/haber/gundem/ekonomide-3-yillik-yol-haritasi-aciklandi-956032.html",
           "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, fiyat istikrarını kalıcı biçimde tesis etmek ve enflasyonu tek haneli seviyelere indirmek için para, maliye ve gelirler politikalarının güçlü bir eş güdüm içerisinde uygulanmaya devam edileceğini belirterek, \"2027 yılında yüzde 21’e, 2028'de 13,5’e ve 2029'da yüzde 9’a gerileyeceğini hedefliyoruz\" dedi.",
           "yayin_tarihi": "Sun, 06 Sep 2026 11:01:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Filenin Sultanları, şampiyonluk için sahaya çıkıyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/filenin-sultanlari-sampiyonluk-icin-sahaya-cikiyor-956022.html",
-          "ozet": "A Milli Kadın Voleybol Takımımız, Trendyol 2026 CEV Kadınlar Avrupa Voleybol Şampiyonası'nın finalinde bugün İtalya ile karşı karşıya gelecek. Türkiye - İtalya finali TRT 1'den canlı yayınlanacak.",
-          "yayin_tarihi": "Sun, 06 Sep 2026 06:56:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -46,17 +46,25 @@
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-06T10:40:20.011880"
+      "taranma_zamani": "2026-09-07T12:06:48.790229"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Trump Envoys Make First Visit to Kyiv",
+          "baslik": "They Went to Ukraine on the ‘Peace Express.’ Detours Are Likely Ahead.",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
-          "ozet": "Steve Witkoff and Jared Kushner met with President Vladimir V. Putin of Russia in Moscow on Saturday in an effort to revive peace talks.",
-          "yayin_tarihi": "Sun, 06 Sep 2026 10:26:42 +0000",
+          "url": "https://www.nytimes.com/2026/09/07/world/europe/ukraine-russia-witkoff-kushner-trump.html",
+          "ozet": "The Trump administration had let the peace process enter such a freeze that a trip to Kyiv was just an initial step. Any new talks will happen alongside escalating fighting.",
+          "yayin_tarihi": "Mon, 07 Sep 2026 11:12:55 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "In Peru, the Trump Administration Sees the Limits of Its Anti-China Push",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/07/world/americas/peru-trump-china-economy.html",
+          "ozet": "As Secretary of State Marco Rubio travels this week to Peru, its growing economic ties to China have raised tensions with the U.S., but show no signs of reversing course.",
+          "yayin_tarihi": "Mon, 07 Sep 2026 09:00:13 +0000",
           "dil": "İngilizce"
         },
         {
@@ -72,15 +80,7 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html",
           "ozet": "A record 12.7 million young people are looking for jobs as the country embraces artificial intelligence — and as the technology begins to upend the work force.",
-          "yayin_tarihi": "Sun, 06 Sep 2026 04:01:15 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
-          "ozet": "President Vladimir V. Putin ordered a pause in strikes on Ukraine’s capital, Kyiv, ahead of the meeting with President Trump’s envoys: his son-in-law Jared Kushner and the businessman Steve Witkoff.",
-          "yayin_tarihi": "Sun, 06 Sep 2026 02:49:50 +0000",
+          "yayin_tarihi": "Sun, 06 Sep 2026 20:36:11 +0000",
           "dil": "İngilizce"
         },
         {
@@ -92,62 +92,70 @@
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-06T10:40:20.011901"
+      "taranma_zamani": "2026-09-07T12:06:48.790249"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Trilateral meeting between leaders of Russia, US, China possible — Deputy Foreign Minister",
+          "baslik": "Russia could account for over 30% of global uranium supplies by 2040 — FT",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2183305",
-          "ozet": "The trilateral format with the participation of the leaders of Russia, China and the United States has not been practiced so far, Sergey Ryabkov stated in an interview with TASS",
-          "yayin_tarihi": "Sun, 06 Sep 2026 12:18:55 +0300",
+          "url": "https://tass.com/economy/2183645",
+          "ozet": "According to the report, Western countries are unable to meet demand due to a lack of investment and delays in issuing permits for the development of new deposits",
+          "yayin_tarihi": "Mon, 07 Sep 2026 14:58:58 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russians, Americans need to remember how much they got in common — former US congressman",
+          "baslik": "DPRK, Russia to strive for new results in cooperation — North Korean premier",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2183295",
-          "ozet": "It's important for Americans who serve the public, members of Congress, to go to Russia and to meet the people, Dennis Kucinich said",
-          "yayin_tarihi": "Sun, 06 Sep 2026 10:24:27 +0300",
+          "url": "https://tass.com/world/2183639",
+          "ozet": "The ceremony marking the completion of construction of a road bridge across the Tumannaya River on the border between the two countries took place earlier on Monday",
+          "yayin_tarihi": "Mon, 07 Sep 2026 14:46:56 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Air defenses down 258 Ukrainian drones over Russia overnight — top brass",
+          "baslik": "Number of polling stations for Russians in the West down by more than 60 — Lavrov",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2183293",
-          "ozet": "From 8:00 p.m. Moscow time on September 5 to 8:00 a.m. Moscow time on September 6, on-duty air defenses intercepted and destroyed 258 Ukrainian fixed-wing drones",
-          "yayin_tarihi": "Sun, 06 Sep 2026 09:04:12 +0300",
+          "url": "https://tass.com/politics/2183637",
+          "ozet": "The Russian foreign minister clarified that the number of polling stations had decreased due to \"a reduction in locations and staffing\"",
+          "yayin_tarihi": "Mon, 07 Sep 2026 14:33:12 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian figure skating pairs sweep podium at 2026 ISU Kinoshita Group Cup tournament",
+          "baslik": "Russian stocks reverse losses, move into positive territory",
           "kaynak": "tass.com",
-          "url": "https://tass.com/sports/2183289",
-          "ozet": "The judges awarded the Russian pair of Alexandra Boikova and Dmitry Kozlovsky 203.66 points for their performance",
-          "yayin_tarihi": "Sun, 06 Sep 2026 08:43:26 +0300",
+          "url": "https://tass.com/economy/2183631",
+          "ozet": "As of 2:00 p.m. Moscow time, the MOEX Index rose by 0.2% to 2,257.82 points, while the RTS Index stood at 821.46 points",
+          "yayin_tarihi": "Mon, 07 Sep 2026 14:23:32 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia’s Khachanov advances at 2026 US Open with straight-set win over French Bonzi",
+          "baslik": "Norway's military buildup requires Russia take additional measures — Kremlin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/sports/2183283",
-          "ozet": "The Russian tennis player is now set to play in the next round against the winner of the duel between Learner Tien of the United States and Jakub Mensik from the Czech Republic",
-          "yayin_tarihi": "Sun, 06 Sep 2026 06:25:00 +0300",
+          "url": "https://tass.com/politics/2183621",
+          "ozet": "Dmitry Peskov said the Russian Defense Ministry, as well as other relevant services, are dealing with this",
+          "yayin_tarihi": "Mon, 07 Sep 2026 13:53:51 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-06T10:40:20.011917"
+      "taranma_zamani": "2026-09-07T12:06:48.790271"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-06T10:40:20.011919"
+      "taranma_zamani": "2026-09-07T12:06:48.790273"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "习近平拟携大型商团访美　商业订单进入元首外交",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/guoji/2026/09/07/china-xi-jinping-trump-trade-friction-us-china-trade/",
+          "ozet": "中国方面正筹组一个大型企业代表团，准备随国家主席习近平于本月访问美国。若该计划成行，将是自2020年北京整顿科技、教育及房地产行业以来，少见的一次大批企业高层陪同国家领导人出访。不过，北京体制内人士表示，相关安排尚未最终确定。",
+          "yayin_tarihi": "Mon, 07 Sep 2026 07:27:39 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "“996”能举报到欧盟吗？",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "8月26日，尼泊尔境内喜马拉雅山冰川断裂，冰岩崩形成泥石流，沿河谷冲向中国西藏吉隆口岸。据尼泊尔灾害管理部门及中国官方截至2026年9月1日上午分别公布的数据，中尼两侧共有955人遇难、4471人失踪或失联。",
           "yayin_tarihi": "Tue, 01 Sep 2026 06:21:02 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "离开中国就安全了？维吾尔人面对“跨国镇压”",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/guoji/2026/08/31/xinjiang-uyghurs-transnational-repression/",
-          "ozet": "中国对维吾尔人的压力，是否已经跨越国境？\n无国界记者组织（RSF）最新报告指出，中国不断扩大在土耳其的媒体影响力，让维吾尔记者和活动人士更难发声。\n2025年瑞士政府报告也指出，维吾尔人和藏人可能面临来自中国的“跨国镇压”，包括监",
-          "yayin_tarihi": "Mon, 31 Aug 2026 13:21:36 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-06T10:40:20.011926"
+      "taranma_zamani": "2026-09-07T12:06:48.790282"
     }
   }
 }
