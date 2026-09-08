@@ -1,16 +1,32 @@
 {
-  "olusturma_tarihi": "2026-09-07",
-  "olusturma_zamani": "2026-09-07T12:06:48.790494",
+  "olusturma_tarihi": "2026-09-08",
+  "olusturma_zamani": "2026-09-08T10:59:19.179609",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "GSB yurt başvuru sonuçları açıklandı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/gsb-yurt-basvuru-sonuclari-aciklandi-956212.html",
+          "ozet": "Gençlik ve Spor Bakanı (GSB) Osman Aşkın Bak, yükseköğretim öğrencileri için GSB yurt başvurularının sonuçlandığını açıkladı.",
+          "yayin_tarihi": "Tue, 08 Sep 2026 10:06:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Rusya: Almanlar yine savaş istiyor",
           "kaynak": "www.trthaber.com",
           "url": "https://www.trthaber.com/haber/dunya/rusya-almanlar-yine-savas-istiyor-956122.html",
           "ozet": "Rusya Dışişleri Bakanı Sergey Lavrov, Almanya’nın Rusya'ya yönelik aldığı kararları \"gerçek bir savaşın başlangıcı\" olarak nitelendirerek, \"Onlar (Almanlar), yine savaş istiyor.\" dedi.",
           "yayin_tarihi": "Mon, 07 Sep 2026 12:39:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Cumhurbaşkanı Erdoğan: Bizi yolumuzdan döndüremezler",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bizi-yolumuzdan-donduremezler-956151.html",
+          "ozet": "Cumhurbaşkanı Erdoğan, \"Ülkemizin güçlenmesinden, bölgesinde barış ve istikrarın tesisi için çaba sarf etmesinden rahatsız olanlar bizi yolumuzdan geri döndüremezler. Bulunduğumuz zor coğrafyada bağımsız ve müreffeh bir devlet olarak yolumuza devam etmek istiyoruz. Bunun önünün kesilmesine asla fırsat vermeyeceğiz\" açıklamasını yaptı.",
+          "yayin_tarihi": "Mon, 07 Sep 2026 17:25:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -28,126 +44,118 @@
           "ozet": "Üsküdar Belediyesi'nde başkan vekili seçimi salt çoğunluk sağlanamadığı için 8 Eylül'e ertelendi.",
           "yayin_tarihi": "Sat, 05 Sep 2026 10:44:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Gülistan Doku soruşturmasında tutuklu sayısı 32'ye yükseldi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/gulistan-doku-sorusturmasinda-tutuklu-sayisi-32ye-yukseldi-955793.html",
-          "ozet": "Gülistan Doku soruşturması kapsamında gözaltına alınan eski Tunceli İl Jandarma Komutan Yardımcısı Ali Kahraman ile eşi Burçin Hızlı Kahraman tutuklandı, toplam tutuklu sayısı 32'ye çıktı.",
-          "yayin_tarihi": "Thu, 03 Sep 2026 15:50:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Başakşehir'de inşaat alanında toprak kayması: 1 ölü",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/basaksehirde-insaat-alaninda-toprak-kaymasi-1-olu-955762.html",
-          "ozet": "İstanbul Başakşehir'de bir inşaat alanında meydana gelen toprak kaymasında göçük altında kalan 3 işçiden 2'si kurtarıldı, diğer işçinin cansız bedenine ulaşıldı.",
-          "yayin_tarihi": "Thu, 03 Sep 2026 11:00:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-07T12:06:48.790229"
+      "taranma_zamani": "2026-09-08T10:59:19.179404"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "Chinese Ship Takes Arctic Shortcut: Smart Business? Or a Political Flex?",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/08/world/europe/china-arctic-shipping-trade-route.html",
+          "ozet": "Melting ice is opening a trade route through the Arctic. China has begun the first regular service, part of its polar ambitions.",
+          "yayin_tarihi": "Tue, 08 Sep 2026 08:49:18 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
+          "ozet": "The latest escalation threatens to drag Saudi Arabia and the Iran-backed Houthi militia back into a full-blown war.",
+          "yayin_tarihi": "Tue, 08 Sep 2026 10:20:12 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Online Posts Show Families’ Grief for Flood Victims on Tibet’s Side of China-Nepal Border",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/08/world/asia/china-nepal-border-flood-tibet-victims-messages.html",
+          "ozet": "The authorities have not released an official list of those missing in the Tibet flood, creating an information void that people have tried to fill.",
+          "yayin_tarihi": "Tue, 08 Sep 2026 10:31:49 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html",
+          "ozet": "Russia agreed not to bomb Ukraine’s capital during Steve Witkoff and Jared Kushner’s visit there. The respite was short-lived.",
+          "yayin_tarihi": "Tue, 08 Sep 2026 10:48:39 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "They Went to Ukraine on the ‘Peace Express.’ Detours Are Likely Ahead.",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/09/07/world/europe/ukraine-russia-witkoff-kushner-trump.html",
           "ozet": "The Trump administration had let the peace process enter such a freeze that a trip to Kyiv was just an initial step. Any new talks will happen alongside escalating fighting.",
-          "yayin_tarihi": "Mon, 07 Sep 2026 11:12:55 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "In Peru, the Trump Administration Sees the Limits of Its Anti-China Push",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/07/world/americas/peru-trump-china-economy.html",
-          "ozet": "As Secretary of State Marco Rubio travels this week to Peru, its growing economic ties to China have raised tensions with the U.S., but show no signs of reversing course.",
-          "yayin_tarihi": "Mon, 07 Sep 2026 09:00:13 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "In Ukraine, Fraud and Waste Are Rewarded With More Weapons Contracts",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-war-weapons-fraud-corruption.html",
-          "ozet": "Secret military audits reveal a military procurement system riddled with mismanagement. In 2024 alone, Ukraine lost $1.2 billion to fraud and waste.",
-          "yayin_tarihi": "Sun, 06 Sep 2026 09:00:10 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "China’s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html",
-          "ozet": "A record 12.7 million young people are looking for jobs as the country embraces artificial intelligence — and as the technology begins to upend the work force.",
-          "yayin_tarihi": "Sun, 06 Sep 2026 20:36:11 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "What Secret Audits Tell Us About How Ukraine’s Military Is Spending Its Money",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-military-audits-spending-weapons.html",
-          "ozet": "The documents amount to an autopsy of the weapons-contracting process.",
-          "yayin_tarihi": "Sun, 06 Sep 2026 09:02:23 +0000",
+          "yayin_tarihi": "Mon, 07 Sep 2026 13:29:56 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-07T12:06:48.790249"
+      "taranma_zamani": "2026-09-08T10:59:19.179427"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia could account for over 30% of global uranium supplies by 2040 — FT",
+          "baslik": "Russia’s Baltic Fleet ship Perekop ends visit to Vietnam, sets course for Cambodia",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2183645",
-          "ozet": "According to the report, Western countries are unable to meet demand due to a lack of investment and delays in issuing permits for the development of new deposits",
-          "yayin_tarihi": "Mon, 07 Sep 2026 14:58:58 +0300",
+          "url": "https://tass.com/defense/2184131",
+          "ozet": "Russia’s Consul General in Ho Chi Minh City, Maria Mizonova, emphasized the special significance of Russian ships’ visits to the port of Cam Ranh",
+          "yayin_tarihi": "Tue, 08 Sep 2026 13:46:24 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "DPRK, Russia to strive for new results in cooperation — North Korean premier",
+          "baslik": "IN BRIEF: Injured in Saratov, 384 UAVs, aftermath of attacks on Russian regions",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2183639",
-          "ozet": "The ceremony marking the completion of construction of a road bridge across the Tumannaya River on the border between the two countries took place earlier on Monday",
-          "yayin_tarihi": "Mon, 07 Sep 2026 14:46:56 +0300",
+          "url": "https://tass.com/emergencies/2184127",
+          "ozet": "Ten people, including three children, were injured in a drone attack on Saratov",
+          "yayin_tarihi": "Tue, 08 Sep 2026 13:35:37 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Number of polling stations for Russians in the West down by more than 60 — Lavrov",
+          "baslik": "No progress in peace process between Russia, Ukraine due to Kiev's fault — Russian MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2183637",
-          "ozet": "The Russian foreign minister clarified that the number of polling stations had decreased due to \"a reduction in locations and staffing\"",
-          "yayin_tarihi": "Mon, 07 Sep 2026 14:33:12 +0300",
+          "url": "https://tass.com/politics/2184125",
+          "ozet": "Ambassador-at-Large Rodion Miroshnik said the settlement process cannot be completed through the humanitarian track alone",
+          "yayin_tarihi": "Tue, 08 Sep 2026 13:32:15 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian stocks reverse losses, move into positive territory",
+          "baslik": "Russia’s KTRV Corporation to showcase various precision weapons at exhibition in Egypt",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2183631",
-          "ozet": "As of 2:00 p.m. Moscow time, the MOEX Index rose by 0.2% to 2,257.82 points, while the RTS Index stood at 821.46 points",
-          "yayin_tarihi": "Mon, 07 Sep 2026 14:23:32 +0300",
+          "url": "https://tass.com/defense/2184113",
+          "ozet": "The Corporation has focused its international exhibition activities on venues in countries friendly to Russia",
+          "yayin_tarihi": "Tue, 08 Sep 2026 13:06:05 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Norway's military buildup requires Russia take additional measures — Kremlin",
+          "baslik": "Kremlin says anti-Russian sanctions secondary to Ukrainian settlement",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2183621",
-          "ozet": "Dmitry Peskov said the Russian Defense Ministry, as well as other relevant services, are dealing with this",
-          "yayin_tarihi": "Mon, 07 Sep 2026 13:53:51 +0300",
+          "url": "https://tass.com/politics/2184109",
+          "ozet": "Russia considers Western sanctions unacceptable, Dmitry Peskov noted",
+          "yayin_tarihi": "Tue, 08 Sep 2026 13:03:41 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-07T12:06:48.790271"
+      "taranma_zamani": "2026-09-08T10:59:19.179473"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-07T12:06:48.790273"
+      "taranma_zamani": "2026-09-08T10:59:19.179476"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "杜斌40条推文判囚一年半　母亲临终未见",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/09/08/china-journalist-du-bin-provoking-trouble-documentary-producer/",
+          "ozet": "中国纪录片制片人及作家杜斌，2025年10月被北京警方以涉嫌“寻衅滋事罪”带走，今年8月底被判刑一年六个月。其妹妹杜继荣表示，家属至今没有收到判决书或法院通知。杜斌母亲病危期间，家属曾申请让他回家见母亲最后一面，遭到法院拒绝。",
+          "yayin_tarihi": "Tue, 08 Sep 2026 06:51:50 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "习近平拟携大型商团访美　商业订单进入元首外交",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "中国各出入境口岸将于9月15日起正式实施新的出入境管理规定。据知情人士透露，新规实行“谁审批、谁负责”制度，公务员、国有企业及事业单位人员，包括大学教师、医生、上市公司高管，以及大学生，出境前均须提出申请并获得批准。",
           "yayin_tarihi": "Thu, 03 Sep 2026 09:51:12 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "中尼泥石流数千人失踪　中国严控灾情信息",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/09/01/china-tibet-mudslide-information-blockade-banning-of-civilian-rescue-teams/",
-          "ozet": "8月26日，尼泊尔境内喜马拉雅山冰川断裂，冰岩崩形成泥石流，沿河谷冲向中国西藏吉隆口岸。据尼泊尔灾害管理部门及中国官方截至2026年9月1日上午分别公布的数据，中尼两侧共有955人遇难、4471人失踪或失联。",
-          "yayin_tarihi": "Tue, 01 Sep 2026 06:21:02 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-07T12:06:48.790282"
+      "taranma_zamani": "2026-09-08T10:59:19.179484"
     }
   }
 }
