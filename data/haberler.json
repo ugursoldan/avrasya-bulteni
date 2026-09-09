@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-09-08",
-  "olusturma_zamani": "2026-09-08T10:59:19.179609",
+  "olusturma_tarihi": "2026-09-09",
+  "olusturma_zamani": "2026-09-09T11:04:04.219971",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Kaşif Kozinoğlu soruşturmasında fethi kabir kararı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/kasif-kozinoglu-sorusturmasinda-feth-i-kabir-karari-956305.html",
+          "ozet": "2011 yılında Silivri Cezaevi’ndeki ölümü şüpheli olarak değerlendirilen Eski MİT görevlisi Kaşif Kozinoğlu için 'feth-i kabir' kararı verildi. Kozinoğlu’nun mezarı açılarak elde edilen bulgular Adli Tıp Kurumu tarafından incelenecek.",
+          "yayin_tarihi": "Wed, 09 Sep 2026 08:58:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "GSB yurt başvuru sonuçları açıklandı",
           "kaynak": "www.trthaber.com",
@@ -36,21 +44,29 @@
           "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, fiyat istikrarını kalıcı biçimde tesis etmek ve enflasyonu tek haneli seviyelere indirmek için para, maliye ve gelirler politikalarının güçlü bir eş güdüm içerisinde uygulanmaya devam edileceğini belirterek, \"2027 yılında yüzde 21’e, 2028'de 13,5’e ve 2029'da yüzde 9’a gerileyeceğini hedefliyoruz\" dedi.",
           "yayin_tarihi": "Sun, 06 Sep 2026 11:01:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Üsküdar Belediyesi'nde başkan vekili seçimi ertelendi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/uskudar-belediyesinde-baskan-vekili-secimi-ertelendi-955970.html",
-          "ozet": "Üsküdar Belediyesi'nde başkan vekili seçimi salt çoğunluk sağlanamadığı için 8 Eylül'e ertelendi.",
-          "yayin_tarihi": "Sat, 05 Sep 2026 10:44:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-08T10:59:19.179404"
+      "taranma_zamani": "2026-09-09T11:04:04.219823"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html",
+          "ozet": "The Iranian government is taking an increasingly aggressive approach as it confronts a growing economic threat and worries that its grip on the Strait of Hormuz is slipping, analysts say.",
+          "yayin_tarihi": "Wed, 09 Sep 2026 09:18:33 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Ukraine’s Unexpected $27 Billion Budget Gap Rattles Europe",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/09/world/europe/ukraine-says-it-needs-27-billion-more-europe-wants-to-know-why.html",
+          "ozet": "An unexpected request from President Volodymyr Zelensky offered a stark reminder that the cost of the war will rise, challenging Europe.",
+          "yayin_tarihi": "Wed, 09 Sep 2026 09:05:51 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "Chinese Ship Takes Arctic Shortcut: Smart Business? Or a Political Flex?",
           "kaynak": "rss.nytimes.com",
@@ -60,11 +76,11 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens",
+          "baslik": "Saudi Arabia and Yemen’s Houthis Edge Back to the Brink of War",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
-          "ozet": "The latest escalation threatens to drag Saudi Arabia and the Iran-backed Houthi militia back into a full-blown war.",
-          "yayin_tarihi": "Tue, 08 Sep 2026 10:20:12 +0000",
+          "ozet": "The Saudi authorities said dozens were injured in attacks by the Iran-backed militia and vowed to retaliate.",
+          "yayin_tarihi": "Tue, 08 Sep 2026 16:35:08 +0000",
           "dil": "İngilizce"
         },
         {
@@ -74,80 +90,72 @@
           "ozet": "The authorities have not released an official list of those missing in the Tibet flood, creating an information void that people have tried to fill.",
           "yayin_tarihi": "Tue, 08 Sep 2026 10:31:49 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html",
-          "ozet": "Russia agreed not to bomb Ukraine’s capital during Steve Witkoff and Jared Kushner’s visit there. The respite was short-lived.",
-          "yayin_tarihi": "Tue, 08 Sep 2026 10:48:39 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "They Went to Ukraine on the ‘Peace Express.’ Detours Are Likely Ahead.",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/07/world/europe/ukraine-russia-witkoff-kushner-trump.html",
-          "ozet": "The Trump administration had let the peace process enter such a freeze that a trip to Kyiv was just an initial step. Any new talks will happen alongside escalating fighting.",
-          "yayin_tarihi": "Mon, 07 Sep 2026 13:29:56 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-08T10:59:19.179427"
+      "taranma_zamani": "2026-09-09T11:04:04.219841"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia’s Baltic Fleet ship Perekop ends visit to Vietnam, sets course for Cambodia",
+          "baslik": "Kremlin expects Russia-US-Ukraine meeting in foreseeable future — spokesman",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2184131",
-          "ozet": "Russia’s Consul General in Ho Chi Minh City, Maria Mizonova, emphasized the special significance of Russian ships’ visits to the port of Cam Ranh",
-          "yayin_tarihi": "Tue, 08 Sep 2026 13:46:24 +0300",
+          "url": "https://tass.com/politics/2184761",
+          "ozet": "Dmitry Peskov also rejected the possibility of an imminent road map for settlement",
+          "yayin_tarihi": "Wed, 09 Sep 2026 13:50:01 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "IN BRIEF: Injured in Saratov, 384 UAVs, aftermath of attacks on Russian regions",
+          "baslik": "Germany’s AfD leader calls for resumption of Russian gas supplies amid low storage",
           "kaynak": "tass.com",
-          "url": "https://tass.com/emergencies/2184127",
-          "ozet": "Ten people, including three children, were injured in a drone attack on Saratov",
-          "yayin_tarihi": "Tue, 08 Sep 2026 13:35:37 +0300",
+          "url": "https://tass.com/economy/2184719",
+          "ozet": "Alice Weidel stressed that gas injection must be the top priority",
+          "yayin_tarihi": "Wed, 09 Sep 2026 13:24:30 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "No progress in peace process between Russia, Ukraine due to Kiev's fault — Russian MFA",
+          "baslik": "Import pressure on Russian steel market persists — Severstal",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2184125",
-          "ozet": "Ambassador-at-Large Rodion Miroshnik said the settlement process cannot be completed through the humanitarian track alone",
-          "yayin_tarihi": "Tue, 08 Sep 2026 13:32:15 +0300",
+          "url": "https://tass.com/economy/2184715",
+          "ozet": "According to Director of Severstal Distribution Viktor Romanovsky, the situation is more challenging in the finished products segment",
+          "yayin_tarihi": "Wed, 09 Sep 2026 13:17:04 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia’s KTRV Corporation to showcase various precision weapons at exhibition in Egypt",
+          "baslik": "Press review: Canada hits back at US tariffs and Spain faces scrutiny over Russian claims",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2184113",
-          "ozet": "The Corporation has focused its international exhibition activities on venues in countries friendly to Russia",
-          "yayin_tarihi": "Tue, 08 Sep 2026 13:06:05 +0300",
+          "url": "https://tass.com/pressreview/2184605",
+          "ozet": "Top stories from the Russian press on Wednesday, August 9th",
+          "yayin_tarihi": "Wed, 09 Sep 2026 13:00:01 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Kremlin says anti-Russian sanctions secondary to Ukrainian settlement",
+          "baslik": "Zelensky's 'aerial blackmail' tantamount to attempt to sow chaos — Russian MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2184109",
-          "ozet": "Russia considers Western sanctions unacceptable, Dmitry Peskov noted",
-          "yayin_tarihi": "Tue, 08 Sep 2026 13:03:41 +0300",
+          "url": "https://tass.com/politics/2184711",
+          "ozet": "Zelensky's statements exposed the terrorist nature of the Kiev regime, Maria Zakharova said",
+          "yayin_tarihi": "Wed, 09 Sep 2026 12:56:40 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-08T10:59:19.179473"
+      "taranma_zamani": "2026-09-09T11:04:04.219871"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-08T10:59:19.179476"
+      "taranma_zamani": "2026-09-09T11:04:04.219873"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "习近平访美的国内政治账  二十一大前的权力展示",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/09/09/china-xi-jinpings-visit-to-the-us-trump-21st-national-congress-of-the-cpc/",
+          "ozet": "中国国家主席习近平计划于近期访问美国，并同美国总统特朗普举行会晤。此次访问正值中共二十一大人事布局启动前夕。中国政治观察人士表示，北京希望通过中美元首会晤稳定经济及企业预期，习近平也需要借助外交活动显示其对外政策和党内人事主导权。",
+          "yayin_tarihi": "Wed, 09 Sep 2026 10:05:44 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "杜斌40条推文判囚一年半　母亲临终未见",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "中国律师王夏红日前为北京地下教会「锡安教会」辩护，遭到中国政府对她本人及所属律师事务所施压迫害。美联社报导证实王夏红已经抵达台湾，台湾政府准许停留，同时协助她前往其它国家安置。",
           "yayin_tarihi": "Fri, 04 Sep 2026 11:57:56 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "中国收紧人员出境　内部实行“谁批准谁担责”",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/09/03/china-entry-and-exit-management-regulations-capital-fleeing-technology-and-talent-outflow-strict-approval-processing/",
-          "ozet": "中国各出入境口岸将于9月15日起正式实施新的出入境管理规定。据知情人士透露，新规实行“谁审批、谁负责”制度，公务员、国有企业及事业单位人员，包括大学教师、医生、上市公司高管，以及大学生，出境前均须提出申请并获得批准。",
-          "yayin_tarihi": "Thu, 03 Sep 2026 09:51:12 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-08T10:59:19.179484"
+      "taranma_zamani": "2026-09-09T11:04:04.219881"
     }
   }
 }
