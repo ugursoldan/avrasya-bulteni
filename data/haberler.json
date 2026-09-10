@@ -1,10 +1,34 @@
 {
-  "olusturma_tarihi": "2026-09-09",
-  "olusturma_zamani": "2026-09-09T11:04:04.219971",
+  "olusturma_tarihi": "2026-09-10",
+  "olusturma_zamani": "2026-09-10T11:00:19.737631",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Bakan Gürlek: Gülistan Doku'nun naaşı kimyasal maddelerle ortadan kaldırılmış olabilir",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/bakan-gurlek-gulistan-dokunun-naasi-kimyasal-maddelerle-ortadan-kaldirilmis-olabilir-956439.html",
+          "ozet": "Adalet Bakanı Akın Gürlek, Gülistan Doku soruşturmasıyla ilgili, \"Bizim için en önemli konulardan biri Gülistan’ın naaşının bulunması. Arkadaşlarımız özellikle bu konu üzerinde hassasiyetle çalışıyor. Naaşın kimyasal maddeler kullanılarak tamamen ortadan kaldırılmış olma ihtimali de değerlendiriliyor\" dedi.",
+          "yayin_tarihi": "Thu, 10 Sep 2026 10:02:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Türkiye'den Suriye'ye taziye mesajı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/turkiyeden-suriyeye-taziye-mesaji-956405.html",
+          "ozet": "Dışişleri Bakanlığı, Suriye'nin kuzeybatısındaki İdlib ilinde savaş kalıntılarının toplandığı depoda meydana gelen patlamada hayatını kaybedenler için taziye mesajı yayımladı.",
+          "yayin_tarihi": "Thu, 10 Sep 2026 00:17:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Savaşlarda enerji tesislerini vurmak ne anlama geliyor?",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/savaslarda-enerji-tesislerini-vurmak-ne-anlama-geliyor-956308.html",
+          "ozet": "İran’dan Suudi Arabistan’a, Rusya’dan Sudan’a kadar enerji altyapısı savaşların öncelikli hedeflerinden biri haline geldi. Elektrik şebekelerine, rafinerilere ve yakıt depolarına yönelik saldırılar orduların savaşma kapasitesini zayıflatırken milyonlarca sivilin hayatını da doğrudan etkiliyor.",
+          "yayin_tarihi": "Wed, 09 Sep 2026 09:06:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Kaşif Kozinoğlu soruşturmasında fethi kabir kararı",
           "kaynak": "www.trthaber.com",
@@ -20,134 +44,118 @@
           "ozet": "Gençlik ve Spor Bakanı (GSB) Osman Aşkın Bak, yükseköğretim öğrencileri için GSB yurt başvurularının sonuçlandığını açıkladı.",
           "yayin_tarihi": "Tue, 08 Sep 2026 10:06:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Rusya: Almanlar yine savaş istiyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/rusya-almanlar-yine-savas-istiyor-956122.html",
-          "ozet": "Rusya Dışişleri Bakanı Sergey Lavrov, Almanya’nın Rusya'ya yönelik aldığı kararları \"gerçek bir savaşın başlangıcı\" olarak nitelendirerek, \"Onlar (Almanlar), yine savaş istiyor.\" dedi.",
-          "yayin_tarihi": "Mon, 07 Sep 2026 12:39:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Cumhurbaşkanı Erdoğan: Bizi yolumuzdan döndüremezler",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bizi-yolumuzdan-donduremezler-956151.html",
-          "ozet": "Cumhurbaşkanı Erdoğan, \"Ülkemizin güçlenmesinden, bölgesinde barış ve istikrarın tesisi için çaba sarf etmesinden rahatsız olanlar bizi yolumuzdan geri döndüremezler. Bulunduğumuz zor coğrafyada bağımsız ve müreffeh bir devlet olarak yolumuza devam etmek istiyoruz. Bunun önünün kesilmesine asla fırsat vermeyeceğiz\" açıklamasını yaptı.",
-          "yayin_tarihi": "Mon, 07 Sep 2026 17:25:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Ekonomide 3 yıllık yol haritası açıklandı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/ekonomide-3-yillik-yol-haritasi-aciklandi-956032.html",
-          "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, fiyat istikrarını kalıcı biçimde tesis etmek ve enflasyonu tek haneli seviyelere indirmek için para, maliye ve gelirler politikalarının güçlü bir eş güdüm içerisinde uygulanmaya devam edileceğini belirterek, \"2027 yılında yüzde 21’e, 2028'de 13,5’e ve 2029'da yüzde 9’a gerileyeceğini hedefliyoruz\" dedi.",
-          "yayin_tarihi": "Sun, 06 Sep 2026 11:01:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-09T11:04:04.219823"
+      "taranma_zamani": "2026-09-10T11:00:19.737374"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
+          "baslik": "Yemen’s Houthis Seize Strategic Red Sea Port, Officials Say",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html",
-          "ozet": "The Iranian government is taking an increasingly aggressive approach as it confronts a growing economic threat and worries that its grip on the Strait of Hormuz is slipping, analysts say.",
-          "yayin_tarihi": "Wed, 09 Sep 2026 09:18:33 +0000",
+          "url": "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html",
+          "ozet": "The Iran-backed militia routed Yemeni government forces in Mokha, putting the group in a stronger position to attack ships in a crucial waterway for global trade.",
+          "yayin_tarihi": "Thu, 10 Sep 2026 10:31:22 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Why Yemen Is Back on the Brink of War",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/10/world/middleeast/yemen-houthis-saudis-war.html",
+          "ozet": "The Houthi militia, the Yemeni government, Iran and Saudi Arabia all have reasons to escalate the conflict.",
+          "yayin_tarihi": "Thu, 10 Sep 2026 09:08:43 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Russian Drone Incursion Delayed Zelensky Flight to Oslo, Moldova Says",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/10/world/europe/zelensky-plane-drone-moldova.html",
+          "ozet": "An airspace closure delayed the Ukrainian leader’s trip between Moldova and Norway, officials said. They did not confirm a claim by Norway’s prime minister that a drone had “almost hit” the plane.",
+          "yayin_tarihi": "Thu, 10 Sep 2026 10:49:54 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Thousands Gather for Funeral of Norway’s King Harald",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/09/world/europe/norway-king-harald-funeral.html",
+          "ozet": "Royal families and heads of state, including President Volodymyr Zelensky of Ukraine, attended the funeral of King Harald V in Oslo.",
+          "yayin_tarihi": "Wed, 09 Sep 2026 19:28:37 +0000",
           "dil": "İngilizce"
         },
         {
           "baslik": "Ukraine’s Unexpected $27 Billion Budget Gap Rattles Europe",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/09/world/europe/ukraine-says-it-needs-27-billion-more-europe-wants-to-know-why.html",
+          "url": "https://www.nytimes.com/2026/09/09/world/europe/ukraine-war-cost.html",
           "ozet": "An unexpected request from President Volodymyr Zelensky offered a stark reminder that the cost of the war will rise, challenging Europe.",
           "yayin_tarihi": "Wed, 09 Sep 2026 09:05:51 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "Chinese Ship Takes Arctic Shortcut: Smart Business? Or a Political Flex?",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/08/world/europe/china-arctic-shipping-trade-route.html",
-          "ozet": "Melting ice is opening a trade route through the Arctic. China has begun the first regular service, part of its polar ambitions.",
-          "yayin_tarihi": "Tue, 08 Sep 2026 08:49:18 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Saudi Arabia and Yemen’s Houthis Edge Back to the Brink of War",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
-          "ozet": "The Saudi authorities said dozens were injured in attacks by the Iran-backed militia and vowed to retaliate.",
-          "yayin_tarihi": "Tue, 08 Sep 2026 16:35:08 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Online Posts Show Families’ Grief for Flood Victims on Tibet’s Side of China-Nepal Border",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/08/world/asia/china-nepal-border-flood-tibet-victims-messages.html",
-          "ozet": "The authorities have not released an official list of those missing in the Tibet flood, creating an information void that people have tried to fill.",
-          "yayin_tarihi": "Tue, 08 Sep 2026 10:31:49 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-09T11:04:04.219841"
+      "taranma_zamani": "2026-09-10T11:00:19.737396"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Kremlin expects Russia-US-Ukraine meeting in foreseeable future — spokesman",
+          "baslik": "Kiev forms cyberterrorism structure under NATO auspices — MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2184761",
-          "ozet": "Dmitry Peskov also rejected the possibility of an imminent road map for settlement",
-          "yayin_tarihi": "Wed, 09 Sep 2026 13:50:01 +0300",
+          "url": "https://tass.com/politics/2185411",
+          "ozet": "Spokeswoman Maria Zakharova stressed that organized Ukrainian forces were tasked with carrying out extremist acts against Russian civilian infrastructure under the guise of fraud",
+          "yayin_tarihi": "Thu, 10 Sep 2026 13:43:00 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Germany’s AfD leader calls for resumption of Russian gas supplies amid low storage",
+          "baslik": "First aircraft to be supplied to India directly from Russia after certificate validation",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2184719",
-          "ozet": "Alice Weidel stressed that gas injection must be the top priority",
-          "yayin_tarihi": "Wed, 09 Sep 2026 13:24:30 +0300",
+          "url": "https://tass.com/economy/2185403",
+          "ozet": "UAC CEO Vadim Badekha described the validation of Russian aircraft certificates in India as a key issue",
+          "yayin_tarihi": "Thu, 10 Sep 2026 13:39:50 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Import pressure on Russian steel market persists — Severstal",
+          "baslik": "China ready to take relations with Russia to new level — senior politician",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2184715",
-          "ozet": "According to Director of Severstal Distribution Viktor Romanovsky, the situation is more challenging in the finished products segment",
-          "yayin_tarihi": "Wed, 09 Sep 2026 13:17:04 +0300",
+          "url": "https://tass.com/world/2185391",
+          "ozet": "Li Hongzhong noted that \"mutual trust between our countries is steadily increasing, cooperation is constantly progressing, and humanitarian, cultural and interregional exchanges continue to develop rapidly\"",
+          "yayin_tarihi": "Thu, 10 Sep 2026 13:33:57 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Press review: Canada hits back at US tariffs and Spain faces scrutiny over Russian claims",
+          "baslik": "High Precision Systems developments help Russia create unified air defense system",
           "kaynak": "tass.com",
-          "url": "https://tass.com/pressreview/2184605",
-          "ozet": "Top stories from the Russian press on Wednesday, August 9th",
-          "yayin_tarihi": "Wed, 09 Sep 2026 13:00:01 +0300",
+          "url": "https://tass.com/defense/2185389",
+          "ozet": "The airspace control system ensures early detection and classification of targets, generates a unified situational picture, and transmits data to the command post",
+          "yayin_tarihi": "Thu, 10 Sep 2026 13:32:39 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Zelensky's 'aerial blackmail' tantamount to attempt to sow chaos — Russian MFA",
+          "baslik": "Europe not interested in peace in Ukraine at all — Patrushev",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2184711",
-          "ozet": "Zelensky's statements exposed the terrorist nature of the Kiev regime, Maria Zakharova said",
-          "yayin_tarihi": "Wed, 09 Sep 2026 12:56:40 +0300",
+          "url": "https://tass.com/politics/2185387",
+          "ozet": "The Russian Presidential Aide added that the United States can influence Ukraine regarding a peaceful settlement",
+          "yayin_tarihi": "Thu, 10 Sep 2026 13:31:10 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-09T11:04:04.219871"
+      "taranma_zamani": "2026-09-10T11:00:19.737425"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-09T11:04:04.219873"
+      "taranma_zamani": "2026-09-10T11:00:19.737427"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "“保护卫士”报告披露CGTN内部新闻审查",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/09/10/china-safeguard-defenders-televised-confessions-censorship-cgtn/",
+          "ozet": "总部设在欧洲的人权组织“保护卫士”发布调查报告，8名前中国环球电视网（CGTN）员工披露该台新闻制作、选题及内容审查的内部运作。",
+          "yayin_tarihi": "Thu, 10 Sep 2026 06:45:02 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "习近平访美的国内政治账  二十一大前的权力展示",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "中国劳动者开始关注，能否借助欧盟强迫劳动新规举报“996”。但超时加班并不自动构成强迫劳动，新规针对的是商品和供应链，统一信息提交入口也要到2027年12月才开放。",
           "yayin_tarihi": "Fri, 04 Sep 2026 13:42:33 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "为锡安教会辩护遭迫害，王夏红律师抵达台湾",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/09/04/wangxiahon-zion-church-repression/",
-          "ozet": "中国律师王夏红日前为北京地下教会「锡安教会」辩护，遭到中国政府对她本人及所属律师事务所施压迫害。美联社报导证实王夏红已经抵达台湾，台湾政府准许停留，同时协助她前往其它国家安置。",
-          "yayin_tarihi": "Fri, 04 Sep 2026 11:57:56 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-09T11:04:04.219881"
+      "taranma_zamani": "2026-09-10T11:00:19.737602"
     }
   }
 }
