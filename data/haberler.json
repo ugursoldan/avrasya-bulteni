@@ -1,6 +1,6 @@
 {
-  "olusturma_tarihi": "2026-09-10",
-  "olusturma_zamani": "2026-09-10T11:00:19.737631",
+  "olusturma_tarihi": "2026-09-11",
+  "olusturma_zamani": "2026-09-11T10:58:48.372127",
   "diller": {
     "tr": {
       "dil": "Türkçe",
@@ -46,104 +46,104 @@
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-10T11:00:19.737374"
+      "taranma_zamani": "2026-09-11T10:58:48.372002"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Yemen’s Houthis Seize Strategic Red Sea Port, Officials Say",
+          "baslik": "As Russia Again Draws Near, a Frontline City Fears Obliteration This Time",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/11/world/europe/ukraine-russia-izium-donetsk.html",
+          "ozet": "The Ukrainian city of Izium still bears the scars of Russian occupation from four years ago. As Moscow’s forces approach, residents are bracing for the worst.",
+          "yayin_tarihi": "Fri, 11 Sep 2026 09:00:38 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "At BRICS Summit, China and India Vie for Influence",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/11/world/asia/china-india-brics-summit.html",
+          "ozet": "China sees the BRICS group as a vehicle for challenging American power. India wants to keep the group broad enough to avoid choosing sides.",
+          "yayin_tarihi": "Fri, 11 Sep 2026 04:22:13 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "For China, a Mock A.I. Attack on WeChat Signals a Dangerous New Era",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/11/world/asia/china-ai-attack-wechat.html",
+          "ozet": "The demonstration of a potent cyberweapon has exposed China’s vulnerabilities and added to the urgency of A.I. safety talks between Beijing and Washington.",
+          "yayin_tarihi": "Fri, 11 Sep 2026 09:43:29 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Why Emerging Powers Keep Joining BRICS, Even When They Disagree",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/11/world/asia/brics-meeting-summit-delhi.html",
+          "ozet": "Leaders of China, Russia, India and other BRICS club nations meet in New Delhi this weekend, but wars and soaring energy prices threaten to undermine unity.",
+          "yayin_tarihi": "Fri, 11 Sep 2026 05:12:37 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Houthis Seize Strategic Red Sea Port, a Major Victory for Iranian Ally",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html",
           "ozet": "The Iran-backed militia routed Yemeni government forces in Mokha, putting the group in a stronger position to attack ships in a crucial waterway for global trade.",
-          "yayin_tarihi": "Thu, 10 Sep 2026 10:31:22 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Why Yemen Is Back on the Brink of War",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/10/world/middleeast/yemen-houthis-saudis-war.html",
-          "ozet": "The Houthi militia, the Yemeni government, Iran and Saudi Arabia all have reasons to escalate the conflict.",
-          "yayin_tarihi": "Thu, 10 Sep 2026 09:08:43 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Russian Drone Incursion Delayed Zelensky Flight to Oslo, Moldova Says",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/10/world/europe/zelensky-plane-drone-moldova.html",
-          "ozet": "An airspace closure delayed the Ukrainian leader’s trip between Moldova and Norway, officials said. They did not confirm a claim by Norway’s prime minister that a drone had “almost hit” the plane.",
-          "yayin_tarihi": "Thu, 10 Sep 2026 10:49:54 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Thousands Gather for Funeral of Norway’s King Harald",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/09/world/europe/norway-king-harald-funeral.html",
-          "ozet": "Royal families and heads of state, including President Volodymyr Zelensky of Ukraine, attended the funeral of King Harald V in Oslo.",
-          "yayin_tarihi": "Wed, 09 Sep 2026 19:28:37 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Ukraine’s Unexpected $27 Billion Budget Gap Rattles Europe",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/09/world/europe/ukraine-war-cost.html",
-          "ozet": "An unexpected request from President Volodymyr Zelensky offered a stark reminder that the cost of the war will rise, challenging Europe.",
-          "yayin_tarihi": "Wed, 09 Sep 2026 09:05:51 +0000",
+          "yayin_tarihi": "Thu, 10 Sep 2026 19:31:31 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-10T11:00:19.737396"
+      "taranma_zamani": "2026-09-11T10:58:48.372020"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Kiev forms cyberterrorism structure under NATO auspices — MFA",
+          "baslik": "Bank of Russia keeps key rate at 14% per annum",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2185411",
-          "ozet": "Spokeswoman Maria Zakharova stressed that organized Ukrainian forces were tasked with carrying out extremist acts against Russian civilian infrastructure under the guise of fraud",
-          "yayin_tarihi": "Thu, 10 Sep 2026 13:43:00 +0300",
+          "url": "https://tass.com/economy/2186097",
+          "ozet": "The regulator said the economy as a whole is growing at a moderate pace in 2026 Q3",
+          "yayin_tarihi": "Fri, 11 Sep 2026 13:53:44 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "First aircraft to be supplied to India directly from Russia after certificate validation",
+          "baslik": "Russian forces carry out one massive, six group strikes over past week",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2185403",
-          "ozet": "UAC CEO Vadim Badekha described the validation of Russian aircraft certificates in India as a key issue",
-          "yayin_tarihi": "Thu, 10 Sep 2026 13:39:50 +0300",
+          "url": "https://tass.com/politics/2186071",
+          "ozet": "Russian air defenses intercept 5,673 Ukrainian UAVs in past week",
+          "yayin_tarihi": "Fri, 11 Sep 2026 13:46:39 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "China ready to take relations with Russia to new level — senior politician",
+          "baslik": "Putin begins India visit with talks with PM Modi",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2185391",
-          "ozet": "Li Hongzhong noted that \"mutual trust between our countries is steadily increasing, cooperation is constantly progressing, and humanitarian, cultural and interregional exchanges continue to develop rapidly\"",
-          "yayin_tarihi": "Thu, 10 Sep 2026 13:33:57 +0300",
+          "url": "https://tass.com/politics/2186085",
+          "ozet": "The Russian president's agenda in India also includes attending the BRICS summit, which is being held in the capital city",
+          "yayin_tarihi": "Fri, 11 Sep 2026 13:40:00 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "High Precision Systems developments help Russia create unified air defense system",
+          "baslik": "Air defenses down 777 Ukrainian drones over Russian regions overnight",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2185389",
-          "ozet": "The airspace control system ensures early detection and classification of targets, generates a unified situational picture, and transmits data to the command post",
-          "yayin_tarihi": "Thu, 10 Sep 2026 13:32:39 +0300",
+          "url": "https://tass.com/defense/2186067",
+          "ozet": "Russian forces struck Ukrainian defense industry sites, logistics hubs and data centers overnight, as well as port infrastructure and vessels carrying military cargo, the Defense Ministry reported",
+          "yayin_tarihi": "Fri, 11 Sep 2026 13:37:53 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Europe not interested in peace in Ukraine at all — Patrushev",
+          "baslik": "Gulf states, Iran to discuss Strait of Hormuz deal in Oman — media",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2185387",
-          "ozet": "The Russian Presidential Aide added that the United States can influence Ukraine regarding a peaceful settlement",
-          "yayin_tarihi": "Thu, 10 Sep 2026 13:31:10 +0300",
+          "url": "https://tass.com/world/2186065",
+          "ozet": "One source said details had yet to be finalized, but several countries had already confirmed their participation",
+          "yayin_tarihi": "Fri, 11 Sep 2026 13:24:28 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-10T11:00:19.737425"
+      "taranma_zamani": "2026-09-11T10:58:48.372048"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-10T11:00:19.737427"
+      "taranma_zamani": "2026-09-11T10:58:48.372050"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-10T11:00:19.737602"
+      "taranma_zamani": "2026-09-11T10:58:48.372093"
     }
   }
 }
