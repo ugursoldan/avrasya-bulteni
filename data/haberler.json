@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-09-11",
-  "olusturma_zamani": "2026-09-11T10:58:48.372127",
+  "olusturma_tarihi": "2026-09-12",
+  "olusturma_zamani": "2026-09-12T10:26:31.138031",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "İstanbul Valiliği yeni eğitim öğretim yılı için alınan tedbirleri açıkladı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/istanbul-valiligi-yeni-egitim-ogretim-yili-icin-alinan-tedbirleri-acikladi-956620.html",
+          "ozet": "İstanbul Valiliği, öğrencilerin huzur ve güvenliğini sağlamak amacıyla okul önleri ve çevrelerinde alınan güvenlik tedbirlerini duyurdu.",
+          "yayin_tarihi": "Sat, 12 Sep 2026 08:00:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Özbekistan'da Türk Dünyası'na uygun alfabeye geçiş için kanun kabul edildi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turk-dunyasi/ozbekistanda-turk-dunyasina-uygun-alfabeye-gecis-icin-kanun-kabul-edildi-956618.html",
+          "ozet": "Özbekistan'da, Latin alfabesine dayalı Özbek alfabesinin Türk Dünyası'nda kullanılan ortak alfabeye uygun hale getirilmesini öngören kanunu kabul edildi. AK Parti Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Özbekistan'da Türk dünyasına uygun alfabeye geçiş için kabul edilen kanunun Türk Dünyası açısından oldukça kıymetli olduğunu söyledi.",
+          "yayin_tarihi": "Sat, 12 Sep 2026 03:45:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Bakan Gürlek: Gülistan Doku'nun naaşı kimyasal maddelerle ortadan kaldırılmış olabilir",
           "kaynak": "www.trthaber.com",
@@ -28,43 +44,43 @@
           "ozet": "İran’dan Suudi Arabistan’a, Rusya’dan Sudan’a kadar enerji altyapısı savaşların öncelikli hedeflerinden biri haline geldi. Elektrik şebekelerine, rafinerilere ve yakıt depolarına yönelik saldırılar orduların savaşma kapasitesini zayıflatırken milyonlarca sivilin hayatını da doğrudan etkiliyor.",
           "yayin_tarihi": "Wed, 09 Sep 2026 09:06:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Kaşif Kozinoğlu soruşturmasında fethi kabir kararı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/kasif-kozinoglu-sorusturmasinda-feth-i-kabir-karari-956305.html",
-          "ozet": "2011 yılında Silivri Cezaevi’ndeki ölümü şüpheli olarak değerlendirilen Eski MİT görevlisi Kaşif Kozinoğlu için 'feth-i kabir' kararı verildi. Kozinoğlu’nun mezarı açılarak elde edilen bulgular Adli Tıp Kurumu tarafından incelenecek.",
-          "yayin_tarihi": "Wed, 09 Sep 2026 08:58:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "GSB yurt başvuru sonuçları açıklandı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/gsb-yurt-basvuru-sonuclari-aciklandi-956212.html",
-          "ozet": "Gençlik ve Spor Bakanı (GSB) Osman Aşkın Bak, yükseköğretim öğrencileri için GSB yurt başvurularının sonuçlandığını açıkladı.",
-          "yayin_tarihi": "Tue, 08 Sep 2026 10:06:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-11T10:58:48.372002"
+      "taranma_zamani": "2026-09-12T10:26:31.137786"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "‘We Left in the Clothes We Were Wearing’: Yemenis Flee New Fighting",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/12/world/middleeast/yemen-iran-war-houthis.html",
+          "ozet": "Hunger and disease have tormented Yemen for years. Now, fighting between the Saudi-backed government and Iran-backed Houthis is pushing it to the brink.",
+          "yayin_tarihi": "Sat, 12 Sep 2026 09:03:00 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "As Oil Prices Rise, BRICS Leaders Have What U.S. Doesn’t: Iran at the Table",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/12/world/asia/brics-summit-china-india-russia-iran.html",
+          "ozet": "Even so, finding unity among the loose grouping of emerging economies will be difficult as the war in the Middle East strains their own interests.",
+          "yayin_tarihi": "Sat, 12 Sep 2026 06:30:14 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "As Russia Again Draws Near, a Frontline City Fears Obliteration This Time",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/09/11/world/europe/ukraine-russia-izium-donetsk.html",
           "ozet": "The Ukrainian city of Izium still bears the scars of Russian occupation from four years ago. As Moscow’s forces approach, residents are bracing for the worst.",
-          "yayin_tarihi": "Fri, 11 Sep 2026 09:00:38 +0000",
+          "yayin_tarihi": "Fri, 11 Sep 2026 18:08:17 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "At BRICS Summit, China and India Vie for Influence",
+          "baslik": "Why Emerging Powers Keep Joining BRICS, Even When They Disagree",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/11/world/asia/china-india-brics-summit.html",
-          "ozet": "China sees the BRICS group as a vehicle for challenging American power. India wants to keep the group broad enough to avoid choosing sides.",
-          "yayin_tarihi": "Fri, 11 Sep 2026 04:22:13 +0000",
+          "url": "https://www.nytimes.com/2026/09/11/world/asia/brics-meeting-summit-delhi.html",
+          "ozet": "The leaders of China, Russia, India, Iran and other nations in the BRICS club gather in New Delhi this weekend, but wars and soaring energy prices divide them.",
+          "yayin_tarihi": "Sat, 12 Sep 2026 00:04:29 +0000",
           "dil": "İngilizce"
         },
         {
@@ -72,78 +88,62 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/09/11/world/asia/china-ai-attack-wechat.html",
           "ozet": "The demonstration of a potent cyberweapon has exposed China’s vulnerabilities and added to the urgency of A.I. safety talks between Beijing and Washington.",
-          "yayin_tarihi": "Fri, 11 Sep 2026 09:43:29 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Why Emerging Powers Keep Joining BRICS, Even When They Disagree",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/11/world/asia/brics-meeting-summit-delhi.html",
-          "ozet": "Leaders of China, Russia, India and other BRICS club nations meet in New Delhi this weekend, but wars and soaring energy prices threaten to undermine unity.",
-          "yayin_tarihi": "Fri, 11 Sep 2026 05:12:37 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Houthis Seize Strategic Red Sea Port, a Major Victory for Iranian Ally",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html",
-          "ozet": "The Iran-backed militia routed Yemeni government forces in Mokha, putting the group in a stronger position to attack ships in a crucial waterway for global trade.",
-          "yayin_tarihi": "Thu, 10 Sep 2026 19:31:31 +0000",
+          "yayin_tarihi": "Fri, 11 Sep 2026 15:13:57 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-11T10:58:48.372020"
+      "taranma_zamani": "2026-09-12T10:26:31.137805"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Bank of Russia keeps key rate at 14% per annum",
+          "baslik": "Unclear if Russia-US business projects emerge before Ukraine settlement — Kremlin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2186097",
-          "ozet": "The regulator said the economy as a whole is growing at a moderate pace in 2026 Q3",
-          "yayin_tarihi": "Fri, 11 Sep 2026 13:53:44 +0300",
+          "url": "https://tass.com/politics/2186585",
+          "ozet": "Kremlin Spokesman Dmitry Peskov noted that \"the logic of development suggests that trade, economic, and investment cooperation needs to be resumed as soon as possible\"",
+          "yayin_tarihi": "Sat, 12 Sep 2026 13:22:48 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian forces carry out one massive, six group strikes over past week",
+          "baslik": "China to host 19th BRICS summit in 2027 — Xi Jinping",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2186071",
-          "ozet": "Russian air defenses intercept 5,673 Ukrainian UAVs in past week",
-          "yayin_tarihi": "Fri, 11 Sep 2026 13:46:39 +0300",
+          "url": "https://tass.com/world/2186591",
+          "ozet": "China will assume the BRICS chairmanship in 2027",
+          "yayin_tarihi": "Sat, 12 Sep 2026 13:17:19 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Putin begins India visit with talks with PM Modi",
+          "baslik": "Russia sincerely hopes US peacekeeping efforts will yield results — Kremlin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2186085",
-          "ozet": "The Russian president's agenda in India also includes attending the BRICS summit, which is being held in the capital city",
-          "yayin_tarihi": "Fri, 11 Sep 2026 13:40:00 +0300",
+          "url": "https://tass.com/politics/2186577",
+          "ozet": "There is no cooperation with the Americans at the moment. Let us proceed from that, Dmitry Peskov said",
+          "yayin_tarihi": "Sat, 12 Sep 2026 13:16:06 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Air defenses down 777 Ukrainian drones over Russian regions overnight",
+          "baslik": "No discussions yet on Putin’s potential G20 summit trip — Kremlin aide",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2186067",
-          "ozet": "Russian forces struck Ukrainian defense industry sites, logistics hubs and data centers overnight, as well as port infrastructure and vessels carrying military cargo, the Defense Ministry reported",
-          "yayin_tarihi": "Fri, 11 Sep 2026 13:37:53 +0300",
+          "url": "https://tass.com/politics/2186575",
+          "ozet": "Russian experts keep working on documents for the summit, Yury Ushakov told",
+          "yayin_tarihi": "Sat, 12 Sep 2026 12:38:33 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Gulf states, Iran to discuss Strait of Hormuz deal in Oman — media",
+          "baslik": "Russian forces close in on Ukrainian troops trapped in Kharkov Region",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2186065",
-          "ozet": "One source said details had yet to be finalized, but several countries had already confirmed their participation",
-          "yayin_tarihi": "Fri, 11 Sep 2026 13:24:28 +0300",
+          "url": "https://tass.com/defense/2186571",
+          "ozet": "The Russia’s Defense Ministry added that two attempts by Ukrainian assault teams to break out of the encirclement near Sliznyovo and Gogino had been thwarted",
+          "yayin_tarihi": "Sat, 12 Sep 2026 12:36:06 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-11T10:58:48.372048"
+      "taranma_zamani": "2026-09-12T10:26:31.137843"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-11T10:58:48.372050"
+      "taranma_zamani": "2026-09-12T10:26:31.137845"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-11T10:58:48.372093"
+      "taranma_zamani": "2026-09-12T10:26:31.137851"
     }
   }
 }
