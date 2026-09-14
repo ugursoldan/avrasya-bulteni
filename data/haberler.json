@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-09-13",
-  "olusturma_zamani": "2026-09-13T11:29:56.988535",
+  "olusturma_tarihi": "2026-09-14",
+  "olusturma_zamani": "2026-09-14T12:22:52.788264",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Yapay zeka liderlerinden yavaşlama kararı: Gelişmeler bizi geride bıraktı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/yapay-zeka-liderlerinden-yavaslama-karari-gelismeler-bizi-geride-birakti-956747.html",
+          "ozet": "Yapay zeka teknolojisinin kontrolden çıkma senaryoları, sektörün içinden gelen çarpıcı istifalar ve üst düzey isimlerin yavaşlama çağrılarıyla yeni bir boyut kazandı. Anthropic şirketinin CEO'su Dario Amodei ve OpenAI CEO'su Sam Altman çalışmaları yavaşlatacaklarını açıkladı. Elon Musk'tan karara destek gelirken Zuckerberg, 'hızlanma' istedi.",
+          "yayin_tarihi": "Mon, 14 Sep 2026 07:50:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "İstanbul Havalimanı'nın yeni pisti için açılış tarihi belli oldu",
           "kaynak": "www.trthaber.com",
@@ -36,114 +44,106 @@
           "ozet": "İstanbul Valiliği, öğrencilerin huzur ve güvenliğini sağlamak amacıyla okul önleri ve çevrelerinde alınan güvenlik tedbirlerini duyurdu.",
           "yayin_tarihi": "Sat, 12 Sep 2026 08:00:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Bakan Gürlek: Gülistan Doku'nun naaşı kimyasal maddelerle ortadan kaldırılmış olabilir",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/bakan-gurlek-gulistan-dokunun-naasi-kimyasal-maddelerle-ortadan-kaldirilmis-olabilir-956439.html",
-          "ozet": "Adalet Bakanı Akın Gürlek, Gülistan Doku soruşturmasıyla ilgili, \"Bizim için en önemli konulardan biri Gülistan’ın naaşının bulunması. Arkadaşlarımız özellikle bu konu üzerinde hassasiyetle çalışıyor. Naaşın kimyasal maddeler kullanılarak tamamen ortadan kaldırılmış olma ihtimali de değerlendiriliyor\" dedi.",
-          "yayin_tarihi": "Thu, 10 Sep 2026 10:02:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-13T11:29:56.988301"
+      "taranma_zamani": "2026-09-14T12:22:52.787982"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "Russian Strike on Train Station Near Poland Seen as Warning to Kyiv’s Allies",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
+          "ozet": "The attack on Ukraine’s rail network, which connects the country to the West, was a jab at Europe, officials said.",
+          "yayin_tarihi": "Mon, 14 Sep 2026 12:05:42 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
+          "ozet": "Even as Beijing urges the United States not to hype the dangers of A.I., its own spy chief is framing the technology as a threat to the Communist Party’s security.",
+          "yayin_tarihi": "Mon, 14 Sep 2026 11:14:20 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
+          "ozet": "Cutting-edge technologies have reshaped the Russian capital, making it safer, more convenient — and more closely watched.",
+          "yayin_tarihi": "Mon, 14 Sep 2026 09:26:03 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Saudi Arabia Faces ‘Worst-Case Scenario’ After Being Rebuffed by Trump",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html",
+          "ozet": "The kingdom is in a state of strategic shock after coming under attack from an emboldened Iran and failing to win more U.S. military support, analysts say.",
+          "yayin_tarihi": "Mon, 14 Sep 2026 11:05:06 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "How Iran’s Hard-liners Blew Up the Peace Deal with Trump",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html",
           "ozet": "Opponents derailed the agreement with a clandestine effort to attack ships in the Strait of Hormuz, regime insiders say. Iran’s president was furious when he found out.",
-          "yayin_tarihi": "Sun, 13 Sep 2026 09:02:53 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Along Himalayan Floods’ Path, Wiped Out Towns and Mounting Grief",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/13/world/asia/nepal-tibet-floods-school-children.html",
-          "ozet": "Survivors tell the stories of the people and places buried under the mud after a disaster in Nepal.",
-          "yayin_tarihi": "Sun, 13 Sep 2026 04:01:28 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
-          "ozet": "Iran and its allies now hold sway over two key oil shipping routes, and Tehran is setting the stage for a diplomatic win that could enhance its stature.",
-          "yayin_tarihi": "Sat, 12 Sep 2026 18:07:10 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html",
-          "ozet": "A drone attack from Iraq forced Saudi Arabia to close its East-West pipeline, the kingdom said, threatening a key workaround to Iran’s Persian Gulf blockade.",
-          "yayin_tarihi": "Sat, 12 Sep 2026 18:02:41 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "As Oil Prices Rise, BRICS Leaders Have What U.S. Doesn’t: Iran at the Table",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/12/world/asia/brics-summit-china-india-russia-iran.html",
-          "ozet": "The group, which includes Iran, has been split over the war. It called for “maximum restraint” in the Middle East without casting blame on any particular country.",
-          "yayin_tarihi": "Sun, 13 Sep 2026 02:46:53 +0000",
+          "yayin_tarihi": "Sun, 13 Sep 2026 14:38:44 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-13T11:29:56.988318"
+      "taranma_zamani": "2026-09-14T12:22:52.788005"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "West heard Putin’s warning over seizure of merchant vessels — presidential aide",
+          "baslik": "FACTBOX: Russian strikes hit Kievstar mobile provider building, railway facilities",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2187015",
-          "ozet": "The Russian presiden described Western attempts to restrict the movement of merchant vessels operated by Russian businesses as \"piracy and banditry\"",
-          "yayin_tarihi": "Sun, 13 Sep 2026 14:20:04 +0300",
+          "url": "https://tass.com/politics/2187375",
+          "ozet": "Russian pilots used aerial bombs and X-39 missiles to hit temporary deployment sites and drone command posts in the communities of Fyodorovka in the Kharkov Region and Zemlyanoye in the Sumy Region, respectively",
+          "yayin_tarihi": "Mon, 14 Sep 2026 15:13:04 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Kiev facing mounting difficulties with each passing day — Kremlin",
+          "baslik": "Russia’s Khachanov skyrockets in ATP Rankings on heels of US Open performance",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2187013",
-          "ozet": "Russian military certainly knows what to do, Dmitry Peskov said",
-          "yayin_tarihi": "Sun, 13 Sep 2026 13:54:28 +0300",
+          "url": "https://tass.com/sports/2187383",
+          "ozet": "Karen Khachanov now sits at 26th spot in the ATP Rankings with 1,280 points, 24 spots higher than last week",
+          "yayin_tarihi": "Mon, 14 Sep 2026 15:11:33 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Key payment provisions sought by Russia included in BRICS declaration — Kremlin",
+          "baslik": "Rosatom, IAEA chiefs discuss security issues facing Zaporozhye nuclear power plant",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2187011",
-          "ozet": "These concern joint settlement centers, a joint investment platform and a common platform for settlements in national currencies, Dmitry Peskov said",
-          "yayin_tarihi": "Sun, 13 Sep 2026 13:37:12 +0300",
+          "url": "https://tass.com/politics/2187379",
+          "ozet": "Rafael Grossi confirmed the commitment of the IAEA Secretariat and himself to cooperating with Russia in ensuring security at the ZNPP",
+          "yayin_tarihi": "Mon, 14 Sep 2026 15:08:14 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "China to host BRICS Forum on Trade in Services in 2027 — Xi",
+          "baslik": "BRICS could serve as platform for normalizing Iran-UAE dialogue, says expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2187009",
-          "ozet": "Under it countries can set up an intelligent portal, coordinate policies, and build a new frontier for open development, the Chinese leader said",
-          "yayin_tarihi": "Sun, 13 Sep 2026 13:25:20 +0300",
+          "url": "https://tass.com/politics/2187373",
+          "ozet": "Viktoria Panova said BRICS demonstrated that it is possible to work together, overcoming genuine differences",
+          "yayin_tarihi": "Mon, 14 Sep 2026 15:03:35 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Putin briefly updates Modi on Ukraine situation — Kremlin",
+          "baslik": "Ban on exports of Russian petroleum products aimed to saturate domestic market — Kremlin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2187007",
-          "ozet": "The Russian president briefly outlined the situation on the ground, Dmitry Peskov said",
-          "yayin_tarihi": "Sun, 13 Sep 2026 13:21:55 +0300",
+          "url": "https://tass.com/economy/2187367",
+          "ozet": "Dmitry Peskov stated that the situation in oil markets is deteriorating rapidly overall, largely due to instability and new rounds of escalation in the Persian Gulf",
+          "yayin_tarihi": "Mon, 14 Sep 2026 14:48:00 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-13T11:29:56.988338"
+      "taranma_zamani": "2026-09-14T12:22:52.788026"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-13T11:29:56.988340"
+      "taranma_zamani": "2026-09-14T12:22:52.788028"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-13T11:29:56.988347"
+      "taranma_zamani": "2026-09-14T12:22:52.788035"
     }
   }
 }
