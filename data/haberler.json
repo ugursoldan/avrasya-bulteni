@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-09-14",
-  "olusturma_zamani": "2026-09-14T12:22:52.788264",
+  "olusturma_tarihi": "2026-09-15",
+  "olusturma_zamani": "2026-09-15T11:28:52.054005",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Osmanlı'nın kahraman 'Kafkas İslam Ordusu'",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turk-dunyasi/osmanlinin-kahraman-kafkas-islam-ordusu-956825.html",
+          "ozet": "Azerbaycan, İngiltere ile Ermeni ve Bolşevik çetelerin işgaline karşı Osmanlı Devleti'nden yardım istedi. Enver Paşa, Azerbaycan için Kafkas İslam Ordusu'nun kurulmasını emretti. Nuri Paşa komutasındaki kahraman ordu 15 Eylül 1918’de Bakü’yü Bolşevik ve Ermeni işgalinden kurtardı.",
+          "yayin_tarihi": "Tue, 15 Sep 2026 08:30:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Batan Tuğberk İmamoğlu gemisinin kaptanının cansız bedenine ulaşıldı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/batan-tugberk-imamoglu-gemisinin-kaptaninin-cansiz-bedenine-ulasildi-956870.html",
+          "ozet": "Silivri açıklarında \"Alsu\" isimli gemiyle çarpıştıktan sonra batan \"Tuğberk İmamoğlu\" gemisindeki 10 kişilik kayıp mürettebata ulaşmak için yürütülen arama ve kurtarma çalışmaları sırasında bulunan erkek cesedinin geminin kaptanı Yaşar Kayhan olduğu tespit edildi.",
+          "yayin_tarihi": "Tue, 15 Sep 2026 11:17:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Yapay zeka liderlerinden yavaşlama kararı: Gelişmeler bizi geride bıraktı",
           "kaynak": "www.trthaber.com",
@@ -28,122 +44,106 @@
           "ozet": "Yaklaşık 17 milyon öğrenci ve 1,2 milyon öğretmen için yeni eğitim öğretim yılı yarın başlıyor. Milli Eğitim Bakanlığına (MEB) bağlı ilk ve ortaöğretim kurumlarında 2026-2027 eğitim-öğretim yılında \"Maarifin Kalbinde Oyun\" teması esas alınacak.",
           "yayin_tarihi": "Sun, 13 Sep 2026 10:15:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Özbekistan'da Türk Dünyası'na uygun alfabeye geçiş için kanun kabul edildi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turk-dunyasi/ozbekistanda-turk-dunyasina-uygun-alfabeye-gecis-icin-kanun-kabul-edildi-956618.html",
-          "ozet": "Özbekistan'da, Latin alfabesine dayalı Özbek alfabesinin Türk Dünyası'nda kullanılan ortak alfabeye uygun hale getirilmesini öngören kanunu kabul edildi. AK Parti Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Özbekistan'da Türk dünyasına uygun alfabeye geçiş için kabul edilen kanunun Türk Dünyası açısından oldukça kıymetli olduğunu söyledi.",
-          "yayin_tarihi": "Sat, 12 Sep 2026 03:45:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "İstanbul Valiliği yeni eğitim öğretim yılı için alınan tedbirleri açıkladı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/istanbul-valiligi-yeni-egitim-ogretim-yili-icin-alinan-tedbirleri-acikladi-956620.html",
-          "ozet": "İstanbul Valiliği, öğrencilerin huzur ve güvenliğini sağlamak amacıyla okul önleri ve çevrelerinde alınan güvenlik tedbirlerini duyurdu.",
-          "yayin_tarihi": "Sat, 12 Sep 2026 08:00:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-14T12:22:52.787982"
+      "taranma_zamani": "2026-09-15T11:28:52.053829"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Russian Strike on Train Station Near Poland Seen as Warning to Kyiv’s Allies",
+          "baslik": "It’s Boom Time in Kyrgyzstan, Courtesy in Part of the War in Ukraine",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/15/world/asia/kyrgyzstan-economy-russia-war.html",
+          "ozet": "The economy of the Central Asian nation grew by 11 percent last year, partly by becoming a key conduit for goods flowing into Russia.",
+          "yayin_tarihi": "Tue, 15 Sep 2026 09:13:29 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Gulf Arabs Seek Options After U.S. Bases Did Not Deter Iran",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/15/world/middleeast/gulf-us-iran-uae-bahrain-saudi-arabia.html",
+          "ozet": "The American presence in these countries has not shielded them from retaliation during the Iran war. Now they are hoping direct talks with Iran could help.",
+          "yayin_tarihi": "Tue, 15 Sep 2026 08:57:21 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "An Heir to a Thai Beer Empire Accused His Brother of Sexual Abuse. Then He Took on His Family.",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/15/world/asia/thai-singha-beer-family-abuse-accusations.html",
+          "ozet": "Siranudh Scott, an heir to Thailand’s Singha beer empire, has prompted a rare public reckoning about a topic considered taboo.",
+          "yayin_tarihi": "Tue, 15 Sep 2026 04:01:11 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Denmark Says Russian Warship Fired Flares at Military Helicopter",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/15/world/europe/denmark-russia-flares-helicopter.html",
+          "ozet": "The incident was the latest in string of episodes involving airspace incursions and other provocations that European leaders have blamed on Russia.",
+          "yayin_tarihi": "Tue, 15 Sep 2026 11:13:07 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
           "ozet": "The attack on Ukraine’s rail network, which connects the country to the West, was a jab at Europe, officials said.",
-          "yayin_tarihi": "Mon, 14 Sep 2026 12:05:42 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
-          "ozet": "Even as Beijing urges the United States not to hype the dangers of A.I., its own spy chief is framing the technology as a threat to the Communist Party’s security.",
-          "yayin_tarihi": "Mon, 14 Sep 2026 11:14:20 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "The New Moscow: A Digital Utopia Doubling as a Surveillance Trap",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/14/world/europe/moscow-russia-putin-digital-surveillance.html",
-          "ozet": "Cutting-edge technologies have reshaped the Russian capital, making it safer, more convenient — and more closely watched.",
-          "yayin_tarihi": "Mon, 14 Sep 2026 09:26:03 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Saudi Arabia Faces ‘Worst-Case Scenario’ After Being Rebuffed by Trump",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html",
-          "ozet": "The kingdom is in a state of strategic shock after coming under attack from an emboldened Iran and failing to win more U.S. military support, analysts say.",
-          "yayin_tarihi": "Mon, 14 Sep 2026 11:05:06 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "How Iran’s Hard-liners Blew Up the Peace Deal with Trump",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html",
-          "ozet": "Opponents derailed the agreement with a clandestine effort to attack ships in the Strait of Hormuz, regime insiders say. Iran’s president was furious when he found out.",
-          "yayin_tarihi": "Sun, 13 Sep 2026 14:38:44 +0000",
+          "yayin_tarihi": "Mon, 14 Sep 2026 16:34:20 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-14T12:22:52.788005"
+      "taranma_zamani": "2026-09-15T11:28:52.053853"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "FACTBOX: Russian strikes hit Kievstar mobile provider building, railway facilities",
+          "baslik": "Algerian ambassador says African countries thank Russia for technology assistance",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2187375",
-          "ozet": "Russian pilots used aerial bombs and X-39 missiles to hit temporary deployment sites and drone command posts in the communities of Fyodorovka in the Kharkov Region and Zemlyanoye in the Sumy Region, respectively",
-          "yayin_tarihi": "Mon, 14 Sep 2026 15:13:04 +0300",
+          "url": "https://tass.com/world/2187869",
+          "ozet": "Toufik Jouamaa stressed that \"without such a partnership approach, it would be impossible to move forward\"",
+          "yayin_tarihi": "Tue, 15 Sep 2026 14:03:38 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia’s Khachanov skyrockets in ATP Rankings on heels of US Open performance",
+          "baslik": "Russian ambassador says Italy begins to realize anti-Russia policy was mistake",
           "kaynak": "tass.com",
-          "url": "https://tass.com/sports/2187383",
-          "ozet": "Karen Khachanov now sits at 26th spot in the ATP Rankings with 1,280 points, 24 spots higher than last week",
-          "yayin_tarihi": "Mon, 14 Sep 2026 15:11:33 +0300",
+          "url": "https://tass.com/politics/2187859",
+          "ozet": "Alexey Paramonov noted that sanctions had almost completely halted energy cooperation between Russia and Italy and seriously damaged bilateral trade",
+          "yayin_tarihi": "Tue, 15 Sep 2026 13:59:34 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Rosatom, IAEA chiefs discuss security issues facing Zaporozhye nuclear power plant",
+          "baslik": "West’s interference with freedom of navigation causes concern — Lavrov",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2187379",
-          "ozet": "Rafael Grossi confirmed the commitment of the IAEA Secretariat and himself to cooperating with Russia in ensuring security at the ZNPP",
-          "yayin_tarihi": "Mon, 14 Sep 2026 15:08:14 +0300",
+          "url": "https://tass.com/politics/2187835",
+          "ozet": "\"European states have detained 12 vessels since January this year based on made-up categories unknown to international law, such as the so-called 'shadow fleet' and others,\" the Russian foreign minister said",
+          "yayin_tarihi": "Tue, 15 Sep 2026 13:48:14 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "BRICS could serve as platform for normalizing Iran-UAE dialogue, says expert",
+          "baslik": "Most UAVs flying deep into Russia downed by mobile armed units along border — expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2187373",
-          "ozet": "Viktoria Panova said BRICS demonstrated that it is possible to work together, overcoming genuine differences",
-          "yayin_tarihi": "Mon, 14 Sep 2026 15:03:35 +0300",
+          "url": "https://tass.com/defense/2187793",
+          "ozet": "Oleg Ivanov said that mobile armed units had become an effective layered defense system in the Kursk Region",
+          "yayin_tarihi": "Tue, 15 Sep 2026 13:07:08 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ban on exports of Russian petroleum products aimed to saturate domestic market — Kremlin",
+          "baslik": "Press review: EU eyes Russian assets as Ukraine corruption scandal erodes Western trust",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2187367",
-          "ozet": "Dmitry Peskov stated that the situation in oil markets is deteriorating rapidly overall, largely due to instability and new rounds of escalation in the Persian Gulf",
-          "yayin_tarihi": "Mon, 14 Sep 2026 14:48:00 +0300",
+          "url": "https://tass.com/pressreview/2187657",
+          "ozet": "Top stories from the Russian press on Tuesday, September 15th",
+          "yayin_tarihi": "Tue, 15 Sep 2026 13:00:00 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-14T12:22:52.788026"
+      "taranma_zamani": "2026-09-15T11:28:52.053872"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-14T12:22:52.788028"
+      "taranma_zamani": "2026-09-15T11:28:52.053873"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-14T12:22:52.788035"
+      "taranma_zamani": "2026-09-15T11:28:52.053980"
     }
   }
 }
