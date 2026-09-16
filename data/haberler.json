@@ -1,16 +1,40 @@
 {
-  "olusturma_tarihi": "2026-09-15",
-  "olusturma_zamani": "2026-09-15T11:28:52.054005",
+  "olusturma_tarihi": "2026-09-16",
+  "olusturma_zamani": "2026-09-16T11:14:53.159578",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "Osmanlı'nın kahraman 'Kafkas İslam Ordusu'",
+          "baslik": "Menzil artıyor: 500 kilometrelik milli füzeler geliyor",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turk-dunyasi/osmanlinin-kahraman-kafkas-islam-ordusu-956825.html",
-          "ozet": "Azerbaycan, İngiltere ile Ermeni ve Bolşevik çetelerin işgaline karşı Osmanlı Devleti'nden yardım istedi. Enver Paşa, Azerbaycan için Kafkas İslam Ordusu'nun kurulmasını emretti. Nuri Paşa komutasındaki kahraman ordu 15 Eylül 1918’de Bakü’yü Bolşevik ve Ermeni işgalinden kurtardı.",
-          "yayin_tarihi": "Tue, 15 Sep 2026 08:30:00 +0300",
+          "url": "https://www.trthaber.com/haber/gundem/menzil-artiyor-500-kilometrelik-milli-fuzeler-geliyor-956988.html",
+          "ozet": "Türkiye’nin farklı platformlardan uzun menzilde hassas vuruş yapabilecek füze ailesi genişliyor… AKINCI’dan hedefi vuran İHA-300 uçaktan atıldığında 500 kilometre öteye gidebilecek. Eldeki TAYFUN blokları envantere girerken yeni seriler için kollar sıvandı. GEZGİN’de seri üretim hazırlıkları tamamlandı. Ankara'nın eli milli füzelerle güçleniyor...",
+          "yayin_tarihi": "Wed, 16 Sep 2026 10:30:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Et ürünlerine yönelik yeni standartlar belirlendi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/ekonomi/et-urunlerine-yonelik-yeni-standartlar-belirlendi-956993.html",
+          "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, güvenilir gıda için et ürünlerine yeni standartlar getirdiklerini belirterek, \"Sucuk ve pastırma gibi geleneksel lezzetlerimizin içine farklı katkılar katarak özünü bozanları engelliyor, dönerimizi 'yaprak' ve 'kıyma' olarak şeffafça etiketliyoruz.\" ifadesini kullandı.",
+          "yayin_tarihi": "Wed, 16 Sep 2026 10:32:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Cumhurbaşkanı Erdoğan ile sohbet eden Samsunlu Emre Vural yaşadıklarını anlattı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-ile-sohbet-eden-samsunlu-emre-vural-yasadiklarini-anlatti-956971.html",
+          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın Samsun Şehir Hastanesinin açılışı için geldiği Samsun'da otobüsten inerek sohbet ettiği engelli milli sporcu Emre Vural, yaşadıklarını anlattı.",
+          "yayin_tarihi": "Wed, 16 Sep 2026 06:51:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Uzayda savaş tehlikesi: Rusya'dan ABD'ye sert tepki",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/uzayda-savas-tehlikesi-rusyadan-abdye-sert-tepki-956976.html",
+          "ozet": "Amerika Birleşik Devletleri'nin yörüngede silahlı sistemlere sahip olduğunu resmen açıklaması Moskova'nın sert tepkisine yol açtı. Rusya Dışişleri Bakanlığı, Washington'ı uzayda silahlı çatışmaların yıkıcı sonuçlarını hiçe saymakla ve küresel güvenliği tehlikeye atmakla suçladı.",
+          "yayin_tarihi": "Wed, 16 Sep 2026 07:27:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -20,37 +44,45 @@
           "ozet": "Silivri açıklarında \"Alsu\" isimli gemiyle çarpıştıktan sonra batan \"Tuğberk İmamoğlu\" gemisindeki 10 kişilik kayıp mürettebata ulaşmak için yürütülen arama ve kurtarma çalışmaları sırasında bulunan erkek cesedinin geminin kaptanı Yaşar Kayhan olduğu tespit edildi.",
           "yayin_tarihi": "Tue, 15 Sep 2026 11:17:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Yapay zeka liderlerinden yavaşlama kararı: Gelişmeler bizi geride bıraktı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/yapay-zeka-liderlerinden-yavaslama-karari-gelismeler-bizi-geride-birakti-956747.html",
-          "ozet": "Yapay zeka teknolojisinin kontrolden çıkma senaryoları, sektörün içinden gelen çarpıcı istifalar ve üst düzey isimlerin yavaşlama çağrılarıyla yeni bir boyut kazandı. Anthropic şirketinin CEO'su Dario Amodei ve OpenAI CEO'su Sam Altman çalışmaları yavaşlatacaklarını açıkladı. Elon Musk'tan karara destek gelirken Zuckerberg, 'hızlanma' istedi.",
-          "yayin_tarihi": "Mon, 14 Sep 2026 07:50:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "İstanbul Havalimanı'nın yeni pisti için açılış tarihi belli oldu",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/istanbul-havalimaninin-yeni-pisti-icin-acilis-tarihi-belli-oldu-956695.html",
-          "ozet": "İstanbul Havalimanı'nın 4. ana pisti, Cumhurbaşkanı Recep Tayyip Erdoğan'ın katılımlarıyla 18 Eylül'de hizmete açılacak. Bununla birlikte havalimanındaki pist sayısı 6'ya çıkmış olacak.",
-          "yayin_tarihi": "Sun, 13 Sep 2026 11:21:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "17 milyon öğrenci için ders zili yarın çalacak",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/17-milyon-ogrenci-icin-ders-zili-yarin-calacak-956689.html",
-          "ozet": "Yaklaşık 17 milyon öğrenci ve 1,2 milyon öğretmen için yeni eğitim öğretim yılı yarın başlıyor. Milli Eğitim Bakanlığına (MEB) bağlı ilk ve ortaöğretim kurumlarında 2026-2027 eğitim-öğretim yılında \"Maarifin Kalbinde Oyun\" teması esas alınacak.",
-          "yayin_tarihi": "Sun, 13 Sep 2026 10:15:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-15T11:28:52.053829"
+      "taranma_zamani": "2026-09-16T11:14:53.159247"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "How 9/11 Helped Create Regional Clout for Iran",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/16/world/middleeast/sept-11-iran-islamic-state-iraq.html",
+          "ozet": "The American invasion of Iraq in 2003 paved the way for Tehran to dominate its neighbor and whetted its appetite to expand its influence across the greater Middle East.",
+          "yayin_tarihi": "Wed, 16 Sep 2026 09:00:42 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Houthis Say They Downed a Saudi Fighter Jet and Deny Targeting Mecca",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/16/world/middleeast/saudi-arabia-houthi-fighter-jet-mecca-drone.html",
+          "ozet": "The Iran-backed militia in Yemen made its claim hours after a Saudi-led military coalition accused it of firing a drone near the Muslim holy city.",
+          "yayin_tarihi": "Wed, 16 Sep 2026 08:25:55 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "The Election May Be a Snoozefest, but Russians Fear What Could Follow",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/16/world/europe/russia-duma-election.html",
+          "ozet": "Russians are bracing for what the government might do on the military and economy after a vote that the Kremlin sees as legitimizing its policies.",
+          "yayin_tarihi": "Wed, 16 Sep 2026 09:03:00 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "In the Age of A.I., Some in China Wonder if Learning English Is Worth the Trouble",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html",
+          "ozet": "A math teacher’s viral post prompted a debate over the language, which some see as an optional skill — and a symbol of Western dominance.",
+          "yayin_tarihi": "Wed, 16 Sep 2026 06:18:46 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "It’s Boom Time in Kyrgyzstan, Courtesy in Part of the War in Ukraine",
           "kaynak": "rss.nytimes.com",
@@ -58,96 +90,72 @@
           "ozet": "The economy of the Central Asian nation grew by 11 percent last year, partly by becoming a key conduit for goods flowing into Russia.",
           "yayin_tarihi": "Tue, 15 Sep 2026 09:13:29 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "Gulf Arabs Seek Options After U.S. Bases Did Not Deter Iran",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/15/world/middleeast/gulf-us-iran-uae-bahrain-saudi-arabia.html",
-          "ozet": "The American presence in these countries has not shielded them from retaliation during the Iran war. Now they are hoping direct talks with Iran could help.",
-          "yayin_tarihi": "Tue, 15 Sep 2026 08:57:21 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "An Heir to a Thai Beer Empire Accused His Brother of Sexual Abuse. Then He Took on His Family.",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/15/world/asia/thai-singha-beer-family-abuse-accusations.html",
-          "ozet": "Siranudh Scott, an heir to Thailand’s Singha beer empire, has prompted a rare public reckoning about a topic considered taboo.",
-          "yayin_tarihi": "Tue, 15 Sep 2026 04:01:11 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Denmark Says Russian Warship Fired Flares at Military Helicopter",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/15/world/europe/denmark-russia-flares-helicopter.html",
-          "ozet": "The incident was the latest in string of episodes involving airspace incursions and other provocations that European leaders have blamed on Russia.",
-          "yayin_tarihi": "Tue, 15 Sep 2026 11:13:07 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
-          "ozet": "The attack on Ukraine’s rail network, which connects the country to the West, was a jab at Europe, officials said.",
-          "yayin_tarihi": "Mon, 14 Sep 2026 16:34:20 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-15T11:28:52.053853"
+      "taranma_zamani": "2026-09-16T11:14:53.159269"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Algerian ambassador says African countries thank Russia for technology assistance",
+          "baslik": "Russia's bear population rises as attack numbers remain within norm, ministry says",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2187869",
-          "ozet": "Toufik Jouamaa stressed that \"without such a partnership approach, it would be impossible to move forward\"",
-          "yayin_tarihi": "Tue, 15 Sep 2026 14:03:38 +0300",
+          "url": "https://tass.com/society/2188375",
+          "ozet": "Brown bears have been attacking people in several parts of Russia in recent weeks",
+          "yayin_tarihi": "Wed, 16 Sep 2026 14:06:58 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian ambassador says Italy begins to realize anti-Russia policy was mistake",
+          "baslik": "Russia vows to back priorities of China’s chairmanship in BRICS",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2187859",
-          "ozet": "Alexey Paramonov noted that sanctions had almost completely halted energy cooperation between Russia and Italy and seriously damaged bilateral trade",
-          "yayin_tarihi": "Tue, 15 Sep 2026 13:59:34 +0300",
+          "url": "https://tass.com/politics/2188367",
+          "ozet": "Russian Deputy Foreign Minister Sergey Ryabkov said that China is yet to present a conceptual framework for its chairmanship",
+          "yayin_tarihi": "Wed, 16 Sep 2026 13:57:35 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "West’s interference with freedom of navigation causes concern — Lavrov",
+          "baslik": "Kazakhstan, Gazprom sign amendment to gas supply contract",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2187835",
-          "ozet": "\"European states have detained 12 vessels since January this year based on made-up categories unknown to international law, such as the so-called 'shadow fleet' and others,\" the Russian foreign minister said",
-          "yayin_tarihi": "Tue, 15 Sep 2026 13:48:14 +0300",
+          "url": "https://tass.com/economy/2188361",
+          "ozet": "Russia remains Kazakhstan’s strategic partner, Kaiyrkhan Tutkyshbayev noted",
+          "yayin_tarihi": "Wed, 16 Sep 2026 13:52:48 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Most UAVs flying deep into Russia downed by mobile armed units along border — expert",
+          "baslik": "Contacts with US continue, says Russian diplomat about energy truce initiative",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2187793",
-          "ozet": "Oleg Ivanov said that mobile armed units had become an effective layered defense system in the Kursk Region",
-          "yayin_tarihi": "Tue, 15 Sep 2026 13:07:08 +0300",
+          "url": "https://tass.com/politics/2188355",
+          "ozet": "Russian Presidential Spokesman Dmitry Peskov stated earlier that Russia viewed the idea of an energy truce with Kiev to be a good initiative",
+          "yayin_tarihi": "Wed, 16 Sep 2026 13:44:59 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Press review: EU eyes Russian assets as Ukraine corruption scandal erodes Western trust",
+          "baslik": "Arms race in space can still be prevented, opportunity not yet missed — MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/pressreview/2187657",
-          "ozet": "Top stories from the Russian press on Tuesday, September 15th",
-          "yayin_tarihi": "Tue, 15 Sep 2026 13:00:00 +0300",
+          "url": "https://tass.com/politics/2188351",
+          "ozet": "According to Sergey Ryabkov, statements by US officials about their intention to deploy weapons in space \"cannot possibly harm\" the Russia-US dialogue on strategic stability, \"because that dialogue does not exist\"",
+          "yayin_tarihi": "Wed, 16 Sep 2026 13:40:54 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-15T11:28:52.053872"
+      "taranma_zamani": "2026-09-16T11:14:53.159314"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-15T11:28:52.053873"
+      "taranma_zamani": "2026-09-16T11:14:53.159319"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "德国资深记者发表研究报告：潜台中国间谍或多至十万人",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/2026/09/15/china-espionage-jurgenkremb/",
+          "ozet": "德国资深记者周劲恒（Jürgen Kremb）台北时间周一（14日）发表了一份针对中国情报机关的研究报告，其中推估潜伏在台湾的中共间谍人数达到五万至十万人。这个数字远高于台湾官方或者相关专家此前发表或推估的数字。",
+          "yayin_tarihi": "Tue, 15 Sep 2026 12:14:28 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "“保护卫士”报告披露CGTN内部新闻审查",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "中国方面正筹组一个大型企业代表团，准备随国家主席习近平于本月访问美国。若该计划成行，将是自2020年北京整顿科技、教育及房地产行业以来，少见的一次大批企业高层陪同国家领导人出访。不过，北京体制内人士表示，相关安排尚未最终确定。",
           "yayin_tarihi": "Mon, 07 Sep 2026 07:27:39 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "“996”能举报到欧盟吗？",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/09/04/china-996-eu-forced-labour-regulation/",
-          "ozet": "中国劳动者开始关注，能否借助欧盟强迫劳动新规举报“996”。但超时加班并不自动构成强迫劳动，新规针对的是商品和供应链，统一信息提交入口也要到2027年12月才开放。",
-          "yayin_tarihi": "Fri, 04 Sep 2026 13:42:33 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-15T11:28:52.053980"
+      "taranma_zamani": "2026-09-16T11:14:53.159328"
     }
   }
 }
