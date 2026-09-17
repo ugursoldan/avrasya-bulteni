@@ -1,6 +1,6 @@
 {
-  "olusturma_tarihi": "2026-09-16",
-  "olusturma_zamani": "2026-09-16T11:14:53.159578",
+  "olusturma_tarihi": "2026-09-17",
+  "olusturma_zamani": "2026-09-17T11:23:11.497737",
   "diller": {
     "tr": {
       "dil": "Türkçe",
@@ -22,6 +22,14 @@
           "dil": "Türkçe"
         },
         {
+          "baslik": "Şanlıurfa'da KPSS'ye giren 392 aday için eş değer sınav kararı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/egitim/sanliurfada-kpssye-giren-392-aday-icin-es-deger-sinav-karari-957030.html",
+          "ozet": "ÖSYM, Şanlıurfa'da Kamu Personel Seçme Sınavı'nın (2026-KPSS) gerçekleştirildiği Harran Üniversitesi Osmanbey Kampüsü'ndeki 392 adaya yönelik mevzuata aykırı sınav uygulamaları yapıldığının tespit edildiğini, söz konusu adaylara eş değer sınav uygulanmasına karar verildiğini bildirdi.",
+          "yayin_tarihi": "Wed, 16 Sep 2026 16:38:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
           "baslik": "Cumhurbaşkanı Erdoğan ile sohbet eden Samsunlu Emre Vural yaşadıklarını anlattı",
           "kaynak": "www.trthaber.com",
           "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-ile-sohbet-eden-samsunlu-emre-vural-yasadiklarini-anlatti-956971.html",
@@ -36,114 +44,106 @@
           "ozet": "Amerika Birleşik Devletleri'nin yörüngede silahlı sistemlere sahip olduğunu resmen açıklaması Moskova'nın sert tepkisine yol açtı. Rusya Dışişleri Bakanlığı, Washington'ı uzayda silahlı çatışmaların yıkıcı sonuçlarını hiçe saymakla ve küresel güvenliği tehlikeye atmakla suçladı.",
           "yayin_tarihi": "Wed, 16 Sep 2026 07:27:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Batan Tuğberk İmamoğlu gemisinin kaptanının cansız bedenine ulaşıldı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/batan-tugberk-imamoglu-gemisinin-kaptaninin-cansiz-bedenine-ulasildi-956870.html",
-          "ozet": "Silivri açıklarında \"Alsu\" isimli gemiyle çarpıştıktan sonra batan \"Tuğberk İmamoğlu\" gemisindeki 10 kişilik kayıp mürettebata ulaşmak için yürütülen arama ve kurtarma çalışmaları sırasında bulunan erkek cesedinin geminin kaptanı Yaşar Kayhan olduğu tespit edildi.",
-          "yayin_tarihi": "Tue, 15 Sep 2026 11:17:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-16T11:14:53.159247"
+      "taranma_zamani": "2026-09-17T11:23:11.497557"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "How 9/11 Helped Create Regional Clout for Iran",
+          "baslik": "Belarus Frees 25 Political Prisoners in Exchange for U.S. Sanctions Relief",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/16/world/europe/belarus-political-prisoner-release-us-sanctions.html",
+          "ozet": "The deal is part of the Trump administration’s more transactional approach to a close Russian ally that Europe has tried to isolate.",
+          "yayin_tarihi": "Wed, 16 Sep 2026 19:25:40 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Turkey Begins Broad Crackdown on L.G.B.T.Q. Community",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/16/world/middleeast/lgbtq-arrests-erdogan-turkey.html",
+          "ozet": "The government has called the campaign an effort to protect families. Rights organizations have accused the authorities of criminalizing L.G.B.T.Q. people and of seeking to thwart political activism.",
+          "yayin_tarihi": "Wed, 16 Sep 2026 13:10:23 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html",
+          "ozet": "China renewed calls for an end to the fighting in the Middle East while demonstrating its influence over Tehran.",
+          "yayin_tarihi": "Wed, 16 Sep 2026 14:15:35 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "How Sept. 11 Paved the Way to Mideast Power for Iran",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/09/16/world/middleeast/sept-11-iran-islamic-state-iraq.html",
-          "ozet": "The American invasion of Iraq in 2003 paved the way for Tehran to dominate its neighbor and whetted its appetite to expand its influence across the greater Middle East.",
-          "yayin_tarihi": "Wed, 16 Sep 2026 09:00:42 +0000",
+          "ozet": "The American invasion of Iraq in 2003 set the path for Tehran to dominate its neighbor and whetted its appetite to expand its influence across the greater Middle East.",
+          "yayin_tarihi": "Wed, 16 Sep 2026 12:49:05 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Houthis Say They Downed a Saudi Fighter Jet and Deny Targeting Mecca",
+          "baslik": "A Colorful Undercover Recording Spurs Fresh Outrage Over Graft in Ukraine",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/16/world/middleeast/saudi-arabia-houthi-fighter-jet-mecca-drone.html",
-          "ozet": "The Iran-backed militia in Yemen made its claim hours after a Saudi-led military coalition accused it of firing a drone near the Muslim holy city.",
-          "yayin_tarihi": "Wed, 16 Sep 2026 08:25:55 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "The Election May Be a Snoozefest, but Russians Fear What Could Follow",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/16/world/europe/russia-duma-election.html",
-          "ozet": "Russians are bracing for what the government might do on the military and economy after a vote that the Kremlin sees as legitimizing its policies.",
-          "yayin_tarihi": "Wed, 16 Sep 2026 09:03:00 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "In the Age of A.I., Some in China Wonder if Learning English Is Worth the Trouble",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html",
-          "ozet": "A math teacher’s viral post prompted a debate over the language, which some see as an optional skill — and a symbol of Western dominance.",
-          "yayin_tarihi": "Wed, 16 Sep 2026 06:18:46 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "It’s Boom Time in Kyrgyzstan, Courtesy in Part of the War in Ukraine",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/15/world/asia/kyrgyzstan-economy-russia-war.html",
-          "ozet": "The economy of the Central Asian nation grew by 11 percent last year, partly by becoming a key conduit for goods flowing into Russia.",
-          "yayin_tarihi": "Tue, 15 Sep 2026 09:13:29 +0000",
+          "url": "https://www.nytimes.com/2026/09/16/world/europe/ukraine-corruption.html",
+          "ozet": "A case about kickbacks has drawn attention in a country worried that corruption threatens the war effort, and its future.",
+          "yayin_tarihi": "Thu, 17 Sep 2026 02:23:16 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-16T11:14:53.159269"
+      "taranma_zamani": "2026-09-17T11:23:11.497578"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia's bear population rises as attack numbers remain within norm, ministry says",
+          "baslik": "CEC chairwoman says Russia’s electoral system ready for elections",
           "kaynak": "tass.com",
-          "url": "https://tass.com/society/2188375",
-          "ozet": "Brown bears have been attacking people in several parts of Russia in recent weeks",
-          "yayin_tarihi": "Wed, 16 Sep 2026 14:06:58 +0300",
+          "url": "https://tass.com/politics/2188973",
+          "ozet": "Ella Pamfilova also wished the parties and candidates success in the elections",
+          "yayin_tarihi": "Thu, 17 Sep 2026 14:07:31 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia vows to back priorities of China’s chairmanship in BRICS",
+          "baslik": "West brazenly interferes in Armenia, Georgia affairs — top Russian security official",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2188367",
-          "ozet": "Russian Deputy Foreign Minister Sergey Ryabkov said that China is yet to present a conceptual framework for its chairmanship",
-          "yayin_tarihi": "Wed, 16 Sep 2026 13:57:35 +0300",
+          "url": "https://tass.com/politics/2188969",
+          "ozet": "\"The Westerners are openly and brazenly seeking to interfere in the political situation,\" Sergey Shoigu said",
+          "yayin_tarihi": "Thu, 17 Sep 2026 14:03:05 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Kazakhstan, Gazprom sign amendment to gas supply contract",
+          "baslik": "Britain is pushing for air defense coalition to deploy NATO contingent in Ukraine — expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2188361",
-          "ozet": "Russia remains Kazakhstan’s strategic partner, Kaiyrkhan Tutkyshbayev noted",
-          "yayin_tarihi": "Wed, 16 Sep 2026 13:52:48 +0300",
+          "url": "https://tass.com/politics/2188967",
+          "ozet": "According to Alexander Stepanov, similar coalitions have been formed in the past – the \"coalition of the willing\" as a key platform and the F-16 coalition",
+          "yayin_tarihi": "Thu, 17 Sep 2026 14:00:45 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Contacts with US continue, says Russian diplomat about energy truce initiative",
+          "baslik": "US ready to talk unlike Europe — Lavrov",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2188355",
-          "ozet": "Russian Presidential Spokesman Dmitry Peskov stated earlier that Russia viewed the idea of an energy truce with Kiev to be a good initiative",
-          "yayin_tarihi": "Wed, 16 Sep 2026 13:44:59 +0300",
+          "url": "https://tass.com/politics/2188961",
+          "ozet": "\"Even with positions opposed radically, that is always important,\" the Russian foreign minister said",
+          "yayin_tarihi": "Thu, 17 Sep 2026 13:58:40 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Arms race in space can still be prevented, opportunity not yet missed — MFA",
+          "baslik": "Cardinal Zuppi reports preparations for visit to Moscow in late September",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2188351",
-          "ozet": "According to Sergey Ryabkov, statements by US officials about their intention to deploy weapons in space \"cannot possibly harm\" the Russia-US dialogue on strategic stability, \"because that dialogue does not exist\"",
-          "yayin_tarihi": "Wed, 16 Sep 2026 13:40:54 +0300",
+          "url": "https://tass.com/world/2188959",
+          "ozet": "The Pope’s special envoy for Ukraine specified that the agenda is yet to be determined",
+          "yayin_tarihi": "Thu, 17 Sep 2026 13:56:55 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-16T11:14:53.159314"
+      "taranma_zamani": "2026-09-17T11:23:11.497612"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-16T11:14:53.159319"
+      "taranma_zamani": "2026-09-17T11:23:11.497615"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-16T11:14:53.159328"
+      "taranma_zamani": "2026-09-17T11:23:11.497621"
     }
   }
 }
