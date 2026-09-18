@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-09-17",
-  "olusturma_zamani": "2026-09-17T11:23:11.497737",
+  "olusturma_tarihi": "2026-09-18",
+  "olusturma_zamani": "2026-09-18T10:57:07.470654",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "ABD'nin vize vermediği Filistin heyeti BM'de video yoluyla hitap edecek",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/abdnin-vize-vermedigi-filistin-heyeti-bmde-video-yoluyla-hitap-edecek-957195.html",
+          "ozet": "Birleşmiş Milletler (BM) Genel Kurulu, gelecek hafta yapılacak BM 81. Genel Kurul görüşmeleri için ABD'nin vize vermediği Filistin Devlet Başkanı Mahmud Abbas'ın Genel Kurul'a video yoluyla hitap etmesini öngören kararı, 3'e karşı 152 oyla kabul etti.",
+          "yayin_tarihi": "Thu, 17 Sep 2026 23:21:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Menzil artıyor: 500 kilometrelik milli füzeler geliyor",
           "kaynak": "www.trthaber.com",
@@ -36,114 +44,65 @@
           "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın Samsun Şehir Hastanesinin açılışı için geldiği Samsun'da otobüsten inerek sohbet ettiği engelli milli sporcu Emre Vural, yaşadıklarını anlattı.",
           "yayin_tarihi": "Wed, 16 Sep 2026 06:51:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Uzayda savaş tehlikesi: Rusya'dan ABD'ye sert tepki",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/uzayda-savas-tehlikesi-rusyadan-abdye-sert-tepki-956976.html",
-          "ozet": "Amerika Birleşik Devletleri'nin yörüngede silahlı sistemlere sahip olduğunu resmen açıklaması Moskova'nın sert tepkisine yol açtı. Rusya Dışişleri Bakanlığı, Washington'ı uzayda silahlı çatışmaların yıkıcı sonuçlarını hiçe saymakla ve küresel güvenliği tehlikeye atmakla suçladı.",
-          "yayin_tarihi": "Wed, 16 Sep 2026 07:27:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-17T11:23:11.497557"
+      "taranma_zamani": "2026-09-18T10:57:07.470579"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Belarus Frees 25 Political Prisoners in Exchange for U.S. Sanctions Relief",
+          "baslik": "Why Autocrats Care What People Think",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/16/world/europe/belarus-political-prisoner-release-us-sanctions.html",
-          "ozet": "The deal is part of the Trump administration’s more transactional approach to a close Russian ally that Europe has tried to isolate.",
-          "yayin_tarihi": "Wed, 16 Sep 2026 19:25:40 +0000",
+          "url": "https://www.nytimes.com/2026/09/18/world/europe/putin-russia-election-ideas.html",
+          "ozet": "Russia is staging an election that matters to almost no one — except President Vladimir V. Putin and his inner circle.",
+          "yayin_tarihi": "Fri, 18 Sep 2026 09:47:42 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Turkey Begins Broad Crackdown on L.G.B.T.Q. Community",
+          "baslik": "Why Russia Holds Elections, and How the Kremlin Gets the Results It Wants",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/16/world/middleeast/lgbtq-arrests-erdogan-turkey.html",
-          "ozet": "The government has called the campaign an effort to protect families. Rights organizations have accused the authorities of criminalizing L.G.B.T.Q. people and of seeking to thwart political activism.",
-          "yayin_tarihi": "Wed, 16 Sep 2026 13:10:23 +0000",
+          "url": "https://www.nytimes.com/2026/09/18/world/europe/russia-duma-election.html",
+          "ozet": "Russian elections like the parliamentary vote that begins today are hardly free. But they are critical to the government as a source of legitimacy.",
+          "yayin_tarihi": "Fri, 18 Sep 2026 07:26:05 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
+          "baslik": "Scientists Warn of Flood Risks to 8 Himalayan Countries after Nepal Disaster",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html",
-          "ozet": "China renewed calls for an end to the fighting in the Middle East while demonstrating its influence over Tehran.",
-          "yayin_tarihi": "Wed, 16 Sep 2026 14:15:35 +0000",
+          "url": "https://www.nytimes.com/2026/09/18/climate/nepal-tibet-floods-himalayas-warnings.html",
+          "ozet": "The catastrophe set off alarms in a region with thousands of glaciers spanning eight nations. Better monitoring and cooperation between the countries could save lives, experts say.",
+          "yayin_tarihi": "Fri, 18 Sep 2026 04:01:09 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "How Sept. 11 Paved the Way to Mideast Power for Iran",
+          "baslik": "Rejecting Trump, South Korean Leader Says He Will Not Send Troops to Iran",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/16/world/middleeast/sept-11-iran-islamic-state-iraq.html",
-          "ozet": "The American invasion of Iraq in 2003 set the path for Tehran to dominate its neighbor and whetted its appetite to expand its influence across the greater Middle East.",
-          "yayin_tarihi": "Wed, 16 Sep 2026 12:49:05 +0000",
+          "url": "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html",
+          "ozet": "President Lee Jae Myung’s comments followed President Trump’s repeated demand for “a little hand” from South Korea, a decades-old American ally.",
+          "yayin_tarihi": "Fri, 18 Sep 2026 04:58:13 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "A Colorful Undercover Recording Spurs Fresh Outrage Over Graft in Ukraine",
+          "baslik": "Yemen War Intensifies as Houthi Militia Advances on Marib",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/16/world/europe/ukraine-corruption.html",
-          "ozet": "A case about kickbacks has drawn attention in a country worried that corruption threatens the war effort, and its future.",
-          "yayin_tarihi": "Thu, 17 Sep 2026 02:23:16 +0000",
+          "url": "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html",
+          "ozet": "Clashes between Iranian-backed Houthi fighters and Saudi-backed government forces have been reported near oil-rich Marib Province.",
+          "yayin_tarihi": "Thu, 17 Sep 2026 22:44:04 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-17T11:23:11.497578"
+      "taranma_zamani": "2026-09-18T10:57:07.470597"
     },
     "ru": {
       "dil": "Rusça",
-      "haberler": [
-        {
-          "baslik": "CEC chairwoman says Russia’s electoral system ready for elections",
-          "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2188973",
-          "ozet": "Ella Pamfilova also wished the parties and candidates success in the elections",
-          "yayin_tarihi": "Thu, 17 Sep 2026 14:07:31 +0300",
-          "dil": "Rusça"
-        },
-        {
-          "baslik": "West brazenly interferes in Armenia, Georgia affairs — top Russian security official",
-          "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2188969",
-          "ozet": "\"The Westerners are openly and brazenly seeking to interfere in the political situation,\" Sergey Shoigu said",
-          "yayin_tarihi": "Thu, 17 Sep 2026 14:03:05 +0300",
-          "dil": "Rusça"
-        },
-        {
-          "baslik": "Britain is pushing for air defense coalition to deploy NATO contingent in Ukraine — expert",
-          "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2188967",
-          "ozet": "According to Alexander Stepanov, similar coalitions have been formed in the past – the \"coalition of the willing\" as a key platform and the F-16 coalition",
-          "yayin_tarihi": "Thu, 17 Sep 2026 14:00:45 +0300",
-          "dil": "Rusça"
-        },
-        {
-          "baslik": "US ready to talk unlike Europe — Lavrov",
-          "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2188961",
-          "ozet": "\"Even with positions opposed radically, that is always important,\" the Russian foreign minister said",
-          "yayin_tarihi": "Thu, 17 Sep 2026 13:58:40 +0300",
-          "dil": "Rusça"
-        },
-        {
-          "baslik": "Cardinal Zuppi reports preparations for visit to Moscow in late September",
-          "kaynak": "tass.com",
-          "url": "https://tass.com/world/2188959",
-          "ozet": "The Pope’s special envoy for Ukraine specified that the agenda is yet to be determined",
-          "yayin_tarihi": "Thu, 17 Sep 2026 13:56:55 +0300",
-          "dil": "Rusça"
-        }
-      ],
-      "taranma_zamani": "2026-09-17T11:23:11.497612"
+      "haberler": [],
+      "taranma_zamani": "2026-09-18T10:57:07.470598"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-17T11:23:11.497615"
+      "taranma_zamani": "2026-09-18T10:57:07.470600"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +148,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-17T11:23:11.497621"
+      "taranma_zamani": "2026-09-18T10:57:07.470603"
     }
   }
 }
