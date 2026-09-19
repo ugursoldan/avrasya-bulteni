@@ -1,6 +1,6 @@
 {
-  "olusturma_tarihi": "2026-09-18",
-  "olusturma_zamani": "2026-09-18T10:57:07.470654",
+  "olusturma_tarihi": "2026-09-19",
+  "olusturma_zamani": "2026-09-19T10:40:16.449848",
   "diller": {
     "tr": {
       "dil": "Türkçe",
@@ -46,63 +46,104 @@
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-18T10:57:07.470579"
+      "taranma_zamani": "2026-09-19T10:40:16.449767"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "The Kremlin Has Put Lots of Veterans on the Ballot. Could It Backfire?",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/19/world/europe/russia-kremlin-election-veterans.html",
+          "ozet": "President Vladimir V. Putin of Russia has said veterans are the “new elite,” but selecting them as candidates is a risk.",
+          "yayin_tarihi": "Sat, 19 Sep 2026 09:02:21 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "A Small Country’s Huge Windfall from the War in Iran",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/19/world/americas/guyana-oil-boom.html",
+          "ozet": "Oil-rich Guyana is enjoying red-hot growth. But the boom is magnifying tensions over corruption, inequality and strained ties with Venezuela.",
+          "yayin_tarihi": "Sat, 19 Sep 2026 09:00:55 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/19/world/europe/russia-us-sanctions-trump.html",
+          "ozet": "President Trump signed the legislation, named for Senator Lindsey Graham, at the White House, but he has broad leeway to waive its requirements.",
+          "yayin_tarihi": "Sat, 19 Sep 2026 09:23:29 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Nepal’s Gen Z Is Taking on the World’s Polluters Over Climate Disasters",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/19/world/asia/nepals-gen-z-is-taking-on-the-worlds-polluters-over-climate-disasters.html",
+          "ozet": "The young government of Nepal, a nation with a tiny carbon footprint, is seeking reparations from the world’s major economies as it bears the brunt of collapsing Himalayan glaciers.",
+          "yayin_tarihi": "Sat, 19 Sep 2026 04:01:11 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "Why Autocrats Care What People Think",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/09/18/world/europe/putin-russia-election-ideas.html",
           "ozet": "Russia is staging an election that matters to almost no one — except President Vladimir V. Putin and his inner circle.",
-          "yayin_tarihi": "Fri, 18 Sep 2026 09:47:42 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Why Russia Holds Elections, and How the Kremlin Gets the Results It Wants",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/18/world/europe/russia-duma-election.html",
-          "ozet": "Russian elections like the parliamentary vote that begins today are hardly free. But they are critical to the government as a source of legitimacy.",
-          "yayin_tarihi": "Fri, 18 Sep 2026 07:26:05 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Scientists Warn of Flood Risks to 8 Himalayan Countries after Nepal Disaster",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/18/climate/nepal-tibet-floods-himalayas-warnings.html",
-          "ozet": "The catastrophe set off alarms in a region with thousands of glaciers spanning eight nations. Better monitoring and cooperation between the countries could save lives, experts say.",
-          "yayin_tarihi": "Fri, 18 Sep 2026 04:01:09 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Rejecting Trump, South Korean Leader Says He Will Not Send Troops to Iran",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html",
-          "ozet": "President Lee Jae Myung’s comments followed President Trump’s repeated demand for “a little hand” from South Korea, a decades-old American ally.",
-          "yayin_tarihi": "Fri, 18 Sep 2026 04:58:13 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Yemen War Intensifies as Houthi Militia Advances on Marib",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html",
-          "ozet": "Clashes between Iranian-backed Houthi fighters and Saudi-backed government forces have been reported near oil-rich Marib Province.",
-          "yayin_tarihi": "Thu, 17 Sep 2026 22:44:04 +0000",
+          "yayin_tarihi": "Fri, 18 Sep 2026 15:14:32 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-18T10:57:07.470597"
+      "taranma_zamani": "2026-09-19T10:40:16.449787"
     },
     "ru": {
       "dil": "Rusça",
-      "haberler": [],
-      "taranma_zamani": "2026-09-18T10:57:07.470598"
+      "haberler": [
+        {
+          "baslik": "Russian air defenses intercept 936 Ukrainian UAVs, seven smart bombs over past day",
+          "kaynak": "tass.com",
+          "url": "https://tass.com/defense/2190059",
+          "ozet": "Overall, the Russian Armed Forces have destroyed 674 Ukrainian combat aircraft, 284 helicopters, 240,045 unmanned aerial vehicles, 672 surface-to-air missile systems, 30,957 tanks and other armored combat vehicles",
+          "yayin_tarihi": "Sat, 19 Sep 2026 13:27:15 +0300",
+          "dil": "Rusça"
+        },
+        {
+          "baslik": "Kiev loses over 1,340 troops along engagement line in past day — Russia’s top brass",
+          "kaynak": "tass.com",
+          "url": "https://tass.com/defense/2190057",
+          "ozet": "The latest figures show that the Ukrainian army lost up to 245 troops in the responsibility area of Russia’s Battlegroup North, more than 210 troops in the responsibility area of the Battlegroup West and some 145 troops in the responsibility area of the Battlegroup South",
+          "yayin_tarihi": "Sat, 19 Sep 2026 13:25:02 +0300",
+          "dil": "Rusça"
+        },
+        {
+          "baslik": "Russian Interior Ministry receives 367 reports on alleged incidents at voting in past day",
+          "kaynak": "tass.com",
+          "url": "https://tass.com/politics/2190055",
+          "ozet": "The single voting day to elect lawmakers to the 9th Russian State Duma takes place on September 18-20",
+          "yayin_tarihi": "Sat, 19 Sep 2026 12:48:17 +0300",
+          "dil": "Rusça"
+        },
+        {
+          "baslik": "Russia’s voting procedure is ‘quite intense,’ says CEC chief Pamfilova",
+          "kaynak": "tass.com",
+          "url": "https://tass.com/politics/2190039",
+          "ozet": "The single voting day to elect lawmakers to the 9th Russian State Duma takes place on September 18-20",
+          "yayin_tarihi": "Sat, 19 Sep 2026 12:11:24 +0300",
+          "dil": "Rusça"
+        },
+        {
+          "baslik": "Fourteen polling stations in LPR switched to backup power supply — local election official",
+          "kaynak": "tass.com",
+          "url": "https://tass.com/politics/2190031",
+          "ozet": "The single voting day to elect lawmakers to the 9th Russian State Duma takes place on September 18-20",
+          "yayin_tarihi": "Sat, 19 Sep 2026 10:04:04 +0300",
+          "dil": "Rusça"
+        }
+      ],
+      "taranma_zamani": "2026-09-19T10:40:16.449817"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-18T10:57:07.470600"
+      "taranma_zamani": "2026-09-19T10:40:16.449819"
     },
     "zh": {
       "dil": "Çince",
@@ -148,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-18T10:57:07.470603"
+      "taranma_zamani": "2026-09-19T10:40:16.449825"
     }
   }
 }
