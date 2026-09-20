@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-09-19",
-  "olusturma_zamani": "2026-09-19T10:40:16.449848",
+  "olusturma_tarihi": "2026-09-20",
+  "olusturma_zamani": "2026-09-20T11:02:45.475045",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Dışişleri Bakanı Fidan: Mekke İttifakı gerçekten iyi bir aşamada",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/disisleri-bakani-fidan-mekke-ittifaki-gercekten-iyi-bir-asamada-957402.html",
+          "ozet": "Dışişleri Bakanı Hakan Fidan, \"Mekke İttifakı gerçekten iyi bir aşamada. Ortaya konmuş çok güçlü bir irade var. Bu iradenin harekete geçmesi için var gücümüzle çalışıyoruz\" dedi.",
+          "yayin_tarihi": "Sat, 19 Sep 2026 22:05:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "ABD'nin vize vermediği Filistin heyeti BM'de video yoluyla hitap edecek",
           "kaynak": "www.trthaber.com",
@@ -36,27 +44,35 @@
           "ozet": "ÖSYM, Şanlıurfa'da Kamu Personel Seçme Sınavı'nın (2026-KPSS) gerçekleştirildiği Harran Üniversitesi Osmanbey Kampüsü'ndeki 392 adaya yönelik mevzuata aykırı sınav uygulamaları yapıldığının tespit edildiğini, söz konusu adaylara eş değer sınav uygulanmasına karar verildiğini bildirdi.",
           "yayin_tarihi": "Wed, 16 Sep 2026 16:38:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Cumhurbaşkanı Erdoğan ile sohbet eden Samsunlu Emre Vural yaşadıklarını anlattı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-ile-sohbet-eden-samsunlu-emre-vural-yasadiklarini-anlatti-956971.html",
-          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın Samsun Şehir Hastanesinin açılışı için geldiği Samsun'da otobüsten inerek sohbet ettiği engelli milli sporcu Emre Vural, yaşadıklarını anlattı.",
-          "yayin_tarihi": "Wed, 16 Sep 2026 06:51:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-19T10:40:16.449767"
+      "taranma_zamani": "2026-09-20T11:02:45.474786"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "The Kremlin Has Put Lots of Veterans on the Ballot. Could It Backfire?",
+          "baslik": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/19/world/europe/russia-kremlin-election-veterans.html",
-          "ozet": "President Vladimir V. Putin of Russia has said veterans are the “new elite,” but selecting them as candidates is a risk.",
-          "yayin_tarihi": "Sat, 19 Sep 2026 09:02:21 +0000",
+          "url": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
+          "ozet": "Ukraine says it used a newly developed ballistic missile in the attacks, which also targeted other parts of Russia.",
+          "yayin_tarihi": "Sun, 20 Sep 2026 10:33:52 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Russia Barred Their Party, but These Antiwar Voices Are Still Standing",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/20/world/europe/russia-duma-election-yabloko.html",
+          "ozet": "The liberal party Yabloko is fielding 98 candidates in this weekend’s elections, a small miracle for antiwar Russians who cannot openly express their views.",
+          "yayin_tarihi": "Sun, 20 Sep 2026 10:49:12 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "In Significant Escalation, Houthis Attack Saudi Capital",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/19/world/middleeast/saudi-arabia-riyadh-houthis.html",
+          "ozet": "The Houthis, an Iranian-backed militia, said they had fired a wave of missiles and drones at Riyadh, and on Saudi oil facilities.",
+          "yayin_tarihi": "Sun, 20 Sep 2026 06:38:20 +0000",
           "dil": "İngilizce"
         },
         {
@@ -64,15 +80,7 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/09/19/world/americas/guyana-oil-boom.html",
           "ozet": "Oil-rich Guyana is enjoying red-hot growth. But the boom is magnifying tensions over corruption, inequality and strained ties with Venezuela.",
-          "yayin_tarihi": "Sat, 19 Sep 2026 09:00:55 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/19/world/europe/russia-us-sanctions-trump.html",
-          "ozet": "President Trump signed the legislation, named for Senator Lindsey Graham, at the White House, but he has broad leeway to waive its requirements.",
-          "yayin_tarihi": "Sat, 19 Sep 2026 09:23:29 +0000",
+          "yayin_tarihi": "Sat, 19 Sep 2026 13:47:42 +0000",
           "dil": "İngilizce"
         },
         {
@@ -80,70 +88,62 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/09/19/world/asia/nepals-gen-z-is-taking-on-the-worlds-polluters-over-climate-disasters.html",
           "ozet": "The young government of Nepal, a nation with a tiny carbon footprint, is seeking reparations from the world’s major economies as it bears the brunt of collapsing Himalayan glaciers.",
-          "yayin_tarihi": "Sat, 19 Sep 2026 04:01:11 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Why Autocrats Care What People Think",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/18/world/europe/putin-russia-election-ideas.html",
-          "ozet": "Russia is staging an election that matters to almost no one — except President Vladimir V. Putin and his inner circle.",
-          "yayin_tarihi": "Fri, 18 Sep 2026 15:14:32 +0000",
+          "yayin_tarihi": "Sat, 19 Sep 2026 04:01:12 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-19T10:40:16.449787"
+      "taranma_zamani": "2026-09-20T11:02:45.474805"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russian air defenses intercept 936 Ukrainian UAVs, seven smart bombs over past day",
+          "baslik": "More than 45% of Russians have voted in the election as of Sunday morning — CEC chairwoman",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2190059",
-          "ozet": "Overall, the Russian Armed Forces have destroyed 674 Ukrainian combat aircraft, 284 helicopters, 240,045 unmanned aerial vehicles, 672 surface-to-air missile systems, 30,957 tanks and other armored combat vehicles",
-          "yayin_tarihi": "Sat, 19 Sep 2026 13:27:15 +0300",
+          "url": "https://tass.com/politics/2190291",
+          "ozet": "The number of voters who cast their ballots through the remote electronic voting system exceeded 6 million",
+          "yayin_tarihi": "Sun, 20 Sep 2026 13:46:48 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Kiev loses over 1,340 troops along engagement line in past day — Russia’s top brass",
+          "baslik": "Polling stations close in Russia’s easternmost regions, Kamchatka, Chukotka",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2190057",
-          "ozet": "The latest figures show that the Ukrainian army lost up to 245 troops in the responsibility area of Russia’s Battlegroup North, more than 210 troops in the responsibility area of the Battlegroup West and some 145 troops in the responsibility area of the Battlegroup South",
-          "yayin_tarihi": "Sat, 19 Sep 2026 13:25:02 +0300",
+          "url": "https://tass.com/politics/2190271",
+          "ozet": "Election commissions have begun counting the votes",
+          "yayin_tarihi": "Sun, 20 Sep 2026 11:51:08 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian Interior Ministry receives 367 reports on alleged incidents at voting in past day",
+          "baslik": "Two people killed in drone attack on bus in Kherson Region — CEC chairwoman",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2190055",
-          "ozet": "The single voting day to elect lawmakers to the 9th Russian State Duma takes place on September 18-20",
-          "yayin_tarihi": "Sat, 19 Sep 2026 12:48:17 +0300",
+          "url": "https://tass.com/politics/2190267",
+          "ozet": "One of them is an election commission member, Chairwoman of Russia’s Central Election Commission Ella Pamfilova said",
+          "yayin_tarihi": "Sun, 20 Sep 2026 11:37:19 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia’s voting procedure is ‘quite intense,’ says CEC chief Pamfilova",
+          "baslik": "Iran will keep Strait of Hormuz closed until US accepts its terms — parliamentary speaker",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2190039",
-          "ozet": "The single voting day to elect lawmakers to the 9th Russian State Duma takes place on September 18-20",
-          "yayin_tarihi": "Sat, 19 Sep 2026 12:11:24 +0300",
+          "url": "https://tass.com/world/2190249",
+          "ozet": "Earlier, Secretary of Iran’s Supreme National Security Council Mohsen Rezaei said that Iranian authorities have conveyed their conditions for ending the war to the US through Qatari mediators",
+          "yayin_tarihi": "Sun, 20 Sep 2026 11:09:57 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Fourteen polling stations in LPR switched to backup power supply — local election official",
+          "baslik": "Russian air defenses repel largest-ever Ukrainian drone attack, mayor says",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2190031",
-          "ozet": "The single voting day to elect lawmakers to the 9th Russian State Duma takes place on September 18-20",
-          "yayin_tarihi": "Sat, 19 Sep 2026 10:04:04 +0300",
+          "url": "https://tass.com/politics/2190247",
+          "ozet": "Mayor Sergey Sobyanin added that 450 drones had been shot down on the approach to Moscow",
+          "yayin_tarihi": "Sun, 20 Sep 2026 11:09:05 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-19T10:40:16.449817"
+      "taranma_zamani": "2026-09-20T11:02:45.474822"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-19T10:40:16.449819"
+      "taranma_zamani": "2026-09-20T11:02:45.474824"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-19T10:40:16.449825"
+      "taranma_zamani": "2026-09-20T11:02:45.474830"
     }
   }
 }
