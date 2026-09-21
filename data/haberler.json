@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-09-20",
-  "olusturma_zamani": "2026-09-20T11:02:45.475045",
+  "olusturma_tarihi": "2026-09-21",
+  "olusturma_zamani": "2026-09-21T12:30:11.615059",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "TOKİ'de yüzde 25 indirim kampanyası: Başvurular yarın başlıyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/tokide-yuzde-25-indirim-kampanyasi-basvurular-yarin-basliyor-957483.html",
+          "ozet": "TOKİ, borcunun tamamını peşin ödeyerek tapusunu almak isteyen konut ve iş yeri alıcıları için yeni bir kampanya başlatıyor. Kampanya kapsamında geri ödemeleri devam eden konut ve iş yerleri için yüzde 25 indirim uygulanacak. Kampanyaya başvurular yarın başlayacak ve 19 Ekim'e kadar sürecek.",
+          "yayin_tarihi": "Mon, 21 Sep 2026 07:48:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Türkiye'nin ilk milli hızlı treninde seri üretim başladı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/turkiyenin-ilk-milli-hizli-treninde-seri-uretim-basladi-957436.html",
+          "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Türkiye'nin ilk yerli ve milli hızlı treni için seri üretim sürecinin başladığını belirterek, \"2027'de 7, 2028'de de 7 olmak üzere iki yılda toplam 14 milli elektrikli hızlı tren seti üretmeyi hedefliyoruz\" ifadesini kullandı.",
+          "yayin_tarihi": "Sun, 20 Sep 2026 13:30:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Dışişleri Bakanı Fidan: Mekke İttifakı gerçekten iyi bir aşamada",
           "kaynak": "www.trthaber.com",
@@ -28,122 +44,106 @@
           "ozet": "Türkiye’nin farklı platformlardan uzun menzilde hassas vuruş yapabilecek füze ailesi genişliyor… AKINCI’dan hedefi vuran İHA-300 uçaktan atıldığında 500 kilometre öteye gidebilecek. Eldeki TAYFUN blokları envantere girerken yeni seriler için kollar sıvandı. GEZGİN’de seri üretim hazırlıkları tamamlandı. Ankara'nın eli milli füzelerle güçleniyor...",
           "yayin_tarihi": "Wed, 16 Sep 2026 10:30:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Et ürünlerine yönelik yeni standartlar belirlendi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/ekonomi/et-urunlerine-yonelik-yeni-standartlar-belirlendi-956993.html",
-          "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, güvenilir gıda için et ürünlerine yeni standartlar getirdiklerini belirterek, \"Sucuk ve pastırma gibi geleneksel lezzetlerimizin içine farklı katkılar katarak özünü bozanları engelliyor, dönerimizi 'yaprak' ve 'kıyma' olarak şeffafça etiketliyoruz.\" ifadesini kullandı.",
-          "yayin_tarihi": "Wed, 16 Sep 2026 10:32:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Şanlıurfa'da KPSS'ye giren 392 aday için eş değer sınav kararı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/egitim/sanliurfada-kpssye-giren-392-aday-icin-es-deger-sinav-karari-957030.html",
-          "ozet": "ÖSYM, Şanlıurfa'da Kamu Personel Seçme Sınavı'nın (2026-KPSS) gerçekleştirildiği Harran Üniversitesi Osmanbey Kampüsü'ndeki 392 adaya yönelik mevzuata aykırı sınav uygulamaları yapıldığının tespit edildiğini, söz konusu adaylara eş değer sınav uygulanmasına karar verildiğini bildirdi.",
-          "yayin_tarihi": "Wed, 16 Sep 2026 16:38:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-20T11:02:45.474786"
+      "taranma_zamani": "2026-09-21T12:30:11.614853"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "One Issue That Could Upend Fragile U.S.-China Ties: Taiwan Arms",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/21/world/asia/china-trump-taiwan-arms-sales.html",
+          "ozet": "As Beijing presses President Trump to freeze a proposed $14 billion weapons sale to the island, Taiwan is trying to show that its security is in U.S. interests.",
+          "yayin_tarihi": "Mon, 21 Sep 2026 04:01:07 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Putin Reignited a Dispute With Japan. This Town Is Stuck in the Middle.",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/21/world/asia/japan-russia-putin-nemuro.html",
+          "ozet": "The fishing town of Nemuro depends on Russia for trade. But it’s also leading a fight to win back islands seized by Moscow in World War II.",
+          "yayin_tarihi": "Mon, 21 Sep 2026 08:48:48 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Houthis Push to Expand Territory as Tensions With Saudi Arabia Rise",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/20/world/middleeast/saudi-arabia-yemen-houthis-fighting.html",
+          "ozet": "The Iranian-backed militia was engaged in fierce battles with Saudi-backed government forces in Yemen on Sunday, as it seeks to maintain momentum in the war.",
+          "yayin_tarihi": "Mon, 21 Sep 2026 05:23:51 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
           "ozet": "Ukraine says it used a newly developed ballistic missile in the attacks, which also targeted other parts of Russia.",
-          "yayin_tarihi": "Sun, 20 Sep 2026 10:33:52 +0000",
+          "yayin_tarihi": "Mon, 21 Sep 2026 08:18:36 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Russia Barred Their Party, but These Antiwar Voices Are Still Standing",
+          "baslik": "They Have Almost No Chance in Russia’s Elections. Why Are They Running?",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/09/20/world/europe/russia-duma-election-yabloko.html",
           "ozet": "The liberal party Yabloko is fielding 98 candidates in this weekend’s elections, a small miracle for antiwar Russians who cannot openly express their views.",
-          "yayin_tarihi": "Sun, 20 Sep 2026 10:49:12 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "In Significant Escalation, Houthis Attack Saudi Capital",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/19/world/middleeast/saudi-arabia-riyadh-houthis.html",
-          "ozet": "The Houthis, an Iranian-backed militia, said they had fired a wave of missiles and drones at Riyadh, and on Saudi oil facilities.",
-          "yayin_tarihi": "Sun, 20 Sep 2026 06:38:20 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "A Small Country’s Huge Windfall from the War in Iran",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/19/world/americas/guyana-oil-boom.html",
-          "ozet": "Oil-rich Guyana is enjoying red-hot growth. But the boom is magnifying tensions over corruption, inequality and strained ties with Venezuela.",
-          "yayin_tarihi": "Sat, 19 Sep 2026 13:47:42 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Nepal’s Gen Z Is Taking on the World’s Polluters Over Climate Disasters",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/19/world/asia/nepals-gen-z-is-taking-on-the-worlds-polluters-over-climate-disasters.html",
-          "ozet": "The young government of Nepal, a nation with a tiny carbon footprint, is seeking reparations from the world’s major economies as it bears the brunt of collapsing Himalayan glaciers.",
-          "yayin_tarihi": "Sat, 19 Sep 2026 04:01:12 +0000",
+          "yayin_tarihi": "Sun, 20 Sep 2026 21:16:41 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-20T11:02:45.474805"
+      "taranma_zamani": "2026-09-21T12:30:11.614874"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "More than 45% of Russians have voted in the election as of Sunday morning — CEC chairwoman",
+          "baslik": "Russia-Namibia trade falls short of two countries’ potential — senator",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2190291",
-          "ozet": "The number of voters who cast their ballots through the remote electronic voting system exceeded 6 million",
-          "yayin_tarihi": "Sun, 20 Sep 2026 13:46:48 +0300",
+          "url": "https://tass.com/economy/2190667",
+          "ozet": "Elena Perminova noted that an earlier meeting of the bilateral intergovernmental commission discussed moving toward the joint implementation of specific projects in a number of areas of mutual interest",
+          "yayin_tarihi": "Mon, 21 Sep 2026 15:03:19 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Polling stations close in Russia’s easternmost regions, Kamchatka, Chukotka",
+          "baslik": "Russian tennis player Samsonova climbs 13 places up in new WTA Ranking",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2190271",
-          "ozet": "Election commissions have begun counting the votes",
-          "yayin_tarihi": "Sun, 20 Sep 2026 11:51:08 +0300",
+          "url": "https://tass.com/sports/2190669",
+          "ozet": "The Russian, who was 50th in the previous edition of the WTA ratings, is now 37th with 1,284 points",
+          "yayin_tarihi": "Mon, 21 Sep 2026 15:02:51 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Two people killed in drone attack on bus in Kherson Region — CEC chairwoman",
+          "baslik": "Kiev loses about 1,440 troops in special military operation zone in past day — top brass",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2190267",
-          "ozet": "One of them is an election commission member, Chairwoman of Russia’s Central Election Commission Ella Pamfilova said",
-          "yayin_tarihi": "Sun, 20 Sep 2026 11:37:19 +0300",
+          "url": "https://tass.com/politics/2190663",
+          "ozet": "Russian forces launched strikes overnight on logistics centers, warehouses and ports in Ukraine, as well as vessels involved in supporting the Ukrainian military",
+          "yayin_tarihi": "Mon, 21 Sep 2026 15:00:53 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Iran will keep Strait of Hormuz closed until US accepts its terms — parliamentary speaker",
+          "baslik": "US, China fail to agree on extending trade truce — FT",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2190249",
-          "ozet": "Earlier, Secretary of Iran’s Supreme National Security Council Mohsen Rezaei said that Iranian authorities have conveyed their conditions for ending the war to the US through Qatari mediators",
-          "yayin_tarihi": "Sun, 20 Sep 2026 11:09:57 +0300",
+          "url": "https://tass.com/world/2190661",
+          "ozet": "According to the newspaper, the disagreements primarily concern the length of the deal’s extension",
+          "yayin_tarihi": "Mon, 21 Sep 2026 14:55:49 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian air defenses repel largest-ever Ukrainian drone attack, mayor says",
+          "baslik": "SCO observers find Russian elections credible, democratic",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2190247",
-          "ozet": "Mayor Sergey Sobyanin added that 450 drones had been shot down on the approach to Moscow",
-          "yayin_tarihi": "Sun, 20 Sep 2026 11:09:05 +0300",
+          "url": "https://tass.com/world/2190659",
+          "ozet": "Piao Yangfan noted that the State Duma elections complied with the requirements of Russian electoral law and universally accepted international obligations",
+          "yayin_tarihi": "Mon, 21 Sep 2026 14:55:37 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-20T11:02:45.474822"
+      "taranma_zamani": "2026-09-21T12:30:11.614893"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-20T11:02:45.474824"
+      "taranma_zamani": "2026-09-21T12:30:11.614895"
     },
     "zh": {
       "dil": "Çince",
@@ -165,7 +165,7 @@
           "dil": "Çince"
         },
         {
-          "baslik": "习近平访美的国内政治账  二十一大前的权力展示",
+          "baslik": "习近平访美系列二：二十一大前的国内政治权力展示",
           "kaynak": "www.rfa.org",
           "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/09/09/china-xi-jinpings-visit-to-the-us-trump-21st-national-congress-of-the-cpc/",
           "ozet": "中国国家主席习近平计划于近期访问美国，并同美国总统特朗普举行会晤。此次访问正值中共二十一大人事布局启动前夕。中国政治观察人士表示，北京希望通过中美元首会晤稳定经济及企业预期，习近平也需要借助外交活动显示其对外政策和党内人事主导权。",
@@ -181,7 +181,7 @@
           "dil": "Çince"
         },
         {
-          "baslik": "习近平拟携大型商团访美　商业订单进入元首外交",
+          "baslik": "习近平访美系列一：拟携大型商团跟访，元首外交中的商业订单",
           "kaynak": "www.rfa.org",
           "url": "https://rfa.org/mandarin/guoji/2026/09/07/china-xi-jinping-trump-trade-friction-us-china-trade/",
           "ozet": "中国方面正筹组一个大型企业代表团，准备随国家主席习近平于本月访问美国。若该计划成行，将是自2020年北京整顿科技、教育及房地产行业以来，少见的一次大批企业高层陪同国家领导人出访。不过，北京体制内人士表示，相关安排尚未最终确定。",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-20T11:02:45.474830"
+      "taranma_zamani": "2026-09-21T12:30:11.614900"
     }
   }
 }
