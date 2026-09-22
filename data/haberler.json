@@ -1,18 +1,10 @@
 {
-  "olusturma_tarihi": "2026-09-21",
-  "olusturma_zamani": "2026-09-21T12:30:11.615059",
+  "olusturma_tarihi": "2026-09-22",
+  "olusturma_zamani": "2026-09-22T11:19:11.371886",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
-        {
-          "baslik": "TOKİ'de yüzde 25 indirim kampanyası: Başvurular yarın başlıyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/tokide-yuzde-25-indirim-kampanyasi-basvurular-yarin-basliyor-957483.html",
-          "ozet": "TOKİ, borcunun tamamını peşin ödeyerek tapusunu almak isteyen konut ve iş yeri alıcıları için yeni bir kampanya başlatıyor. Kampanya kapsamında geri ödemeleri devam eden konut ve iş yerleri için yüzde 25 indirim uygulanacak. Kampanyaya başvurular yarın başlayacak ve 19 Ekim'e kadar sürecek.",
-          "yayin_tarihi": "Mon, 21 Sep 2026 07:48:00 +0300",
-          "dil": "Türkçe"
-        },
         {
           "baslik": "Türkiye'nin ilk milli hızlı treninde seri üretim başladı",
           "kaynak": "www.trthaber.com",
@@ -44,110 +36,126 @@
           "ozet": "Türkiye’nin farklı platformlardan uzun menzilde hassas vuruş yapabilecek füze ailesi genişliyor… AKINCI’dan hedefi vuran İHA-300 uçaktan atıldığında 500 kilometre öteye gidebilecek. Eldeki TAYFUN blokları envantere girerken yeni seriler için kollar sıvandı. GEZGİN’de seri üretim hazırlıkları tamamlandı. Ankara'nın eli milli füzelerle güçleniyor...",
           "yayin_tarihi": "Wed, 16 Sep 2026 10:30:00 +0300",
           "dil": "Türkçe"
+        },
+        {
+          "baslik": "Et ürünlerine yönelik yeni standartlar belirlendi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/ekonomi/et-urunlerine-yonelik-yeni-standartlar-belirlendi-956993.html",
+          "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, güvenilir gıda için et ürünlerine yeni standartlar getirdiklerini belirterek, \"Sucuk ve pastırma gibi geleneksel lezzetlerimizin içine farklı katkılar katarak özünü bozanları engelliyor, dönerimizi 'yaprak' ve 'kıyma' olarak şeffafça etiketliyoruz.\" ifadesini kullandı.",
+          "yayin_tarihi": "Wed, 16 Sep 2026 10:32:00 +0300",
+          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-21T12:30:11.614853"
+      "taranma_zamani": "2026-09-22T11:19:11.371696"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "One Issue That Could Upend Fragile U.S.-China Ties: Taiwan Arms",
+          "baslik": "The Other Victims of China’s Church Crackdown",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/21/world/asia/china-trump-taiwan-arms-sales.html",
-          "ozet": "As Beijing presses President Trump to freeze a proposed $14 billion weapons sale to the island, Taiwan is trying to show that its security is in U.S. interests.",
-          "yayin_tarihi": "Mon, 21 Sep 2026 04:01:07 +0000",
+          "url": "https://www.nytimes.com/2026/09/22/world/asia/china-zion-church-pastor-detained-family.html",
+          "ozet": "Cherie Geng is trying to free her husband, a pastor, who was among dozens of church members detained by the Chinese police. At the same time, she must rebuild her life in exile.",
+          "yayin_tarihi": "Tue, 22 Sep 2026 11:01:49 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Putin Reignited a Dispute With Japan. This Town Is Stuck in the Middle.",
+          "baslik": "Trump Set to Meet With Persian Gulf Allies as Middle East Wars Widen",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/21/world/asia/japan-russia-putin-nemuro.html",
-          "ozet": "The fishing town of Nemuro depends on Russia for trade. But it’s also leading a fight to win back islands seized by Moscow in World War II.",
-          "yayin_tarihi": "Mon, 21 Sep 2026 08:48:48 +0000",
+          "url": "https://www.nytimes.com/2026/09/22/world/middleeast/trump-persian-gulf-leaders-meeting.html",
+          "ozet": "The Iran war and the fight between the Houthis and Saudi Arabia in Yemen have forced Gulf Arab states to reckon with spiraling conflicts and to reassess U.S. security guarantees.",
+          "yayin_tarihi": "Tue, 22 Sep 2026 11:09:48 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Houthis Push to Expand Territory as Tensions With Saudi Arabia Rise",
+          "baslik": "Iraq’s Prime Minister Al-Zaidi Vows to Disarm Iran-backed Militias",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/20/world/middleeast/saudi-arabia-yemen-houthis-fighting.html",
-          "ozet": "The Iranian-backed militia was engaged in fierce battles with Saudi-backed government forces in Yemen on Sunday, as it seeks to maintain momentum in the war.",
-          "yayin_tarihi": "Mon, 21 Sep 2026 05:23:51 +0000",
+          "url": "https://www.nytimes.com/2026/09/21/world/middleeast/iraq-prime-minister-interview-disarm-militias.html",
+          "ozet": "Ali al-Zaidi is a political neophyte hoping to succeed where previous leaders failed. In an interview, he laid out an ambitious timeline that could prove hard to meet.",
+          "yayin_tarihi": "Mon, 21 Sep 2026 21:04:34 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
+          "baslik": "Japan Meets With Trump, Hoping to Get His Help on China",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
-          "ozet": "Ukraine says it used a newly developed ballistic missile in the attacks, which also targeted other parts of Russia.",
-          "yayin_tarihi": "Mon, 21 Sep 2026 08:18:36 +0000",
+          "url": "https://www.nytimes.com/2026/09/21/world/asia/trump-takaichi-japan-china-economy.html",
+          "ozet": "Japan’s prime minister will meet President Trump to discuss China’s economic and security pressure while also seeking to de-escalate tensions with Beijing.",
+          "yayin_tarihi": "Tue, 22 Sep 2026 07:58:46 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "They Have Almost No Chance in Russia’s Elections. Why Are They Running?",
+          "baslik": "Russia’s Election Was Engineered to Send a Message: Putin Remains in Control",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/20/world/europe/russia-duma-election-yabloko.html",
-          "ozet": "The liberal party Yabloko is fielding 98 candidates in this weekend’s elections, a small miracle for antiwar Russians who cannot openly express their views.",
-          "yayin_tarihi": "Sun, 20 Sep 2026 21:16:41 +0000",
+          "url": "https://www.nytimes.com/2026/09/21/world/europe/russia-duma-election.html",
+          "ozet": "A parliamentary vote demonstrated that President Vladimir V. Putin’s autocratic system was still able to deliver the results he wanted, analysts said.",
+          "yayin_tarihi": "Tue, 22 Sep 2026 07:06:35 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-21T12:30:11.614874"
+      "taranma_zamani": "2026-09-22T11:19:11.371711"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia-Namibia trade falls short of two countries’ potential — senator",
+          "baslik": "Ukraine receives $841 mln from World Bank under Canada's guarantees",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2190667",
-          "ozet": "Elena Perminova noted that an earlier meeting of the bilateral intergovernmental commission discussed moving toward the joint implementation of specific projects in a number of areas of mutual interest",
-          "yayin_tarihi": "Mon, 21 Sep 2026 15:03:19 +0300",
+          "url": "https://tass.com/world/2191089",
+          "ozet": "The latest disbursement brings the total funding allocated to Ukraine by the World Bank under Western guarantees to $54.3 billion, Ukrainian Prime Minister Sergey Koretsky noted",
+          "yayin_tarihi": "Tue, 22 Sep 2026 14:11:38 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian tennis player Samsonova climbs 13 places up in new WTA Ranking",
+          "baslik": "GFCN’s first international fact-checking office to open in Dubai",
           "kaynak": "tass.com",
-          "url": "https://tass.com/sports/2190669",
-          "ozet": "The Russian, who was 50th in the previous edition of the WTA ratings, is now 37th with 1,284 points",
-          "yayin_tarihi": "Mon, 21 Sep 2026 15:02:51 +0300",
+          "url": "https://tass.com/society/2191085",
+          "ozet": "Russia is the base for this project, GFCN President Vladimir Tabak stressed",
+          "yayin_tarihi": "Tue, 22 Sep 2026 14:04:40 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Kiev loses about 1,440 troops in special military operation zone in past day — top brass",
+          "baslik": "Russia’s Defense Ministry reports use of Tsirkon missiles in nighttime strike on Ukraine",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2190663",
-          "ozet": "Russian forces launched strikes overnight on logistics centers, warehouses and ports in Ukraine, as well as vessels involved in supporting the Ukrainian military",
-          "yayin_tarihi": "Mon, 21 Sep 2026 15:00:53 +0300",
+          "url": "https://tass.com/politics/2191081",
+          "ozet": "The ministry compared the massive strike to the Ninth Wave",
+          "yayin_tarihi": "Tue, 22 Sep 2026 13:52:41 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US, China fail to agree on extending trade truce — FT",
+          "baslik": "Ukraine has exhausted resources to continue war, expert says",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2190661",
-          "ozet": "According to the newspaper, the disagreements primarily concern the length of the deal’s extension",
-          "yayin_tarihi": "Mon, 21 Sep 2026 14:55:49 +0300",
+          "url": "https://tass.com/world/2191079",
+          "ozet": "The authorities should have a \"self-preservation instinct\" to begin looking for ways out of the conflict, Alexey Kushch said",
+          "yayin_tarihi": "Tue, 22 Sep 2026 13:48:20 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "SCO observers find Russian elections credible, democratic",
+          "baslik": "IN BRIEF: Military-industrial, energy, metallurgy facilities hit in strike by Russian army",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2190659",
-          "ozet": "Piao Yangfan noted that the State Duma elections complied with the requirements of Russian electoral law and universally accepted international obligations",
-          "yayin_tarihi": "Mon, 21 Sep 2026 14:55:37 +0300",
+          "url": "https://tass.com/defense/2191067",
+          "ozet": "The Russian Armed Forces launched a massive strike using precision land-, sea-, and air-based weapons, as well as unmanned aerial vehicles, against targets in Ukraine overnight, the Defense Ministry reported",
+          "yayin_tarihi": "Tue, 22 Sep 2026 13:37:11 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-21T12:30:11.614893"
+      "taranma_zamani": "2026-09-22T11:19:11.371735"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-21T12:30:11.614895"
+      "taranma_zamani": "2026-09-22T11:19:11.371736"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "习近平访美前夕　外媒谈分歧官媒重定调",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/09/22/china-us-relations-xi-jinping-xi-trump-meeting-taiwan-issue-trump/",
+          "ozet": "中国国家主席习近平将在9月23日至25日访问美国，并于24日在白宫与美国总统特朗普会晤。随着行程临近，路透社、美联社、英国《金融时报》及日本共同社等海外媒体持续追踪此次会晤，重点关注经贸休战、人工智能、台湾及美中战略竞争。",
+          "yayin_tarihi": "Tue, 22 Sep 2026 09:00:26 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "德国资深记者发表研究报告：潜台中国间谍或多至十万人",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "中国纪录片制片人及作家杜斌，2025年10月被北京警方以涉嫌“寻衅滋事罪”带走，今年8月底被判刑一年六个月。其妹妹杜继荣表示，家属至今没有收到判决书或法院通知。杜斌母亲病危期间，家属曾申请让他回家见母亲最后一面，遭到法院拒绝。",
           "yayin_tarihi": "Tue, 08 Sep 2026 06:51:50 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "习近平访美系列一：拟携大型商团跟访，元首外交中的商业订单",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/guoji/2026/09/07/china-xi-jinping-trump-trade-friction-us-china-trade/",
-          "ozet": "中国方面正筹组一个大型企业代表团，准备随国家主席习近平于本月访问美国。若该计划成行，将是自2020年北京整顿科技、教育及房地产行业以来，少见的一次大批企业高层陪同国家领导人出访。不过，北京体制内人士表示，相关安排尚未最终确定。",
-          "yayin_tarihi": "Mon, 07 Sep 2026 07:27:39 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-21T12:30:11.614900"
+      "taranma_zamani": "2026-09-22T11:19:11.371866"
     }
   }
 }
