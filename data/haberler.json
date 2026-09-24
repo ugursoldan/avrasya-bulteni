@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-09-23",
-  "olusturma_zamani": "2026-09-23T11:12:54.670693",
+  "olusturma_tarihi": "2026-09-24",
+  "olusturma_zamani": "2026-09-24T11:28:44.754630",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Fon yatırımcılarının hakları için toplantı yapılacak",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/ekonomi/fon-yatirimcilarinin-haklari-icin-toplanti-yapilacak-957935.html",
+          "ozet": "Hazine ve Maliye Bakanı Şimşek başkanlığında, 131 fonun tasfiyesi ve ödeme süreçleri için toplantı yapılacak, yatırımcıların hak ve menfaatlerinin korunması öncelikli konu olacak.",
+          "yayin_tarihi": "Thu, 24 Sep 2026 08:56:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "OpenAI Avustralya hükümetinin web sitesini hackledi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/openai-avustralya-hukumetinin-web-sitesini-hackledi-957919.html",
+          "ozet": "Avustralya Başbakanı Anthony Albanese, OpenAI tarafından geliştirilen bir yapay zeka ajanının haziran ayında ülkenin kamu sağlık sistemi Medicare portalına sızdığını duyurdu. Albanese, şirketin durumu aylar sonra genel bir e-posta adresine bildirim atarak açıkladığını söyledi.",
+          "yayin_tarihi": "Thu, 24 Sep 2026 06:39:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Katil Netanyahu'nun korku dolu ABD ziyareti başlıyor",
           "kaynak": "www.trthaber.com",
@@ -28,35 +44,35 @@
           "ozet": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Türkiye'nin ilk yerli ve milli hızlı treni için seri üretim sürecinin başladığını belirterek, \"2027'de 7, 2028'de de 7 olmak üzere iki yılda toplam 14 milli elektrikli hızlı tren seti üretmeyi hedefliyoruz\" ifadesini kullandı.",
           "yayin_tarihi": "Sun, 20 Sep 2026 13:30:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Dışişleri Bakanı Fidan: Mekke İttifakı gerçekten iyi bir aşamada",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/disisleri-bakani-fidan-mekke-ittifaki-gercekten-iyi-bir-asamada-957402.html",
-          "ozet": "Dışişleri Bakanı Hakan Fidan, \"Mekke İttifakı gerçekten iyi bir aşamada. Ortaya konmuş çok güçlü bir irade var. Bu iradenin harekete geçmesi için var gücümüzle çalışıyoruz\" dedi.",
-          "yayin_tarihi": "Sat, 19 Sep 2026 22:05:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "ABD'nin vize vermediği Filistin heyeti BM'de video yoluyla hitap edecek",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/abdnin-vize-vermedigi-filistin-heyeti-bmde-video-yoluyla-hitap-edecek-957195.html",
-          "ozet": "Birleşmiş Milletler (BM) Genel Kurulu, gelecek hafta yapılacak BM 81. Genel Kurul görüşmeleri için ABD'nin vize vermediği Filistin Devlet Başkanı Mahmud Abbas'ın Genel Kurul'a video yoluyla hitap etmesini öngören kararı, 3'e karşı 152 oyla kabul etti.",
-          "yayin_tarihi": "Thu, 17 Sep 2026 23:21:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-23T11:12:54.670533"
+      "taranma_zamani": "2026-09-24T11:28:44.754352"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "U.N. Live Updates: Iran’s President to Address World Leaders After Trump Threat",
+          "baslik": "Europe Warns of Russia’s Hybrid Attacks but Struggles to Counter Them",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine",
-          "ozet": "Masoud Pezeshkian is the first leader whose country is at war with the United States to travel to New York to address the General Assembly. President Trump said he faced a choice over whether to “annihilate” the Islamic republic.",
-          "yayin_tarihi": "Wed, 23 Sep 2026 11:06:39 +0000",
+          "url": "https://www.nytimes.com/2026/09/24/world/europe/russia-europe-warning-ukraine-war.html",
+          "ozet": "If President Vladimir V. Putin was hoping to get Europeans’ attention, he’s succeeded with a series of close-call incursions. The question now is what they will do about it.",
+          "yayin_tarihi": "Thu, 24 Sep 2026 09:02:18 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "​Ukraine Sent Two North Korean P.O.W.s to South Korea, Zelensky Says",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/23/world/asia/ukraine-north-south-korea-pow-zelensky.html",
+          "ozet": "President Volodymyr Zelensky of Ukraine said one soldier tried to kill himself when he was captured. “This is how they raise people in the North,” he said.",
+          "yayin_tarihi": "Thu, 24 Sep 2026 03:48:40 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Families Urge Trump to Press Xi to Free Americans Detained in China",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/24/world/asia/china-xi-trump-detained-americans.html",
+          "ozet": "The Americans being held in China are U Min Zin, a scholar who studied Myanmar, and Youlin Chen, a seismologist who researched North Korean nuclear tests.",
+          "yayin_tarihi": "Thu, 24 Sep 2026 09:54:05 +0000",
           "dil": "İngilizce"
         },
         {
@@ -68,86 +84,78 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "At the U.N., Japan’s Leader Says It’s Time to End ‘Enemy State’ Label",
+          "baslik": "School Children Take Shelter in Kyiv",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/23/world/asia/unga-japan-takaichi-enemy-state.html",
-          "ozet": "Prime Minister Sanae Takaichi said the United Nations should scrub the World War II-era designation from its Charter. China and Russia have used the term recently to attack Japan.",
-          "yayin_tarihi": "Wed, 23 Sep 2026 09:03:00 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "As Trump Lobs Threats, Other World Leaders Mostly Avoid Talk of Iran",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/22/world/trump-threats-world-leaders-iran-war.html",
-          "ozet": "Some leaders criticized the global impact of the war and called for negotiations to resume, but they stopped short of criticizing President Trump’s remarks.",
-          "yayin_tarihi": "Wed, 23 Sep 2026 01:32:38 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Andy Burnham, U.K.’s New Prime Minister, Prepares for U.N. Spotlight",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/22/world/europe/andy-burnham-unga-ukraine-iran-war.html",
-          "ozet": "Andy Burnham appears likely to promote support for Ukraine and hold to tough lines on Israel and the war on Iran.",
-          "yayin_tarihi": "Tue, 22 Sep 2026 22:59:30 +0000",
+          "url": "https://www.nytimes.com/video/world/europe/100000011139361/school-children-take-shelter-in-kyiv.html",
+          "ozet": "Our Ukraine correspondent Siobhán O’Grady visits a school in Kyiv where air raid sirens interrupt classes all day and children must take shelter.",
+          "yayin_tarihi": "Thu, 24 Sep 2026 09:17:23 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-23T11:12:54.670559"
+      "taranma_zamani": "2026-09-24T11:28:44.754375"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Iran satisfied with pace of military cooperation with Russia, says ambassador to Moscow",
+          "baslik": "Sending IAEA inspectors to Iran is risky due to US attacks — Russian envoy in Vienna",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2191605",
-          "ozet": "According to Kazem Jalali, the cooperation is expanding more rapidly than in the past",
-          "yayin_tarihi": "Wed, 23 Sep 2026 13:52:08 +0300",
+          "url": "https://tass.com/politics/2192151",
+          "ozet": "Mikhail Ulyanov criticized the draft resolution on Iran, describing it as \"completely ill-conceived\" and \"useless\"",
+          "yayin_tarihi": "Thu, 24 Sep 2026 14:20:39 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Tokyo must abandon anti-Russian stance to resume dialogue with Moscow — senior diplomat",
+          "baslik": "Russia offers India highly favorable terms for aircraft cooperation — ambassador",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2191603",
-          "ozet": "Andrey Rudenko recalled that in response to the Japanese government's unilateral restrictions against Russia on March 21, 2022 over the situation in Ukraine, the Foreign Ministry issued a statement saying that Moscow does not intend to continue negotiations with Japan on a peace treaty",
-          "yayin_tarihi": "Wed, 23 Sep 2026 13:50:37 +0300",
+          "url": "https://tass.com/economy/2192147",
+          "ozet": "Denis Alipov noted that Russia offers not merely supplies but also joint production and joint development",
+          "yayin_tarihi": "Thu, 24 Sep 2026 14:11:45 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian flour exports expected to remain at last year’s level in 2026",
+          "baslik": "Russia hopes for change in US approach toward North Korea — envoy",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2191595",
-          "ozet": "According to a forecast included in a presentation by Igor Sviridenko, president of the Russian Union of Flour Mills and Cereal Plants, Russian flour exports in 2026 will total 528,000 tonnes",
-          "yayin_tarihi": "Wed, 23 Sep 2026 13:45:34 +0300",
+          "url": "https://tass.com/politics/2192145",
+          "ozet": "Mikhail Ulyanov says the US has maintained a hostile stance for many years, forging alliances against North Korea with the participation of South Korea and Japan",
+          "yayin_tarihi": "Thu, 24 Sep 2026 14:04:48 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Selection of UN Secretary-General to be key topic in UN corridors this week — Russian MFA",
+          "baslik": "Sanctions against Russia just pretext for US to put pressure on India — ambassador",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2191593",
-          "ozet": "According to Kirill Logvinov, \"the three rounds of 'indicative' votes held so far in the UN Security Council do not make it clear which of the eight candidates is the most acceptable choice for the post of the new Secretary-General\"",
-          "yayin_tarihi": "Wed, 23 Sep 2026 13:42:26 +0300",
+          "url": "https://tass.com/politics/2192143",
+          "ozet": "Denis Alipov noted that Russia is subject to more than 30,000 sanctions",
+          "yayin_tarihi": "Thu, 24 Sep 2026 13:58:15 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Brazil’s permanent representative commends Russia’s contribution to strengthening BTWC·",
+          "baslik": "EU Council approves nearly €3 billion payment for Ukraine — statement",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2191591",
-          "ozet": "The BTWC should serve as a tool for dialogue, transparency, and confidence-building, Frederico S. Duque Estrada Meyer said",
-          "yayin_tarihi": "Wed, 23 Sep 2026 13:39:30 +0300",
+          "url": "https://tass.com/world/2192131",
+          "ozet": "The EU Council noted that \"nearly €800 million of this will be provided for the first time from the Ukraine Support Loan\"",
+          "yayin_tarihi": "Thu, 24 Sep 2026 13:35:34 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-23T11:12:54.670584"
+      "taranma_zamani": "2026-09-24T11:28:44.754401"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-23T11:12:54.670586"
+      "taranma_zamani": "2026-09-24T11:28:44.754402"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "特朗普机场亲迎习近平　贸易休战延长、伊朗议题入列",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/09/24/china-us-relations-xi-jinping-trump-fentanyl-trade-war/",
+          "ozet": "美国东部时间9月23日下午，习近平乘专机抵达华盛顿附近的安德鲁斯联合基地。特朗普与夫人梅拉尼娅在机场迎接习近平夫妇。中方公布的消息显示，现场铺设红毯，鸣放21响礼炮，军乐团演奏中美两国国歌。",
+          "yayin_tarihi": "Thu, 24 Sep 2026 06:07:43 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "北京拟促美书面承诺长期恪守“一中政策”",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "德国资深记者周劲恒（Jürgen Kremb）台北时间周一（14日）发表了一份针对中国情报机关的研究报告，其中推估潜伏在台湾的中共间谍人数达到五万至十万人。这个数字远高于台湾官方或者相关专家此前发表或推估的数字。",
           "yayin_tarihi": "Tue, 15 Sep 2026 12:14:28 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "“保护卫士”报告披露CGTN内部新闻审查",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/09/10/china-safeguard-defenders-televised-confessions-censorship-cgtn/",
-          "ozet": "总部设在欧洲的人权组织“保护卫士”发布调查报告，8名前中国环球电视网（CGTN）员工披露该台新闻制作、选题及内容审查的内部运作。",
-          "yayin_tarihi": "Thu, 10 Sep 2026 06:45:02 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-23T11:12:54.670667"
+      "taranma_zamani": "2026-09-24T11:28:44.754409"
     }
   }
 }
