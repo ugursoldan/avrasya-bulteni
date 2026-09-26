@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-09-25",
-  "olusturma_zamani": "2026-09-25T11:34:26.106503",
+  "olusturma_tarihi": "2026-09-26",
+  "olusturma_zamani": "2026-09-26T11:08:40.048250",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "TEKNOFEST Güneydoğu'da 1 milyondan fazla ziyaretçi bekleniyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/teknofest-guneydoguda-1-milyondan-fazla-ziyaretci-bekleniyor-958201.html",
+          "ozet": "Şanlıurfa, bugüne kadar düzenlenen en kapsamlı organizasyonlardan biri olan TEKNOFEST Güneydoğu’ya ev sahipliği yapmaya hazırlanıyor. 30 Eylül’de kapılarını ziyaretçilere açacak olan festival için GAP Havalimanı’nda hummalı çalışmalar sürerken, 5 gün sürecek etkinliğe 1 milyondan fazla ziyaretçinin katılması bekleniyor.",
+          "yayin_tarihi": "Sat, 26 Sep 2026 10:20:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "ABD ve Çin arasındaki yapay zeka yarışı: Kim önde?",
           "kaynak": "www.trthaber.com",
@@ -36,35 +44,27 @@
           "ozet": "Birleşmiş Milletler Genel Kurulu için ABD'ye seyahat etmesi beklenen İsrail'in soykırımcı Başbakanı Netanyahu, protesto ve tutuklanma korkusu nedeniyle ziyaretini günübirlik tutacak. Netanyahu'nun Avrupa ülkelerinin hava sahasını kullanmaktan kaçınarak güneydeki daha uzun rotayı tercih etmesi ve New York yerine New Jersey'e inmesi bekleniyor.",
           "yayin_tarihi": "Wed, 23 Sep 2026 06:41:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "AB ülkeleri Rusya yaptırımlarını 3 yıl uzatıyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/ab-ulkeleri-rusya-yaptirimlarini-3-yil-uzatiyor-957710.html",
-          "ozet": "Avrupa Birliği (AB) ülkeleri, iş insanları Alişer Usmanov ile Mihail Fridman’ın yaptırım listesinden çıkarılması, 3 binden fazla kişi ve kuruluşa yönelik kısıtlayıcı tedbirlerin ise 36 ay uzatılmasında anlaştı.",
-          "yayin_tarihi": "Tue, 22 Sep 2026 18:53:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-25T11:34:26.106239"
+      "taranma_zamani": "2026-09-26T11:08:40.048073"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html",
+          "ozet": "Canada’s prime minister is pursuing deeper trade, defense and cultural ties with China, India and the European Union, but none are likely to replace ties to the United States.",
+          "yayin_tarihi": "Fri, 25 Sep 2026 21:36:39 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "Russian Attacks Destroy Millions of Books, the Heart of Ukrainian Culture",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/09/25/world/europe/russia-ukraine-books-attacks.html",
           "ozet": "A publisher whose warehouse was hit twice said Moscow “thinks that books are more dangerous for them than military equipment.”",
           "yayin_tarihi": "Fri, 25 Sep 2026 09:01:18 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Stuck on the Battlefield, Russia Wages ‘Total War’ on Ukraine’s Economy",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/25/world/europe/ukraine-russia-economy.html",
-          "ozet": "The economic damage from Russian strikes, resulting in lost sales, disrupted workdays and logistical snarls, is in the billions of dollars.",
-          "yayin_tarihi": "Fri, 25 Sep 2026 09:02:55 +0000",
           "dil": "İngilizce"
         },
         {
@@ -76,84 +76,92 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "France to Send Soldiers to Saudi Arabia to Help Secure Energy Sites",
+          "baslik": "Stuck on the Battlefield, Russia Wages ‘Total War’ on Ukraine’s Economy",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/24/world/middleeast/france-saudi-arabia-red-sea-yemen-houthis.html",
-          "ozet": "Attacks on Saudi cities on the Red Sea by the Iran-backed Houthi militia in Yemen have added to pressure on global oil supplies.",
-          "yayin_tarihi": "Fri, 25 Sep 2026 02:59:36 +0000",
+          "url": "https://www.nytimes.com/2026/09/25/world/europe/ukraine-russia-economy.html",
+          "ozet": "The economic damage from Russian strikes, resulting in lost sales, disrupted workdays and logistical snarls, is in the billions of dollars.",
+          "yayin_tarihi": "Fri, 25 Sep 2026 09:02:55 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iran Proposes 7-Day Plan to End War",
+          "baslik": "Russian Attacks Destroy Ukrainian Books",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/24/world/middleeast/iran-proposal.html",
-          "ozet": "Under the offer, the Strait of Hormuz would reopen and nuclear talks would be revived.",
-          "yayin_tarihi": "Fri, 25 Sep 2026 05:27:17 +0000",
+          "url": "https://www.nytimes.com/video/world/europe/100000011148419/russian-attacks-destroy-ukrainian-books.html",
+          "ozet": "Our reporter Kim Barker goes inside a storied Kyiv book market that was hit by an air strike. Russian attacks have damaged millions of books in Ukraine in the last few months.",
+          "yayin_tarihi": "Fri, 25 Sep 2026 09:01:27 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-25T11:34:26.106259"
+      "taranma_zamani": "2026-09-26T11:08:40.048092"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Over 18 fraud cases involving deepfakes reported in Russia since 2025 — Interior Ministry",
+          "baslik": "Ukrainian troops encircled in Kharkov Region lose over 50 soldiers",
           "kaynak": "tass.com",
-          "url": "https://tass.com/society/2192773",
-          "ozet": "Sergey Kalinin pointed out that it is common for scammers to use generative models to create believable audiovisual content",
-          "yayin_tarihi": "Fri, 25 Sep 2026 14:32:57 +0300",
+          "url": "https://tass.com/defense/2193281",
+          "ozet": "\"The Ukrainian army’s also losses an armored combat vehicle, two cars, an ATV, and a multiple rocket system launcher, the Russian Defense Ministry reported",
+          "yayin_tarihi": "Sat, 26 Sep 2026 13:53:29 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ukraine expects to receive $29.5 bln from West by year-end",
+          "baslik": "Leaders of China, US agree to provide mutual support for hosting APEC, G20 summits",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2192771",
-          "ozet": "Ukrainian Finance Minister Sergey Marchenko believes the funds should help prevent a budget shortfall",
-          "yayin_tarihi": "Fri, 25 Sep 2026 14:26:43 +0300",
+          "url": "https://tass.com/world/2193269",
+          "ozet": "Еhe heads of state expressed their intention to participate in the events organized by the other side, Xinhua news agency reported",
+          "yayin_tarihi": "Sat, 26 Sep 2026 13:16:38 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia prepares visa deals with Asian countries, senior diplomat says",
+          "baslik": "Trump advocates for trilateral arms control talks between US, Russia, China",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2192763",
-          "ozet": "\"Facilitating mutual travel by citizens is one of the priorities of the Russian Foreign Ministry,\" Andrey Rudenko said",
-          "yayin_tarihi": "Fri, 25 Sep 2026 14:18:09 +0300",
+          "url": "https://tass.com/world/2193241",
+          "ozet": "US leader and Chinese President Xi Jinping also discussed \"on-going global concerns,\" including those concerning Russia, North Korea, and Iran",
+          "yayin_tarihi": "Sat, 26 Sep 2026 11:20:34 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Bank of Russia to additionally capitalize domestic reinsurer if required",
+          "baslik": "Euractiv columnist questions need for extra funding for Ukraine",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2192765",
-          "ozet": "Risks covered by the RNRC are exceptionally high, First Deputy Governor of the Central Bank Vladimir Chistyukhin noted",
-          "yayin_tarihi": "Fri, 25 Sep 2026 14:18:06 +0300",
+          "url": "https://tass.com/economy/2193239",
+          "ozet": "Claims were already made earlier this year that Ukraine would run out of money in April, yet this did not happen, Thomas Moller-Nielsen said",
+          "yayin_tarihi": "Sat, 26 Sep 2026 11:18:55 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Coming winter in Europe to remind of implications of rejecting Russian energy",
+          "baslik": "Air defenses down 645 drones over Russian regions, Black Sea, Sea of Azov overnight",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2192751",
-          "ozet": "EU energy chief Dan Jorgensen said earlier that the European Union could face its worst winter since 2022 amid record high energy prices and potential supply disruptions from the US",
-          "yayin_tarihi": "Fri, 25 Sep 2026 13:55:13 +0300",
+          "url": "https://tass.com/defense/2193231",
+          "ozet": "Ukrainian fixed-wing unmanned aerial vehicles were destroyed over the territories of the Astrakhan, Belgorod, Bryansk, Voronezh, Kaluga, Kursk, Oryol, Rostov, Ryazan, Tula, Moscow, Krasnodar, Stavropol Regions, the Republic of Crimea",
+          "yayin_tarihi": "Sat, 26 Sep 2026 09:13:00 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-25T11:34:26.106470"
+      "taranma_zamani": "2026-09-26T11:08:40.048119"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-25T11:34:26.106473"
+      "taranma_zamani": "2026-09-26T11:08:40.048121"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
         {
-          "baslik": "（不断更新）习近平访美近尾声　特习会谈了什么？",
+          "baslik": "习近平访美结束　特习会谈了什么？",
           "kaynak": "www.rfa.org",
           "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/09/25/china-us-relations-xi-jinping-trump-rare-earths-taiwan-issue-tariffs/",
           "ozet": "中国国家主席习近平结束为期三天的访美行程。他与美国总统特朗普在白宫举行的会谈，是此次行程的重头戏。特朗普会后称两人谈得“很棒”，但没有回答记者有关台湾、人工智能等问题的提问。中国外交部称，双方经贸团队达成新的联合安排。",
-          "yayin_tarihi": "Fri, 25 Sep 2026 06:53:28 +0000",
+          "yayin_tarihi": "Fri, 25 Sep 2026 17:25:00 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "中国记者抢拍摄位 扬言「要不谁也别拍」",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/09/25/xijinpin-us-visit-photographer/",
+          "ozet": "美中元首高峰会场边传出推挤冲突，少数中国记者希望抢到好的拍摄位置，与美国特勤及白宫接待人员发生争执。抢位置的中国记者扬言，如果不给他指定的位置，「要不就谁也别拍」。",
+          "yayin_tarihi": "Fri, 25 Sep 2026 13:29:02 +0000",
           "dil": "Çince"
         },
         {
@@ -179,17 +187,9 @@
           "ozet": "美国东部时间9月23日下午，习近平乘专机抵达华盛顿附近的安德鲁斯联合基地。特朗普与夫人梅拉尼娅在机场迎接习近平夫妇。中方公布的消息显示，现场铺设红毯，鸣放21响礼炮，军乐团演奏中美两国国歌。",
           "yayin_tarihi": "Thu, 24 Sep 2026 06:07:43 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "北京拟促美书面承诺长期恪守“一中政策”",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/09/23/china-us-relations-xi-jinping-trump-taiwan-issue-arms-sales-to-taiwan/",
-          "ozet": "习近平预计于美国东部时间9月24日与特朗普会晤。消息人士称，中方要求美方停止对台军售是近年来中美元首会晤的“常规议题”。此次会谈，中方将要求美方以书面形式承诺“长期恪守”一个中国政策。",
-          "yayin_tarihi": "Wed, 23 Sep 2026 06:48:11 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-25T11:34:26.106479"
+      "taranma_zamani": "2026-09-26T11:08:40.048126"
     }
   }
 }
