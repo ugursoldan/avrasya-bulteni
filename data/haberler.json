@@ -1,10 +1,34 @@
 {
-  "olusturma_tarihi": "2026-09-26",
-  "olusturma_zamani": "2026-09-26T11:08:40.048250",
+  "olusturma_tarihi": "2026-09-27",
+  "olusturma_zamani": "2026-09-27T11:47:06.564557",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "TEKNOFEST Güneydoğu için geri sayım başladı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/teknofest-guneydogu-icin-geri-sayim-basladi-958276.html",
+          "ozet": "Şanlıurfa, bugüne kadar düzenlenen en kapsamlı organizasyonlardan biri olan TEKNOFEST Güneydoğu’ya ev sahipliği yapmaya hazırlanıyor. 30 Eylül’de kapılarını ziyaretçilere açacak olan festival için GAP Havalimanı’nda hummalı çalışmalar sürerken, 5 gün sürecek etkinliğe 1 milyondan fazla ziyaretçinin katılması bekleniyor.",
+          "yayin_tarihi": "Sun, 27 Sep 2026 07:35:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Sıfır Atık hareketi 9. yılını kutluyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/sifir-atik-hareketi-9-yilini-kutluyor-958272.html",
+          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan'ın himayelerinde, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı koordinesinde yürütülen Sıfır Atık hareketinin 9. yılı, \"0'dan COP31'e Dünya için Hep Birlikte\" temasıyla kutlanıyor.",
+          "yayin_tarihi": "Sun, 27 Sep 2026 00:16:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Bakan Gürlek: Vatandaşımızın birikimini korumak için mücadelemiz sürecek",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/bakan-gurlek-vatandasimizin-birikimini-korumak-icin-mucadelemiz-surecek-958241.html",
+          "ozet": "Adalet Bakanı Akın Gürlek, fon soruşturmasına ilişkin, \"Amacımız açıktır; soruşturma konusu malvarlığı değerlerinin kaçırılmasına, el değiştirmesine veya üçüncü kişiler üzerine geçirilmesine imkan vermemek; suçtan elde edildiği tespit edilen değerleri güvence altına almak ve mağdur vatandaşlarımızın haklarına kavuşmasını sağlamaktır\" dedi.",
+          "yayin_tarihi": "Sat, 26 Sep 2026 17:45:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "TEKNOFEST Güneydoğu'da 1 milyondan fazla ziyaretçi bekleniyor",
           "kaynak": "www.trthaber.com",
@@ -20,43 +44,35 @@
           "ozet": "Amerika Birleşik Devletleri finansal güç ve donanımda açık ara liderliğini korurken, Çin araştırma hacmi ve gelişmiş modelleriyle aradaki farkı hızla kapatıyor. İki süper güç arasındaki bu stratejik rekabet, küresel teknolojinin geleceğini şekillendiriyor.",
           "yayin_tarihi": "Thu, 24 Sep 2026 17:42:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Fon yatırımcılarının hakları için toplantı yapılacak",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/ekonomi/fon-yatirimcilarinin-haklari-icin-toplanti-yapilacak-957935.html",
-          "ozet": "Hazine ve Maliye Bakanı Şimşek başkanlığında, 131 fonun tasfiyesi ve ödeme süreçleri için toplantı yapılacak, yatırımcıların hak ve menfaatlerinin korunması öncelikli konu olacak.",
-          "yayin_tarihi": "Thu, 24 Sep 2026 08:56:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "OpenAI Avustralya hükümetinin web sitesini hackledi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/openai-avustralya-hukumetinin-web-sitesini-hackledi-957919.html",
-          "ozet": "Avustralya Başbakanı Anthony Albanese, OpenAI tarafından geliştirilen bir yapay zeka ajanının haziran ayında ülkenin kamu sağlık sistemi Medicare portalına sızdığını duyurdu. Albanese, şirketin durumu aylar sonra genel bir e-posta adresine bildirim atarak açıkladığını söyledi.",
-          "yayin_tarihi": "Thu, 24 Sep 2026 06:39:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Katil Netanyahu'nun korku dolu ABD ziyareti başlıyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/katil-netanyahunun-korku-dolu-abd-ziyareti-basliyor-957758.html",
-          "ozet": "Birleşmiş Milletler Genel Kurulu için ABD'ye seyahat etmesi beklenen İsrail'in soykırımcı Başbakanı Netanyahu, protesto ve tutuklanma korkusu nedeniyle ziyaretini günübirlik tutacak. Netanyahu'nun Avrupa ülkelerinin hava sahasını kullanmaktan kaçınarak güneydeki daha uzun rotayı tercih etmesi ve New York yerine New Jersey'e inmesi bekleniyor.",
-          "yayin_tarihi": "Wed, 23 Sep 2026 06:41:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-26T11:08:40.048073"
+      "taranma_zamani": "2026-09-27T11:47:06.564505"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html",
+          "ozet": "In China, A.I. doomsday warnings can feel distinctly Western or like a ploy to stop Chinese A.I. companies from trying to overtake their U.S. rivals.",
+          "yayin_tarihi": "Sun, 27 Sep 2026 04:01:24 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Russian Foreign Minister Vows Russia Will See Ukraine War Through",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/26/world/europe/russia-germany-lavrov-ukraine-war.html",
+          "ozet": "Russia’s foreign minister met with his German counterpart during the U.N. General Assembly but spent part of his address defending his country’s war on Ukraine.",
+          "yayin_tarihi": "Sun, 27 Sep 2026 00:49:11 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html",
           "ozet": "Canada’s prime minister is pursuing deeper trade, defense and cultural ties with China, India and the European Union, but none are likely to replace ties to the United States.",
-          "yayin_tarihi": "Fri, 25 Sep 2026 21:36:39 +0000",
+          "yayin_tarihi": "Sat, 26 Sep 2026 23:41:22 +0000",
           "dil": "İngilizce"
         },
         {
@@ -68,82 +84,66 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "A Russian Software Company Duped the Secret Service, U.S. Prosecutors Say",
+          "baslik": "Trump Rejects Iran’s Cease-Fire Proposal to Reopen Strait of Hormuz",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/25/world/europe/russia-software-arrest.html",
-          "ozet": "Executives from a Russian-owned company are accused of misrepresentation in order to secure U.S. government contracts.",
-          "yayin_tarihi": "Fri, 25 Sep 2026 09:03:23 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Stuck on the Battlefield, Russia Wages ‘Total War’ on Ukraine’s Economy",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/25/world/europe/ukraine-russia-economy.html",
-          "ozet": "The economic damage from Russian strikes, resulting in lost sales, disrupted workdays and logistical snarls, is in the billions of dollars.",
-          "yayin_tarihi": "Fri, 25 Sep 2026 09:02:55 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Russian Attacks Destroy Ukrainian Books",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/video/world/europe/100000011148419/russian-attacks-destroy-ukrainian-books.html",
-          "ozet": "Our reporter Kim Barker goes inside a storied Kyiv book market that was hit by an air strike. Russian attacks have damaged millions of books in Ukraine in the last few months.",
-          "yayin_tarihi": "Fri, 25 Sep 2026 09:01:27 +0000",
+          "url": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html",
+          "ozet": "The president said the deal was not “acceptable” and demurred on whether he would restart military strikes after the midterm elections.",
+          "yayin_tarihi": "Sat, 26 Sep 2026 21:02:42 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-26T11:08:40.048092"
+      "taranma_zamani": "2026-09-27T11:47:06.564517"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Ukrainian troops encircled in Kharkov Region lose over 50 soldiers",
+          "baslik": "CSTO military drills kick off in Russia - top brass",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2193281",
-          "ozet": "\"The Ukrainian army’s also losses an armored combat vehicle, two cars, an ATV, and a multiple rocket system launcher, the Russian Defense Ministry reported",
-          "yayin_tarihi": "Sat, 26 Sep 2026 13:53:29 +0300",
+          "url": "https://tass.com/defense/2193607",
+          "ozet": "The opening ceremony was attended by CSTO Joint Staff Chief and Hero of Russia Colonel General Andrey Serdyukov, CSTO Deputy Secretary General Mirlan Turgunbekov, commanders of military contingents, and invited officials",
+          "yayin_tarihi": "Sun, 27 Sep 2026 13:47:43 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Leaders of China, US agree to provide mutual support for hosting APEC, G20 summits",
+          "baslik": "IN BRIEF: What we know about Russian special military operation’s course over day",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2193269",
-          "ozet": "Еhe heads of state expressed their intention to participate in the events organized by the other side, Xinhua news agency reported",
-          "yayin_tarihi": "Sat, 26 Sep 2026 13:16:38 +0300",
+          "url": "https://tass.com/defense/2193605",
+          "ozet": "The Russian Armed Forces eliminated approximately 1 515 troops over the past 24 hours",
+          "yayin_tarihi": "Sun, 27 Sep 2026 13:14:55 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Trump advocates for trilateral arms control talks between US, Russia, China",
+          "baslik": "China sends two pandas to zoo in American Atlanta - TV",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2193241",
-          "ozet": "US leader and Chinese President Xi Jinping also discussed \"on-going global concerns,\" including those concerning Russia, North Korea, and Iran",
-          "yayin_tarihi": "Sat, 26 Sep 2026 11:20:34 +0300",
+          "url": "https://tass.com/world/2193567",
+          "ozet": "A farewell ceremony was held for them at the Chengdu Research Base of Giant Panda Breeding",
+          "yayin_tarihi": "Sun, 27 Sep 2026 11:21:26 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Euractiv columnist questions need for extra funding for Ukraine",
+          "baslik": "Russian forces hit Vodafone data center in Kiev — top brass",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2193239",
-          "ozet": "Claims were already made earlier this year that Ukraine would run out of money in April, yet this did not happen, Thomas Moller-Nielsen said",
-          "yayin_tarihi": "Sat, 26 Sep 2026 11:18:55 +0300",
+          "url": "https://tass.com/defense/2193565",
+          "ozet": "It is one of the largest providers of telecommunications and internet services to the Ukrainian military",
+          "yayin_tarihi": "Sun, 27 Sep 2026 10:25:02 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Air defenses down 645 drones over Russian regions, Black Sea, Sea of Azov overnight",
+          "baslik": "Vatican envoy heads to Russia to discuss humanitarian aspects of Ukrainian settlement",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2193231",
-          "ozet": "Ukrainian fixed-wing unmanned aerial vehicles were destroyed over the territories of the Astrakhan, Belgorod, Bryansk, Voronezh, Kaluga, Kursk, Oryol, Rostov, Ryazan, Tula, Moscow, Krasnodar, Stavropol Regions, the Republic of Crimea",
-          "yayin_tarihi": "Sat, 26 Sep 2026 09:13:00 +0300",
+          "url": "https://tass.com/world/2193529",
+          "ozet": "On September 28-30, cardinal Matteo Zuppi will hold a series of meetings in the Russian capital to discuss ways to resolve humanitarian issues",
+          "yayin_tarihi": "Sun, 27 Sep 2026 08:36:51 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-26T11:08:40.048119"
+      "taranma_zamani": "2026-09-27T11:47:06.564533"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-26T11:08:40.048121"
+      "taranma_zamani": "2026-09-27T11:47:06.564534"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-26T11:08:40.048126"
+      "taranma_zamani": "2026-09-27T11:47:06.564539"
     }
   }
 }
