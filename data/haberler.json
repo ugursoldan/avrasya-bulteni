@@ -1,24 +1,32 @@
 {
-  "olusturma_tarihi": "2026-09-27",
-  "olusturma_zamani": "2026-09-27T11:47:06.564557",
+  "olusturma_tarihi": "2026-09-28",
+  "olusturma_zamani": "2026-09-28T13:28:25.231107",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Fon soruşturmasında 45 firma ve 19 fon için uygulanan mal varlığı tedbirleri kaldırıldı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-45-firma-ve-19-fon-icin-uygulanan-mal-varligi-tedbirleri-kaldirildi-958336.html",
+          "ozet": "Fon soruşturması kapsamında 106 kişi ve kuruluş için mal varlığı tedbiri kararı alındı. Savcılık 46 şirket, 18 fon ve 42 kişi için bankalara ve ilgili kurumlara yazı gönderdi. Sermaye Piyasası Kurulu'nun yaptığı değerlendirme üzerine başsavcılık, 45 firma ve 19 fon için tedbir kararını kaldırdı.",
+          "yayin_tarihi": "Sun, 27 Sep 2026 23:26:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Sonbahar kendini gösteriyor: Yağış ve serin hava geliyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/sonbahar-kendini-gosteriyor-yagis-ve-serin-hava-geliyor-958312.html",
+          "ozet": "Yeni haftada yurt genelinde sağanak etkili olacak. Yarın 24 il için sarı kodlu uyarı yapıldı. Yağışlar özellikle Marmara'nın doğusu ile Karadeniz bölgesinde pazartesi, salı ve çarşamba günü yer yer kuvvetli görülecek. Sıcaklıklar yağışla birlikte azalacak.",
+          "yayin_tarihi": "Sun, 27 Sep 2026 17:31:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "TEKNOFEST Güneydoğu için geri sayım başladı",
           "kaynak": "www.trthaber.com",
           "url": "https://www.trthaber.com/haber/gundem/teknofest-guneydogu-icin-geri-sayim-basladi-958276.html",
           "ozet": "Şanlıurfa, bugüne kadar düzenlenen en kapsamlı organizasyonlardan biri olan TEKNOFEST Güneydoğu’ya ev sahipliği yapmaya hazırlanıyor. 30 Eylül’de kapılarını ziyaretçilere açacak olan festival için GAP Havalimanı’nda hummalı çalışmalar sürerken, 5 gün sürecek etkinliğe 1 milyondan fazla ziyaretçinin katılması bekleniyor.",
           "yayin_tarihi": "Sun, 27 Sep 2026 07:35:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Sıfır Atık hareketi 9. yılını kutluyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/sifir-atik-hareketi-9-yilini-kutluyor-958272.html",
-          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan'ın himayelerinde, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı koordinesinde yürütülen Sıfır Atık hareketinin 9. yılı, \"0'dan COP31'e Dünya için Hep Birlikte\" temasıyla kutlanıyor.",
-          "yayin_tarihi": "Sun, 27 Sep 2026 00:16:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -36,118 +44,118 @@
           "ozet": "Şanlıurfa, bugüne kadar düzenlenen en kapsamlı organizasyonlardan biri olan TEKNOFEST Güneydoğu’ya ev sahipliği yapmaya hazırlanıyor. 30 Eylül’de kapılarını ziyaretçilere açacak olan festival için GAP Havalimanı’nda hummalı çalışmalar sürerken, 5 gün sürecek etkinliğe 1 milyondan fazla ziyaretçinin katılması bekleniyor.",
           "yayin_tarihi": "Sat, 26 Sep 2026 10:20:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "ABD ve Çin arasındaki yapay zeka yarışı: Kim önde?",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/abd-ve-cin-arasindaki-yapay-zeka-yarisi-kim-onde-958026.html",
-          "ozet": "Amerika Birleşik Devletleri finansal güç ve donanımda açık ara liderliğini korurken, Çin araştırma hacmi ve gelişmiş modelleriyle aradaki farkı hızla kapatıyor. İki süper güç arasındaki bu stratejik rekabet, küresel teknolojinin geleceğini şekillendiriyor.",
-          "yayin_tarihi": "Thu, 24 Sep 2026 17:42:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-27T11:47:06.564505"
+      "taranma_zamani": "2026-09-28T13:28:25.230926"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "Their Sons Are Dying on Battlefields in Ukraine. They Still Back Russia’s War.",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/28/world/europe/ukraine-russia-war-soldiers-deaths-north-ossetia.html",
+          "ozet": "The Russian region of North Ossetia has suffered a heavy toll, yet many accept the Kremlin’s line that the fighting must continue until victory is secured.",
+          "yayin_tarihi": "Mon, 28 Sep 2026 12:05:38 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Possible Terrorist Plot at R.A.F. Fairford Air Base in U.K.: What We Know",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html",
+          "ozet": "Five British men were arrested as they approached R.A.F. Fairford, a base used by the United States in its war against Iran. The men are being held on suspicion of terrorism.",
+          "yayin_tarihi": "Mon, 28 Sep 2026 13:24:01 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Iran Still Awaits ‘Official’ U.S. Response Despite Trump’s Rebuff of Cease-Fire Offer",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html",
+          "ozet": "Abbas Araghchi, Iran’s foreign minister, said a history of contradictory messaging meant that President Trump’s rejection might not be a final position.",
+          "yayin_tarihi": "Sun, 27 Sep 2026 21:36:22 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html",
           "ozet": "In China, A.I. doomsday warnings can feel distinctly Western or like a ploy to stop Chinese A.I. companies from trying to overtake their U.S. rivals.",
-          "yayin_tarihi": "Sun, 27 Sep 2026 04:01:24 +0000",
+          "yayin_tarihi": "Mon, 28 Sep 2026 01:26:28 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Russian Foreign Minister Vows Russia Will See Ukraine War Through",
+          "baslik": "Why China Is Requiring Ninth Graders to Read ‘Jane Eyre’",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/26/world/europe/russia-germany-lavrov-ukraine-war.html",
-          "ozet": "Russia’s foreign minister met with his German counterpart during the U.N. General Assembly but spent part of his address defending his country’s war on Ukraine.",
-          "yayin_tarihi": "Sun, 27 Sep 2026 00:49:11 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html",
-          "ozet": "Canada’s prime minister is pursuing deeper trade, defense and cultural ties with China, India and the European Union, but none are likely to replace ties to the United States.",
-          "yayin_tarihi": "Sat, 26 Sep 2026 23:41:22 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Russian Attacks Destroy Millions of Books, the Heart of Ukrainian Culture",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/25/world/europe/russia-ukraine-books-attacks.html",
-          "ozet": "A publisher whose warehouse was hit twice said Moscow “thinks that books are more dangerous for them than military equipment.”",
-          "yayin_tarihi": "Fri, 25 Sep 2026 09:01:18 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Trump Rejects Iran’s Cease-Fire Proposal to Reopen Strait of Hormuz",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html",
-          "ozet": "The president said the deal was not “acceptable” and demurred on whether he would restart military strikes after the midterm elections.",
-          "yayin_tarihi": "Sat, 26 Sep 2026 21:02:42 +0000",
+          "url": "https://www.nytimes.com/2026/09/28/world/asia/china-jane-eyre-required-reading-literature.html",
+          "ozet": "The Victorian heroine has long been celebrated in China for her independence and insistence on equality.",
+          "yayin_tarihi": "Mon, 28 Sep 2026 05:58:32 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-27T11:47:06.564517"
+      "taranma_zamani": "2026-09-28T13:28:25.230943"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "CSTO military drills kick off in Russia - top brass",
+          "baslik": "Russia’s exports of radio-electronic products nearly reach $2.9 bln in 1H — minister",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2193607",
-          "ozet": "The opening ceremony was attended by CSTO Joint Staff Chief and Hero of Russia Colonel General Andrey Serdyukov, CSTO Deputy Secretary General Mirlan Turgunbekov, commanders of military contingents, and invited officials",
-          "yayin_tarihi": "Sun, 27 Sep 2026 13:47:43 +0300",
+          "url": "https://tass.com/economy/2193975",
+          "ozet": "It is more than half of the exports for the entire year of 2025, Anton Alikhanov said",
+          "yayin_tarihi": "Mon, 28 Sep 2026 16:26:21 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "IN BRIEF: What we know about Russian special military operation’s course over day",
+          "baslik": "China builds up its defense capabilities based on its interests — diplomat",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2193605",
-          "ozet": "The Russian Armed Forces eliminated approximately 1 515 troops over the past 24 hours",
-          "yayin_tarihi": "Sun, 27 Sep 2026 13:14:55 +0300",
+          "url": "https://tass.com/world/2193969",
+          "ozet": "Chinese foreign ministry spokesman Guo Jiakun commented on reports that US President Donald Trump has recently asked his Chinese counterpart, Xi Jinping, if Beijing could buy weapons from the United States",
+          "yayin_tarihi": "Mon, 28 Sep 2026 16:22:42 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "China sends two pandas to zoo in American Atlanta - TV",
+          "baslik": "Germany’s current leadership lacks sound judgment — Russian diplomat",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2193567",
-          "ozet": "A farewell ceremony was held for them at the Chengdu Research Base of Giant Panda Breeding",
-          "yayin_tarihi": "Sun, 27 Sep 2026 11:21:26 +0300",
+          "url": "https://tass.com/politics/2193971",
+          "ozet": "According to Russian Deputy Foreign Minister Dmitry Lyubinsky, the systemic problem facing modern Europe lies in the obvious degradation of its political class",
+          "yayin_tarihi": "Mon, 28 Sep 2026 16:17:32 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian forces hit Vodafone data center in Kiev — top brass",
+          "baslik": "Share of Russian chips, components in microelectronics to reach 48% by 2030",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2193565",
-          "ozet": "It is one of the largest providers of telecommunications and internet services to the Ukrainian military",
-          "yayin_tarihi": "Sun, 27 Sep 2026 10:25:02 +0300",
+          "url": "https://tass.com/economy/2193965",
+          "ozet": "\"Speaking about microelectronics, specifically about chips and components themselves, the share of Russian products currently is around 26%,\" Anton Alikhanov said",
+          "yayin_tarihi": "Mon, 28 Sep 2026 16:15:16 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Vatican envoy heads to Russia to discuss humanitarian aspects of Ukrainian settlement",
+          "baslik": "Kallas calls on EU countries to send Patriot missiles to Kiev, vows new supplies",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2193529",
-          "ozet": "On September 28-30, cardinal Matteo Zuppi will hold a series of meetings in the Russian capital to discuss ways to resolve humanitarian issues",
-          "yayin_tarihi": "Sun, 27 Sep 2026 08:36:51 +0300",
+          "url": "https://tass.com/world/2193963",
+          "ozet": "The EU's top diplomat said upon arriving at a meeting of EU defense ministers that Ukraine is in urgent need of air defense",
+          "yayin_tarihi": "Mon, 28 Sep 2026 16:13:37 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-27T11:47:06.564533"
+      "taranma_zamani": "2026-09-28T13:28:25.230970"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-27T11:47:06.564534"
+      "taranma_zamani": "2026-09-28T13:28:25.230972"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "潘石屹旧视频突现网络　回国与政治立场引热议",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shehui/2026/09/28/china-pan-shiyi-ren-zhiqiang-soho-china-leaked-video/",
+          "ozet": "一段潘石屹在饭局上讲话的视频，近日在海内外社交平台流传。潘石屹是SOHO中国创始人，近年来长期居住美国。他在视频中说，好友任志强曾把一篇疑似讽刺习近平的文章发给11个人，自己是第一个收件人，“其他的几个人”后来被抓。",
+          "yayin_tarihi": "Mon, 28 Sep 2026 08:23:28 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "习近平访美结束　特习会谈了什么？",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "美国总统特朗普与中国国家主席习近平9月24日在白宫举行会晤。在元首会面前，美中官员先期讨论了建立AI沟通机制 ；与此同时，也传出美国和日本先就中国限制稀土元素钇的供应问题进行了磋商。",
           "yayin_tarihi": "Thu, 24 Sep 2026 17:24:08 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "特朗普机场亲迎习近平　贸易休战延长、伊朗议题入列",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/09/24/china-us-relations-xi-jinping-trump-fentanyl-trade-war/",
-          "ozet": "美国东部时间9月23日下午，习近平乘专机抵达华盛顿附近的安德鲁斯联合基地。特朗普与夫人梅拉尼娅在机场迎接习近平夫妇。中方公布的消息显示，现场铺设红毯，鸣放21响礼炮，军乐团演奏中美两国国歌。",
-          "yayin_tarihi": "Thu, 24 Sep 2026 06:07:43 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-27T11:47:06.564539"
+      "taranma_zamani": "2026-09-28T13:28:25.230977"
     }
   }
 }
