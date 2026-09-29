@@ -1,6 +1,6 @@
 {
-  "olusturma_tarihi": "2026-09-28",
-  "olusturma_zamani": "2026-09-28T13:28:25.231107",
+  "olusturma_tarihi": "2026-09-29",
+  "olusturma_zamani": "2026-09-29T12:31:38.017317",
   "diller": {
     "tr": {
       "dil": "Türkçe",
@@ -46,108 +46,116 @@
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-28T13:28:25.230926"
+      "taranma_zamani": "2026-09-29T12:31:38.017105"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Their Sons Are Dying on Battlefields in Ukraine. They Still Back Russia’s War.",
+          "baslik": "Bomb by Bomb, the Slow Death of My Hometown in Ukraine",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/28/world/europe/ukraine-russia-war-soldiers-deaths-north-ossetia.html",
-          "ozet": "The Russian region of North Ossetia has suffered a heavy toll, yet many accept the Kremlin’s line that the fighting must continue until victory is secured.",
-          "yayin_tarihi": "Mon, 28 Sep 2026 12:05:38 +0000",
+          "url": "https://www.nytimes.com/2026/09/29/world/europe/ukraine-kramatorsk.html",
+          "ozet": "It was possible, for a time, to think that Kramatorsk, where I was born and raised, would survive the war mostly unscathed. Not any more.",
+          "yayin_tarihi": "Tue, 29 Sep 2026 09:01:15 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Possible Terrorist Plot at R.A.F. Fairford Air Base in U.K.: What We Know",
+          "baslik": "The Rescuers Keeping Two Ukrainian ‘Fortress Cities’ Alive",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html",
-          "ozet": "Five British men were arrested as they approached R.A.F. Fairford, a base used by the United States in its war against Iran. The men are being held on suspicion of terrorism.",
-          "yayin_tarihi": "Mon, 28 Sep 2026 13:24:01 +0000",
+          "url": "https://www.nytimes.com/2026/09/29/world/europe/ukraine-donbas-emergency-workers.html",
+          "ozet": "Emergency workers have to move fast after Russian attacks in eastern Ukraine. Another could come at any moment.",
+          "yayin_tarihi": "Tue, 29 Sep 2026 11:36:49 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iran Still Awaits ‘Official’ U.S. Response Despite Trump’s Rebuff of Cease-Fire Offer",
+          "baslik": "Rubio Says Incident at UK Air Base RAF Fairford ‘Clearly Involved’ a Foreign Actor",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html",
-          "ozet": "Abbas Araghchi, Iran’s foreign minister, said a history of contradictory messaging meant that President Trump’s rejection might not be a final position.",
-          "yayin_tarihi": "Sun, 27 Sep 2026 21:36:22 +0000",
+          "url": "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html",
+          "ozet": "The U.S. secretary of state, Marco Rubio, told Fox News that what happened at a base used by U.S. bombers flying to Iran was “very serious,” without providing details.",
+          "yayin_tarihi": "Tue, 29 Sep 2026 10:44:22 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
+          "baslik": "UK Villages Around RAF Fairford Are Abuzz Over Possible Terrorist Plot",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html",
-          "ozet": "In China, A.I. doomsday warnings can feel distinctly Western or like a ploy to stop Chinese A.I. companies from trying to overtake their U.S. rivals.",
-          "yayin_tarihi": "Mon, 28 Sep 2026 01:26:28 +0000",
+          "url": "https://www.nytimes.com/2026/09/28/world/europe/uk-fairford-base-terrorist-plot.html",
+          "ozet": "The quiet rural area around R.A.F. Fairford, where U.S. bombers fly to Iran, was thrust into the spotlight after the authorities said they were investigating a possible terrorist plot targeting the base.",
+          "yayin_tarihi": "Tue, 29 Sep 2026 09:20:41 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Why China Is Requiring Ninth Graders to Read ‘Jane Eyre’",
+          "baslik": "Estonia Says Arson at Defense Company Was ‘Deliberate’ Attack by Russia",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/28/world/asia/china-jane-eyre-required-reading-literature.html",
-          "ozet": "The Victorian heroine has long been celebrated in China for her independence and insistence on equality.",
-          "yayin_tarihi": "Mon, 28 Sep 2026 05:58:32 +0000",
+          "url": "https://www.nytimes.com/2026/09/29/world/europe/estonia-russia-ukraine-milrem-fire.html",
+          "ozet": "A fire broke out at Milrem Robotics, which manufactures and supplies unmanned vehicles for Ukraine, in August.",
+          "yayin_tarihi": "Tue, 29 Sep 2026 11:31:22 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-28T13:28:25.230943"
+      "taranma_zamani": "2026-09-29T12:31:38.017127"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia’s exports of radio-electronic products nearly reach $2.9 bln in 1H — minister",
+          "baslik": "Ukrainian capital Kiev is turning into frontline city — newspaper",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2193975",
-          "ozet": "It is more than half of the exports for the entire year of 2025, Anton Alikhanov said",
-          "yayin_tarihi": "Mon, 28 Sep 2026 16:26:21 +0300",
+          "url": "https://tass.com/world/2194537",
+          "ozet": "Kiev is unable to carry out the mass deployment of the necessary interceptors in the capital to counter the Russian Armed Forces, the publication says",
+          "yayin_tarihi": "Tue, 29 Sep 2026 15:18:57 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "China builds up its defense capabilities based on its interests — diplomat",
+          "baslik": "Iran to pay women about $40,000 for capturing one US soldier, army says",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2193969",
-          "ozet": "Chinese foreign ministry spokesman Guo Jiakun commented on reports that US President Donald Trump has recently asked his Chinese counterpart, Xi Jinping, if Beijing could buy weapons from the United States",
-          "yayin_tarihi": "Mon, 28 Sep 2026 16:22:42 +0300",
+          "url": "https://tass.com/world/2194535",
+          "ozet": "Iran is prepared to consider payments to residents of other countries in the region for similar actions, General Mohammad Akraminia said",
+          "yayin_tarihi": "Tue, 29 Sep 2026 15:16:48 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Germany’s current leadership lacks sound judgment — Russian diplomat",
+          "baslik": "IN BRIEF: What we know about Ukrainian attack on railroad in Russia’s Bryansk Region",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2193971",
-          "ozet": "According to Russian Deputy Foreign Minister Dmitry Lyubinsky, the systemic problem facing modern Europe lies in the obvious degradation of its political class",
-          "yayin_tarihi": "Mon, 28 Sep 2026 16:17:32 +0300",
+          "url": "https://tass.com/emergencies/2194533",
+          "ozet": "A Russian Railways repair team has started relief work after examining the scene",
+          "yayin_tarihi": "Tue, 29 Sep 2026 15:16:20 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Share of Russian chips, components in microelectronics to reach 48% by 2030",
+          "baslik": "EU leaders are trying hard to drag their countries into conflict with Russia — Medvedev",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2193965",
-          "ozet": "\"Speaking about microelectronics, specifically about chips and components themselves, the share of Russian products currently is around 26%,\" Anton Alikhanov said",
-          "yayin_tarihi": "Mon, 28 Sep 2026 16:15:16 +0300",
+          "url": "https://tass.com/politics/2194531",
+          "ozet": "The politician noted that the chances of plunging the world into a new conflict were the highest since 1945",
+          "yayin_tarihi": "Tue, 29 Sep 2026 15:15:38 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Kallas calls on EU countries to send Patriot missiles to Kiev, vows new supplies",
+          "baslik": "Lavrov urges study of Russian military doctrine amid Polish plans to make Patriot missiles",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2193963",
-          "ozet": "The EU's top diplomat said upon arriving at a meeting of EU defense ministers that Ukraine is in urgent need of air defense",
-          "yayin_tarihi": "Mon, 28 Sep 2026 16:13:37 +0300",
+          "url": "https://tass.com/politics/2194529",
+          "ozet": "Polish authorities are currently preparing the 50th tranche of military aid to Ukraine",
+          "yayin_tarihi": "Tue, 29 Sep 2026 15:13:04 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-28T13:28:25.230970"
+      "taranma_zamani": "2026-09-29T12:31:38.017154"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-28T13:28:25.230972"
+      "taranma_zamani": "2026-09-29T12:31:38.017155"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "九九草地密电——有，还是没有",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/ytbdzhuantixilie/2026/09/29/daiqin-bookexcerpt-ccp-history/",
+          "ozet": "编者按：本文节选自中国知名记者戴晴尚未出版的《问史笔记》，由本台独家刊发，标题为编者所拟。全文聚焦探索中共党史上的“九九草地密电”之谜。",
+          "yayin_tarihi": "Tue, 29 Sep 2026 11:04:52 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "潘石屹旧视频突现网络　回国与政治立场引热议",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "习近平9月24日在白宫与美国总统特朗普举行会谈之际，华盛顿街头也出现不同声音。海外藏人、中国民运人士及其他人权团体举行抗议，呼吁美方在对华接触中关注人权议题；与此同时，支持习近平到访的人群也在白宫及车队路线附近集结。",
           "yayin_tarihi": "Fri, 25 Sep 2026 00:14:57 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "多方预测美中峰会聚焦AI”护栏”及稀土供应",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/guoji/2026/09/24/aiguardrails-rareearth-us-china-sullit/",
-          "ozet": "美国总统特朗普与中国国家主席习近平9月24日在白宫举行会晤。在元首会面前，美中官员先期讨论了建立AI沟通机制 ；与此同时，也传出美国和日本先就中国限制稀土元素钇的供应问题进行了磋商。",
-          "yayin_tarihi": "Thu, 24 Sep 2026 17:24:08 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-28T13:28:25.230977"
+      "taranma_zamani": "2026-09-29T12:31:38.017289"
     }
   }
 }
