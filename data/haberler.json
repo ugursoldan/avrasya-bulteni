@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-09-29",
-  "olusturma_zamani": "2026-09-29T12:31:38.017317",
+  "olusturma_tarihi": "2026-09-30",
+  "olusturma_zamani": "2026-09-30T12:16:30.192510",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Emlak Katılım'dan devir açıklaması",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/ekonomi/emlak-katilimdan-devir-aciklamasi-958627.html",
+          "ozet": "Türkiye Emlak Katılım Bankası AŞ, Katılımevim Tasarruf Finansman AŞ, Birevim Tasarruf Finansman AŞ ve İktisat Katılım Bankası AŞ'nin paylarının devri için Rekabet Kurumuna başvurdu.",
+          "yayin_tarihi": "Wed, 30 Sep 2026 11:51:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Serin ve yağışlı hava etkili oluyor: 20 il için sarı kodlu uyarı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/serin-ve-yagisli-hava-etkili-oluyor-20-il-icin-sari-kodlu-uyari-958592.html",
+          "ozet": "Yurt genelinde mevsim normallerinin altında seyreden hava sıcaklıklarının hafta boyunca etkisini sürdürmesi bekleniyor. 20 il için sarı kodlu uyarı yapıldı. Vatandaşlardan yaşanabilecek olumsuzluklara karşı tedbirli olması istendi.",
+          "yayin_tarihi": "Wed, 30 Sep 2026 07:04:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Fon soruşturmasında 45 firma ve 19 fon için uygulanan mal varlığı tedbirleri kaldırıldı",
           "kaynak": "www.trthaber.com",
@@ -28,25 +44,9 @@
           "ozet": "Şanlıurfa, bugüne kadar düzenlenen en kapsamlı organizasyonlardan biri olan TEKNOFEST Güneydoğu’ya ev sahipliği yapmaya hazırlanıyor. 30 Eylül’de kapılarını ziyaretçilere açacak olan festival için GAP Havalimanı’nda hummalı çalışmalar sürerken, 5 gün sürecek etkinliğe 1 milyondan fazla ziyaretçinin katılması bekleniyor.",
           "yayin_tarihi": "Sun, 27 Sep 2026 07:35:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Bakan Gürlek: Vatandaşımızın birikimini korumak için mücadelemiz sürecek",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/bakan-gurlek-vatandasimizin-birikimini-korumak-icin-mucadelemiz-surecek-958241.html",
-          "ozet": "Adalet Bakanı Akın Gürlek, fon soruşturmasına ilişkin, \"Amacımız açıktır; soruşturma konusu malvarlığı değerlerinin kaçırılmasına, el değiştirmesine veya üçüncü kişiler üzerine geçirilmesine imkan vermemek; suçtan elde edildiği tespit edilen değerleri güvence altına almak ve mağdur vatandaşlarımızın haklarına kavuşmasını sağlamaktır\" dedi.",
-          "yayin_tarihi": "Sat, 26 Sep 2026 17:45:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "TEKNOFEST Güneydoğu'da 1 milyondan fazla ziyaretçi bekleniyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/teknofest-guneydoguda-1-milyondan-fazla-ziyaretci-bekleniyor-958201.html",
-          "ozet": "Şanlıurfa, bugüne kadar düzenlenen en kapsamlı organizasyonlardan biri olan TEKNOFEST Güneydoğu’ya ev sahipliği yapmaya hazırlanıyor. 30 Eylül’de kapılarını ziyaretçilere açacak olan festival için GAP Havalimanı’nda hummalı çalışmalar sürerken, 5 gün sürecek etkinliğe 1 milyondan fazla ziyaretçinin katılması bekleniyor.",
-          "yayin_tarihi": "Sat, 26 Sep 2026 10:20:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-29T12:31:38.017105"
+      "taranma_zamani": "2026-09-30T12:16:30.192256"
     },
     "en": {
       "dil": "İngilizce",
@@ -60,27 +60,27 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "The Rescuers Keeping Two Ukrainian ‘Fortress Cities’ Alive",
+          "baslik": "How Ukraine’s Naval Drones Are Remaking War at Sea",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/29/world/europe/ukraine-donbas-emergency-workers.html",
-          "ozet": "Emergency workers have to move fast after Russian attacks in eastern Ukraine. Another could come at any moment.",
-          "yayin_tarihi": "Tue, 29 Sep 2026 11:36:49 +0000",
+          "url": "https://www.nytimes.com/2026/09/30/world/europe/ukraine-naval-drones-russia.html",
+          "ozet": "They began as modified motorboats. Now, Ukrainian sea drones act as miniature aircraft carriers, and other countries want in.",
+          "yayin_tarihi": "Wed, 30 Sep 2026 09:00:11 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Rubio Says Incident at UK Air Base RAF Fairford ‘Clearly Involved’ a Foreign Actor",
+          "baslik": "Turkish Confectioner Hands Out Doughnuts to Honor the Dead",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html",
-          "ozet": "The U.S. secretary of state, Marco Rubio, told Fox News that what happened at a base used by U.S. bombers flying to Iran was “very serious,” without providing details.",
-          "yayin_tarihi": "Tue, 29 Sep 2026 10:44:22 +0000",
+          "url": "https://www.nytimes.com/video/world/asia/100000011182398/turkey-doughnuts-lokma-honor-dead.html",
+          "ozet": "In Turkey, people who have recently lost loved ones hire doughnut makers to hand out fried dough balls, known as lokma, to honor the dead and spread their blessings.",
+          "yayin_tarihi": "Wed, 30 Sep 2026 10:25:35 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "UK Villages Around RAF Fairford Are Abuzz Over Possible Terrorist Plot",
+          "baslik": "Ukrainian Science Academy, Struck by Drone, Played Key Role in Research",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/28/world/europe/uk-fairford-base-terrorist-plot.html",
-          "ozet": "The quiet rural area around R.A.F. Fairford, where U.S. bombers fly to Iran, was thrust into the spotlight after the authorities said they were investigating a possible terrorist plot targeting the base.",
-          "yayin_tarihi": "Tue, 29 Sep 2026 09:20:41 +0000",
+          "url": "https://www.nytimes.com/2026/09/29/science/ukraine-science-academy-russia-attack.html",
+          "ozet": "Over 90 percent of Ukraine’s scientific discoveries have been attributed to Ukraine’s National Academy of Sciences, including advancements in astronomy and military technology.",
+          "yayin_tarihi": "Tue, 29 Sep 2026 19:55:20 +0000",
           "dil": "İngilizce"
         },
         {
@@ -88,62 +88,62 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/09/29/world/europe/estonia-russia-ukraine-milrem-fire.html",
           "ozet": "A fire broke out at Milrem Robotics, which manufactures and supplies unmanned vehicles for Ukraine, in August.",
-          "yayin_tarihi": "Tue, 29 Sep 2026 11:31:22 +0000",
+          "yayin_tarihi": "Tue, 29 Sep 2026 13:39:00 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-29T12:31:38.017127"
+      "taranma_zamani": "2026-09-30T12:16:30.192272"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Ukrainian capital Kiev is turning into frontline city — newspaper",
+          "baslik": "NATO, while using Kiev as proxy, recognizes risks of direct clash with Russia — expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2194537",
-          "ozet": "Kiev is unable to carry out the mass deployment of the necessary interceptors in the capital to counter the Russian Armed Forces, the publication says",
-          "yayin_tarihi": "Tue, 29 Sep 2026 15:18:57 +0300",
+          "url": "https://tass.com/politics/2195117",
+          "ozet": "Commenting on the prospects for the future world order, Fyodor Voitolovsky said that \"one should not expect leading powers to develop some sort of shared vision of the future\"",
+          "yayin_tarihi": "Wed, 30 Sep 2026 15:07:14 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Iran to pay women about $40,000 for capturing one US soldier, army says",
+          "baslik": "Russia to export Supercam S350 UAV to non-CIS states — company",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2194535",
-          "ozet": "Iran is prepared to consider payments to residents of other countries in the region for similar actions, General Mohammad Akraminia said",
-          "yayin_tarihi": "Tue, 29 Sep 2026 15:16:48 +0300",
+          "url": "https://tass.com/defense/2195111",
+          "ozet": "Unmanned Systems Group Spokeswoman Yekaterina Zgirovskaya emphasized that the company is ready to localize the production of these systems within the countries of the Caspian region",
+          "yayin_tarihi": "Wed, 30 Sep 2026 15:02:14 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "IN BRIEF: What we know about Ukrainian attack on railroad in Russia’s Bryansk Region",
+          "baslik": "Unlike some, Russia won’t go cap in hand around the world, begging for handouts — Putin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/emergencies/2194533",
-          "ozet": "A Russian Railways repair team has started relief work after examining the scene",
-          "yayin_tarihi": "Tue, 29 Sep 2026 15:16:20 +0300",
+          "url": "https://tass.com/politics/2195103",
+          "ozet": "The Russian president stressed that, first of all, this is humiliating",
+          "yayin_tarihi": "Wed, 30 Sep 2026 14:39:05 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "EU leaders are trying hard to drag their countries into conflict with Russia — Medvedev",
+          "baslik": "Russian Navy ships arrive in Indonesia",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2194531",
-          "ozet": "The politician noted that the chances of plunging the world into a new conflict were the highest since 1945",
-          "yayin_tarihi": "Tue, 29 Sep 2026 15:15:38 +0300",
+          "url": "https://tass.com/defense/2195099",
+          "ozet": "The Marshal Shaposhnikov frigate, the large anti-submarine ship Admiral Tributs, and the Pechenga tanker departed from Vladivostok on September 10 for the Asia-Pacific deployment",
+          "yayin_tarihi": "Wed, 30 Sep 2026 14:36:53 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Lavrov urges study of Russian military doctrine amid Polish plans to make Patriot missiles",
+          "baslik": "Russians start ‘last-second’ booking of tours — expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2194529",
-          "ozet": "Polish authorities are currently preparing the 50th tranche of military aid to Ukraine",
-          "yayin_tarihi": "Tue, 29 Sep 2026 15:13:04 +0300",
+          "url": "https://tass.com/economy/2195091",
+          "ozet": "Maya Lomidze noted that consumer behavior had changed in Russia",
+          "yayin_tarihi": "Wed, 30 Sep 2026 14:34:14 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-29T12:31:38.017154"
+      "taranma_zamani": "2026-09-30T12:16:30.192293"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-29T12:31:38.017155"
+      "taranma_zamani": "2026-09-30T12:16:30.192295"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-29T12:31:38.017289"
+      "taranma_zamani": "2026-09-30T12:16:30.192300"
     }
   }
 }
