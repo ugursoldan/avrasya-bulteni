@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-09-30",
-  "olusturma_zamani": "2026-09-30T12:16:30.192510",
+  "olusturma_tarihi": "2026-10-01",
+  "olusturma_zamani": "2026-10-01T12:51:11.613638",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Bakan Şimşek: Yatırımcılara en kısa sürede en yüksek düzeyde ödeme için adımlar atılıyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/bakan-simsek-yatirimcilara-en-kisa-surede-en-yuksek-duzeyde-odeme-icin-adimlar-atiliyor-958786.html",
+          "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, yürütülen fon soruşturmalarıyla ilgili olarak, \"Kurumlarımız, sorunlu fonlarla ilgili çalışmalarını koordinasyon içinde titizlikle sürdürüyor. Yatırımcılara mümkün olan en kısa sürede ve en yüksek düzeyde ödeme yapılabilmesi için gerekli adımlar atılıyor\" dedi.",
+          "yayin_tarihi": "Thu, 01 Oct 2026 13:45:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "MGK'dan Terörsüz Türkiye mesajı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/mgkdan-terorsuz-turkiye-mesaji-958689.html",
+          "ozet": "MGK toplantısında, Terörsüz Türkiye hedefi ve terörsüz bölge vizyonuna ulaşılması için yürütülen çalışmalar ele alındı. Toplantı sonrası yayımlanan bildiride, \"Ülkemizin ve milletimizin yanı sıra bölgemizin güvenliği ile komşularımızın huzuru ve refahı için sarf edilen gayretlerin kararlılıkla sürdürüleceği ifade edilmiştir.\" denildi.",
+          "yayin_tarihi": "Wed, 30 Sep 2026 20:58:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Emlak Katılım'dan devir açıklaması",
           "kaynak": "www.trthaber.com",
@@ -28,35 +44,27 @@
           "ozet": "Fon soruşturması kapsamında 106 kişi ve kuruluş için mal varlığı tedbiri kararı alındı. Savcılık 46 şirket, 18 fon ve 42 kişi için bankalara ve ilgili kurumlara yazı gönderdi. Sermaye Piyasası Kurulu'nun yaptığı değerlendirme üzerine başsavcılık, 45 firma ve 19 fon için tedbir kararını kaldırdı.",
           "yayin_tarihi": "Sun, 27 Sep 2026 23:26:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Sonbahar kendini gösteriyor: Yağış ve serin hava geliyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/sonbahar-kendini-gosteriyor-yagis-ve-serin-hava-geliyor-958312.html",
-          "ozet": "Yeni haftada yurt genelinde sağanak etkili olacak. Yarın 24 il için sarı kodlu uyarı yapıldı. Yağışlar özellikle Marmara'nın doğusu ile Karadeniz bölgesinde pazartesi, salı ve çarşamba günü yer yer kuvvetli görülecek. Sıcaklıklar yağışla birlikte azalacak.",
-          "yayin_tarihi": "Sun, 27 Sep 2026 17:31:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "TEKNOFEST Güneydoğu için geri sayım başladı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/teknofest-guneydogu-icin-geri-sayim-basladi-958276.html",
-          "ozet": "Şanlıurfa, bugüne kadar düzenlenen en kapsamlı organizasyonlardan biri olan TEKNOFEST Güneydoğu’ya ev sahipliği yapmaya hazırlanıyor. 30 Eylül’de kapılarını ziyaretçilere açacak olan festival için GAP Havalimanı’nda hummalı çalışmalar sürerken, 5 gün sürecek etkinliğe 1 milyondan fazla ziyaretçinin katılması bekleniyor.",
-          "yayin_tarihi": "Sun, 27 Sep 2026 07:35:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-09-30T12:16:30.192256"
+      "taranma_zamani": "2026-10-01T12:51:11.613373"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Bomb by Bomb, the Slow Death of My Hometown in Ukraine",
+          "baslik": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/29/world/europe/ukraine-kramatorsk.html",
-          "ozet": "It was possible, for a time, to think that Kramatorsk, where I was born and raised, would survive the war mostly unscathed. Not any more.",
-          "yayin_tarihi": "Tue, 29 Sep 2026 09:01:15 +0000",
+          "url": "https://www.nytimes.com/2026/09/30/world/europe/uk-iran-raf-fairford-burnham.html",
+          "ozet": "The British prime minister, Andy Burnham, said there were “strong indications” Iran played a part in the events at R.A.F. Fairford on Sunday, without providing details why.",
+          "yayin_tarihi": "Wed, 30 Sep 2026 21:31:42 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "U.S. Bond Yields Hit Highest Level Since 2002",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/01/business/bond-yields-10-year-treasury.html",
+          "ozet": "The trends pushing up yields, including the war in Iran and high government debt levels, are unlikely to dissipate soon.",
+          "yayin_tarihi": "Thu, 01 Oct 2026 12:35:30 +0000",
           "dil": "İngilizce"
         },
         {
@@ -64,7 +72,7 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/09/30/world/europe/ukraine-naval-drones-russia.html",
           "ozet": "They began as modified motorboats. Now, Ukrainian sea drones act as miniature aircraft carriers, and other countries want in.",
-          "yayin_tarihi": "Wed, 30 Sep 2026 09:00:11 +0000",
+          "yayin_tarihi": "Wed, 30 Sep 2026 18:09:04 +0000",
           "dil": "İngilizce"
         },
         {
@@ -80,70 +88,62 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/09/29/science/ukraine-science-academy-russia-attack.html",
           "ozet": "Over 90 percent of Ukraine’s scientific discoveries have been attributed to Ukraine’s National Academy of Sciences, including advancements in astronomy and military technology.",
-          "yayin_tarihi": "Tue, 29 Sep 2026 19:55:20 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Estonia Says Arson at Defense Company Was ‘Deliberate’ Attack by Russia",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/29/world/europe/estonia-russia-ukraine-milrem-fire.html",
-          "ozet": "A fire broke out at Milrem Robotics, which manufactures and supplies unmanned vehicles for Ukraine, in August.",
-          "yayin_tarihi": "Tue, 29 Sep 2026 13:39:00 +0000",
+          "yayin_tarihi": "Tue, 29 Sep 2026 19:55:21 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-09-30T12:16:30.192272"
+      "taranma_zamani": "2026-10-01T12:51:11.613392"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "NATO, while using Kiev as proxy, recognizes risks of direct clash with Russia — expert",
+          "baslik": "Russia to retaliate swiftly if NATO implements threats against Kaliningrad Region — aide",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2195117",
-          "ozet": "Commenting on the prospects for the future world order, Fyodor Voitolovsky said that \"one should not expect leading powers to develop some sort of shared vision of the future\"",
-          "yayin_tarihi": "Wed, 30 Sep 2026 15:07:14 +0300",
+          "url": "https://tass.com/politics/2195683",
+          "ozet": "Nikolay Patrushev empasized that Russia had stated this repeatedly",
+          "yayin_tarihi": "Thu, 01 Oct 2026 15:42:46 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia to export Supercam S350 UAV to non-CIS states — company",
+          "baslik": "Russian troops liberate three communities in Kharkov Region over past day — top brass",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2195111",
-          "ozet": "Unmanned Systems Group Spokeswoman Yekaterina Zgirovskaya emphasized that the company is ready to localize the production of these systems within the countries of the Caspian region",
-          "yayin_tarihi": "Wed, 30 Sep 2026 15:02:14 +0300",
+          "url": "https://tass.com/politics/2195681",
+          "ozet": "Russia's Battlegroup North units took control of the settlements of Nesternoye, Rublenoye and Vysokaya Yaruga",
+          "yayin_tarihi": "Thu, 01 Oct 2026 15:38:26 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Unlike some, Russia won’t go cap in hand around the world, begging for handouts — Putin",
+          "baslik": "Pezeshkian states Iran will not avoid dialogue with US",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2195103",
-          "ozet": "The Russian president stressed that, first of all, this is humiliating",
-          "yayin_tarihi": "Wed, 30 Sep 2026 14:39:05 +0300",
+          "url": "https://tass.com/world/2195675",
+          "ozet": "The Iranian president added that the national unity and internal cohesion had only grown stronger",
+          "yayin_tarihi": "Thu, 01 Oct 2026 15:33:47 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian Navy ships arrive in Indonesia",
+          "baslik": "Kiev's European backers do not want peace between Russia, Ukraine — envoy to OSCE",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2195099",
-          "ozet": "The Marshal Shaposhnikov frigate, the large anti-submarine ship Admiral Tributs, and the Pechenga tanker departed from Vladivostok on September 10 for the Asia-Pacific deployment",
-          "yayin_tarihi": "Wed, 30 Sep 2026 14:36:53 +0300",
+          "url": "https://tass.com/politics/2195671",
+          "ozet": "According to Dmitry Polyansky, this peace \"could have been achieved long ago, provided that it is long-term and sustainable\"",
+          "yayin_tarihi": "Thu, 01 Oct 2026 15:31:58 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russians start ‘last-second’ booking of tours — expert",
+          "baslik": "Trump calls Iran’s potential annihilation ‘possibility’",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2195091",
-          "ozet": "Maya Lomidze noted that consumer behavior had changed in Russia",
-          "yayin_tarihi": "Wed, 30 Sep 2026 14:34:14 +0300",
+          "url": "https://tass.com/world/2195661",
+          "ozet": "The US leader claimed that by annihilating Iran, the United States had created \"peace in the world\"",
+          "yayin_tarihi": "Thu, 01 Oct 2026 15:29:34 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-09-30T12:16:30.192293"
+      "taranma_zamani": "2026-10-01T12:51:11.613420"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-09-30T12:16:30.192295"
+      "taranma_zamani": "2026-10-01T12:51:11.613422"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-09-30T12:16:30.192300"
+      "taranma_zamani": "2026-10-01T12:51:11.613617"
     }
   }
 }
