@@ -1,16 +1,32 @@
 {
-  "olusturma_tarihi": "2026-10-01",
-  "olusturma_zamani": "2026-10-01T12:51:11.613638",
+  "olusturma_tarihi": "2026-10-02",
+  "olusturma_zamani": "2026-10-02T12:14:28.281768",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "Bakan Şimşek: Yatırımcılara en kısa sürede en yüksek düzeyde ödeme için adımlar atılıyor",
+          "baslik": "13 il için sarı kodlu uyarı: Kuvvetli yağış ve rüzgara dikkat",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/bakan-simsek-yatirimcilara-en-kisa-surede-en-yuksek-duzeyde-odeme-icin-adimlar-atiliyor-958786.html",
-          "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, yürütülen fon soruşturmalarıyla ilgili olarak, \"Kurumlarımız, sorunlu fonlarla ilgili çalışmalarını koordinasyon içinde titizlikle sürdürüyor. Yatırımcılara mümkün olan en kısa sürede ve en yüksek düzeyde ödeme yapılabilmesi için gerekli adımlar atılıyor\" dedi.",
-          "yayin_tarihi": "Thu, 01 Oct 2026 13:45:00 +0300",
+          "url": "https://www.trthaber.com/haber/turkiye/13-il-icin-sari-kodlu-uyari-kuvvetli-yagis-ve-ruzgara-dikkat-958870.html",
+          "ozet": "Marmara, Kuzey Ege, Doğu Akdeniz ile Orta Karadeniz'de beklenen kuvvetli yağış ve rüzgar nedeniyle 13 il için \"sarı\" kodlu uyarıda bulunuldu.",
+          "yayin_tarihi": "Fri, 02 Oct 2026 09:49:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Fon Koordinasyon Kurulu 2. kez toplandı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/fon-koordinasyon-kurulu-2-kez-toplandi-958858.html",
+          "ozet": "Fon Koordinasyon Kurulu 2. toplantısını gerçekleştirdi. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, yol haritasının belirlendiğini belirtirken, Hazine ve Maliye Bakanı Mehmet Şimşek de \"Yatırımcılara en yüksek düzeyde ödeme yapılabilmesi için gerekli adımlar atılıyor\" dedi.",
+          "yayin_tarihi": "Fri, 02 Oct 2026 08:56:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Manisa'da maden ocağında göçük: 3 işçinin daha cenazesine ulaşıldı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/manisada-maden-ocaginda-gocuk-3-iscinin-daha-cenazesine-ulasildi-958840.html",
+          "ozet": "Manisa’nın Soma ilçesinde bir maden işletmesinde göçük altında kalan ve hayatını kaybeden 3 maden işçisine ulaşıldı. Böylece meydana gelen göçükte yaşamını yitiren madencilerin sayısı 5'e yükseldi.",
+          "yayin_tarihi": "Fri, 02 Oct 2026 06:32:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -28,126 +44,126 @@
           "ozet": "Türkiye Emlak Katılım Bankası AŞ, Katılımevim Tasarruf Finansman AŞ, Birevim Tasarruf Finansman AŞ ve İktisat Katılım Bankası AŞ'nin paylarının devri için Rekabet Kurumuna başvurdu.",
           "yayin_tarihi": "Wed, 30 Sep 2026 11:51:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Serin ve yağışlı hava etkili oluyor: 20 il için sarı kodlu uyarı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/serin-ve-yagisli-hava-etkili-oluyor-20-il-icin-sari-kodlu-uyari-958592.html",
-          "ozet": "Yurt genelinde mevsim normallerinin altında seyreden hava sıcaklıklarının hafta boyunca etkisini sürdürmesi bekleniyor. 20 il için sarı kodlu uyarı yapıldı. Vatandaşlardan yaşanabilecek olumsuzluklara karşı tedbirli olması istendi.",
-          "yayin_tarihi": "Wed, 30 Sep 2026 07:04:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Fon soruşturmasında 45 firma ve 19 fon için uygulanan mal varlığı tedbirleri kaldırıldı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-45-firma-ve-19-fon-icin-uygulanan-mal-varligi-tedbirleri-kaldirildi-958336.html",
-          "ozet": "Fon soruşturması kapsamında 106 kişi ve kuruluş için mal varlığı tedbiri kararı alındı. Savcılık 46 şirket, 18 fon ve 42 kişi için bankalara ve ilgili kurumlara yazı gönderdi. Sermaye Piyasası Kurulu'nun yaptığı değerlendirme üzerine başsavcılık, 45 firma ve 19 fon için tedbir kararını kaldırdı.",
-          "yayin_tarihi": "Sun, 27 Sep 2026 23:26:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-01T12:51:11.613373"
+      "taranma_zamani": "2026-10-02T12:14:28.281528"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
+          "baslik": "A Front Line at the Border: How Russia Uses Migrants as Weapons Against Europe",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/30/world/europe/uk-iran-raf-fairford-burnham.html",
-          "ozet": "The British prime minister, Andy Burnham, said there were “strong indications” Iran played a part in the events at R.A.F. Fairford on Sunday, without providing details why.",
-          "yayin_tarihi": "Wed, 30 Sep 2026 21:31:42 +0000",
+          "url": "https://www.nytimes.com/2026/10/02/world/europe/latvia-immigration-russia.html",
+          "ozet": "The scheme is part of Russia’s larger strategy for sowing discord in the West, if more subtle than other recent operations blamed on the Kremlin.",
+          "yayin_tarihi": "Fri, 02 Oct 2026 04:01:10 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "U.S. Bond Yields Hit Highest Level Since 2002",
+          "baslik": "China’s Push into A.I. Has Led to a Problem: Too Much Usage",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/01/business/bond-yields-10-year-treasury.html",
-          "ozet": "The trends pushing up yields, including the war in Iran and high government debt levels, are unlikely to dissipate soon.",
-          "yayin_tarihi": "Thu, 01 Oct 2026 12:35:30 +0000",
+          "url": "https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html",
+          "ozet": "As citizens embrace the technology for entertainment, relationships and even farming advice, the government is stepping up efforts to set limits.",
+          "yayin_tarihi": "Fri, 02 Oct 2026 09:50:24 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "How Ukraine’s Naval Drones Are Remaking War at Sea",
+          "baslik": "Russia Is Planning Its Most Powerful Blow Yet to Try to Freeze Ukraine",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/30/world/europe/ukraine-naval-drones-russia.html",
-          "ozet": "They began as modified motorboats. Now, Ukrainian sea drones act as miniature aircraft carriers, and other countries want in.",
-          "yayin_tarihi": "Wed, 30 Sep 2026 18:09:04 +0000",
+          "url": "https://www.nytimes.com/2026/10/02/world/europe/russia-ukraine-winter.html",
+          "ozet": "Ukraine showed European partners what it said were intercepted Russian plans to cut off major cities from power, heat and water this winter.",
+          "yayin_tarihi": "Fri, 02 Oct 2026 11:25:28 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Turkish Confectioner Hands Out Doughnuts to Honor the Dead",
+          "baslik": "Oil Flows Are Up, but Iran Is Still Menacing the Strait of Hormuz",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/video/world/asia/100000011182398/turkey-doughnuts-lokma-honor-dead.html",
-          "ozet": "In Turkey, people who have recently lost loved ones hire doughnut makers to hand out fried dough balls, known as lokma, to honor the dead and spread their blessings.",
-          "yayin_tarihi": "Wed, 30 Sep 2026 10:25:35 +0000",
+          "url": "https://www.nytimes.com/2026/10/02/world/middleeast/iran-strait-hormuz-attacks-oil.html",
+          "ozet": "Iran has been launching drones and missiles at commercial ships in the waterway each week, though it has often failed to strike its targets, according to a Western security official.",
+          "yayin_tarihi": "Fri, 02 Oct 2026 04:01:19 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Ukrainian Science Academy, Struck by Drone, Played Key Role in Research",
+          "baslik": "Airlines Set to Bring Israelis Back From U.A.E. After FlyDubai Cockpit Attack",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/09/29/science/ukraine-science-academy-russia-attack.html",
-          "ozet": "Over 90 percent of Ukraine’s scientific discoveries have been attributed to Ukraine’s National Academy of Sciences, including advancements in astronomy and military technology.",
-          "yayin_tarihi": "Tue, 29 Sep 2026 19:55:21 +0000",
+          "url": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-dubai-uae-flights.html",
+          "ozet": "The attack, on a flight from Dubai to Tel Aviv, halted the only direct service between the two cities since the war in Iran disrupted air traffic.",
+          "yayin_tarihi": "Fri, 02 Oct 2026 11:50:00 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-01T12:51:11.613392"
+      "taranma_zamani": "2026-10-02T12:14:28.281547"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia to retaliate swiftly if NATO implements threats against Kaliningrad Region — aide",
+          "baslik": "Russian GDP to grow by 1.4% in 2027 — Novak",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2195683",
-          "ozet": "Nikolay Patrushev empasized that Russia had stated this repeatedly",
-          "yayin_tarihi": "Thu, 01 Oct 2026 15:42:46 +0300",
+          "url": "https://tass.com/economy/2196713",
+          "ozet": "Inflation in Russia may total 6.8% as of the end of this year, the deputy prime minister noted",
+          "yayin_tarihi": "Fri, 02 Oct 2026 15:08:09 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian troops liberate three communities in Kharkov Region over past day — top brass",
+          "baslik": "Authorities exploring measures to support oil refineries — Novak",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2195681",
-          "ozet": "Russia's Battlegroup North units took control of the settlements of Nesternoye, Rublenoye and Vysokaya Yaruga",
-          "yayin_tarihi": "Thu, 01 Oct 2026 15:38:26 +0300",
+          "url": "https://tass.com/economy/2196711",
+          "ozet": "According to the deputy prime minister, the Russian diesel fuel market is now balanced",
+          "yayin_tarihi": "Fri, 02 Oct 2026 15:05:01 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Pezeshkian states Iran will not avoid dialogue with US",
+          "baslik": "Russia may restart diesel fuel exports in case of overproduction — Novak",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2195675",
-          "ozet": "The Iranian president added that the national unity and internal cohesion had only grown stronger",
-          "yayin_tarihi": "Thu, 01 Oct 2026 15:33:47 +0300",
+          "url": "https://tass.com/economy/2196703",
+          "ozet": "The deputy prime minister said that Russia will not accumulate too much fuel because it will lead to a decline in refining and output of other products",
+          "yayin_tarihi": "Fri, 02 Oct 2026 14:59:15 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Kiev's European backers do not want peace between Russia, Ukraine — envoy to OSCE",
+          "baslik": "Russia successfully reoriented trade in response to West’s restrictions — minister",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2195671",
-          "ozet": "According to Dmitry Polyansky, this peace \"could have been achieved long ago, provided that it is long-term and sustainable\"",
-          "yayin_tarihi": "Thu, 01 Oct 2026 15:31:58 +0300",
+          "url": "https://tass.com/economy/2196699",
+          "ozet": "According to Maxim Reshetnikov, at present Russia is solving the task of consistent development and cooperation with consideration of its interests",
+          "yayin_tarihi": "Fri, 02 Oct 2026 14:57:49 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Trump calls Iran’s potential annihilation ‘possibility’",
+          "baslik": "Indians hold Russia in high regard — writer",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2195661",
-          "ozet": "The US leader claimed that by annihilating Iran, the United States had created \"peace in the world\"",
-          "yayin_tarihi": "Thu, 01 Oct 2026 15:29:34 +0300",
+          "url": "https://tass.com/society/2196697",
+          "ozet": "Achala Moulik noted that Russia is the only European nation which has neither offended or oppressed India",
+          "yayin_tarihi": "Fri, 02 Oct 2026 14:55:07 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-01T12:51:11.613420"
+      "taranma_zamani": "2026-10-02T12:14:28.281575"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-01T12:51:11.613422"
+      "taranma_zamani": "2026-10-02T12:14:28.281577"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "戴晴谈草地密电：以记者立场审视历史 ",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/2026/10/02/ccp-dai-qing-mao-zedong-ye-jianying-secret-telegram-from-the-grasslands/",
+          "ozet": "中国知名记者、作家戴晴的《问史笔记》草地密电部分，9月29日起在自由亚洲电台分三篇刊出。连载结束后，她周四（10月1日）接受本台独家采访，谈及研究这宗历史公案的初衷、调查中的困难，以及她如何看待毛泽东、叶剑英等人在事件中的作用。",
+          "yayin_tarihi": "Fri, 02 Oct 2026 05:33:08 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "人权机构：无人机监控，遍及西藏牧区、寺院与边境",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/yataibaodao/2026/10/01/china-drone-monitor-tibet/",
+          "ozet": "总部位于英国的非营利人权机构“西藏观察”（Tibet Watch）根据中国政府公开文件調查後发现，这些设备被部署在曾发生抗议、宗教集会、水坝争议及藏人跨境流亡的地区，使警方能够监控固定摄像头难以覆盖的牧场、高山隘口和边境路线。",
+          "yayin_tarihi": "Thu, 01 Oct 2026 14:00:00 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "九九草地密电——有，还是没有",
           "kaynak": "www.rfa.org",
@@ -171,25 +187,9 @@
           "ozet": "中国国家主席习近平结束为期三天的访美行程。他与美国总统特朗普在白宫举行的会谈，是此次行程的重头戏。特朗普会后称两人谈得“很棒”，但没有回答记者有关台湾、人工智能等问题的提问。中国外交部称，双方经贸团队达成新的联合安排。",
           "yayin_tarihi": "Fri, 25 Sep 2026 17:25:00 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "中国记者抢拍摄位 扬言「要不谁也别拍」",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/09/25/xijinpin-us-visit-photographer/",
-          "ozet": "美中元首高峰会场边传出推挤冲突，少数中国记者希望抢到好的拍摄位置，与美国特勤及白宫接待人员发生争执。抢位置的中国记者扬言，如果不给他指定的位置，「要不就谁也别拍」。",
-          "yayin_tarihi": "Fri, 25 Sep 2026 13:29:02 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "习近平会晤特朗普 华盛顿街头抗议与欢迎人群同时集结 ",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/09/25/xi-trump-washington-protests-supporters/",
-          "ozet": "习近平9月24日在白宫与美国总统特朗普举行会谈之际，华盛顿街头也出现不同声音。海外藏人、中国民运人士及其他人权团体举行抗议，呼吁美方在对华接触中关注人权议题；与此同时，支持习近平到访的人群也在白宫及车队路线附近集结。",
-          "yayin_tarihi": "Fri, 25 Sep 2026 00:14:57 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-01T12:51:11.613617"
+      "taranma_zamani": "2026-10-02T12:14:28.281738"
     }
   }
 }
