@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-10-03",
-  "olusturma_zamani": "2026-10-03T11:25:30.986927",
+  "olusturma_tarihi": "2026-10-04",
+  "olusturma_zamani": "2026-10-04T12:06:34.891830",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Fon soruşturmasında eski SPK Başkanı Gönül için Teftiş Kurulu görevlendirildi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-eski-spk-baskani-gonul-icin-teftis-kurulu-gorevlendirildi-959066.html",
+          "ozet": "İstanbul Cumhuriyet Başsavcılığı, eski SPK Başkanı İbrahim Ömer Gönül hakkında “görevi kötüye kullanma” suçundan soruşturma izni verilmesi için Hazine ve Maliye Bakanlığına başvurdu. Bakanlık istenen soruşturma izni için Teftiş Kurulu görevlendirdi.",
+          "yayin_tarihi": "Sun, 04 Oct 2026 12:20:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "BDDK, cep telefonu kredilerini güncelledi",
           "kaynak": "www.trthaber.com",
@@ -36,114 +44,106 @@
           "ozet": "Fon Koordinasyon Kurulu 2. toplantısını gerçekleştirdi. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, yol haritasının belirlendiğini belirtirken, Hazine ve Maliye Bakanı Mehmet Şimşek de \"Yatırımcılara en yüksek düzeyde ödeme yapılabilmesi için gerekli adımlar atılıyor\" dedi.",
           "yayin_tarihi": "Fri, 02 Oct 2026 08:56:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Manisa'da maden ocağında göçük: 3 işçinin daha cenazesine ulaşıldı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/manisada-maden-ocaginda-gocuk-3-iscinin-daha-cenazesine-ulasildi-958840.html",
-          "ozet": "Manisa’nın Soma ilçesinde bir maden işletmesinde göçük altında kalan ve hayatını kaybeden 3 maden işçisine ulaşıldı. Böylece meydana gelen göçükte yaşamını yitiren madencilerin sayısı 5'e yükseldi.",
-          "yayin_tarihi": "Fri, 02 Oct 2026 06:32:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-03T11:25:30.986696"
+      "taranma_zamani": "2026-10-04T12:06:34.891658"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Ukraine Reports First Combat Use of Its Own Ballistic Missile",
+          "baslik": "Superpowers Race to Put Nuclear Reactors on the Moon",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/02/world/europe/ukraine-ballistic-missile-fp-7.html",
-          "ozet": "While the missile fired on Thursday has a limited range, Kyiv is developing a larger weapon that could strike Moscow.",
-          "yayin_tarihi": "Fri, 02 Oct 2026 15:23:34 +0000",
+          "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html",
+          "ozet": "The United States wants a reactor on the moon by 2030. A Russian-Chinese alliance is working on one for 2036. Some leading scientists say the danger is great.",
+          "yayin_tarihi": "Sun, 04 Oct 2026 09:00:29 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iraq Wins U.S. Permission to Resume Iran Flights, Prime Minister Says",
+          "baslik": "Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html",
-          "ozet": "Flights between the neighboring countries had been halted after broad U.S. penalties on Iran’s aviation industry.",
-          "yayin_tarihi": "Sat, 03 Oct 2026 10:25:33 +0000",
+          "url": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html",
+          "ozet": "As Ukraine increasingly takes the war to Russia, the effects may be most visible on the roads.",
+          "yayin_tarihi": "Sun, 04 Oct 2026 09:01:49 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "China’s Push Into A.I. Has Led to a Problem: Too Much Usage",
+          "baslik": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html",
-          "ozet": "As citizens embrace the technology for entertainment, relationships and even farming advice, the government is stepping up efforts to set limits.",
-          "yayin_tarihi": "Fri, 02 Oct 2026 13:15:29 +0000",
+          "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
+          "ozet": "The Iran-backed militia said it targeted an Aramco site in Saudi Arabia’s capital, Riyadh, and fresh airstrikes hit the Yemeni capital, raising fears of a widening war.",
+          "yayin_tarihi": "Sun, 04 Oct 2026 10:45:50 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Russia Is Planning Its Most Powerful Blow Yet to Try to Freeze Ukraine",
+          "baslik": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/02/world/europe/russia-ukraine-winter.html",
-          "ozet": "Ukraine showed European partners what it said were intercepted Russian plans to cut off major cities from power, heat and water this winter.",
-          "yayin_tarihi": "Fri, 02 Oct 2026 11:25:29 +0000",
+          "url": "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html",
+          "ozet": "The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.",
+          "yayin_tarihi": "Sun, 04 Oct 2026 09:03:44 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iran Jails Hard-Line Lawmaker, Exposing Deep Rifts in Its Leadership",
+          "baslik": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/02/world/middleeast/iran-hard-line-lawmaker-jail-rift.html",
-          "ozet": "Hamid Rasaei, a vocal opponent of a diplomatic deal with the United States to end the war, was convicted of publishing false information with the intent to harm the Parliament speaker.",
-          "yayin_tarihi": "Sat, 03 Oct 2026 01:14:39 +0000",
+          "url": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
+          "ozet": "The bridges, used by many commuters in the Ukrainian capital, are the latest target in a broad Russian bombing campaign against infrastructure.",
+          "yayin_tarihi": "Sat, 03 Oct 2026 20:17:31 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-03T11:25:30.986714"
+      "taranma_zamani": "2026-10-04T12:06:34.891678"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "IN BRIEF: Russian gains in Kharkov Region, Dobropolye, Ukrainian losses",
+          "baslik": "Russian forces to step up strikes on Ukrainian military targets after Zelensky’s remarks",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2197107",
-          "ozet": "Ukraine lost approximately 1,325 troops over the past 24 hours as a result of Russian military operations in the special military operation zone",
-          "yayin_tarihi": "Sat, 03 Oct 2026 14:08:16 +0300",
+          "url": "https://tass.com/defense/2197297",
+          "ozet": "The Russian Armed Forces will step up strikes on military and defense industry facilities, as well as related infrastructure, in Kiev and other Ukrainian regions, the Russian Defense Ministry said.",
+          "yayin_tarihi": "Sun, 04 Oct 2026 14:12:11 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian Foreign Ministry warns foreigners, diplomats against staying in Ukraine",
+          "baslik": "Russian Defense Ministry hears Zelensky’s statement on stepping up refinery strikes",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2197123",
-          "ozet": "The ministry reiterated that the Russian Armed Forces continue to carry out systematic and consistent strikes on military facilities in Kiev and other Ukrainian cities in response to terrorist actions by the Ukrainian army against Russia’s civilian population and infrastructure",
-          "yayin_tarihi": "Sat, 03 Oct 2026 14:05:09 +0300",
+          "url": "https://tass.com/defense/2197295",
+          "ozet": "The Russian Defense Ministry said it has heard Vladimir Zelensky’s statement that the Kiev regime will step up strikes on Russian oil refineries in response to Russian strikes on Ukrainian defense industry facilities",
+          "yayin_tarihi": "Sun, 04 Oct 2026 14:10:03 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia backs US push to preserve G20’s original priorities — sherpa",
+          "baslik": "Kiev carries out terrorist strike on Belgorod residential areas overnight — ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2197061",
-          "ozet": "Trade was probably one of the most difficult negotiating tracks, and those talks concluded only yesterday, Russian G20 Sherpa and Chief of the Presidential Experts’ Directorate Denis Agafonov said",
-          "yayin_tarihi": "Sat, 03 Oct 2026 11:05:28 +0300",
+          "url": "https://tass.com/defense/2197293",
+          "ozet": "The strike killed and wounded civilians and damaged apartment buildings, private homes, and vehicles, the Russian Defense Ministry noted",
+          "yayin_tarihi": "Sun, 04 Oct 2026 13:53:09 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Decision on Putin’s G20 summit participation depends on range of factors — sherpa",
+          "baslik": "Russia’s warnings over Kaliningrad blockade consequences not a threat — Peskov",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2197053",
-          "ozet": "Denis Agafonov noted that US President Donald Trump \"has spoken quite clearly\" in favor of his Russian counterpart attending the summit",
-          "yayin_tarihi": "Sat, 03 Oct 2026 09:59:18 +0300",
+          "url": "https://tass.com/politics/2197275",
+          "ozet": "We said that this is a Russian region, Kremlin Spokesman Dmitry Peskov told",
+          "yayin_tarihi": "Sun, 04 Oct 2026 13:23:58 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian air defenses intercept, destroy 218 Ukrainian drones overnight",
+          "baslik": "Putin to attend CIS summit in Turkmenistan this week",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2197051",
-          "ozet": "Russian air defenses destroyed fixed-wing unmanned aerial vehicles over the Astrakhan, Belgorod, Bryansk, Voronezh, Kaluga, Kursk, Oryol, Rostov, Ryazan, Smolensk, Tula, Moscow, and Krasnodar regions",
-          "yayin_tarihi": "Sat, 03 Oct 2026 09:58:15 +0300",
+          "url": "https://tass.com/politics/2197273",
+          "ozet": "The Russian leader will also inaugurate a high-tech enterprise and hold a meeting with members of the Russian Security Council",
+          "yayin_tarihi": "Sun, 04 Oct 2026 13:21:45 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-03T11:25:30.986735"
+      "taranma_zamani": "2026-10-04T12:06:34.891693"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-03T11:25:30.986737"
+      "taranma_zamani": "2026-10-04T12:06:34.891694"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-03T11:25:30.986742"
+      "taranma_zamani": "2026-10-04T12:06:34.891806"
     }
   }
 }
