@@ -1,6 +1,6 @@
 {
-  "olusturma_tarihi": "2026-10-04",
-  "olusturma_zamani": "2026-10-04T12:06:34.891830",
+  "olusturma_tarihi": "2026-10-05",
+  "olusturma_zamani": "2026-10-05T14:11:39.338082",
   "diller": {
     "tr": {
       "dil": "Türkçe",
@@ -46,11 +46,43 @@
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-04T12:06:34.891658"
+      "taranma_zamani": "2026-10-05T14:11:39.337857"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "Why Saudi Arabia’s Last War in Yemen Turned Into a Quagmire",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html",
+          "ozet": "A Saudi-led coalition has announced a military campaign against the Iran-backed Houthi militia in the country, reviving memories of its previous effort.",
+          "yayin_tarihi": "Mon, 05 Oct 2026 13:29:52 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Trapped in a Kill Zone, a Ukrainian City Is Beginning to Starve",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/05/world/europe/oleshky-ukraine-russia-war-food.html",
+          "ozet": "Evacuation is almost impossible and food is running out in Russian-occupied Oleshky, a city menaced by mines and drones.",
+          "yayin_tarihi": "Mon, 05 Oct 2026 09:24:23 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Turkey Banned a Book by a Jailed Presidential Hopeful. We Read It.",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/05/world/middleeast/turkey-banned-book-opposition-leader.html",
+          "ozet": "From jail, the former mayor of Istanbul accuses President Recep Tayyip Erdogan of hollowing out Turkey’s democracy to stay in power.",
+          "yayin_tarihi": "Mon, 05 Oct 2026 09:23:01 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "U.S. Sanctions Aim to ‘Shut Down’ Iran’s Airlines, but This Boeing Plane Is Still Flying",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html",
+          "ozet": "The Trump administration says all Iranian airlines are being “shut down.” So why is this jumbo jet still flying from Tehran to Southeast Asia?",
+          "yayin_tarihi": "Mon, 05 Oct 2026 12:09:12 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "Superpowers Race to Put Nuclear Reactors on the Moon",
           "kaynak": "rss.nytimes.com",
@@ -58,96 +90,80 @@
           "ozet": "The United States wants a reactor on the moon by 2030. A Russian-Chinese alliance is working on one for 2036. Some leading scientists say the danger is great.",
           "yayin_tarihi": "Sun, 04 Oct 2026 09:00:29 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html",
-          "ozet": "As Ukraine increasingly takes the war to Russia, the effects may be most visible on the roads.",
-          "yayin_tarihi": "Sun, 04 Oct 2026 09:01:49 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
-          "ozet": "The Iran-backed militia said it targeted an Aramco site in Saudi Arabia’s capital, Riyadh, and fresh airstrikes hit the Yemeni capital, raising fears of a widening war.",
-          "yayin_tarihi": "Sun, 04 Oct 2026 10:45:50 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html",
-          "ozet": "The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.",
-          "yayin_tarihi": "Sun, 04 Oct 2026 09:03:44 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
-          "ozet": "The bridges, used by many commuters in the Ukrainian capital, are the latest target in a broad Russian bombing campaign against infrastructure.",
-          "yayin_tarihi": "Sat, 03 Oct 2026 20:17:31 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-04T12:06:34.891678"
+      "taranma_zamani": "2026-10-05T14:11:39.337882"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russian forces to step up strikes on Ukrainian military targets after Zelensky’s remarks",
+          "baslik": "Putin highlights importance of country's educators on national Teacher's Day",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2197297",
-          "ozet": "The Russian Armed Forces will step up strikes on military and defense industry facilities, as well as related infrastructure, in Kiev and other Ukrainian regions, the Russian Defense Ministry said.",
-          "yayin_tarihi": "Sun, 04 Oct 2026 14:12:11 +0300",
+          "url": "https://tass.com/politics/2197751",
+          "ozet": "The head of state emphasized that Russia’s response to the challenges of the 21st century depended on teachers a lot",
+          "yayin_tarihi": "Mon, 05 Oct 2026 17:08:07 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian Defense Ministry hears Zelensky’s statement on stepping up refinery strikes",
+          "baslik": "Global trade to feel impact of US-Iran war for long time — Russian minister",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2197295",
-          "ozet": "The Russian Defense Ministry said it has heard Vladimir Zelensky’s statement that the Kiev regime will step up strikes on Russian oil refineries in response to Russian strikes on Ukrainian defense industry facilities",
-          "yayin_tarihi": "Sun, 04 Oct 2026 14:10:03 +0300",
+          "url": "https://tass.com/economy/2197747",
+          "ozet": "Experts have yet to assess the full extent of the consequences, Maxim Reshetnikov noted",
+          "yayin_tarihi": "Mon, 05 Oct 2026 17:05:51 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Kiev carries out terrorist strike on Belgorod residential areas overnight — ministry",
+          "baslik": "Over 1 mln Russians visit Vietnam, Russia becomes country’s largest European market",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2197293",
-          "ozet": "The strike killed and wounded civilians and damaged apartment buildings, private homes, and vehicles, the Russian Defense Ministry noted",
-          "yayin_tarihi": "Sun, 04 Oct 2026 13:53:09 +0300",
+          "url": "https://tass.com/economy/2197745",
+          "ozet": "Vietnam welcomed more than 17.7 mln international tourists in the first nine months of 2026",
+          "yayin_tarihi": "Mon, 05 Oct 2026 16:59:14 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia’s warnings over Kaliningrad blockade consequences not a threat — Peskov",
+          "baslik": "Former Hungarian foreign minister denies helping China’s BYD in violation of Hungary’s law",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2197275",
-          "ozet": "We said that this is a Russian region, Kremlin Spokesman Dmitry Peskov told",
-          "yayin_tarihi": "Sun, 04 Oct 2026 13:23:58 +0300",
+          "url": "https://tass.com/world/2197737",
+          "ozet": "Peter Szijjarto noted that he had come to the parliamentary hearings voluntarily, although the law did not require him to respond to the national security committee’s request",
+          "yayin_tarihi": "Mon, 05 Oct 2026 16:47:40 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Putin to attend CIS summit in Turkmenistan this week",
+          "baslik": "People like Merz, head of intelligence try to drag Germany into fight with Russia — MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2197273",
-          "ozet": "The Russian leader will also inaugurate a high-tech enterprise and hold a meeting with members of the Russian Security Council",
-          "yayin_tarihi": "Sun, 04 Oct 2026 13:21:45 +0300",
+          "url": "https://tass.com/politics/2197735",
+          "ozet": "Russian Foreign Ministry Spokeswoman Maria Zakharova drew attention to Martin Jaeger’s statement that he allegedly sees a danger of violent confrontation between Germany and Russia",
+          "yayin_tarihi": "Mon, 05 Oct 2026 16:46:38 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-04T12:06:34.891693"
+      "taranma_zamani": "2026-10-05T14:11:39.337909"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-04T12:06:34.891694"
+      "taranma_zamani": "2026-10-05T14:11:39.337911"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "中国推行汉语教学 蒙族小学生与祖辈沟通困难",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/2026/10/05/china-ethnic-minorities-mongol-ethnic-group-bilingual-education/",
+          "ozet": "内蒙古蒙古族小学生在学校接受汉语教学后，家庭中的母语交流也出现困难。有教师和海外蒙古族人士对自由亚洲电台说，一些孩子入学后逐渐说不出日常物品的蒙古语名称，牧区孩子回家说汉语，与不熟悉汉语的祖辈沟通出现困难。",
+          "yayin_tarihi": "Mon, 05 Oct 2026 07:50:07 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "五个少数民族团体东京游行，抗议中国民族政策",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/yataibaodao/2026/10/05/minority-march-tokyo/",
+          "ozet": "10月3日，旅居日本的五个团体在东京涩谷举行中华人民共和国成立77周年抗议游行。数十名参与者手持横幅，随后前往中国驻日本大使馆表达诉求。",
+          "yayin_tarihi": "Mon, 05 Oct 2026 05:51:51 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "中国渔船东沙拒离 海巡水炮驱离后救援",
           "kaynak": "www.rfa.org",
@@ -171,25 +187,9 @@
           "ozet": "总部位于英国的非营利人权机构“西藏观察”（Tibet Watch）根据中国政府公开文件調查後发现，这些设备被部署在曾发生抗议、宗教集会、水坝争议及藏人跨境流亡的地区，使警方能够监控固定摄像头难以覆盖的牧场、高山隘口和边境路线。",
           "yayin_tarihi": "Thu, 01 Oct 2026 14:00:00 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "九九草地密电——有，还是没有",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/ytbdzhuantixilie/2026/09/29/daiqin-bookexcerpt-ccp-history/",
-          "ozet": "编者按：本文节选自中国知名记者戴晴尚未出版的《问史笔记》，由本台独家刊发，标题为编者所拟。全文聚焦探索中共党史上的“九九草地密电”之谜。",
-          "yayin_tarihi": "Tue, 29 Sep 2026 11:04:52 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "潘石屹旧视频突现网络　回国与政治立场引热议",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/09/28/china-pan-shiyi-ren-zhiqiang-soho-china-leaked-video/",
-          "ozet": "一段潘石屹在饭局上讲话的视频，近日在海内外社交平台流传。潘石屹是SOHO中国创始人，近年来长期居住美国。他在视频中说，好友任志强曾把一篇疑似讽刺习近平的文章发给11个人，自己是第一个收件人，“其他的几个人”后来被抓。",
-          "yayin_tarihi": "Mon, 28 Sep 2026 08:23:28 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-04T12:06:34.891806"
+      "taranma_zamani": "2026-10-05T14:11:39.337918"
     }
   }
 }
