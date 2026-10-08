@@ -1,10 +1,34 @@
 {
-  "olusturma_tarihi": "2026-10-07",
-  "olusturma_zamani": "2026-10-07T13:02:37.030304",
+  "olusturma_tarihi": "2026-10-08",
+  "olusturma_zamani": "2026-10-08T13:09:43.846814",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "MSB: Askeri kuvvet ve yeteneklerin Suudi Arabistana sağlanması ve konuşlandırılması için tedbirler görüşülmüştür",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/msb-askeri-kuvvet-ve-yeteneklerin-suudi-arabistana-saglanmasi-ve-konuslandirilmasi-icin-tedbirler-gorusulmustur-959522.html",
+          "ozet": "Milli Savunma Bakanlığı, Mekke Savunma İttifakı Stratejik Siyasi ve Savunma Komitesi toplantısına ilişkin, \"Üzerinde mutabık kalınan askeri kuvvet ve yeteneklerin Suudi Arabistan’a sağlanması ve konuşlandırılması için gerekli tedbirler görüşülmüştür\" açıklamasını yaptı.",
+          "yayin_tarihi": "Thu, 08 Oct 2026 12:00:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Uzay Kongresi tarihinde ilk kez gençler için özel alan kuruldu",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/bilim-teknoloji/uzay-kongresi-tarihinde-ilk-kez-gencler-icin-ozel-alan-kuruldu-959474.html",
+          "ozet": "Antalya'da devam eden 77'nci Uluslararası Uzay Kongresi'nde gençler için açılan \"Future Space\" alanında, genç girişimciler uluslararası uzay sektörünün temsilcileriyle bir araya geldi. Alanda ayrıca TEKNOFEST şampiyonlarının projeleri de sergileniyor.",
+          "yayin_tarihi": "Thu, 08 Oct 2026 05:42:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Rusya ile Fransa arasında nükleer füze testi gerilimi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/rusya-ile-fransa-arasinda-nukleer-fuze-testi-gerilimi-959478.html",
+          "ozet": "Kremlin, Fransa'nın nükleer kapasiteli balistik füze denemesini, savunma politikasını Rusya ile çatışma üzerine kuran çıkmaz sokak niteliğinde bir strateji olarak değerlendirdi.",
+          "yayin_tarihi": "Thu, 08 Oct 2026 06:33:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Cumhurbaşkanı Erdoğan, Putin ile görüştü",
           "kaynak": "www.trthaber.com",
@@ -14,140 +38,124 @@
           "dil": "Türkçe"
         },
         {
-          "baslik": "Cevdet Yılmaz: Ekim ayında 1 milyon liraya kadar anapara ödemelerinin yapılabileceğini öngörüyoruz",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cevdet-yilmaz-ekim-ayinda-1-milyon-liraya-kadar-anapara-odemelerinin-yapilabilecegini-ongoruyoruz-959413.html",
-          "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Bu süreçte oluşan özel zararlar için Hazine kaynağı kullanılmayacak. Tasfiye kurallarını içeren teklifin yasalaşması halinde ekim ayı içinde 1 milyon liraya kadar anapara ödemelerinin yapılabileceğini öngörüyoruz\" dedi.",
-          "yayin_tarihi": "Wed, 07 Oct 2026 14:30:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
           "baslik": "Berna Laçin hakkında halkı kin ve düşmanlığa tahrik soruşturması",
           "kaynak": "www.trthaber.com",
           "url": "https://www.trthaber.com/haber/gundem/berna-lacin-hakkinda-halki-kin-ve-dusmanliga-tahrik-sorusturmasi-959408.html",
           "ozet": "Ankara Cumhuriyet Başsavcılığı, sosyal medya hesabından yaptığı paylaşım nedeniyle Berna Laçin hakkında soruşturma başlattı.",
           "yayin_tarihi": "Wed, 07 Oct 2026 13:17:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Şehit polis Türkoğlu için tören düzenlendi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/sehit-polis-turkoglu-icin-toren-duzenlendi-959410.html",
-          "ozet": "Ankara'daki polis uygulama noktasında ateş açılması sonucu şehit olan polis memuru Ahmet Türkoğlu için Ankara Emniyet Müdürlüğünde tören düzenlendi.",
-          "yayin_tarihi": "Wed, 07 Oct 2026 14:06:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Fon tasfiyesine ilişkin kanun teklifi Meclis'e sunulacak",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/fon-tasfiyesine-iliskin-kanun-teklifi-meclise-sunulacak-959306.html",
-          "ozet": "Tasfiye edilen fonlara ilişkin yeni bir gelişme yaşandı. Meclis'e tasfiye edilen fonlarla ilgili yeni bir kanun teklifi sunulacak. 11 maddelik kanun teklifinin ekim ayı içinde yasalaşması bekleniyor.",
-          "yayin_tarihi": "Tue, 06 Oct 2026 17:42:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-07T13:02:37.030236"
+      "taranma_zamani": "2026-10-08T13:09:43.846580"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Ukraine Claws Back Land in the Donbas, Thwarting a Russian Push",
+          "baslik": "South Korea Recalls Envoy From Ukraine in Dispute Over North Korean POWs",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/07/world/europe/ukraine-battlefield-operation-vivaldi.html",
-          "ozet": "Moscow says its capture of the region is inevitable. But Kyiv has so far stymied Russian efforts to encircle Ukrainian “fortress belt” cities.",
-          "yayin_tarihi": "Wed, 07 Oct 2026 12:02:09 +0000",
+          "url": "https://www.nytimes.com/2026/10/08/world/asia/ukraine-south-korea-ambassador.html",
+          "ozet": "President Volodymyr Zelensky of Ukraine revealed last month that two POWs defected to South Korea. South Korea accused him of breaking a confidentiality agreement.",
+          "yayin_tarihi": "Thu, 08 Oct 2026 12:55:01 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "U.S. Formally Seeks Information From Russia About Possible Plague Death",
+          "baslik": "China Expands Its Military Reach by Building a Base in Laos",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/07/world/europe/russia-plague-us-trump-state-department.html",
-          "ozet": "The lack of details from the Russian authorities has unnerved U.S. officials and others around the world.",
-          "yayin_tarihi": "Wed, 07 Oct 2026 11:17:09 +0000",
+          "url": "https://www.nytimes.com/2026/10/08/world/asia/china-military-base-laos.html",
+          "ozet": "The new runway in Ban Keun is currently used by only small jets. Neighboring nations are watching warily to see if Beijing expands it for larger aircraft.",
+          "yayin_tarihi": "Thu, 08 Oct 2026 12:44:19 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Europe’s Trade Tensions With China Are Coming to a Head",
+          "baslik": "‘Absolute Nightmare’: Inside the Russian Warehouses Bombarded by Ukraine",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/07/business/china-europe-trade-issues.html",
-          "ozet": "The European Union is weighing tougher trade measures as negotiators prepare to meet Chinese officials in Beijing, with surging exports from China pressuring key industries in Europe.",
-          "yayin_tarihi": "Wed, 07 Oct 2026 09:06:15 +0000",
+          "url": "https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html",
+          "ozet": "Middle-of-the-night evacuations and fears about death have become the norm for workers at Russian e-commerce companies targeted by Ukraine.",
+          "yayin_tarihi": "Thu, 08 Oct 2026 09:01:31 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "How a Shadow Economy in Asia Is Keeping Iranian Oil Flowing",
+          "baslik": "A Plague Mystery in Siberia",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/07/world/asia/iran-shadow-fleet-asia.html",
-          "ozet": "Companies continue to service a “dark fleet” of Iranian tankers in waters off Malaysia in spite of Washington’s threat to target them.",
-          "yayin_tarihi": "Wed, 07 Oct 2026 11:58:37 +0000",
+          "url": "https://www.nytimes.com/2026/10/07/world/plague-siberia-russia-sports-betting.html",
+          "ozet": "The death of a Russian lab worker has spawned rumors. Here are the facts.",
+          "yayin_tarihi": "Thu, 08 Oct 2026 05:06:17 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "How a Small Business Got Entangled in U.S. Sanctions on Iranian Oil",
+          "baslik": "Fears of a Plague Outbreak in Russia: What to Know",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/07/world/asia/malaysia-shipping-iran-oil-us-sanctions.html",
-          "ozet": "The case of a small Malaysian shipping agency illustrates the challenges Washington faces in its effort to stanch the flow of Iranian oil.",
-          "yayin_tarihi": "Wed, 07 Oct 2026 09:02:02 +0000",
+          "url": "https://www.nytimes.com/2026/10/07/world/europe/russia-plague-fears-what-to-know.html",
+          "ozet": "Russian authorities aren’t saying much about the death of a woman who worked in a lab studying plague. But experts say any risk of contagion would be limited.",
+          "yayin_tarihi": "Wed, 07 Oct 2026 19:43:20 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-07T13:02:37.030250"
+      "taranma_zamani": "2026-10-08T13:09:43.846598"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Turkey ready to facilitate direct Russia-Ukraine contacts, Erdogan says",
+          "baslik": "Zelensky can't deliver on threats of escalation against Moscow — Russian envoy",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2198831",
-          "ozet": "Turkish President Recep Tayyip Erdogan held a phone call with Russian President Vladimir Putin",
-          "yayin_tarihi": "Wed, 07 Oct 2026 15:58:55 +0300",
+          "url": "https://tass.com/politics/2199333",
+          "ozet": "According to Dmitry Polyansky, Vladimir Zelensky \"still hopes to inflict at least some significant damage on Moscow\"",
+          "yayin_tarihi": "Thu, 08 Oct 2026 16:03:31 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia harvested more wheat, fruits than in last year — PM",
+          "baslik": "FACTBOX: What is known about approval of EU’s 22nd sanctions package against Russia",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2198825",
-          "ozet": "\"Incremental growth is also in place for fisheries and for production of pork and eggs,\" Mikhail Mishustin added",
-          "yayin_tarihi": "Wed, 07 Oct 2026 15:51:14 +0300",
+          "url": "https://tass.com/world/2199325",
+          "ozet": "Estonia has asked the EU to exclude one Russian company and an associated individual from the 22nd sanctions package",
+          "yayin_tarihi": "Thu, 08 Oct 2026 15:54:23 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia’s Safiullin advances to second round of Shanghai Masters",
+          "baslik": "Talks between Tehran, Washington ongoing — Iranian foreign minister",
           "kaynak": "tass.com",
-          "url": "https://tass.com/sports/2198823",
-          "ozet": "Roman Safiullin will face Argentina’s Francisco Cerundolo, the 21st seed, in the second round",
-          "yayin_tarihi": "Wed, 07 Oct 2026 15:49:59 +0300",
+          "url": "https://tass.com/world/2199321",
+          "ozet": "The sides are exchanging messages through intermediaries",
+          "yayin_tarihi": "Thu, 08 Oct 2026 15:50:28 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Over 60% of Italians oppose continued arms supplies to Ukraine — poll",
+          "baslik": "Russia's state arms firm puts Nerekhta-E ground robotic system up for sales globally",
           "kaynak": "tass.com",
-          "url": "https://tass.com/society/2198803",
-          "ozet": "Russia has repeatedly said that arms supplies to the Kiev regime only prolong the conflict in Ukraine",
-          "yayin_tarihi": "Wed, 07 Oct 2026 15:27:28 +0300",
+          "url": "https://tass.com/defense/2199317",
+          "ozet": "The system can be deployed in both field and urban environments, Rosoboronexport said",
+          "yayin_tarihi": "Thu, 08 Oct 2026 15:48:04 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Iran holds talks amidst full-scale war to defend its rights, President Pezeshkian says",
+          "baslik": "Russia ready to further develop economic ties with Georgia — diplomat",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2198795",
-          "ozet": "Masoud Pezeshkian noted that Tehran maintains dialogue with neighboring countries \"to meet some of the Islamic Republic’s needs\"",
-          "yayin_tarihi": "Wed, 07 Oct 2026 15:20:14 +0300",
+          "url": "https://tass.com/economy/2199315",
+          "ozet": "Maria Zakharova that significant progress had been made in trade and tourism in recent years",
+          "yayin_tarihi": "Thu, 08 Oct 2026 15:46:29 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-07T13:02:37.030271"
+      "taranma_zamani": "2026-10-08T13:09:43.846624"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-07T13:02:37.030272"
+      "taranma_zamani": "2026-10-08T13:09:43.846626"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "俄抗鼠疫实验室员工死亡 绥芬河疾控宣传防疫",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shehui/2026/10/08/china-russialaboratory-confirmed-plaguesuifenheoutbreak/",
+          "ozet": "俄罗斯西伯利亚伊尔库茨克抗鼠疫研究所一名员工因严重肺炎死亡，引发外界对肺鼠疫及实验室感染的担忧。与俄罗斯接壤的中国绥芬河市疾控中心说，当地正通过微信公众号、发放宣传单和健康知识讲座等方式开展防疫宣传。",
+          "yayin_tarihi": "Thu, 08 Oct 2026 06:42:51 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "抖音数字梗疑指四通桥 评论区遭封视频下架",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "10月3日，旅居日本的五个团体在东京涩谷举行中华人民共和国成立77周年抗议游行。数十名参与者手持横幅，随后前往中国驻日本大使馆表达诉求。",
           "yayin_tarihi": "Mon, 05 Oct 2026 05:51:51 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "中国渔船东沙拒离 海巡水炮驱离后救援",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/yataibaodao/2026/10/02/taiwandongshacross-straitchinese-fishing-vessel/",
-          "ozet": "台湾海巡署10月2日称，“云林舰”1日下午在东沙岛东方27浬、限制水域内8浬，发现中国籍“粤惠东渔75066”及“金鲨”两艘渔船违法下锚作业。“粤”船经广播后离开，“金鲨”仍拒绝起锚。",
-          "yayin_tarihi": "Fri, 02 Oct 2026 13:02:58 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-07T13:02:37.030279"
+      "taranma_zamani": "2026-10-08T13:09:43.846633"
     }
   }
 }
