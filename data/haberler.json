@@ -1,16 +1,16 @@
 {
-  "olusturma_tarihi": "2026-10-08",
-  "olusturma_zamani": "2026-10-08T13:09:43.846814",
+  "olusturma_tarihi": "2026-10-09",
+  "olusturma_zamani": "2026-10-09T12:56:27.715163",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "MSB: Askeri kuvvet ve yeteneklerin Suudi Arabistana sağlanması ve konuşlandırılması için tedbirler görüşülmüştür",
+          "baslik": "Bakan Gürlek: 187 milyar liralık haksız kazanç tespiti yapıldı",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/msb-askeri-kuvvet-ve-yeteneklerin-suudi-arabistana-saglanmasi-ve-konuslandirilmasi-icin-tedbirler-gorusulmustur-959522.html",
-          "ozet": "Milli Savunma Bakanlığı, Mekke Savunma İttifakı Stratejik Siyasi ve Savunma Komitesi toplantısına ilişkin, \"Üzerinde mutabık kalınan askeri kuvvet ve yeteneklerin Suudi Arabistan’a sağlanması ve konuşlandırılması için gerekli tedbirler görüşülmüştür\" açıklamasını yaptı.",
-          "yayin_tarihi": "Thu, 08 Oct 2026 12:00:00 +0300",
+          "url": "https://www.trthaber.com/haber/gundem/bakan-gurlek-187-milyar-liralik-haksiz-kazanc-tespiti-yapildi-959603.html",
+          "ozet": "Adalet Bakanı Akın Gürlek, Cumhurbaşkanı Recep Tayyip Erdoğan’ın talimatıyla yürütülen fon soruşturmasına ilişkin yapay zeka desteğiyle 187 milyar liralık haksız kazancın tespit edildiğini, önceden haber alarak fondan çıkan isimlerin belirlendiğini ve TMSF’nin bu paraların iadesi için harekete geçtiğini duyurdu.",
+          "yayin_tarihi": "Fri, 09 Oct 2026 08:42:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -46,11 +46,43 @@
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-08T13:09:43.846580"
+      "taranma_zamani": "2026-10-09T12:56:27.714965"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html",
+          "ozet": "Moscow has used tactics of fear and ambiguity to try to divide NATO and limit support for Ukraine. But how should Europe retaliate? And how hard?",
+          "yayin_tarihi": "Fri, 09 Oct 2026 12:08:34 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Russia’s Silence on Possible Plague Outbreak Stokes Fears of a Cover-Up",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/08/world/europe/russia-plague-outbreak.html",
+          "ozet": "As rumors spread about a possible plague outbreak in Siberia, the Kremlin turned to a familiar playbook: offering little information about potential bad news.",
+          "yayin_tarihi": "Thu, 08 Oct 2026 18:22:08 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "In Trump’s Russian Oil Deal, Middle East Funds Are the Biggest Owners",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/08/world/europe/trump-russia-oil-deal-lukoil-middle-east-investors.html",
+          "ozet": "A majority of ownership in a proposed multibillion-dollar deal would go to a group of Middle Eastern investors, including some with business ties to U.S. negotiators.",
+          "yayin_tarihi": "Thu, 08 Oct 2026 16:28:17 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Escalating Assaults on Ukrainian Cities Are Taking an Enormous Toll",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/08/world/europe/russia-ukraine-war-attack-bus.html",
+          "ozet": "At least 30 people were killed in a Russian strike on a commuter bus in the country’s east, officials said, a day after an attack on an apartment building far behind the combat zone killed 22.",
+          "yayin_tarihi": "Thu, 08 Oct 2026 20:59:30 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "South Korea Recalls Envoy From Ukraine in Dispute Over North Korean POWs",
           "kaynak": "rss.nytimes.com",
@@ -58,96 +90,72 @@
           "ozet": "President Volodymyr Zelensky of Ukraine revealed last month that two POWs defected to South Korea. South Korea accused him of breaking a confidentiality agreement.",
           "yayin_tarihi": "Thu, 08 Oct 2026 12:55:01 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "China Expands Its Military Reach by Building a Base in Laos",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/08/world/asia/china-military-base-laos.html",
-          "ozet": "The new runway in Ban Keun is currently used by only small jets. Neighboring nations are watching warily to see if Beijing expands it for larger aircraft.",
-          "yayin_tarihi": "Thu, 08 Oct 2026 12:44:19 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "‘Absolute Nightmare’: Inside the Russian Warehouses Bombarded by Ukraine",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html",
-          "ozet": "Middle-of-the-night evacuations and fears about death have become the norm for workers at Russian e-commerce companies targeted by Ukraine.",
-          "yayin_tarihi": "Thu, 08 Oct 2026 09:01:31 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "A Plague Mystery in Siberia",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/07/world/plague-siberia-russia-sports-betting.html",
-          "ozet": "The death of a Russian lab worker has spawned rumors. Here are the facts.",
-          "yayin_tarihi": "Thu, 08 Oct 2026 05:06:17 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Fears of a Plague Outbreak in Russia: What to Know",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/07/world/europe/russia-plague-fears-what-to-know.html",
-          "ozet": "Russian authorities aren’t saying much about the death of a woman who worked in a lab studying plague. But experts say any risk of contagion would be limited.",
-          "yayin_tarihi": "Wed, 07 Oct 2026 19:43:20 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-08T13:09:43.846598"
+      "taranma_zamani": "2026-10-09T12:56:27.714982"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Zelensky can't deliver on threats of escalation against Moscow — Russian envoy",
+          "baslik": "Tehran will not give up on dialogue with Washington, despite US attacks — Pezeshkian",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2199333",
-          "ozet": "According to Dmitry Polyansky, Vladimir Zelensky \"still hopes to inflict at least some significant damage on Moscow\"",
-          "yayin_tarihi": "Thu, 08 Oct 2026 16:03:31 +0300",
+          "url": "https://tass.com/world/2199881",
+          "ozet": "Once the proposals are finalized, the two sides will sit down and sum up the results through mediators, the Iranian president added",
+          "yayin_tarihi": "Fri, 09 Oct 2026 15:53:35 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "FACTBOX: What is known about approval of EU’s 22nd sanctions package against Russia",
+          "baslik": "Russian troops liberate five communities in Ukraine operation over week — top brass",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2199325",
-          "ozet": "Estonia has asked the EU to exclude one Russian company and an associated individual from the 22nd sanctions package",
-          "yayin_tarihi": "Thu, 08 Oct 2026 15:54:23 +0300",
+          "url": "https://tass.com/politics/2199873",
+          "ozet": "The Russian forces liberated the settlements of Annopolye in the Kharkov Region, Novaya Kazachya in the Kharkov Region, Kiyanitsa in the Sumy Region and Samoilovka and Golubkovo in the Zaporozhye Region",
+          "yayin_tarihi": "Fri, 09 Oct 2026 15:43:30 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Talks between Tehran, Washington ongoing — Iranian foreign minister",
+          "baslik": "Iranian president suggests CIS+1 format be established",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2199321",
-          "ozet": "The sides are exchanging messages through intermediaries",
-          "yayin_tarihi": "Thu, 08 Oct 2026 15:50:28 +0300",
+          "url": "https://tass.com/world/2199871",
+          "ozet": "According to Masoud Pezeshkian, regional diplomacy \"should serve as an instrument of crisis management, maintaining ties, preventing the spread of conflicts, and fostering practical cooperation\"",
+          "yayin_tarihi": "Fri, 09 Oct 2026 15:40:01 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia's state arms firm puts Nerekhta-E ground robotic system up for sales globally",
+          "baslik": "Russia open for foreign companies respecting its laws, traditions — official",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2199317",
-          "ozet": "The system can be deployed in both field and urban environments, Rosoboronexport said",
-          "yayin_tarihi": "Thu, 08 Oct 2026 15:48:04 +0300",
+          "url": "https://tass.com/economy/2199865",
+          "ozet": "Sergey Kiriyenko said the full-fledged independence can only persist if the country has its own alternative solutions",
+          "yayin_tarihi": "Fri, 09 Oct 2026 15:35:42 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia ready to further develop economic ties with Georgia — diplomat",
+          "baslik": "US military lobbies Trump to carry out strikes 80 km deep inside Iranian territory — TV",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2199315",
-          "ozet": "Maria Zakharova that significant progress had been made in trade and tourism in recent years",
-          "yayin_tarihi": "Thu, 08 Oct 2026 15:46:29 +0300",
+          "url": "https://tass.com/world/2199863",
+          "ozet": "According to the source, the United States is currently \"focusing on imposing a blockade on Iranian ships and ports\"",
+          "yayin_tarihi": "Fri, 09 Oct 2026 15:21:12 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-08T13:09:43.846624"
+      "taranma_zamani": "2026-10-09T12:56:27.715004"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-08T13:09:43.846626"
+      "taranma_zamani": "2026-10-09T12:56:27.715006"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "陪诊喂猫遛狗 中国失业青年谋生新选择",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shehui/2026/10/09/china-youth-unemployment-cat-feeding-and-dog-walking-young-peoples-career-choices/",
+          "ozet": "陪同患者看病、替外出的宠物主人喂猫遛狗，这些按次或按小时收费的照料服务，正成为中国部分年轻人的就业选择。中国媒体今年报道，上门宠物照料和陪诊需求增加，吸引兼职者及转行人员接单。",
+          "yayin_tarihi": "Fri, 09 Oct 2026 07:46:32 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "俄抗鼠疫实验室员工死亡 绥芬河疾控宣传防疫",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "内蒙古蒙古族小学生在学校接受汉语教学后，家庭中的母语交流也出现困难。有教师和海外蒙古族人士对自由亚洲电台说，一些孩子入学后逐渐说不出日常物品的蒙古语名称，牧区孩子回家说汉语，与不熟悉汉语的祖辈沟通出现困难。",
           "yayin_tarihi": "Mon, 05 Oct 2026 07:50:07 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "五个少数民族团体东京游行，抗议中国民族政策",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/yataibaodao/2026/10/05/minority-march-tokyo/",
-          "ozet": "10月3日，旅居日本的五个团体在东京涩谷举行中华人民共和国成立77周年抗议游行。数十名参与者手持横幅，随后前往中国驻日本大使馆表达诉求。",
-          "yayin_tarihi": "Mon, 05 Oct 2026 05:51:51 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-08T13:09:43.846633"
+      "taranma_zamani": "2026-10-09T12:56:27.715013"
     }
   }
 }
