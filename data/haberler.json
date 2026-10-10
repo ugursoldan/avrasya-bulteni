@@ -1,10 +1,34 @@
 {
-  "olusturma_tarihi": "2026-10-09",
-  "olusturma_zamani": "2026-10-09T12:56:27.715163",
+  "olusturma_tarihi": "2026-10-10",
+  "olusturma_zamani": "2026-10-10T12:14:29.504646",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Türk dünyasından gelen futbolcular Türk statüsünde sayılacak",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/spor/turk-dunyasindan-gelen-futbolcular-turk-statusunde-sayilacak-959739.html",
+          "ozet": "AK Parti Genel Başkan Yardımcısı Kürşad Zorlu, Türk dünyasından Türkiye'ye gelen futbolcuların yabancı değil \"Türk statüsünde\" oynaması ve iki yılda bir \"Türk Kupası\" futbol turnuvası düzenlenmesi için çalışma başlatıldığını söyledi.",
+          "yayin_tarihi": "Sat, 10 Oct 2026 12:23:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Mavi Medresenin dijital ikizi oluşturuldu",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/kultur-sanat/mavi-medresenin-dijital-ikizi-olusturuldu-959737.html",
+          "ozet": "Sivas'ta üzerindeki gök mavisi çinilerden dolayı \"Mavi Medrese\" olarak da anılan Gök Medrese'nin üç boyutlu dijital ikizi oluşturuldu.",
+          "yayin_tarihi": "Sat, 10 Oct 2026 12:02:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Doğanın eşsiz mimarisi: Türkiyenin mağaraları",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/interaktif/doganin-essiz-mimarisi-turkiyenin-magaralari-959670.html",
+          "ozet": "Sarkıtlar, dikitler, göller hatta nehirler… Kendi içinde apayrı bir dünya barındıran mağaralar turizme kazandırılarak birer cazibe noktası haline geliyor. Türkiye’nin dört bir yanına yayılan mağaralar benzersiz güzellikleriyle her yıl daha fazla ziyaretçi ağırlıyor. İşte Türkiye'nin birbirinden özel mağaraları...",
+          "yayin_tarihi": "Fri, 09 Oct 2026 16:16:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Bakan Gürlek: 187 milyar liralık haksız kazanç tespiti yapıldı",
           "kaynak": "www.trthaber.com",
@@ -20,43 +44,35 @@
           "ozet": "Antalya'da devam eden 77'nci Uluslararası Uzay Kongresi'nde gençler için açılan \"Future Space\" alanında, genç girişimciler uluslararası uzay sektörünün temsilcileriyle bir araya geldi. Alanda ayrıca TEKNOFEST şampiyonlarının projeleri de sergileniyor.",
           "yayin_tarihi": "Thu, 08 Oct 2026 05:42:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Rusya ile Fransa arasında nükleer füze testi gerilimi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/rusya-ile-fransa-arasinda-nukleer-fuze-testi-gerilimi-959478.html",
-          "ozet": "Kremlin, Fransa'nın nükleer kapasiteli balistik füze denemesini, savunma politikasını Rusya ile çatışma üzerine kuran çıkmaz sokak niteliğinde bir strateji olarak değerlendirdi.",
-          "yayin_tarihi": "Thu, 08 Oct 2026 06:33:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Cumhurbaşkanı Erdoğan, Putin ile görüştü",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-putin-ile-gorustu-959415.html",
-          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Rusya Devlet Başkanı Vladimir Putin ile telefonda görüştü.",
-          "yayin_tarihi": "Wed, 07 Oct 2026 14:38:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Berna Laçin hakkında halkı kin ve düşmanlığa tahrik soruşturması",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/berna-lacin-hakkinda-halki-kin-ve-dusmanliga-tahrik-sorusturmasi-959408.html",
-          "ozet": "Ankara Cumhuriyet Başsavcılığı, sosyal medya hesabından yaptığı paylaşım nedeniyle Berna Laçin hakkında soruşturma başlattı.",
-          "yayin_tarihi": "Wed, 07 Oct 2026 13:17:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-09T12:56:27.714965"
+      "taranma_zamani": "2026-10-10T12:14:29.504406"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html",
+          "ozet": "Experts said they believed that with modern testing technology, the Russian authorities should know the answer by now.",
+          "yayin_tarihi": "Sat, 10 Oct 2026 11:00:14 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html",
+          "ozet": "Government planes reported to be carrying the Russian president and his aides home from Turkmenistan were forced to circle or divert to another city.",
+          "yayin_tarihi": "Fri, 09 Oct 2026 20:15:34 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html",
           "ozet": "Moscow has used tactics of fear and ambiguity to try to divide NATO and limit support for Ukraine. But how should Europe retaliate? And how hard?",
-          "yayin_tarihi": "Fri, 09 Oct 2026 12:08:34 +0000",
+          "yayin_tarihi": "Fri, 09 Oct 2026 22:07:24 +0000",
           "dil": "İngilizce"
         },
         {
@@ -74,80 +90,80 @@
           "ozet": "A majority of ownership in a proposed multibillion-dollar deal would go to a group of Middle Eastern investors, including some with business ties to U.S. negotiators.",
           "yayin_tarihi": "Thu, 08 Oct 2026 16:28:17 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "Escalating Assaults on Ukrainian Cities Are Taking an Enormous Toll",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/08/world/europe/russia-ukraine-war-attack-bus.html",
-          "ozet": "At least 30 people were killed in a Russian strike on a commuter bus in the country’s east, officials said, a day after an attack on an apartment building far behind the combat zone killed 22.",
-          "yayin_tarihi": "Thu, 08 Oct 2026 20:59:30 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "South Korea Recalls Envoy From Ukraine in Dispute Over North Korean POWs",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/08/world/asia/ukraine-south-korea-ambassador.html",
-          "ozet": "President Volodymyr Zelensky of Ukraine revealed last month that two POWs defected to South Korea. South Korea accused him of breaking a confidentiality agreement.",
-          "yayin_tarihi": "Thu, 08 Oct 2026 12:55:01 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-09T12:56:27.714982"
+      "taranma_zamani": "2026-10-10T12:14:29.504423"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Tehran will not give up on dialogue with Washington, despite US attacks — Pezeshkian",
+          "baslik": "Putin conveyed Iran’s vision for possible conflict resolution to Trump — Kremlin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2199881",
-          "ozet": "Once the proposals are finalized, the two sides will sit down and sum up the results through mediators, the Iranian president added",
-          "yayin_tarihi": "Fri, 09 Oct 2026 15:53:35 +0300",
+          "url": "https://tass.com/politics/2200271",
+          "ozet": "Russian President held two meetings with Pezeshkian on the sidelines of a summit in Turkmenistan, Dmitry Peskov said",
+          "yayin_tarihi": "Sat, 10 Oct 2026 14:07:19 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian troops liberate five communities in Ukraine operation over week — top brass",
+          "baslik": "Most of Putin-Trump phone call focused on Ukraine settlement — Kremlin spokesman",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2199873",
-          "ozet": "The Russian forces liberated the settlements of Annopolye in the Kharkov Region, Novaya Kazachya in the Kharkov Region, Kiyanitsa in the Sumy Region and Samoilovka and Golubkovo in the Zaporozhye Region",
-          "yayin_tarihi": "Fri, 09 Oct 2026 15:43:30 +0300",
+          "url": "https://tass.com/politics/2200269",
+          "ozet": "Russian president responded with understanding to some proposals from the US side regarding steps aimed at de-escalation, Dmitriy Peskov said",
+          "yayin_tarihi": "Sat, 10 Oct 2026 14:02:56 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Iranian president suggests CIS+1 format be established",
+          "baslik": "Russia’s Battlegroup North takes control of Lukashovo, Lobanovka in Kharkov Region",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2199871",
-          "ozet": "According to Masoud Pezeshkian, regional diplomacy \"should serve as an instrument of crisis management, maintaining ties, preventing the spread of conflicts, and fostering practical cooperation\"",
-          "yayin_tarihi": "Fri, 09 Oct 2026 15:40:01 +0300",
+          "url": "https://tass.com/defense/2200267",
+          "ozet": "According to the Russian defense ministry, Battlegroup Center also liberated 82 buildings, including four industrial facilities, in Dobropolye",
+          "yayin_tarihi": "Sat, 10 Oct 2026 13:26:38 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia open for foreign companies respecting its laws, traditions — official",
+          "baslik": "Russian air defenses down 725 drones, Ukrainian losses total about 1,455 troops",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2199865",
-          "ozet": "Sergey Kiriyenko said the full-fledged independence can only persist if the country has its own alternative solutions",
-          "yayin_tarihi": "Fri, 09 Oct 2026 15:35:42 +0300",
+          "url": "https://tass.com/defense/2200261",
+          "ozet": "Ukrainian units trapped in an encirclement in the Kharkov Region lost up to 45 servicemen over the past day",
+          "yayin_tarihi": "Sat, 10 Oct 2026 12:55:39 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US military lobbies Trump to carry out strikes 80 km deep inside Iranian territory — TV",
+          "baslik": "Investigation completed in criminal case against FAZ journalist Martens",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2199863",
-          "ozet": "According to the source, the United States is currently \"focusing on imposing a blockade on Iranian ships and ports\"",
-          "yayin_tarihi": "Fri, 09 Oct 2026 15:21:12 +0300",
+          "url": "https://tass.com/world/2200233",
+          "ozet": "At a press conference by Vladimir Zelensky and Serbian President Aleksandar Vucic in Belgrade Martens asked what European countries could do to \"help kill more Russians",
+          "yayin_tarihi": "Sat, 10 Oct 2026 11:40:36 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-09T12:56:27.715004"
+      "taranma_zamani": "2026-10-10T12:14:29.504452"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-09T12:56:27.715006"
+      "taranma_zamani": "2026-10-10T12:14:29.504454"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "金明日牧师获兰托斯人权奖",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/10/09/china-pastor-ezra-jin-lantos-prize/",
+          "ozet": "兰托斯人权与正义基金会10月9日宣布，将2026年汤姆·兰托斯人权奖授予中国锡安教会创办人金明日牧师。基金会主席斯韦特对本台藏语部表示这一决定是为了表彰他在压力与迫害下坚守信仰的勇气。",
+          "yayin_tarihi": "Fri, 09 Oct 2026 23:16:36 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "中国“熊猫外交”再现",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/guoji/2026/10/09/china-panda-diplomacy-atlanta-pandas/",
+          "ozet": "🐼 中国“熊猫外交”再现！\n\n9月27日，大熊猫“平平”和“福双”抵达美国亚特兰大。习近平此前在与特朗普会晤时称，大熊猫是中美两国人民的“友好使者”。\n\n在美中关系复杂之际，这次熊猫赴美释放了什么信号？",
+          "yayin_tarihi": "Fri, 09 Oct 2026 15:33:10 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "陪诊喂猫遛狗 中国失业青年谋生新选择",
           "kaynak": "www.rfa.org",
@@ -171,25 +187,9 @@
           "ozet": "10月5日，中国一名抖音博主上传一段题为“68和它的两个妖精邻居”的视频，画面将三个人物分别标注为“67”“68”和“69”。视频发布后，评论区出现涉及数字“4”的留言，随后无法正常显示。",
           "yayin_tarihi": "Wed, 07 Oct 2026 12:34:23 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "智库报告：“菲华各界联合会\" 整合闽籍华社 为北京统战骨干",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/guoji/yatai/2026/10/07/chinese-philipino-unitedfront/",
-          "ozet": "一个在菲律宾登记、声称以促进菲华社团“良好关系与情谊”为宗旨的组织，却在中文资料中承诺反对“台独”、推动“祖国统一”，并在中国驻菲律宾大使馆指导下开展工作。",
-          "yayin_tarihi": "Wed, 07 Oct 2026 03:51:51 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "中国推行汉语教学 蒙族小学生与祖辈沟通困难",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/2026/10/05/china-ethnic-minorities-mongol-ethnic-group-bilingual-education/",
-          "ozet": "内蒙古蒙古族小学生在学校接受汉语教学后，家庭中的母语交流也出现困难。有教师和海外蒙古族人士对自由亚洲电台说，一些孩子入学后逐渐说不出日常物品的蒙古语名称，牧区孩子回家说汉语，与不熟悉汉语的祖辈沟通出现困难。",
-          "yayin_tarihi": "Mon, 05 Oct 2026 07:50:07 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-09T12:56:27.715013"
+      "taranma_zamani": "2026-10-10T12:14:29.504462"
     }
   }
 }
