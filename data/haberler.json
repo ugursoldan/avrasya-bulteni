@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-10-10",
-  "olusturma_zamani": "2026-10-10T12:14:29.504646",
+  "olusturma_tarihi": "2026-10-11",
+  "olusturma_zamani": "2026-10-11T12:28:42.616959",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "TUSAŞ Motor Sanayii Genel Müdürü Akşit: Yabancı elektrikli arabaları kampüsün içine sokmuyoruz",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/savunma/tusas-motor-sanayii-genel-muduru-aksit-yabanci-elektrikli-arabalari-kampusun-icine-sokmuyoruz-959795.html",
+          "ozet": "TUSAŞ Motor Sanayii (TEI) Genel Müdürü Mahmut Faruk Akşit, \"Biz Türkiye olarak ASELSAN, ROKETSAN, HAVELSAN ve TEI olarak yabancı elektrikli arabaları artık kampüsün içine sokmuyoruz. Çünkü çok fazla sensör var, kamera, bilmem ne, haritasını çıkarıyor ve kontrolü bizde değil.\" dedi.",
+          "yayin_tarihi": "Sun, 11 Oct 2026 11:04:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Türk dünyasından gelen futbolcular Türk statüsünde sayılacak",
           "kaynak": "www.trthaber.com",
@@ -36,27 +44,35 @@
           "ozet": "Adalet Bakanı Akın Gürlek, Cumhurbaşkanı Recep Tayyip Erdoğan’ın talimatıyla yürütülen fon soruşturmasına ilişkin yapay zeka desteğiyle 187 milyar liralık haksız kazancın tespit edildiğini, önceden haber alarak fondan çıkan isimlerin belirlendiğini ve TMSF’nin bu paraların iadesi için harekete geçtiğini duyurdu.",
           "yayin_tarihi": "Fri, 09 Oct 2026 08:42:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Uzay Kongresi tarihinde ilk kez gençler için özel alan kuruldu",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/bilim-teknoloji/uzay-kongresi-tarihinde-ilk-kez-gencler-icin-ozel-alan-kuruldu-959474.html",
-          "ozet": "Antalya'da devam eden 77'nci Uluslararası Uzay Kongresi'nde gençler için açılan \"Future Space\" alanında, genç girişimciler uluslararası uzay sektörünün temsilcileriyle bir araya geldi. Alanda ayrıca TEKNOFEST şampiyonlarının projeleri de sergileniyor.",
-          "yayin_tarihi": "Thu, 08 Oct 2026 05:42:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-10T12:14:29.504406"
+      "taranma_zamani": "2026-10-11T12:28:42.616728"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html",
+          "ozet": "Though born in Ukraine, Alexsander supports the Russian cause. He wishes he had deleted one photo from his phone.",
+          "yayin_tarihi": "Sun, 11 Oct 2026 09:00:28 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html",
+          "ozet": "Returning to China after decades away, a correspondent finds bullet trains, dazzling skylines — and a surveillance state more paranoid and pervasive than ever.",
+          "yayin_tarihi": "Sun, 11 Oct 2026 09:00:12 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html",
           "ozet": "Experts said they believed that with modern testing technology, the Russian authorities should know the answer by now.",
-          "yayin_tarihi": "Sat, 10 Oct 2026 11:00:14 +0000",
+          "yayin_tarihi": "Sat, 10 Oct 2026 17:09:17 +0000",
           "dil": "İngilizce"
         },
         {
@@ -74,76 +90,60 @@
           "ozet": "Moscow has used tactics of fear and ambiguity to try to divide NATO and limit support for Ukraine. But how should Europe retaliate? And how hard?",
           "yayin_tarihi": "Fri, 09 Oct 2026 22:07:24 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "Russia’s Silence on Possible Plague Outbreak Stokes Fears of a Cover-Up",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/08/world/europe/russia-plague-outbreak.html",
-          "ozet": "As rumors spread about a possible plague outbreak in Siberia, the Kremlin turned to a familiar playbook: offering little information about potential bad news.",
-          "yayin_tarihi": "Thu, 08 Oct 2026 18:22:08 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "In Trump’s Russian Oil Deal, Middle East Funds Are the Biggest Owners",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/08/world/europe/trump-russia-oil-deal-lukoil-middle-east-investors.html",
-          "ozet": "A majority of ownership in a proposed multibillion-dollar deal would go to a group of Middle Eastern investors, including some with business ties to U.S. negotiators.",
-          "yayin_tarihi": "Thu, 08 Oct 2026 16:28:17 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-10T12:14:29.504423"
+      "taranma_zamani": "2026-10-11T12:28:42.616746"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Putin conveyed Iran’s vision for possible conflict resolution to Trump — Kremlin",
+          "baslik": "Ballistic missiles, not Trump's words, bringing about victory in special op — Medvedev",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2200271",
-          "ozet": "Russian President held two meetings with Pezeshkian on the sidelines of a summit in Turkmenistan, Dmitry Peskov said",
-          "yayin_tarihi": "Sat, 10 Oct 2026 14:07:19 +0300",
+          "url": "https://tass.com/politics/2200529",
+          "ozet": "Earlier, US President stated that Vladimir Zelensky does not want to pursue a peaceful settlement in Ukraine for one reason or another",
+          "yayin_tarihi": "Sun, 11 Oct 2026 15:12:05 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Most of Putin-Trump phone call focused on Ukraine settlement — Kremlin spokesman",
+          "baslik": "Russian forces hit Ukrainian drone production facilities over past day — top brass",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2200269",
-          "ozet": "Russian president responded with understanding to some proposals from the US side regarding steps aimed at de-escalation, Dmitriy Peskov said",
-          "yayin_tarihi": "Sat, 10 Oct 2026 14:02:56 +0300",
+          "url": "https://tass.com/defense/2200513",
+          "ozet": "Ukraine has lost over 1,405 servicemen in the special military operation zone in the past 24 hours",
+          "yayin_tarihi": "Sun, 11 Oct 2026 15:07:20 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia’s Battlegroup North takes control of Lukashovo, Lobanovka in Kharkov Region",
+          "baslik": "Russian forces continue to mop up western Dobropolye, mine area — top brass",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2200267",
-          "ozet": "According to the Russian defense ministry, Battlegroup Center also liberated 82 buildings, including four industrial facilities, in Dobropolye",
-          "yayin_tarihi": "Sat, 10 Oct 2026 13:26:38 +0300",
+          "url": "https://tass.com/defense/2200519",
+          "ozet": "The 51st Army of Russia’s battlegroup Center has advanced in the central and northwestern parts of Dobropolye in the Donetsk People’s Republic",
+          "yayin_tarihi": "Sun, 11 Oct 2026 15:03:20 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian air defenses down 725 drones, Ukrainian losses total about 1,455 troops",
+          "baslik": "Russian forces liberate DPR’s Novotroitskoye, Petrovskoye — top brass",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2200261",
-          "ozet": "Ukrainian units trapped in an encirclement in the Kharkov Region lost up to 45 servicemen over the past day",
-          "yayin_tarihi": "Sat, 10 Oct 2026 12:55:39 +0300",
+          "url": "https://tass.com/defense/2200511",
+          "ozet": "Russia’s battlegroup North has established control over Reznikovo and Kupino in the Kharkov Region over the past 24 hours",
+          "yayin_tarihi": "Sun, 11 Oct 2026 14:49:33 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Investigation completed in criminal case against FAZ journalist Martens",
+          "baslik": "Air defenses down two smart bombs, 909 Ukrainian drones over past day - top brass",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2200233",
-          "ozet": "At a press conference by Vladimir Zelensky and Serbian President Aleksandar Vucic in Belgrade Martens asked what European countries could do to \"help kill more Russians",
-          "yayin_tarihi": "Sat, 10 Oct 2026 11:40:36 +0300",
+          "url": "https://tass.com/defense/2200515",
+          "ozet": "According to the ministry, since the start of the special military operation, Russian servicemen destroyed 674 enemy aircraft",
+          "yayin_tarihi": "Sun, 11 Oct 2026 13:36:01 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-10T12:14:29.504452"
+      "taranma_zamani": "2026-10-11T12:28:42.616762"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-10T12:14:29.504454"
+      "taranma_zamani": "2026-10-11T12:28:42.616764"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-10T12:14:29.504462"
+      "taranma_zamani": "2026-10-11T12:28:42.616930"
     }
   }
 }
