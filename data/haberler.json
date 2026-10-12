@@ -1,6 +1,6 @@
 {
-  "olusturma_tarihi": "2026-10-11",
-  "olusturma_zamani": "2026-10-11T12:28:42.616959",
+  "olusturma_tarihi": "2026-10-12",
+  "olusturma_zamani": "2026-10-12T15:00:19.334477",
   "diller": {
     "tr": {
       "dil": "Türkçe",
@@ -46,11 +46,35 @@
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-11T12:28:42.616728"
+      "taranma_zamani": "2026-10-12T15:00:19.334166"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "Russian Film Aims to Rewrite History of Deadly Theater Bombing in Ukraine",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/12/world/europe/mariupol-theater-russian-documentary-witnesses.html",
+          "ozet": "A documentary claims that Ukraine, not Russia, attacked the drama theater in Mariupol, where hundreds of civilians died.",
+          "yayin_tarihi": "Mon, 12 Oct 2026 09:00:56 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Iran Offers to Mediate Between Its Houthi Allies and Saudi Arabia",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia-mediate.html",
+          "ozet": "Iran has long backed the Houthis, a Yemeni militia, and it made the offer as Saudi Arabia contends with increasingly deadly attacks from them.",
+          "yayin_tarihi": "Mon, 12 Oct 2026 13:33:38 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
+          "ozet": "Three deadly attacks by the Iran-backed Houthis in Yemen on an airport in the Saudi capital underscored the asymmetrical nature of their conflict with the kingdom.",
+          "yayin_tarihi": "Sun, 11 Oct 2026 19:57:48 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
           "kaynak": "rss.nytimes.com",
@@ -60,94 +84,86 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.",
+          "baslik": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html",
-          "ozet": "Returning to China after decades away, a correspondent finds bullet trains, dazzling skylines — and a surveillance state more paranoid and pervasive than ever.",
-          "yayin_tarihi": "Sun, 11 Oct 2026 09:00:12 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html",
-          "ozet": "Experts said they believed that with modern testing technology, the Russian authorities should know the answer by now.",
-          "yayin_tarihi": "Sat, 10 Oct 2026 17:09:17 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html",
-          "ozet": "Government planes reported to be carrying the Russian president and his aides home from Turkmenistan were forced to circle or divert to another city.",
-          "yayin_tarihi": "Fri, 09 Oct 2026 20:15:34 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html",
-          "ozet": "Moscow has used tactics of fear and ambiguity to try to divide NATO and limit support for Ukraine. But how should Europe retaliate? And how hard?",
-          "yayin_tarihi": "Fri, 09 Oct 2026 22:07:24 +0000",
+          "url": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
+          "ozet": "President Trump lashed out at President Volodymyr Zelensky for striking Russian oil refineries. Mr. Zelensky said he’ll stop — if Russia does too.",
+          "yayin_tarihi": "Sun, 11 Oct 2026 17:59:30 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-11T12:28:42.616746"
+      "taranma_zamani": "2026-10-12T15:00:19.334189"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Ballistic missiles, not Trump's words, bringing about victory in special op — Medvedev",
+          "baslik": "Russia’s Baltic Fleet training ship Perekop concludes visit to Mozambique",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2200529",
-          "ozet": "Earlier, US President stated that Vladimir Zelensky does not want to pursue a peaceful settlement in Ukraine for one reason or another",
-          "yayin_tarihi": "Sun, 11 Oct 2026 15:12:05 +0300",
+          "url": "https://tass.com/defense/2201015",
+          "ozet": "Representatives of the Perekop command visited the headquarters of the Mozambican Naval Forces, where they met with the country’s Navy Commander, Rear-Admiral Estevao Nchokomala",
+          "yayin_tarihi": "Mon, 12 Oct 2026 17:51:07 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian forces hit Ukrainian drone production facilities over past day — top brass",
+          "baslik": "US resorts to using language of ultimatums with Kiev — Russian MP",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2200513",
-          "ozet": "Ukraine has lost over 1,405 servicemen in the special military operation zone in the past 24 hours",
-          "yayin_tarihi": "Sun, 11 Oct 2026 15:07:20 +0300",
+          "url": "https://tass.com/politics/2201009",
+          "ozet": "Viktor Yemelyanenko noted that following the phone call between the Russian and US leaders, Vladimir Putin and Donald Trump, the United States unexpectedly lifted its sanctions on imports of Russian diesel fuel until April 7, 2027",
+          "yayin_tarihi": "Mon, 12 Oct 2026 17:50:01 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian forces continue to mop up western Dobropolye, mine area — top brass",
+          "baslik": "Trump calls decision to strike diesel fuel deal with Russia 'the right choice'",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2200519",
-          "ozet": "The 51st Army of Russia’s battlegroup Center has advanced in the central and northwestern parts of Dobropolye in the Donetsk People’s Republic",
-          "yayin_tarihi": "Sun, 11 Oct 2026 15:03:20 +0300",
+          "url": "https://tass.com/world/2201005",
+          "ozet": "The US president said the EU paid Russia 250 billion dollars for energy",
+          "yayin_tarihi": "Mon, 12 Oct 2026 17:48:36 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian forces liberate DPR’s Novotroitskoye, Petrovskoye — top brass",
+          "baslik": "Gazprom Board to discuss revisions to 2026 investment program and budget",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2200511",
-          "ozet": "Russia’s battlegroup North has established control over Reznikovo and Kupino in the Kharkov Region over the past 24 hours",
-          "yayin_tarihi": "Sun, 11 Oct 2026 14:49:33 +0300",
+          "url": "https://tass.com/economy/2201003",
+          "ozet": "The board members will also review the development of gas transmission infrastructure, gas supply systems, and regional gasification efforts in Eastern Siberia and the Russian Far East",
+          "yayin_tarihi": "Mon, 12 Oct 2026 17:46:50 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Air defenses down two smart bombs, 909 Ukrainian drones over past day - top brass",
+          "baslik": "West planning Baltic Sea blockade including adjacent straits — Russian presidential aide",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2200515",
-          "ozet": "According to the ministry, since the start of the special military operation, Russian servicemen destroyed 674 enemy aircraft",
-          "yayin_tarihi": "Sun, 11 Oct 2026 13:36:01 +0300",
+          "url": "https://tass.com/politics/2200999",
+          "ozet": "Nikolay Patrushev noted that maritime logistics are of great importance to both Moscow and Beijing",
+          "yayin_tarihi": "Mon, 12 Oct 2026 17:41:16 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-11T12:28:42.616762"
+      "taranma_zamani": "2026-10-12T15:00:19.334217"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-11T12:28:42.616764"
+      "taranma_zamani": "2026-10-12T15:00:19.334219"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "人权工作者：以”有罪推定”原则对抗跨国镇压  ",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/guoji/2026/10/12/transnational-repression-leeminzhe/",
+          "ozet": "曾经遭中国政府以「颠覆国家政权罪」判刑五年的台湾人权工作者李明哲周日(11日)在一场发表会上主张，中国政府经常通过外国民间人士执行暴力威胁及跨国镇压行动。面对这种情况，民主国家或许应该改采「有罪推定」的司法原则，以对抗跨国镇压行动",
+          "yayin_tarihi": "Mon, 12 Oct 2026 13:45:49 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "俄罗斯疑似鼠疫触发预警  内蒙广东湖南发提示风险",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shehui/2026/10/12/china-cdc-plague-russia/",
+          "ozet": "湖南、广东及内蒙古呼伦贝尔近日陆续发布鼠疫防护信息。湖南疾控部门的健康提醒于10月9日见诸媒体，广东疾控局同日发布鼠疫科普。呼伦贝尔疾控中心的风险提示于10日已有公开报道，明确提及俄罗斯防鼠疫研究所员工因不明原因肺炎死亡事件。",
+          "yayin_tarihi": "Mon, 12 Oct 2026 13:00:00 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "金明日牧师获兰托斯人权奖",
           "kaynak": "www.rfa.org",
@@ -171,25 +187,9 @@
           "ozet": "陪同患者看病、替外出的宠物主人喂猫遛狗，这些按次或按小时收费的照料服务，正成为中国部分年轻人的就业选择。中国媒体今年报道，上门宠物照料和陪诊需求增加，吸引兼职者及转行人员接单。",
           "yayin_tarihi": "Fri, 09 Oct 2026 07:46:32 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "俄抗鼠疫实验室员工死亡 绥芬河疾控宣传防疫",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/10/08/china-russialaboratory-confirmed-plaguesuifenheoutbreak/",
-          "ozet": "俄罗斯西伯利亚伊尔库茨克抗鼠疫研究所一名员工因严重肺炎死亡，引发外界对肺鼠疫及实验室感染的担忧。与俄罗斯接壤的中国绥芬河市疾控中心说，当地正通过微信公众号、发放宣传单和健康知识讲座等方式开展防疫宣传。",
-          "yayin_tarihi": "Thu, 08 Oct 2026 06:42:51 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "抖音数字梗疑指四通桥 评论区遭封视频下架",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/10/07/china-internet-douyin-comment-section-blocked-freedom-of-speech/",
-          "ozet": "10月5日，中国一名抖音博主上传一段题为“68和它的两个妖精邻居”的视频，画面将三个人物分别标注为“67”“68”和“69”。视频发布后，评论区出现涉及数字“4”的留言，随后无法正常显示。",
-          "yayin_tarihi": "Wed, 07 Oct 2026 12:34:23 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-11T12:28:42.616930"
+      "taranma_zamani": "2026-10-12T15:00:19.334444"
     }
   }
 }
