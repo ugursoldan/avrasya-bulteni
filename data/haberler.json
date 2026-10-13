@@ -1,6 +1,6 @@
 {
-  "olusturma_tarihi": "2026-10-12",
-  "olusturma_zamani": "2026-10-12T15:00:19.334477",
+  "olusturma_tarihi": "2026-10-13",
+  "olusturma_zamani": "2026-10-13T13:56:17.425705",
   "diller": {
     "tr": {
       "dil": "Türkçe",
@@ -46,108 +46,116 @@
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-12T15:00:19.334166"
+      "taranma_zamani": "2026-10-13T13:56:17.425512"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Russian Film Aims to Rewrite History of Deadly Theater Bombing in Ukraine",
+          "baslik": "A Father’s Mission Is to Show the World ‘What Russia Did to My Family’",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/12/world/europe/mariupol-theater-russian-documentary-witnesses.html",
-          "ozet": "A documentary claims that Ukraine, not Russia, attacked the drama theater in Mariupol, where hundreds of civilians died.",
-          "yayin_tarihi": "Mon, 12 Oct 2026 09:00:56 +0000",
+          "url": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-war-soldier-sumy-family.html",
+          "ozet": "After a glide bomb killed his wife and younger daughter, Yevhen Ovcharov was determined to prevent other Ukrainians from dying the same way.",
+          "yayin_tarihi": "Tue, 13 Oct 2026 13:17:24 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iran Offers to Mediate Between Its Houthi Allies and Saudi Arabia",
+          "baslik": "U.K. and Europe Recoil From Trump’s Diesel Deal With Putin",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia-mediate.html",
-          "ozet": "Iran has long backed the Houthis, a Yemeni militia, and it made the offer as Saudi Arabia contends with increasingly deadly attacks from them.",
-          "yayin_tarihi": "Mon, 12 Oct 2026 13:33:38 +0000",
+          "url": "https://www.nytimes.com/2026/10/13/world/europe/trump-putin-diesel-uk-europe-gift.html",
+          "ozet": "Shocked by the U.S. agreement with Russia, which Ukraine has called “a gift” to President Putin, officials in Europe have coalesced around a cautious diplomatic message.",
+          "yayin_tarihi": "Tue, 13 Oct 2026 09:03:47 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
+          "baslik": "Zelensky Comment Raises Fear That U.S. Is Cutting Intelligence Sharing",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
-          "ozet": "Three deadly attacks by the Iran-backed Houthis in Yemen on an airport in the Saudi capital underscored the asymmetrical nature of their conflict with the kingdom.",
-          "yayin_tarihi": "Sun, 11 Oct 2026 19:57:48 +0000",
+          "url": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html",
+          "ozet": "The Ukrainian leader said Kyiv had no early warning from its Western partners before a Russian ballistic missile attack. But some such attacks do go undetected.",
+          "yayin_tarihi": "Tue, 13 Oct 2026 13:50:25 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
+          "baslik": "MI5 Chief Warns of Growing Iranian and Russian Threats to U.K.",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html",
-          "ozet": "Though born in Ukraine, Alexsander supports the Russian cause. He wishes he had deleted one photo from his phone.",
-          "yayin_tarihi": "Sun, 11 Oct 2026 09:00:28 +0000",
+          "url": "https://www.nytimes.com/2026/10/13/world/europe/mi5-uk-threat-iran-russia.html",
+          "ozet": "The head of Britain’s domestic security agency accused Tehran and Moscow of escalating their hybrid campaigns on British soil. He called Iran-led attacks on Jewish communities “sickening.”",
+          "yayin_tarihi": "Tue, 13 Oct 2026 12:02:17 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
+          "baslik": "Bulgaria Summons Russian Ambassador After More Black Sea Drone Strikes",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
-          "ozet": "President Trump lashed out at President Volodymyr Zelensky for striking Russian oil refineries. Mr. Zelensky said he’ll stop — if Russia does too.",
-          "yayin_tarihi": "Sun, 11 Oct 2026 17:59:30 +0000",
+          "url": "https://www.nytimes.com/2026/10/13/world/europe/black-sea-drones-russia-bulgaria-nato.html",
+          "ozet": "Drones struck two ships off Bulgaria’s Black Sea coast, according to the country’s prime minister.",
+          "yayin_tarihi": "Tue, 13 Oct 2026 11:16:53 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-12T15:00:19.334189"
+      "taranma_zamani": "2026-10-13T13:56:17.425536"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia’s Baltic Fleet training ship Perekop concludes visit to Mozambique",
+          "baslik": "Russia remains key supplier of oil to China, India in August — OPEC",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2201015",
-          "ozet": "Representatives of the Perekop command visited the headquarters of the Mozambican Naval Forces, where they met with the country’s Navy Commander, Rear-Admiral Estevao Nchokomala",
-          "yayin_tarihi": "Mon, 12 Oct 2026 17:51:07 +0300",
+          "url": "https://tass.com/economy/2201473",
+          "ozet": "Russia provided 45% of India's oil imports in August, while another 12% came from the UAE, and 9% from Venezuela, the OPEC reported",
+          "yayin_tarihi": "Tue, 13 Oct 2026 16:38:29 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US resorts to using language of ultimatums with Kiev — Russian MP",
+          "baslik": "Russia ready to share knowledge in tax sphere — Deputy PM",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2201009",
-          "ozet": "Viktor Yemelyanenko noted that following the phone call between the Russian and US leaders, Vladimir Putin and Donald Trump, the United States unexpectedly lifted its sanctions on imports of Russian diesel fuel until April 7, 2027",
-          "yayin_tarihi": "Mon, 12 Oct 2026 17:50:01 +0300",
+          "url": "https://tass.com/economy/2201469",
+          "ozet": "Russia's work in the field of tax administration generates high interest, Alexey Overchuk said",
+          "yayin_tarihi": "Tue, 13 Oct 2026 16:32:52 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Trump calls decision to strike diesel fuel deal with Russia 'the right choice'",
+          "baslik": "Ukrainian strikes kill 52 Russian residents, including 5 children, over past week — envoy",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2201005",
-          "ozet": "The US president said the EU paid Russia 250 billion dollars for energy",
-          "yayin_tarihi": "Mon, 12 Oct 2026 17:48:36 +0300",
+          "url": "https://tass.com/politics/2201467",
+          "ozet": "96% of the total number of casualties were injured in attacks by drones",
+          "yayin_tarihi": "Tue, 13 Oct 2026 16:29:01 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Gazprom Board to discuss revisions to 2026 investment program and budget",
+          "baslik": "Russia cuts oil production by 38,000 bpd in September, OPEC says",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2201003",
-          "ozet": "The board members will also review the development of gas transmission infrastructure, gas supply systems, and regional gasification efforts in Eastern Siberia and the Russian Far East",
-          "yayin_tarihi": "Mon, 12 Oct 2026 17:46:50 +0300",
+          "url": "https://tass.com/economy/2201463",
+          "ozet": "In September, Russia's production quota under the OPEC+ agreement stood at 9.949 million bpd, factoring in voluntary output caps",
+          "yayin_tarihi": "Tue, 13 Oct 2026 16:24:32 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "West planning Baltic Sea blockade including adjacent straits — Russian presidential aide",
+          "baslik": "US should not have eliminated Iran’s leadership — Trump",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2200999",
-          "ozet": "Nikolay Patrushev noted that maritime logistics are of great importance to both Moscow and Beijing",
-          "yayin_tarihi": "Mon, 12 Oct 2026 17:41:16 +0300",
+          "url": "https://tass.com/world/2201461",
+          "ozet": "The US leader noted that Washington had no idea who was he dealing with at present",
+          "yayin_tarihi": "Tue, 13 Oct 2026 16:23:33 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-12T15:00:19.334217"
+      "taranma_zamani": "2026-10-13T13:56:17.425562"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-12T15:00:19.334219"
+      "taranma_zamani": "2026-10-13T13:56:17.425563"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "“中国间谍”涉嫌监视赖清德之子：美司法部起诉加州华裔女子",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/2026/10/13/china-spy-allegedly-monitored-taiwan-president-lai-son/",
+          "ozet": "“看到他了，年轻男性，就是年轻的那个。”美国司法部披露的聊天记录，揭开一起疑似中国间谍案：加州华裔房地产经纪人被控在美国监视赖清德之子。她究竟如何传递情报？另一名关联人士为何已赴中国？",
+          "yayin_tarihi": "Tue, 13 Oct 2026 09:53:55 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "人权工作者：以”有罪推定”原则对抗跨国镇压  ",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "🐼 中国“熊猫外交”再现！\n\n9月27日，大熊猫“平平”和“福双”抵达美国亚特兰大。习近平此前在与特朗普会晤时称，大熊猫是中美两国人民的“友好使者”。\n\n在美中关系复杂之际，这次熊猫赴美释放了什么信号？",
           "yayin_tarihi": "Fri, 09 Oct 2026 15:33:10 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "陪诊喂猫遛狗 中国失业青年谋生新选择",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/10/09/china-youth-unemployment-cat-feeding-and-dog-walking-young-peoples-career-choices/",
-          "ozet": "陪同患者看病、替外出的宠物主人喂猫遛狗，这些按次或按小时收费的照料服务，正成为中国部分年轻人的就业选择。中国媒体今年报道，上门宠物照料和陪诊需求增加，吸引兼职者及转行人员接单。",
-          "yayin_tarihi": "Fri, 09 Oct 2026 07:46:32 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-12T15:00:19.334444"
+      "taranma_zamani": "2026-10-13T13:56:17.425570"
     }
   }
 }
