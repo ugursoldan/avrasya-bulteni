@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-10-14",
-  "olusturma_zamani": "2026-10-14T11:33:23.516898",
+  "olusturma_tarihi": "2026-10-15",
+  "olusturma_zamani": "2026-10-15T11:11:30.507198",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "48 il için 'sarı' ve 'turuncu' kodlu uyarı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/48-il-icin-sari-ve-turuncu-kodlu-uyari-960152.html",
+          "ozet": "Yurt genelinde sağanak ve fırtınanın etkili olması bekleniyor. Sıcaklıklar mevsim normalleri altına düşecek. Meteoroloji Genel Müdürlüğü, bugün 48 il için sarı ve turuncu kodlu uyarıda bulundu.",
+          "yayin_tarihi": "Thu, 15 Oct 2026 08:06:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Bahçeli: Türkiye ve Azerbaycan aynı gönül coğrafyasının iki güçlü devletidir",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/bahceli-turkiye-ve-azerbaycan-ayni-gonul-cografyasinin-iki-guclu-devletidir-960106.html",
+          "ozet": "MHP Genel Başkanı Devlet Bahçeli, \"Ege’den Hazar’a, geçmişten geleceğe Türkiye ve Azerbaycan aynı gönül coğrafyasının iki güçlü devletidir\" açıklamasını yaptı. TDT Zirvesi'nin tarihi önem taşıdığına vurgu yapan Bahçeli, \"Türkiye, Türk dünyasının ortak hedeflerinin hayata geçirilmesine yönelik önemli bir sorumluluk üstlenecektir\" dedi.",
+          "yayin_tarihi": "Wed, 14 Oct 2026 15:23:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "TUSAŞ Motor Sanayii Genel Müdürü Akşit: Yabancı elektrikli arabaları kampüsün içine sokmuyoruz",
           "kaynak": "www.trthaber.com",
@@ -28,126 +44,118 @@
           "ozet": "Sivas'ta üzerindeki gök mavisi çinilerden dolayı \"Mavi Medrese\" olarak da anılan Gök Medrese'nin üç boyutlu dijital ikizi oluşturuldu.",
           "yayin_tarihi": "Sat, 10 Oct 2026 12:02:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Doğanın eşsiz mimarisi: Türkiyenin mağaraları",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/interaktif/doganin-essiz-mimarisi-turkiyenin-magaralari-959670.html",
-          "ozet": "Sarkıtlar, dikitler, göller hatta nehirler… Kendi içinde apayrı bir dünya barındıran mağaralar turizme kazandırılarak birer cazibe noktası haline geliyor. Türkiye’nin dört bir yanına yayılan mağaralar benzersiz güzellikleriyle her yıl daha fazla ziyaretçi ağırlıyor. İşte Türkiye'nin birbirinden özel mağaraları...",
-          "yayin_tarihi": "Fri, 09 Oct 2026 16:16:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Bakan Gürlek: 187 milyar liralık haksız kazanç tespiti yapıldı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/bakan-gurlek-187-milyar-liralik-haksiz-kazanc-tespiti-yapildi-959603.html",
-          "ozet": "Adalet Bakanı Akın Gürlek, Cumhurbaşkanı Recep Tayyip Erdoğan’ın talimatıyla yürütülen fon soruşturmasına ilişkin yapay zeka desteğiyle 187 milyar liralık haksız kazancın tespit edildiğini, önceden haber alarak fondan çıkan isimlerin belirlendiğini ve TMSF’nin bu paraların iadesi için harekete geçtiğini duyurdu.",
-          "yayin_tarihi": "Fri, 09 Oct 2026 08:42:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-14T11:33:23.516697"
+      "taranma_zamani": "2026-10-15T11:11:30.506907"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "A Father’s Mission Is to Show the World ‘What Russia Did to My Family’",
+          "baslik": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-war-soldier-sumy-family.html",
-          "ozet": "After a glide bomb killed his wife and younger daughter, Yevhen Ovcharov was determined to prevent other Ukrainians from dying the same way.",
-          "yayin_tarihi": "Tue, 13 Oct 2026 20:31:14 +0000",
+          "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
+          "ozet": "President Volodymyr Zelensky made the announcement in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.",
+          "yayin_tarihi": "Thu, 15 Oct 2026 10:00:40 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Trump Hands Victories to Putin, Who Offers More War in Return",
+          "baslik": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html",
-          "ozet": "Russia has reaped a diesel deal and an increase in U.S. pressure on Ukraine as President Trump’s political needs align with his longstanding inclinations toward Russia.",
-          "yayin_tarihi": "Wed, 14 Oct 2026 05:03:25 +0000",
+          "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
+          "ozet": "Ukrainian engineers are rushing to perfect A.I.-guided, jet-driven interceptors. Their goal: to stop a fast Russian threat in the latest round of a deadly tech duel.",
+          "yayin_tarihi": "Thu, 15 Oct 2026 09:03:54 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Russia Detains Japanese Journalist for Alleged Espionage",
+          "baslik": "North Korea and China Open Their Biggest Border Bridge",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/13/world/europe/russia-detains-japanese-journalist.html",
-          "ozet": "The main security service said it had detained a reporter for the Hokkaido Shimbun newspaper in Russia’s far east, where he had been reporting on military recruitment.",
-          "yayin_tarihi": "Tue, 13 Oct 2026 19:55:42 +0000",
+          "url": "https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html",
+          "ozet": "The long-delayed opening of the New Yalu River Bridge comes as the two countries expand trade despite international sanctions imposed on North Korea.",
+          "yayin_tarihi": "Thu, 15 Oct 2026 08:49:12 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "U.K. and Europe Recoil From Trump’s Diesel Deal With Putin",
+          "baslik": "Japan Protests Russia’s Detention of Journalist Accused of Spying",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/13/world/europe/trump-putin-diesel-uk-europe-gift.html",
-          "ozet": "Shocked by the U.S. agreement with Russia, which Ukraine has called “a gift” to President Putin, officials in Europe have coalesced around a cautious diplomatic message.",
-          "yayin_tarihi": "Tue, 13 Oct 2026 14:35:45 +0000",
+          "url": "https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html",
+          "ozet": "Tokyo summoned Russia’s ambassador after a Japanese reporter was arrested in Russia’s far east and accused of collecting military intelligence.",
+          "yayin_tarihi": "Thu, 15 Oct 2026 05:04:38 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row",
+          "baslik": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html",
-          "ozet": "Asked about apparent U.S. threats to cut off intelligence sharing with Kyiv, which can warn of Russian aerial attacks, President Trump said information continued to flow.",
-          "yayin_tarihi": "Tue, 13 Oct 2026 21:17:35 +0000",
+          "url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
+          "ozet": "A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.",
+          "yayin_tarihi": "Thu, 15 Oct 2026 09:06:47 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-14T11:33:23.516727"
+      "taranma_zamani": "2026-10-15T11:11:30.506931"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia to strive for OPEC+ quota compliance — Novak",
+          "baslik": "CAS rejects Russian Curling Federation’s appeal to lift suspension",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2201929",
-          "ozet": "The Russian deputy prime minister said that he cannot give an exact date because there are many uncertainties and various factors involved",
-          "yayin_tarihi": "Wed, 14 Oct 2026 14:24:18 +0300",
+          "url": "https://tass.com/sports/2202469",
+          "ozet": "Russia’s national curling teams have been suspended from international tournaments since 2022 due to the situation in Ukraine",
+          "yayin_tarihi": "Thu, 15 Oct 2026 14:08:57 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian, US energy authorities discussing diesel supplies — Novak",
+          "baslik": "Russia moves to enlist foreign influencers to convey viewpoint to blocked audiences",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2201911",
-          "ozet": "The Russian deputy prime minister said an instrument will be found that will make it possible to support supplies",
-          "yayin_tarihi": "Wed, 14 Oct 2026 14:13:32 +0300",
+          "url": "https://tass.com/politics/2202445",
+          "ozet": "This is necessary under the conditions of the current Western information boycott, Russian Foreign Ministry International Organizations Department Director Kirill Logvinov undescored",
+          "yayin_tarihi": "Thu, 15 Oct 2026 13:28:19 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "SpaceX restrictions could disrupt Ukraine’s SBU operations — expert",
+          "baslik": "France’s detention of tanker requires international condemnation — Russian diplomat",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2201897",
-          "ozet": "Sergey Trukhachev noted that the SpaceX restrictions would directly impact the Ukrainian armed forces as well",
-          "yayin_tarihi": "Wed, 14 Oct 2026 14:01:00 +0300",
+          "url": "https://tass.com/politics/2202441",
+          "ozet": "Alexander Grushko specified that there were no Russian nationals on board",
+          "yayin_tarihi": "Thu, 15 Oct 2026 13:24:50 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Unlike US, EU doing everything to prolong war in Ukraine — Kremlin spokesman",
+          "baslik": "Press review: Ukraine, EU push peace away and US blacks out Kiev's missile sight",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2201863",
-          "ozet": "Dmitry Peskov noted that sabotage of a settlement in Ukraine by the Europeans is possible",
-          "yayin_tarihi": "Wed, 14 Oct 2026 13:42:29 +0300",
+          "url": "https://tass.com/pressreview/2202307",
+          "ozet": "Top stories from the Russian press on Thursday, October 15th",
+          "yayin_tarihi": "Thu, 15 Oct 2026 13:00:01 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Kiev to fail to counter Russian jet-powered drones without Starlink — Zelensky’s adviser",
+          "baslik": "US, Iran have weeks to avert food crisis, UN official warns",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2201845",
-          "ozet": "Earlier, Sergey Beskrestnov reported that SpaceX had restricted overnight the operating speed of Starlink satellite Internet terminals used by the Ukrainian army to 160 km/h",
-          "yayin_tarihi": "Wed, 14 Oct 2026 13:22:08 +0300",
+          "url": "https://tass.com/world/2202391",
+          "ozet": "According to Jorge Moreira da Silva, the issue of fertilizer transit requires an immediate solution",
+          "yayin_tarihi": "Thu, 15 Oct 2026 12:41:18 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-14T11:33:23.516749"
+      "taranma_zamani": "2026-10-15T11:11:30.506959"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-14T11:33:23.516750"
+      "taranma_zamani": "2026-10-15T11:11:30.506961"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "中国“数据找人”催缴社保 民众喊负担重",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shehui/2026/10/15/china-social-security-big-data-economic-downturn-overburdened/",
+          "ozet": "中国官方近日提出，通过“数据找人”等方式寻找尚未参保的人员，动员他们参加社保，连日在社交媒体引发强烈反应。有居民告诉本台，失业和收入不稳定，使他们难以继续承担保费。",
+          "yayin_tarihi": "Thu, 15 Oct 2026 08:24:56 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "中国官场“不倒翁”黄奇帆  卸任重庆市长十年被查",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "湖南、广东及内蒙古呼伦贝尔近日陆续发布鼠疫防护信息。湖南疾控部门的健康提醒于10月9日见诸媒体，广东疾控局同日发布鼠疫科普。呼伦贝尔疾控中心的风险提示于10日已有公开报道，明确提及俄罗斯防鼠疫研究所员工因不明原因肺炎死亡事件。",
           "yayin_tarihi": "Mon, 12 Oct 2026 13:00:00 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "金明日牧师获兰托斯人权奖",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/10/09/china-pastor-ezra-jin-lantos-prize/",
-          "ozet": "兰托斯人权与正义基金会10月9日宣布，将2026年汤姆·兰托斯人权奖授予中国锡安教会创办人金明日牧师。基金会主席斯韦特对本台藏语部表示这一决定是为了表彰他在压力与迫害下坚守信仰的勇气。",
-          "yayin_tarihi": "Fri, 09 Oct 2026 23:16:36 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-14T11:33:23.516758"
+      "taranma_zamani": "2026-10-15T11:11:30.506969"
     }
   }
 }
