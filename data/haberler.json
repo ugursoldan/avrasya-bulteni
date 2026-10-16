@@ -1,10 +1,34 @@
 {
-  "olusturma_tarihi": "2026-10-15",
-  "olusturma_zamani": "2026-10-15T11:11:30.507198",
+  "olusturma_tarihi": "2026-10-16",
+  "olusturma_zamani": "2026-10-16T11:06:09.184095",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "46 bin kişi İstanbul için seferber oldu: Sahada son durum ne?",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/46-bin-kisi-istanbul-icin-seferber-oldu-sahada-son-durum-ne-960288.html",
+          "ozet": "İstanbul’da şiddetli yağışın ardından 9 bin 850 ihbar alındığını açıklayan Bakan Çiftçi, 4 vatandaşın arandığını belirtti. Bakan Kurum ise, \"Kalıcı çözümlere ilişkin istişarelerde bulunacağız. Vatandaşlarımızın neye ihtiyacı varsa biz buna hazırız. Hiçbir vatandaşımızın mağdur olmayacağı bir çözümü ortaya koyacağız\" dedi.",
+          "yayin_tarihi": "Fri, 16 Oct 2026 11:36:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Türkiye'nin 53 yeni silahı ilk kez sahnede",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/turkiyenin-53-yeni-silahi-ilk-kez-sahnede-960196.html",
+          "ozet": "Çelik irade, sarsılmaz disiplin, tam isabet... Türk Silahlı Kuvvetlerimizin üstün ateş gücünü, yüksek koordinasyon kabiliyetini ve harekat etkinliğini ortaya koyduğu Ateş Serbest-2026 faaliyeti başarıyla tamamlandı. Tatbikatında 53 yeni silah sistemi ilk kez sahada kullanıldı. Akıllarda en çok kalan 5 yeni sistemi sizin için derledik...",
+          "yayin_tarihi": "Thu, 15 Oct 2026 15:30:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Cumhurbaşkanı Erdoğan: Devletimizin tüm kurumları sahada tedbirleri alıyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-devletimizin-tum-kurumlari-sahada-tedbirleri-aliyor-960210.html",
+          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"AFAD başta olmak üzere devletimizin tüm kurumları koordinasyon içinde çalışmakta, vatandaşlarımıza gerekli ikazları yaparken sahada tedbirleri almaktadır\" dedi.",
+          "yayin_tarihi": "Thu, 15 Oct 2026 17:23:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "48 il için 'sarı' ve 'turuncu' kodlu uyarı",
           "kaynak": "www.trthaber.com",
@@ -20,43 +44,35 @@
           "ozet": "MHP Genel Başkanı Devlet Bahçeli, \"Ege’den Hazar’a, geçmişten geleceğe Türkiye ve Azerbaycan aynı gönül coğrafyasının iki güçlü devletidir\" açıklamasını yaptı. TDT Zirvesi'nin tarihi önem taşıdığına vurgu yapan Bahçeli, \"Türkiye, Türk dünyasının ortak hedeflerinin hayata geçirilmesine yönelik önemli bir sorumluluk üstlenecektir\" dedi.",
           "yayin_tarihi": "Wed, 14 Oct 2026 15:23:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "TUSAŞ Motor Sanayii Genel Müdürü Akşit: Yabancı elektrikli arabaları kampüsün içine sokmuyoruz",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/savunma/tusas-motor-sanayii-genel-muduru-aksit-yabanci-elektrikli-arabalari-kampusun-icine-sokmuyoruz-959795.html",
-          "ozet": "TUSAŞ Motor Sanayii (TEI) Genel Müdürü Mahmut Faruk Akşit, \"Biz Türkiye olarak ASELSAN, ROKETSAN, HAVELSAN ve TEI olarak yabancı elektrikli arabaları artık kampüsün içine sokmuyoruz. Çünkü çok fazla sensör var, kamera, bilmem ne, haritasını çıkarıyor ve kontrolü bizde değil.\" dedi.",
-          "yayin_tarihi": "Sun, 11 Oct 2026 11:04:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Türk dünyasından gelen futbolcular Türk statüsünde sayılacak",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/spor/turk-dunyasindan-gelen-futbolcular-turk-statusunde-sayilacak-959739.html",
-          "ozet": "AK Parti Genel Başkan Yardımcısı Kürşad Zorlu, Türk dünyasından Türkiye'ye gelen futbolcuların yabancı değil \"Türk statüsünde\" oynaması ve iki yılda bir \"Türk Kupası\" futbol turnuvası düzenlenmesi için çalışma başlatıldığını söyledi.",
-          "yayin_tarihi": "Sat, 10 Oct 2026 12:23:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Mavi Medresenin dijital ikizi oluşturuldu",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/kultur-sanat/mavi-medresenin-dijital-ikizi-olusturuldu-959737.html",
-          "ozet": "Sivas'ta üzerindeki gök mavisi çinilerden dolayı \"Mavi Medrese\" olarak da anılan Gök Medrese'nin üç boyutlu dijital ikizi oluşturuldu.",
-          "yayin_tarihi": "Sat, 10 Oct 2026 12:02:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-15T11:11:30.506907"
+      "taranma_zamani": "2026-10-16T11:06:09.183886"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
+          "ozet": "A day in the Ukrainian capital, a new kind of battlefield far from the front, where daily life means assessing — and accepting — deadly risks.",
+          "yayin_tarihi": "Fri, 16 Oct 2026 10:45:55 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html",
+          "ozet": "Moscow is not winning on the battlefield. Instead, it is seizing an opening to inflict immense human suffering in Ukrainian cities.",
+          "yayin_tarihi": "Thu, 15 Oct 2026 16:05:21 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
-          "ozet": "President Volodymyr Zelensky made the announcement in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.",
-          "yayin_tarihi": "Thu, 15 Oct 2026 10:00:40 +0000",
+          "ozet": "President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.",
+          "yayin_tarihi": "Fri, 16 Oct 2026 02:48:41 +0000",
           "dil": "İngilizce"
         },
         {
@@ -68,86 +84,78 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "North Korea and China Open Their Biggest Border Bridge",
+          "baslik": "Trump’s Deal With Russia Inflames Ukraine War He Vowed to End",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html",
-          "ozet": "The long-delayed opening of the New Yalu River Bridge comes as the two countries expand trade despite international sanctions imposed on North Korea.",
-          "yayin_tarihi": "Thu, 15 Oct 2026 08:49:12 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Japan Protests Russia’s Detention of Journalist Accused of Spying",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html",
-          "ozet": "Tokyo summoned Russia’s ambassador after a Japanese reporter was arrested in Russia’s far east and accused of collecting military intelligence.",
-          "yayin_tarihi": "Thu, 15 Oct 2026 05:04:38 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
-          "ozet": "A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.",
-          "yayin_tarihi": "Thu, 15 Oct 2026 09:06:47 +0000",
+          "url": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html",
+          "ozet": "The Ukrainian president’s defiant decision to continue attacking Russian refineries underscores President Trump’s inability to end a war he had promised to resolve.",
+          "yayin_tarihi": "Fri, 16 Oct 2026 01:02:09 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-15T11:11:30.506931"
+      "taranma_zamani": "2026-10-16T11:06:09.183914"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "CAS rejects Russian Curling Federation’s appeal to lift suspension",
+          "baslik": "US not serious about negotiating with Iran, ambassador to Moscow says",
           "kaynak": "tass.com",
-          "url": "https://tass.com/sports/2202469",
-          "ozet": "Russia’s national curling teams have been suspended from international tournaments since 2022 due to the situation in Ukraine",
-          "yayin_tarihi": "Thu, 15 Oct 2026 14:08:57 +0300",
+          "url": "https://tass.com/world/2202987",
+          "ozet": "According to Kazem Jalali, what is happening today in the Strait of Hormuz, the Persian Gulf and the Bab al-Mandeb Strait is a direct result of the US and Israeli aggression and the naval blockade against Iran",
+          "yayin_tarihi": "Fri, 16 Oct 2026 14:01:51 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia moves to enlist foreign influencers to convey viewpoint to blocked audiences",
+          "baslik": "Russia capable of integrating all energy sources into its mix — aide",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2202445",
-          "ozet": "This is necessary under the conditions of the current Western information boycott, Russian Foreign Ministry International Organizations Department Director Kirill Logvinov undescored",
-          "yayin_tarihi": "Thu, 15 Oct 2026 13:28:19 +0300",
+          "url": "https://tass.com/economy/2202981",
+          "ozet": "Anton Kobyakov noted that the Russian Federation is the only country in the world fully linked by a unified national power grid that is integrated with EAEU member states",
+          "yayin_tarihi": "Fri, 16 Oct 2026 13:57:37 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "France’s detention of tanker requires international condemnation — Russian diplomat",
+          "baslik": "Lavrov comments on targets of Western geopolitical expansion, Afghanistan’s recovery",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2202441",
-          "ozet": "Alexander Grushko specified that there were no Russian nationals on board",
-          "yayin_tarihi": "Thu, 15 Oct 2026 13:24:50 +0300",
+          "url": "https://tass.com/politics/2202979",
+          "ozet": "The Russian top diplomat emphasized that no country is safe from potential color revolutions orchestrated by the West in its pursuit of geopolitical expansion",
+          "yayin_tarihi": "Fri, 16 Oct 2026 13:56:16 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Press review: Ukraine, EU push peace away and US blacks out Kiev's missile sight",
+          "baslik": "Ukraine critically low on Patriot interceptors amid supply disruptions — newspaper",
           "kaynak": "tass.com",
-          "url": "https://tass.com/pressreview/2202307",
-          "ozet": "Top stories from the Russian press on Thursday, October 15th",
-          "yayin_tarihi": "Thu, 15 Oct 2026 13:00:01 +0300",
+          "url": "https://tass.com/world/2202977",
+          "ozet": "According to The Washington Post, NATO continues to provide Patriot interceptors to Kiev as part of a program called the Prioritized Ukraine Requirements List",
+          "yayin_tarihi": "Fri, 16 Oct 2026 13:53:28 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US, Iran have weeks to avert food crisis, UN official warns",
+          "baslik": "India sees potential for cooperation with Tatarstan in IT, finance, cybersecurity",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2202391",
-          "ozet": "According to Jorge Moreira da Silva, the issue of fertilizer transit requires an immediate solution",
-          "yayin_tarihi": "Thu, 15 Oct 2026 12:41:18 +0300",
+          "url": "https://tass.com/economy/2202971",
+          "ozet": "Interested students can visit and explore India, find friends and forge their future business contacts there using the ITEC program, Indian Ambassador to Russia Vinay Kumar said",
+          "yayin_tarihi": "Fri, 16 Oct 2026 13:40:01 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-15T11:11:30.506959"
+      "taranma_zamani": "2026-10-16T11:06:09.183946"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-15T11:11:30.506961"
+      "taranma_zamani": "2026-10-16T11:06:09.183948"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "中国公务员招录总量缩减  但有省份税务系统逆势增招",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shehui/2026/10/16/china-civil-service-recruitment-taxation-chinese-economy/",
+          "ozet": "中国2027年度国家公务员考试计划招录35,691人，比上一年度减少2,428人，连续第二年缩减。其中，税务系统计划招录24,013人，占总数的67.28%。在全国招录总量下降的同时，部分省份税务系统增加名额，多个省份税务岗位占当",
+          "yayin_tarihi": "Fri, 16 Oct 2026 10:40:05 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "中国“数据找人”催缴社保 民众喊负担重",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "曾经遭中国政府以「颠覆国家政权罪」判刑五年的台湾人权工作者李明哲周日(11日)在一场发表会上主张，中国政府经常通过外国民间人士执行暴力威胁及跨国镇压行动。面对这种情况，民主国家或许应该改采「有罪推定」的司法原则，以对抗跨国镇压行动",
           "yayin_tarihi": "Mon, 12 Oct 2026 13:45:49 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "俄罗斯疑似鼠疫触发预警  内蒙广东湖南发提示风险",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/10/12/china-cdc-plague-russia/",
-          "ozet": "湖南、广东及内蒙古呼伦贝尔近日陆续发布鼠疫防护信息。湖南疾控部门的健康提醒于10月9日见诸媒体，广东疾控局同日发布鼠疫科普。呼伦贝尔疾控中心的风险提示于10日已有公开报道，明确提及俄罗斯防鼠疫研究所员工因不明原因肺炎死亡事件。",
-          "yayin_tarihi": "Mon, 12 Oct 2026 13:00:00 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-15T11:11:30.506969"
+      "taranma_zamani": "2026-10-16T11:06:09.183954"
     }
   }
 }
