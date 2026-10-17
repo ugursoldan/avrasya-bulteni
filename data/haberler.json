@@ -1,10 +1,34 @@
 {
-  "olusturma_tarihi": "2026-10-16",
-  "olusturma_zamani": "2026-10-16T11:06:09.184095",
+  "olusturma_tarihi": "2026-10-17",
+  "olusturma_zamani": "2026-10-17T10:25:51.848369",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "İstanbul Valisi Gül: Sel mağdurlarına para yardımı yapıldı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/istanbul-valisi-gul-sel-magdurlarina-para-yardimi-yapildi-960399.html",
+          "ozet": "İstanbul Valisi Davut Gül, sel felaketinin ardından yürütülen çalışmalara ilişkin, dere yataklarını işgal eden yapıların yıkımına başlandığını, acil ihtiyaçlar için 5 binden fazla kişinin hesabına 10'ar bin lira yatırıldığını ve zarar tespit ödemelerinin de pazartesi günü yapılacağını bildirdi.",
+          "yayin_tarihi": "Sat, 17 Oct 2026 11:58:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "İstanbul'a turuncu kodlu uyarı: Kuvvetli yağış ve fırtına bekleniyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/istanbula-turuncu-kodlu-uyari-kuvvetli-yagis-ve-firtina-bekleniyor-960372.html",
+          "ozet": "İstanbul genelinde bugün olumsuz hava koşulları etkili olacak. Kent için \"turuncu\" kodlu meteorolojik uyarı yapılırken, kuvvetli sağanak ve fırtınaya karşı dikkatli olunması istendi.",
+          "yayin_tarihi": "Sat, 17 Oct 2026 07:12:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin, son yolculuğuna uğurlandı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/uskudar-belediye-baskan-vekili-dundar-ziya-gultekin-son-yolculuguna-ugurlandi-960307.html",
+          "ozet": "Düzce'de trafik kazası sonucu hayatını kaybeden Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin için Marmara İlahiyat Camii'nde cenaze töreni düzenlendi.",
+          "yayin_tarihi": "Fri, 16 Oct 2026 14:06:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "46 bin kişi İstanbul için seferber oldu: Sahada son durum ne?",
           "kaynak": "www.trthaber.com",
@@ -20,67 +44,35 @@
           "ozet": "Çelik irade, sarsılmaz disiplin, tam isabet... Türk Silahlı Kuvvetlerimizin üstün ateş gücünü, yüksek koordinasyon kabiliyetini ve harekat etkinliğini ortaya koyduğu Ateş Serbest-2026 faaliyeti başarıyla tamamlandı. Tatbikatında 53 yeni silah sistemi ilk kez sahada kullanıldı. Akıllarda en çok kalan 5 yeni sistemi sizin için derledik...",
           "yayin_tarihi": "Thu, 15 Oct 2026 15:30:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Cumhurbaşkanı Erdoğan: Devletimizin tüm kurumları sahada tedbirleri alıyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-devletimizin-tum-kurumlari-sahada-tedbirleri-aliyor-960210.html",
-          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"AFAD başta olmak üzere devletimizin tüm kurumları koordinasyon içinde çalışmakta, vatandaşlarımıza gerekli ikazları yaparken sahada tedbirleri almaktadır\" dedi.",
-          "yayin_tarihi": "Thu, 15 Oct 2026 17:23:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "48 il için 'sarı' ve 'turuncu' kodlu uyarı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/48-il-icin-sari-ve-turuncu-kodlu-uyari-960152.html",
-          "ozet": "Yurt genelinde sağanak ve fırtınanın etkili olması bekleniyor. Sıcaklıklar mevsim normalleri altına düşecek. Meteoroloji Genel Müdürlüğü, bugün 48 il için sarı ve turuncu kodlu uyarıda bulundu.",
-          "yayin_tarihi": "Thu, 15 Oct 2026 08:06:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Bahçeli: Türkiye ve Azerbaycan aynı gönül coğrafyasının iki güçlü devletidir",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/bahceli-turkiye-ve-azerbaycan-ayni-gonul-cografyasinin-iki-guclu-devletidir-960106.html",
-          "ozet": "MHP Genel Başkanı Devlet Bahçeli, \"Ege’den Hazar’a, geçmişten geleceğe Türkiye ve Azerbaycan aynı gönül coğrafyasının iki güçlü devletidir\" açıklamasını yaptı. TDT Zirvesi'nin tarihi önem taşıdığına vurgu yapan Bahçeli, \"Türkiye, Türk dünyasının ortak hedeflerinin hayata geçirilmesine yönelik önemli bir sorumluluk üstlenecektir\" dedi.",
-          "yayin_tarihi": "Wed, 14 Oct 2026 15:23:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-16T11:06:09.183886"
+      "taranma_zamani": "2026-10-17T10:25:51.848053"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html",
+          "ozet": "Where the two presidents’ war of words will end is anybody’s guess. But if it continues, it could threaten the crucial operational help that Ukraine still gets from the United States.",
+          "yayin_tarihi": "Fri, 16 Oct 2026 19:12:25 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Houthi Attacks on Saudi Arabia Put In Doubt Kingdom’s Sports and Business Events",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/16/world/middleeast/saudi-arabia-houthi-attack-fii-events.html",
+          "ozet": "The Iran-backed group’s attacks have disrupted sports tournaments and threatened business events that the kingdom has long used to attract investment and raise its profile.",
+          "yayin_tarihi": "Fri, 16 Oct 2026 15:52:50 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
           "ozet": "A day in the Ukrainian capital, a new kind of battlefield far from the front, where daily life means assessing — and accepting — deadly risks.",
-          "yayin_tarihi": "Fri, 16 Oct 2026 10:45:55 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html",
-          "ozet": "Moscow is not winning on the battlefield. Instead, it is seizing an opening to inflict immense human suffering in Ukrainian cities.",
-          "yayin_tarihi": "Thu, 15 Oct 2026 16:05:21 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
-          "ozet": "President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.",
-          "yayin_tarihi": "Fri, 16 Oct 2026 02:48:41 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
-          "ozet": "Ukrainian engineers are rushing to perfect A.I.-guided, jet-driven interceptors. Their goal: to stop a fast Russian threat in the latest round of a deadly tech duel.",
-          "yayin_tarihi": "Thu, 15 Oct 2026 09:03:54 +0000",
+          "yayin_tarihi": "Fri, 16 Oct 2026 22:02:04 +0000",
           "dil": "İngilizce"
         },
         {
@@ -90,60 +82,68 @@
           "ozet": "The Ukrainian president’s defiant decision to continue attacking Russian refineries underscores President Trump’s inability to end a war he had promised to resolve.",
           "yayin_tarihi": "Fri, 16 Oct 2026 01:02:09 +0000",
           "dil": "İngilizce"
+        },
+        {
+          "baslik": "Nazi-Looted Kandinsky Painting Sells for $42 Million at Auction",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/15/world/europe/kandinsky-nazi-looted-art-auction.html",
+          "ozet": "“The Colorful Life,” a 1907 work by the Russian painter Wassily Kandinsky, had been returned to the original owners’ heirs in 2023.",
+          "yayin_tarihi": "Thu, 15 Oct 2026 13:29:14 +0000",
+          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-16T11:06:09.183914"
+      "taranma_zamani": "2026-10-17T10:25:51.848071"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "US not serious about negotiating with Iran, ambassador to Moscow says",
+          "baslik": "Global security enemies unhappy about continued Russia-US dialogue — special envoy",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2202987",
-          "ozet": "According to Kazem Jalali, what is happening today in the Strait of Hormuz, the Persian Gulf and the Bab al-Mandeb Strait is a direct result of the US and Israeli aggression and the naval blockade against Iran",
-          "yayin_tarihi": "Fri, 16 Oct 2026 14:01:51 +0300",
+          "url": "https://tass.com/politics/2203495",
+          "ozet": "Russian Special Presidential Representative for Investment and Economic Cooperation with Foreign Countries, Head of the Russian Direct Investment Fund Kirill Dmitriev wrote it on X as a follow-up of his post on the economic dialogue between the United States and Russia and the efforts to settle conflicts",
+          "yayin_tarihi": "Sat, 17 Oct 2026 13:09:01 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia capable of integrating all energy sources into its mix — aide",
+          "baslik": "Air defenses intercept nearly 3,000 Ukrainian drones heading to Moscow over week — mayor",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2202981",
-          "ozet": "Anton Kobyakov noted that the Russian Federation is the only country in the world fully linked by a unified national power grid that is integrated with EAEU member states",
-          "yayin_tarihi": "Fri, 16 Oct 2026 13:57:37 +0300",
+          "url": "https://tass.com/emergencies/2203493",
+          "ozet": "Most of them neutralized at distant approaches to the Russian capital, Sergey Sobyanin said",
+          "yayin_tarihi": "Sat, 17 Oct 2026 11:58:17 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Lavrov comments on targets of Western geopolitical expansion, Afghanistan’s recovery",
+          "baslik": "Ukraine’s army deliberately attacks civilian homes with FPV drones in Alyoshki — officer",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2202979",
-          "ozet": "The Russian top diplomat emphasized that no country is safe from potential color revolutions orchestrated by the West in its pursuit of geopolitical expansion",
-          "yayin_tarihi": "Fri, 16 Oct 2026 13:56:16 +0300",
+          "url": "https://tass.com/defense/2203489",
+          "ozet": "Every day, two or three drones attack, a Russian officer with the call sign Salyut from the 331st Regiment of the 98th Airborne Division said",
+          "yayin_tarihi": "Sat, 17 Oct 2026 11:56:34 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ukraine critically low on Patriot interceptors amid supply disruptions — newspaper",
+          "baslik": "IN BRIEF: Russian forces hammer Ukrainian metallurgical enterprises in overnight strike",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2202977",
-          "ozet": "According to The Washington Post, NATO continues to provide Patriot interceptors to Kiev as part of a program called the Prioritized Ukraine Requirements List",
-          "yayin_tarihi": "Fri, 16 Oct 2026 13:53:28 +0300",
+          "url": "https://tass.com/defense/2203485",
+          "ozet": "The facilities were used for the needs of Ukraine’s military-industrial sector and the Ukrainian army",
+          "yayin_tarihi": "Sat, 17 Oct 2026 11:16:14 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "India sees potential for cooperation with Tatarstan in IT, finance, cybersecurity",
+          "baslik": "Putin congratulates Indonesian president on 75th birthday",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2202971",
-          "ozet": "Interested students can visit and explore India, find friends and forge their future business contacts there using the ITEC program, Indian Ambassador to Russia Vinay Kumar said",
-          "yayin_tarihi": "Fri, 16 Oct 2026 13:40:01 +0300",
+          "url": "https://tass.com/politics/2203481",
+          "ozet": "Russia highly values Indonesian President Prabowo Subianto’s commitment to strengthening bilateral friendly relations, Russian President said in a congratulatory message",
+          "yayin_tarihi": "Sat, 17 Oct 2026 10:49:41 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-16T11:06:09.183946"
+      "taranma_zamani": "2026-10-17T10:25:51.848101"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-16T11:06:09.183948"
+      "taranma_zamani": "2026-10-17T10:25:51.848103"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-16T11:06:09.183954"
+      "taranma_zamani": "2026-10-17T10:25:51.848110"
     }
   }
 }
