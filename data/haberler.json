@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-10-17",
-  "olusturma_zamani": "2026-10-17T10:25:51.848369",
+  "olusturma_tarihi": "2026-10-18",
+  "olusturma_zamani": "2026-10-18T10:44:37.239499",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "18 il için 'sarı' ve 'turuncu' kodlu uyarı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/18-il-icin-sari-ve-turuncu-kodlu-uyari-960443.html",
+          "ozet": "Yağışlı hava ve fırtına nedeniyle 18 il için sarı ve turuncu kodlu uyarı yapıldı. Vatandaşlardan yaşanabilecek olumsuzluklara karşı tedbirli ve dikkatli olması istendi.",
+          "yayin_tarihi": "Sun, 18 Oct 2026 08:10:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Bakan Kurum: 10 ilde turuncu, 26 ilde sarı kodlu uyarı var",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/bakan-kurum-10-ilde-turuncu-26-ilde-sari-kodlu-uyari-var-960433.html",
+          "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, yarın 10 il için turuncu, 26 il için sarı kodlu meteorolojik uyarı yapıldığını belirterek, vatandaşlardan olası olumsuzluklara karşı dikkatli olmalarını istedi.",
+          "yayin_tarihi": "Sat, 17 Oct 2026 20:06:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "İstanbul Valisi Gül: Sel mağdurlarına para yardımı yapıldı",
           "kaynak": "www.trthaber.com",
@@ -28,29 +44,21 @@
           "ozet": "Düzce'de trafik kazası sonucu hayatını kaybeden Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin için Marmara İlahiyat Camii'nde cenaze töreni düzenlendi.",
           "yayin_tarihi": "Fri, 16 Oct 2026 14:06:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "46 bin kişi İstanbul için seferber oldu: Sahada son durum ne?",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/46-bin-kisi-istanbul-icin-seferber-oldu-sahada-son-durum-ne-960288.html",
-          "ozet": "İstanbul’da şiddetli yağışın ardından 9 bin 850 ihbar alındığını açıklayan Bakan Çiftçi, 4 vatandaşın arandığını belirtti. Bakan Kurum ise, \"Kalıcı çözümlere ilişkin istişarelerde bulunacağız. Vatandaşlarımızın neye ihtiyacı varsa biz buna hazırız. Hiçbir vatandaşımızın mağdur olmayacağı bir çözümü ortaya koyacağız\" dedi.",
-          "yayin_tarihi": "Fri, 16 Oct 2026 11:36:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Türkiye'nin 53 yeni silahı ilk kez sahnede",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/turkiyenin-53-yeni-silahi-ilk-kez-sahnede-960196.html",
-          "ozet": "Çelik irade, sarsılmaz disiplin, tam isabet... Türk Silahlı Kuvvetlerimizin üstün ateş gücünü, yüksek koordinasyon kabiliyetini ve harekat etkinliğini ortaya koyduğu Ateş Serbest-2026 faaliyeti başarıyla tamamlandı. Tatbikatında 53 yeni silah sistemi ilk kez sahada kullanıldı. Akıllarda en çok kalan 5 yeni sistemi sizin için derledik...",
-          "yayin_tarihi": "Thu, 15 Oct 2026 15:30:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-17T10:25:51.848053"
+      "taranma_zamani": "2026-10-18T10:44:37.239241"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/17/us/politics/russia-gas-trump.html",
+          "ozet": "The Trump administration is pitching the idea as part of a peace deal with Ukraine, but Europe is wary and critics say Russia would be strengthened.",
+          "yayin_tarihi": "Sat, 17 Oct 2026 18:00:45 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies",
           "kaynak": "rss.nytimes.com",
@@ -82,68 +90,60 @@
           "ozet": "The Ukrainian president’s defiant decision to continue attacking Russian refineries underscores President Trump’s inability to end a war he had promised to resolve.",
           "yayin_tarihi": "Fri, 16 Oct 2026 01:02:09 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "Nazi-Looted Kandinsky Painting Sells for $42 Million at Auction",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/15/world/europe/kandinsky-nazi-looted-art-auction.html",
-          "ozet": "“The Colorful Life,” a 1907 work by the Russian painter Wassily Kandinsky, had been returned to the original owners’ heirs in 2023.",
-          "yayin_tarihi": "Thu, 15 Oct 2026 13:29:14 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-17T10:25:51.848071"
+      "taranma_zamani": "2026-10-18T10:44:37.239259"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Global security enemies unhappy about continued Russia-US dialogue — special envoy",
+          "baslik": "Russia has something to offer to Global South in trade and economy — deputy PM",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2203495",
-          "ozet": "Russian Special Presidential Representative for Investment and Economic Cooperation with Foreign Countries, Head of the Russian Direct Investment Fund Kirill Dmitriev wrote it on X as a follow-up of his post on the economic dialogue between the United States and Russia and the efforts to settle conflicts",
-          "yayin_tarihi": "Sat, 17 Oct 2026 13:09:01 +0300",
+          "url": "https://tass.com/economy/2203697",
+          "ozet": "Overchuk said that at one time the World Bank’s international country rating \"Doing Business\" played a significant role in improving the business climate in various countries around the world, including Russia",
+          "yayin_tarihi": "Sun, 18 Oct 2026 13:39:53 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Air defenses intercept nearly 3,000 Ukrainian drones heading to Moscow over week — mayor",
+          "baslik": "Lavrov meets with Saudi Arabian foreign minister in Bahrain — Russian Foreign Ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/emergencies/2203493",
-          "ozet": "Most of them neutralized at distant approaches to the Russian capital, Sergey Sobyanin said",
-          "yayin_tarihi": "Sat, 17 Oct 2026 11:58:17 +0300",
+          "url": "https://tass.com/world/2203705",
+          "ozet": "The ministers met in September in Moscow to discuss the dangerous escalation in the Middle East, including in connection with the deteriorating conflict between Saudi Arabia and the Yemeni Houthis",
+          "yayin_tarihi": "Sun, 18 Oct 2026 13:38:09 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ukraine’s army deliberately attacks civilian homes with FPV drones in Alyoshki — officer",
+          "baslik": "Europe can only cover gas deficit through supplies from Russia — deputy PM",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2203489",
-          "ozet": "Every day, two or three drones attack, a Russian officer with the call sign Salyut from the 331st Regiment of the 98th Airborne Division said",
-          "yayin_tarihi": "Sat, 17 Oct 2026 11:56:34 +0300",
+          "url": "https://tass.com/economy/2203695",
+          "ozet": "He said that European consumers would pay the price",
+          "yayin_tarihi": "Sun, 18 Oct 2026 10:53:25 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "IN BRIEF: Russian forces hammer Ukrainian metallurgical enterprises in overnight strike",
+          "baslik": "Russia to export diesel to US on Aframax tankers — deputy PM",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2203485",
-          "ozet": "The facilities were used for the needs of Ukraine’s military-industrial sector and the Ukrainian army",
-          "yayin_tarihi": "Sat, 17 Oct 2026 11:16:14 +0300",
+          "url": "https://tass.com/economy/2203691",
+          "ozet": "He said that after the sanctions are lifted, freight, transportation, and insurance of such transactions are not subject to restrictions",
+          "yayin_tarihi": "Sun, 18 Oct 2026 10:26:33 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Putin congratulates Indonesian president on 75th birthday",
+          "baslik": "Russian diesel to enter US market 15-20 days after signing contracts",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2203481",
-          "ozet": "Russia highly values Indonesian President Prabowo Subianto’s commitment to strengthening bilateral friendly relations, Russian President said in a congratulatory message",
-          "yayin_tarihi": "Sat, 17 Oct 2026 10:49:41 +0300",
+          "url": "https://tass.com/economy/2203689",
+          "ozet": "The US Department of Energy has identified the companies that will be the counterparties and buyers",
+          "yayin_tarihi": "Sun, 18 Oct 2026 10:25:57 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-17T10:25:51.848101"
+      "taranma_zamani": "2026-10-18T10:44:37.239273"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-17T10:25:51.848103"
+      "taranma_zamani": "2026-10-18T10:44:37.239275"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-17T10:25:51.848110"
+      "taranma_zamani": "2026-10-18T10:44:37.239283"
     }
   }
 }
