@@ -1,6 +1,6 @@
 {
-  "olusturma_tarihi": "2026-10-18",
-  "olusturma_zamani": "2026-10-18T10:44:37.239499",
+  "olusturma_tarihi": "2026-10-19",
+  "olusturma_zamani": "2026-10-19T12:44:01.134547",
   "diller": {
     "tr": {
       "dil": "Türkçe",
@@ -46,11 +46,35 @@
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-18T10:44:37.239241"
+      "taranma_zamani": "2026-10-19T12:44:01.134224"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "Ukraine Uses F-16s to Shoot Down Russia’s Jet-Powered Drones",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/19/world/europe/ukraine-f16-fighter-jets-drones-russia.html",
+          "ozet": "The fighters are a key tool against Moscow’s latest weapon of choice. But deploying the multimillion-dollar planes to counter drones is an imperfect fix.",
+          "yayin_tarihi": "Mon, 19 Oct 2026 09:15:28 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Trump Is Pushing Ukraine to Surrender to Russia, Zelensky Says",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html",
+          "ozet": "President Volodymyr Zelensky said he didn’t want to believe that Washington wanted an end to the war at Ukraine’s expense. “But that’s how it looks,” he added.",
+          "yayin_tarihi": "Mon, 19 Oct 2026 12:39:50 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html",
+          "ozet": "President Volodymyr Zelensky of Ukraine pressed Sunday for more information on possible restrictions to Starshield, a U.S.-provided satellite internet service used by the Ukrainian military.",
+          "yayin_tarihi": "Sun, 18 Oct 2026 14:30:49 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe",
           "kaynak": "rss.nytimes.com",
@@ -66,88 +90,72 @@
           "ozet": "Where the two presidents’ war of words will end is anybody’s guess. But if it continues, it could threaten the crucial operational help that Ukraine still gets from the United States.",
           "yayin_tarihi": "Fri, 16 Oct 2026 19:12:25 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "Houthi Attacks on Saudi Arabia Put In Doubt Kingdom’s Sports and Business Events",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/16/world/middleeast/saudi-arabia-houthi-attack-fii-events.html",
-          "ozet": "The Iran-backed group’s attacks have disrupted sports tournaments and threatened business events that the kingdom has long used to attract investment and raise its profile.",
-          "yayin_tarihi": "Fri, 16 Oct 2026 15:52:50 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
-          "ozet": "A day in the Ukrainian capital, a new kind of battlefield far from the front, where daily life means assessing — and accepting — deadly risks.",
-          "yayin_tarihi": "Fri, 16 Oct 2026 22:02:04 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Trump’s Deal With Russia Inflames Ukraine War He Vowed to End",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html",
-          "ozet": "The Ukrainian president’s defiant decision to continue attacking Russian refineries underscores President Trump’s inability to end a war he had promised to resolve.",
-          "yayin_tarihi": "Fri, 16 Oct 2026 01:02:09 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-18T10:44:37.239259"
+      "taranma_zamani": "2026-10-19T12:44:01.134241"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia has something to offer to Global South in trade and economy — deputy PM",
+          "baslik": "Iran develops two-year plan to expand cooperation with SCO member states — vice president",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2203697",
-          "ozet": "Overchuk said that at one time the World Bank’s international country rating \"Doing Business\" played a significant role in improving the business climate in various countries around the world, including Russia",
-          "yayin_tarihi": "Sun, 18 Oct 2026 13:39:53 +0300",
+          "url": "https://tass.com/world/2204117",
+          "ozet": "Mohammad Reza Aref emphasized that \"in addition to economic and trade ties, a key priority for Iran within this organization is expanding cooperation in the fields of advanced technologies and artificial intelligence\"",
+          "yayin_tarihi": "Mon, 19 Oct 2026 15:30:49 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Lavrov meets with Saudi Arabian foreign minister in Bahrain — Russian Foreign Ministry",
+          "baslik": "Russian PM arrives in Dushanbe on two-day visit",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2203705",
-          "ozet": "The ministers met in September in Moscow to discuss the dangerous escalation in the Middle East, including in connection with the deteriorating conflict between Saudi Arabia and the Yemeni Houthis",
-          "yayin_tarihi": "Sun, 18 Oct 2026 13:38:09 +0300",
+          "url": "https://tass.com/politics/2204115",
+          "ozet": "Mikhail Mishustin is to take part in a meeting of the Council of Heads of Government of the SCO member states",
+          "yayin_tarihi": "Mon, 19 Oct 2026 15:29:56 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Europe can only cover gas deficit through supplies from Russia — deputy PM",
+          "baslik": "Trade turnover between Georgia, Russia up 16% in three quarters",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2203695",
-          "ozet": "He said that European consumers would pay the price",
-          "yayin_tarihi": "Sun, 18 Oct 2026 10:53:25 +0300",
+          "url": "https://tass.com/economy/2204113",
+          "ozet": "With Russia being Georgia’s third-biggest trading partner, its share in the republic’s total external trade volume equaled 10.8% in the reporting period",
+          "yayin_tarihi": "Mon, 19 Oct 2026 15:19:21 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia to export diesel to US on Aframax tankers — deputy PM",
+          "baslik": "Visa restrictions for Russians is European Commission’s priority",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2203691",
-          "ozet": "He said that after the sanctions are lifted, freight, transportation, and insurance of such transactions are not subject to restrictions",
-          "yayin_tarihi": "Sun, 18 Oct 2026 10:26:33 +0300",
+          "url": "https://tass.com/world/2204111",
+          "ozet": "Spokesperson Markus Lammert said the European Commission had \"taken measures to make it more difficult to have multiple entry visas for Russian citizens\"",
+          "yayin_tarihi": "Mon, 19 Oct 2026 15:17:42 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian diesel to enter US market 15-20 days after signing contracts",
+          "baslik": "Europe does not care what happens to Ukraine — expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2203689",
-          "ozet": "The US Department of Energy has identified the companies that will be the counterparties and buyers",
-          "yayin_tarihi": "Sun, 18 Oct 2026 10:25:57 +0300",
+          "url": "https://tass.com/world/2204109",
+          "ozet": "Andrey Sushentsov believes Europe’s options are limited to issuing forceful statements and staging high-profile diplomatic gatherings",
+          "yayin_tarihi": "Mon, 19 Oct 2026 15:09:32 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-18T10:44:37.239273"
+      "taranma_zamani": "2026-10-19T12:44:01.134271"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-18T10:44:37.239275"
+      "taranma_zamani": "2026-10-19T12:44:01.134273"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "过去称「台湾不独，中国不武」  学者：习近平时代已非如此",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/podcasts/yataibaodao/2026/10/19/unite-taiwan-force/",
+          "ozet": "台湾战略学者揭仲认为，这样的谈法，在以往或许是事实，但习近平上任后，情况已经改变。“中华民族的伟大复兴“在习近平时代，已经从口号变成必须实现的政治目标，而其中就包括统一台湾。",
+          "yayin_tarihi": "Mon, 19 Oct 2026 09:19:09 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "中国公务员招录总量缩减  但有省份税务系统逆势增招",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "“看到他了，年轻男性，就是年轻的那个。”美国司法部披露的聊天记录，揭开一起疑似中国间谍案：加州华裔房地产经纪人被控在美国监视赖清德之子。她究竟如何传递情报？另一名关联人士为何已赴中国？",
           "yayin_tarihi": "Tue, 13 Oct 2026 09:53:55 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "人权工作者：以”有罪推定”原则对抗跨国镇压  ",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/guoji/2026/10/12/transnational-repression-leeminzhe/",
-          "ozet": "曾经遭中国政府以「颠覆国家政权罪」判刑五年的台湾人权工作者李明哲周日(11日)在一场发表会上主张，中国政府经常通过外国民间人士执行暴力威胁及跨国镇压行动。面对这种情况，民主国家或许应该改采「有罪推定」的司法原则，以对抗跨国镇压行动",
-          "yayin_tarihi": "Mon, 12 Oct 2026 13:45:49 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-18T10:44:37.239283"
+      "taranma_zamani": "2026-10-19T12:44:01.134304"
     }
   }
 }
