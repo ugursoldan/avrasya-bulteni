@@ -1,10 +1,34 @@
 {
-  "olusturma_tarihi": "2026-10-19",
-  "olusturma_zamani": "2026-10-19T12:44:01.134547",
+  "olusturma_tarihi": "2026-10-20",
+  "olusturma_zamani": "2026-10-20T11:15:06.276220",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "A Milli Takım'da Sergen Yalçın dönemi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/spor/a-milli-takimda-sergen-yalcin-donemi-960639.html",
+          "ozet": "Sergen Yalçın, A Milli Takım Teknik Direktörlüğü için 4 yıllık anlaşmaya vardıklarını açıkladı. Yalçın, \"Konu Milli Takım olunca her şey geride kalır\" açıklamasını yaptı.",
+          "yayin_tarihi": "Tue, 20 Oct 2026 13:47:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Görünmeyen cephe: Türkiyenin elektronik harp kabiliyeti",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/gorunmeyen-cephe-turkiyenin-elektronik-harp-kabiliyeti-960634.html",
+          "ozet": "Modern savaşlarda artık yalnızca tanklar, uçaklar, füzeler ve gemiler karşı karşıya gelmiyor. Bunların görev yapabilmesi için ihtiyaç duyduğu radar, haberleşme, seyrüsefer ve veri bağlantıları da hedef haline geliyor. Türkiye işte tam da bu alanda yerli ve milli kabiliyetlerle kendi ekosistemini inşa ediyor…",
+          "yayin_tarihi": "Tue, 20 Oct 2026 13:30:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "İstanbul'da kara para aklama soruşturmasında 15 şüpheli tutuklandı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/istanbulda-kara-para-aklama-sorusturmasinda-15-supheli-tutuklandi-960558.html",
+          "ozet": "Kara para aklama soruşturması kapsamında gözaltına alınan Mustafa Sarıgül’ün eski eşi Aylin Kotil, oğlu Ömer Sarıgül ve Murat Ağırel’in de bulunduğu 17 şüpheliden 15'i tutuklandı. 2'si için ise adli kontrol tedbiri uygulandı.",
+          "yayin_tarihi": "Mon, 19 Oct 2026 19:57:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "18 il için 'sarı' ve 'turuncu' kodlu uyarı",
           "kaynak": "www.trthaber.com",
@@ -20,43 +44,35 @@
           "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, yarın 10 il için turuncu, 26 il için sarı kodlu meteorolojik uyarı yapıldığını belirterek, vatandaşlardan olası olumsuzluklara karşı dikkatli olmalarını istedi.",
           "yayin_tarihi": "Sat, 17 Oct 2026 20:06:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "İstanbul Valisi Gül: Sel mağdurlarına para yardımı yapıldı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/istanbul-valisi-gul-sel-magdurlarina-para-yardimi-yapildi-960399.html",
-          "ozet": "İstanbul Valisi Davut Gül, sel felaketinin ardından yürütülen çalışmalara ilişkin, dere yataklarını işgal eden yapıların yıkımına başlandığını, acil ihtiyaçlar için 5 binden fazla kişinin hesabına 10'ar bin lira yatırıldığını ve zarar tespit ödemelerinin de pazartesi günü yapılacağını bildirdi.",
-          "yayin_tarihi": "Sat, 17 Oct 2026 11:58:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "İstanbul'a turuncu kodlu uyarı: Kuvvetli yağış ve fırtına bekleniyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/istanbula-turuncu-kodlu-uyari-kuvvetli-yagis-ve-firtina-bekleniyor-960372.html",
-          "ozet": "İstanbul genelinde bugün olumsuz hava koşulları etkili olacak. Kent için \"turuncu\" kodlu meteorolojik uyarı yapılırken, kuvvetli sağanak ve fırtınaya karşı dikkatli olunması istendi.",
-          "yayin_tarihi": "Sat, 17 Oct 2026 07:12:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin, son yolculuğuna uğurlandı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/uskudar-belediye-baskan-vekili-dundar-ziya-gultekin-son-yolculuguna-ugurlandi-960307.html",
-          "ozet": "Düzce'de trafik kazası sonucu hayatını kaybeden Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin için Marmara İlahiyat Camii'nde cenaze töreni düzenlendi.",
-          "yayin_tarihi": "Fri, 16 Oct 2026 14:06:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-19T12:44:01.134224"
+      "taranma_zamani": "2026-10-20T11:15:06.276141"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Ukraine Uses F-16s to Shoot Down Russia’s Jet-Powered Drones",
+          "baslik": "Fire at Starlink Center in Lithuania Was Sabotage, Officials Say",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/19/world/europe/ukraine-f16-fighter-jets-drones-russia.html",
-          "ozet": "The fighters are a key tool against Moscow’s latest weapon of choice. But deploying the multimillion-dollar planes to counter drones is an imperfect fix.",
-          "yayin_tarihi": "Mon, 19 Oct 2026 09:15:28 +0000",
+          "url": "https://www.nytimes.com/2026/10/19/world/europe/lithuania-starlink-sabotage-ukraine-russia.html",
+          "ozet": "The fire, which did not seriously damage the network, came after similar incidents in Bulgaria and Poland involving the satellite internet provider, a key defense tool for Ukraine’s armed forces.",
+          "yayin_tarihi": "Mon, 19 Oct 2026 18:33:39 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
+          "ozet": "The series of recent steps by the president that seem to favor Vladimir Putin reflect his intensifying desire to normalize the relationship with Moscow even if it means further undercutting Ukraine.",
+          "yayin_tarihi": "Tue, 20 Oct 2026 07:19:14 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html",
+          "ozet": "The Iranian-backed militia struck with ballistic missiles deep in government-held central Yemen, in what appeared to be among the deadliest attacks of the renewed war.",
+          "yayin_tarihi": "Tue, 20 Oct 2026 08:53:27 +0000",
           "dil": "İngilizce"
         },
         {
@@ -68,82 +84,66 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia",
+          "baslik": "Ukraine Uses F-16s to Shoot Down Russia’s Jet-Powered Drones",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html",
-          "ozet": "President Volodymyr Zelensky of Ukraine pressed Sunday for more information on possible restrictions to Starshield, a U.S.-provided satellite internet service used by the Ukrainian military.",
-          "yayin_tarihi": "Sun, 18 Oct 2026 14:30:49 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/17/us/politics/russia-gas-trump.html",
-          "ozet": "The Trump administration is pitching the idea as part of a peace deal with Ukraine, but Europe is wary and critics say Russia would be strengthened.",
-          "yayin_tarihi": "Sat, 17 Oct 2026 18:00:45 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html",
-          "ozet": "Where the two presidents’ war of words will end is anybody’s guess. But if it continues, it could threaten the crucial operational help that Ukraine still gets from the United States.",
-          "yayin_tarihi": "Fri, 16 Oct 2026 19:12:25 +0000",
+          "url": "https://www.nytimes.com/2026/10/19/world/europe/ukraine-f16-fighter-jets-drones-russia.html",
+          "ozet": "The fighters are a key tool against Moscow’s latest weapon of choice. But deploying the multimillion-dollar planes to counter drones is an imperfect fix.",
+          "yayin_tarihi": "Mon, 19 Oct 2026 09:15:28 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-19T12:44:01.134241"
+      "taranma_zamani": "2026-10-20T11:15:06.276157"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Iran develops two-year plan to expand cooperation with SCO member states — vice president",
+          "baslik": "US investigation, Kiev’s cooperation with drug cartels: SVR statements",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2204117",
-          "ozet": "Mohammad Reza Aref emphasized that \"in addition to economic and trade ties, a key priority for Iran within this organization is expanding cooperation in the fields of advanced technologies and artificial intelligence\"",
-          "yayin_tarihi": "Mon, 19 Oct 2026 15:30:49 +0300",
+          "url": "https://tass.com/politics/2204657",
+          "ozet": "The Kiev regime’s cooperation with drug cartels, combined with attacks on Russian oil refineries, could push the US past the breaking point and lead to a refusal to assist Zelensky, the Russian intelligence service stated",
+          "yayin_tarihi": "Tue, 20 Oct 2026 14:05:05 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian PM arrives in Dushanbe on two-day visit",
+          "baslik": "Ukrainian forces struck Belgorod Region 1,300 times over week, killing 4 people — envoy",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2204115",
-          "ozet": "Mikhail Mishustin is to take part in a meeting of the Council of Heads of Government of the SCO member states",
-          "yayin_tarihi": "Mon, 19 Oct 2026 15:29:56 +0300",
+          "url": "https://tass.com/politics/2204633",
+          "ozet": "55 people were wounded, Russian Foreign Ministry Ambassador-at-Large Rodion Miroshnik said",
+          "yayin_tarihi": "Tue, 20 Oct 2026 13:25:49 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Trade turnover between Georgia, Russia up 16% in three quarters",
+          "baslik": "Russia invites SCO to set up joint ventures, boost mutual investment — Prime Minister",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2204113",
-          "ozet": "With Russia being Georgia’s third-biggest trading partner, its share in the republic’s total external trade volume equaled 10.8% in the reporting period",
-          "yayin_tarihi": "Mon, 19 Oct 2026 15:19:21 +0300",
+          "url": "https://tass.com/economy/2204627",
+          "ozet": "Russia urges member states to explore these opportunities, Mikhail Mishustin said",
+          "yayin_tarihi": "Tue, 20 Oct 2026 13:25:19 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Visa restrictions for Russians is European Commission’s priority",
+          "baslik": "US investigating Ukraine’s ties with Mexican drug cartels — Russia’s SVR",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2204111",
-          "ozet": "Spokesperson Markus Lammert said the European Commission had \"taken measures to make it more difficult to have multiple entry visas for Russian citizens\"",
-          "yayin_tarihi": "Mon, 19 Oct 2026 15:17:42 +0300",
+          "url": "https://tass.com/world/2204621",
+          "ozet": "The United States has found that Mexican criminal groups have been sending militants to Ukraine to receive training in the assembly and combat use of unmanned aerial vehicles, the SVR revealed",
+          "yayin_tarihi": "Tue, 20 Oct 2026 13:17:38 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Europe does not care what happens to Ukraine — expert",
+          "baslik": "Press review: Russia reshuffles government as NATO moves to escalate Black Sea tensions",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2204109",
-          "ozet": "Andrey Sushentsov believes Europe’s options are limited to issuing forceful statements and staging high-profile diplomatic gatherings",
-          "yayin_tarihi": "Mon, 19 Oct 2026 15:09:32 +0300",
+          "url": "https://tass.com/pressreview/2204469",
+          "ozet": "Top stories from the Russian press on Tuesday, October 20th",
+          "yayin_tarihi": "Tue, 20 Oct 2026 13:00:01 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-19T12:44:01.134271"
+      "taranma_zamani": "2026-10-20T11:15:06.276183"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-19T12:44:01.134273"
+      "taranma_zamani": "2026-10-20T11:15:06.276185"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-19T12:44:01.134304"
+      "taranma_zamani": "2026-10-20T11:15:06.276193"
     }
   }
 }
