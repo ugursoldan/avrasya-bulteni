@@ -1,16 +1,16 @@
 {
-  "olusturma_tarihi": "2026-10-20",
-  "olusturma_zamani": "2026-10-20T11:15:06.276220",
+  "olusturma_tarihi": "2026-10-21",
+  "olusturma_zamani": "2026-10-21T11:31:10.712392",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "A Milli Takım'da Sergen Yalçın dönemi",
+          "baslik": "Gazze'de hastane jeneratörlerini çalıştırmak için gerekli yakıt tükendi",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/spor/a-milli-takimda-sergen-yalcin-donemi-960639.html",
-          "ozet": "Sergen Yalçın, A Milli Takım Teknik Direktörlüğü için 4 yıllık anlaşmaya vardıklarını açıkladı. Yalçın, \"Konu Milli Takım olunca her şey geride kalır\" açıklamasını yaptı.",
-          "yayin_tarihi": "Tue, 20 Oct 2026 13:47:00 +0300",
+          "url": "https://www.trthaber.com/haber/dunya/gazzede-hastane-jeneratorlerini-calistirmak-icin-gerekli-yakit-tukendi-960723.html",
+          "ozet": "Soykırımcı İsrail ordusunun saldırılarıyla büyük yıkıma uğrattığı Gazze Şeridi'ndeki hastanelerde jeneratörleri çalıştırmak için gerekli yakıtın tükendiği bildirildi.",
+          "yayin_tarihi": "Wed, 21 Oct 2026 09:46:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -46,108 +46,116 @@
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-20T11:15:06.276141"
+      "taranma_zamani": "2026-10-21T11:31:10.712277"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Fire at Starlink Center in Lithuania Was Sabotage, Officials Say",
+          "baslik": "China Moves to Tighten Its Grip Over Exports of Top A.I. Models",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/19/world/europe/lithuania-starlink-sabotage-ukraine-russia.html",
-          "ozet": "The fire, which did not seriously damage the network, came after similar incidents in Bulgaria and Poland involving the satellite internet provider, a key defense tool for Ukraine’s armed forces.",
-          "yayin_tarihi": "Mon, 19 Oct 2026 18:33:39 +0000",
+          "url": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
+          "ozet": "Draft rules on the export of artificial intelligence technology show how China is trying to balance national security risks with its desire to outpace the United States.",
+          "yayin_tarihi": "Wed, 21 Oct 2026 09:24:47 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
+          "baslik": "Yemeni City of Taiz Running Out of Essentials as Houthis Close in",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
-          "ozet": "The series of recent steps by the president that seem to favor Vladimir Putin reflect his intensifying desire to normalize the relationship with Moscow even if it means further undercutting Ukraine.",
-          "yayin_tarihi": "Tue, 20 Oct 2026 07:19:14 +0000",
+          "url": "https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html",
+          "ozet": "The Iranian-backed Houthi militia has cut road access to Taiz, one of Yemen’s largest cities, besieging it. Officials there warn of an impending humanitarian disaster.",
+          "yayin_tarihi": "Tue, 20 Oct 2026 14:28:29 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say",
+          "baslik": "Why Zelensky Took the Gloves Off This Time With Trump",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html",
-          "ozet": "The Iranian-backed militia struck with ballistic missiles deep in government-held central Yemen, in what appeared to be among the deadliest attacks of the renewed war.",
-          "yayin_tarihi": "Tue, 20 Oct 2026 08:53:27 +0000",
+          "url": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html",
+          "ozet": "Staying quiet is riskier than speaking up, Ukrainian officials say, as President Trump goes further than ever in prioritizing Russia’s interests.",
+          "yayin_tarihi": "Tue, 20 Oct 2026 20:39:58 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Trump Is Pushing Ukraine to Surrender to Russia, Zelensky Says",
+          "baslik": "UK to Send Fighter Jets to Help Defend Saudi Arabia From Houthi Attacks",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html",
-          "ozet": "President Volodymyr Zelensky said he didn’t want to believe that Washington wanted an end to the war at Ukraine’s expense. “But that’s how it looks,” he added.",
-          "yayin_tarihi": "Mon, 19 Oct 2026 12:39:50 +0000",
+          "url": "https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html",
+          "ozet": "R.A.F. Typhoon fighter jets will be deployed to protect infrastructure in Saudi Arabia, Britain said, after a spike in attacks by the Iran-backed Houthi militia.",
+          "yayin_tarihi": "Tue, 20 Oct 2026 12:34:57 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Ukraine Uses F-16s to Shoot Down Russia’s Jet-Powered Drones",
+          "baslik": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/19/world/europe/ukraine-f16-fighter-jets-drones-russia.html",
-          "ozet": "The fighters are a key tool against Moscow’s latest weapon of choice. But deploying the multimillion-dollar planes to counter drones is an imperfect fix.",
-          "yayin_tarihi": "Mon, 19 Oct 2026 09:15:28 +0000",
+          "url": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
+          "ozet": "The response came after Homeland Security ordered the removal and exclusion of products developed by the Chinese company.",
+          "yayin_tarihi": "Wed, 21 Oct 2026 03:15:01 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-20T11:15:06.276157"
+      "taranma_zamani": "2026-10-21T11:31:10.712301"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "US investigation, Kiev’s cooperation with drug cartels: SVR statements",
+          "baslik": "Japanese companies stay in Russia, awaiting chance to expand presence — business ombudsman",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2204657",
-          "ozet": "The Kiev regime’s cooperation with drug cartels, combined with attacks on Russian oil refineries, could push the US past the breaking point and lead to a refusal to assist Zelensky, the Russian intelligence service stated",
-          "yayin_tarihi": "Tue, 20 Oct 2026 14:05:05 +0300",
+          "url": "https://tass.com/economy/2205393",
+          "ozet": "Alexander Shokhin noted that Japanese companies were not withdrawing from gas projects in Russia",
+          "yayin_tarihi": "Wed, 21 Oct 2026 14:22:58 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ukrainian forces struck Belgorod Region 1,300 times over week, killing 4 people — envoy",
+          "baslik": "Witkoff says he brought documents outlining proposals for Ukrainian settlement",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2204633",
-          "ozet": "55 people were wounded, Russian Foreign Ministry Ambassador-at-Large Rodion Miroshnik said",
-          "yayin_tarihi": "Tue, 20 Oct 2026 13:25:49 +0300",
+          "url": "https://tass.com/world/2205389",
+          "ozet": "According to the US special presidential envoy, these are \"ideas about the different elements of some sort of a peace deal between Russia and Ukraine\"",
+          "yayin_tarihi": "Wed, 21 Oct 2026 14:15:01 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia invites SCO to set up joint ventures, boost mutual investment — Prime Minister",
+          "baslik": "Trade between Russia, China up 30-fold in 25 years despite external pressure — Russian PM",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2204627",
-          "ozet": "Russia urges member states to explore these opportunities, Mikhail Mishustin said",
-          "yayin_tarihi": "Tue, 20 Oct 2026 13:25:19 +0300",
+          "url": "https://tass.com/economy/2205379",
+          "ozet": "Moscow and Beijing have almost fully shifted to using national currencies in their mutual settlements, Mikhail Mishustin added",
+          "yayin_tarihi": "Wed, 21 Oct 2026 14:10:22 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US investigating Ukraine’s ties with Mexican drug cartels — Russia’s SVR",
+          "baslik": "First diesel shipment to US and timeline for restoring export volumes: statements by Novak",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2204621",
-          "ozet": "The United States has found that Mexican criminal groups have been sending militants to Ukraine to receive training in the assembly and combat use of unmanned aerial vehicles, the SVR revealed",
-          "yayin_tarihi": "Tue, 20 Oct 2026 13:17:38 +0300",
+          "url": "https://tass.com/economy/2205351",
+          "ozet": "The deputy prime minister emphasized that Russia could fully restore its diesel export volumes by the end of this year",
+          "yayin_tarihi": "Wed, 21 Oct 2026 13:56:49 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Press review: Russia reshuffles government as NATO moves to escalate Black Sea tensions",
+          "baslik": "Witkoff thanks Putin on Trump’s behalf for diesel deal",
           "kaynak": "tass.com",
-          "url": "https://tass.com/pressreview/2204469",
-          "ozet": "Top stories from the Russian press on Tuesday, October 20th",
-          "yayin_tarihi": "Tue, 20 Oct 2026 13:00:01 +0300",
+          "url": "https://tass.com/world/2205345",
+          "ozet": "The US special presidential envoy believes that the Russian leader’s decision was \"a really important act\"",
+          "yayin_tarihi": "Wed, 21 Oct 2026 13:50:12 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-20T11:15:06.276183"
+      "taranma_zamani": "2026-10-21T11:31:10.712353"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-20T11:15:06.276185"
+      "taranma_zamani": "2026-10-21T11:31:10.712356"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "五台嫌執行中共跨境鎮壓 假車禍撞傷台灣相聲演員",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/yataibaodao/2026/10/21/comedian-crossborder-repression/",
+          "ozet": "台湾相声演员黄逸豪疑似因为在表演中讽刺中国国家主席席近平，今年9月遭到五名台湾人设计假车祸撞伤。台湾新北地检署周三(21日)起诉这五名嫌犯，起诉书并且披露，一名昵称“K”的中国人士策划了这起攻击事件。",
+          "yayin_tarihi": "Wed, 21 Oct 2026 08:25:00 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "过去称「台湾不独，中国不武」  学者：习近平时代已非如此",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "中国重庆市委原副书记、原市长黄奇帆10月13日被宣布接受调查。中央纪委国家监委通报称，黄奇帆涉嫌严重违纪违法，目前正接受纪律审查和监察调查，但未公布具体涉嫌事项。",
           "yayin_tarihi": "Wed, 14 Oct 2026 07:47:47 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "“中国间谍”涉嫌监视赖清德之子：美司法部起诉加州华裔女子",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/2026/10/13/china-spy-allegedly-monitored-taiwan-president-lai-son/",
-          "ozet": "“看到他了，年轻男性，就是年轻的那个。”美国司法部披露的聊天记录，揭开一起疑似中国间谍案：加州华裔房地产经纪人被控在美国监视赖清德之子。她究竟如何传递情报？另一名关联人士为何已赴中国？",
-          "yayin_tarihi": "Tue, 13 Oct 2026 09:53:55 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-20T11:15:06.276193"
+      "taranma_zamani": "2026-10-21T11:31:10.712363"
     }
   }
 }
