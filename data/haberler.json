@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-10-21",
-  "olusturma_zamani": "2026-10-21T11:31:10.712392",
+  "olusturma_tarihi": "2026-10-22",
+  "olusturma_zamani": "2026-10-22T11:31:03.169405",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "3 faili meçhul dosyasında yeni gelişme",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/3-faili-mechul-dosyasinda-yeni-gelisme-960888.html",
+          "ozet": "İzmir, Mersin ve Osmaniye’de 10 ila 21 yıl öncesine dayanan üç ayrı faili meçhul dosyasında önemli gelişmeler kaydedildi. Bakan Akın Gürlek, 64 dosyada 71 cinayetin faili meçhul olmaktan çıkardıklarını söyledi. Gürlek, \"Aradan ne kadar zaman geçerse geçsin, hakikatin izini sürmekten ve adaletin tecellisi için çalışmaktan vazgeçmeyeceğiz\" dedi.",
+          "yayin_tarihi": "Thu, 22 Oct 2026 13:23:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Gazze'de hastane jeneratörlerini çalıştırmak için gerekli yakıt tükendi",
           "kaynak": "www.trthaber.com",
@@ -36,118 +44,134 @@
           "ozet": "Yağışlı hava ve fırtına nedeniyle 18 il için sarı ve turuncu kodlu uyarı yapıldı. Vatandaşlardan yaşanabilecek olumsuzluklara karşı tedbirli ve dikkatli olması istendi.",
           "yayin_tarihi": "Sun, 18 Oct 2026 08:10:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Bakan Kurum: 10 ilde turuncu, 26 ilde sarı kodlu uyarı var",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/bakan-kurum-10-ilde-turuncu-26-ilde-sari-kodlu-uyari-var-960433.html",
-          "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, yarın 10 il için turuncu, 26 il için sarı kodlu meteorolojik uyarı yapıldığını belirterek, vatandaşlardan olası olumsuzluklara karşı dikkatli olmalarını istedi.",
-          "yayin_tarihi": "Sat, 17 Oct 2026 20:06:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-21T11:31:10.712277"
+      "taranma_zamani": "2026-10-22T11:31:03.169158"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "China Moves to Tighten Its Grip Over Exports of Top A.I. Models",
+          "baslik": "Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
+          "ozet": "For weeks, the Iran-backed Houthis have been attacking the kingdom’s aviation and energy sectors.",
+          "yayin_tarihi": "Thu, 22 Oct 2026 11:10:02 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
+          "ozet": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working.",
+          "yayin_tarihi": "Thu, 22 Oct 2026 11:11:44 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html",
+          "ozet": "Ukraine says it still doesn’t know why the military satellite internet service, a sister to Starlink, was abruptly throttled, leaving troops vulnerable to Russian attacks.",
+          "yayin_tarihi": "Wed, 21 Oct 2026 17:11:32 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Who Is Stephen James Hubbard, the American Released From Russian Jail?",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/21/world/europe/who-stephen-hubbard-american-russia-prisoner-release.html",
+          "ozet": "Mr. Hubbard, a 74-year-old teacher, was held for more than four years on what the State Department called fabricated charges.",
+          "yayin_tarihi": "Wed, 21 Oct 2026 13:10:45 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "China’s Free A.I. Models Are Thrown Into Uncertainty",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
           "ozet": "Draft rules on the export of artificial intelligence technology show how China is trying to balance national security risks with its desire to outpace the United States.",
-          "yayin_tarihi": "Wed, 21 Oct 2026 09:24:47 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Yemeni City of Taiz Running Out of Essentials as Houthis Close in",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html",
-          "ozet": "The Iranian-backed Houthi militia has cut road access to Taiz, one of Yemen’s largest cities, besieging it. Officials there warn of an impending humanitarian disaster.",
-          "yayin_tarihi": "Tue, 20 Oct 2026 14:28:29 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Why Zelensky Took the Gloves Off This Time With Trump",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html",
-          "ozet": "Staying quiet is riskier than speaking up, Ukrainian officials say, as President Trump goes further than ever in prioritizing Russia’s interests.",
-          "yayin_tarihi": "Tue, 20 Oct 2026 20:39:58 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "UK to Send Fighter Jets to Help Defend Saudi Arabia From Houthi Attacks",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html",
-          "ozet": "R.A.F. Typhoon fighter jets will be deployed to protect infrastructure in Saudi Arabia, Britain said, after a spike in attacks by the Iran-backed Houthi militia.",
-          "yayin_tarihi": "Tue, 20 Oct 2026 12:34:57 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
-          "ozet": "The response came after Homeland Security ordered the removal and exclusion of products developed by the Chinese company.",
-          "yayin_tarihi": "Wed, 21 Oct 2026 03:15:01 +0000",
+          "yayin_tarihi": "Wed, 21 Oct 2026 14:43:43 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-21T11:31:10.712301"
+      "taranma_zamani": "2026-10-22T11:31:03.169177"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Japanese companies stay in Russia, awaiting chance to expand presence — business ombudsman",
+          "baslik": "EU’s attempts to preserve criminal regime in Kiev to fail — Russian diplomat",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2205393",
-          "ozet": "Alexander Shokhin noted that Japanese companies were not withdrawing from gas projects in Russia",
-          "yayin_tarihi": "Wed, 21 Oct 2026 14:22:58 +0300",
+          "url": "https://tass.com/politics/2206229",
+          "ozet": "Dmitry Polyansky stressed that Europe is well aware of the conditions under which Moscow is ready to negotiate",
+          "yayin_tarihi": "Thu, 22 Oct 2026 14:25:41 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Witkoff says he brought documents outlining proposals for Ukrainian settlement",
+          "baslik": "Russia patents new portable multiple rocket launcher",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2205389",
-          "ozet": "According to the US special presidential envoy, these are \"ideas about the different elements of some sort of a peace deal between Russia and Ukraine\"",
-          "yayin_tarihi": "Wed, 21 Oct 2026 14:15:01 +0300",
+          "url": "https://tass.com/defense/2206225",
+          "ozet": "The lightweight portable multiple rocket launcher is used to fire with reduced rollover effects and shorter intervals between launches",
+          "yayin_tarihi": "Thu, 22 Oct 2026 14:22:39 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Trade between Russia, China up 30-fold in 25 years despite external pressure — Russian PM",
+          "baslik": "Montenegro plans to join EU in 2028, Russian ambassador tells TASS",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2205379",
-          "ozet": "Moscow and Beijing have almost fully shifted to using national currencies in their mutual settlements, Mikhail Mishustin added",
-          "yayin_tarihi": "Wed, 21 Oct 2026 14:10:22 +0300",
+          "url": "https://tass.com/politics/2206221",
+          "ozet": "Alexander Lukashik emphasized that Podgorica’s full support for the EU’s anti-Russian restrictions was another reflection of this approach",
+          "yayin_tarihi": "Thu, 22 Oct 2026 14:15:58 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "First diesel shipment to US and timeline for restoring export volumes: statements by Novak",
+          "baslik": "US moving troops closer to Iran in anticipation of new confrontation — news portal",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2205351",
-          "ozet": "The deputy prime minister emphasized that Russia could fully restore its diesel export volumes by the end of this year",
-          "yayin_tarihi": "Wed, 21 Oct 2026 13:56:49 +0300",
+          "url": "https://tass.com/world/2206201",
+          "ozet": "According to an unnamed US official, Donald Trump called off operations against Iran and Yemen’s Ansar Allah rebel movement, the Houthis, on seven occasions, \"at the last minute\"",
+          "yayin_tarihi": "Thu, 22 Oct 2026 14:04:54 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Witkoff thanks Putin on Trump’s behalf for diesel deal",
+          "baslik": "Joint board meeting adopts decisions to ensure security of Russia and Belarus — Belousov",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2205345",
-          "ozet": "The US special presidential envoy believes that the Russian leader’s decision was \"a really important act\"",
-          "yayin_tarihi": "Wed, 21 Oct 2026 13:50:12 +0300",
+          "url": "https://tass.com/politics/2206211",
+          "ozet": "The Russian defense minister noted that joint operational and combat training of the troops remained a priority area of cooperation between the defense ministries of the two countries",
+          "yayin_tarihi": "Thu, 22 Oct 2026 14:03:36 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-21T11:31:10.712353"
+      "taranma_zamani": "2026-10-22T11:31:03.169208"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-21T11:31:10.712356"
+      "taranma_zamani": "2026-10-22T11:31:03.169210"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "国安人士：黃逸豪假车祸 幕后主使“K”入台交付任务",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/yataibaodao/2026/10/22/china-transnational-repression-against-taiwanese-entertainer/",
+          "ozet": "台湾相声演员黄逸豪因表演讽刺中国的段子，而遭撞伤。检方指，昵称“K”的中国人士出资指使在台人员制造假车祸。国安人士向本台披露，嫌犯手机显示，中方要求将黄逸豪撞至“断手断脚”，使其一至两周无法演出；“K”甚至曾入境台湾交付任务。",
+          "yayin_tarihi": "Thu, 22 Oct 2026 08:38:53 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "台湾周边活动中国舰船 数量居高 海域联动   ",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/yataibaodao/2026/10/22/pla-near-taiwan/",
+          "ozet": "台湾国防部周三（21日）公布台海周边海空域动态，从周二上午6时至周三上午6时，共侦获29架次解放军军机，其中23架次越过台海中线；另有6艘解放军军舰及9艘中国公务船持续在台海周边活动，整体数量处于近期高位。",
+          "yayin_tarihi": "Thu, 22 Oct 2026 04:42:55 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "中国整治网络 打击”片面解读”涉军政策",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/yataibaodao/2026/10/21/pla-online-information/",
+          "ozet": "“在部队患病”被指“导向不良”　中国整治网络“唱衰”军旅前景信息",
+          "yayin_tarihi": "Wed, 21 Oct 2026 12:14:07 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "五台嫌執行中共跨境鎮壓 假車禍撞傷台灣相聲演員",
           "kaynak": "www.rfa.org",
@@ -163,33 +187,9 @@
           "ozet": "台湾战略学者揭仲认为，这样的谈法，在以往或许是事实，但习近平上任后，情况已经改变。“中华民族的伟大复兴“在习近平时代，已经从口号变成必须实现的政治目标，而其中就包括统一台湾。",
           "yayin_tarihi": "Mon, 19 Oct 2026 09:19:09 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "中国公务员招录总量缩减  但有省份税务系统逆势增招",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/10/16/china-civil-service-recruitment-taxation-chinese-economy/",
-          "ozet": "中国2027年度国家公务员考试计划招录35,691人，比上一年度减少2,428人，连续第二年缩减。其中，税务系统计划招录24,013人，占总数的67.28%。在全国招录总量下降的同时，部分省份税务系统增加名额，多个省份税务岗位占当",
-          "yayin_tarihi": "Fri, 16 Oct 2026 10:40:05 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "中国“数据找人”催缴社保 民众喊负担重",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/10/15/china-social-security-big-data-economic-downturn-overburdened/",
-          "ozet": "中国官方近日提出，通过“数据找人”等方式寻找尚未参保的人员，动员他们参加社保，连日在社交媒体引发强烈反应。有居民告诉本台，失业和收入不稳定，使他们难以继续承担保费。",
-          "yayin_tarihi": "Thu, 15 Oct 2026 08:24:56 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "中国官场“不倒翁”黄奇帆  卸任重庆市长十年被查",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/2026/10/14/huang-qifan-party-secretary-of-chongqing-china-official-falls-from-power/",
-          "ozet": "中国重庆市委原副书记、原市长黄奇帆10月13日被宣布接受调查。中央纪委国家监委通报称，黄奇帆涉嫌严重违纪违法，目前正接受纪律审查和监察调查，但未公布具体涉嫌事项。",
-          "yayin_tarihi": "Wed, 14 Oct 2026 07:47:47 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-21T11:31:10.712363"
+      "taranma_zamani": "2026-10-22T11:31:03.169217"
     }
   }
 }
