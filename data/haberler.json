@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-10-22",
-  "olusturma_zamani": "2026-10-22T11:31:03.169405",
+  "olusturma_tarihi": "2026-10-23",
+  "olusturma_zamani": "2026-10-23T11:20:36.049223",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Cumhurbaşkanı Erdoğan: Adil çözümler için arabuluculuk yapmaya devam edeceğiz",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-adil-cozumler-icin-arabuluculuk-yapmaya-devam-edecegiz-960964.html",
+          "ozet": "Cumhurbaşkanı Erdoğan, \"Türkiye olarak güvensizlik üzerine bina edilen bir uluslararası siyaset anlayışını kabul etmiyoruz. En çetin ihtilaflarda dahi diplomasi için mutlaka bir kapı olduğuna inanıyoruz. Bu noktada barış için tarafları bir araya getirmeye, adil çözümler için arabuluculuk yapmaya ve sorumluluk üstlenmeye devam edeceğiz\" dedi.",
+          "yayin_tarihi": "Fri, 23 Oct 2026 11:00:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "3 faili meçhul dosyasında yeni gelişme",
           "kaynak": "www.trthaber.com",
@@ -36,27 +44,35 @@
           "ozet": "Kara para aklama soruşturması kapsamında gözaltına alınan Mustafa Sarıgül’ün eski eşi Aylin Kotil, oğlu Ömer Sarıgül ve Murat Ağırel’in de bulunduğu 17 şüpheliden 15'i tutuklandı. 2'si için ise adli kontrol tedbiri uygulandı.",
           "yayin_tarihi": "Mon, 19 Oct 2026 19:57:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "18 il için 'sarı' ve 'turuncu' kodlu uyarı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/18-il-icin-sari-ve-turuncu-kodlu-uyari-960443.html",
-          "ozet": "Yağışlı hava ve fırtına nedeniyle 18 il için sarı ve turuncu kodlu uyarı yapıldı. Vatandaşlardan yaşanabilecek olumsuzluklara karşı tedbirli ve dikkatli olması istendi.",
-          "yayin_tarihi": "Sun, 18 Oct 2026 08:10:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-22T11:31:03.169158"
+      "taranma_zamani": "2026-10-23T11:20:36.048948"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
+          "baslik": "How Long Will Russians Put Up With War? Here’s What They Told Us.",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/23/world/europe/russia-ukraine-public-opinion.html",
+          "ozet": "“Everything is fine” is a common refrain in a country used to adapting to a new normal.",
+          "yayin_tarihi": "Fri, 23 Oct 2026 09:30:47 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html",
+          "ozet": "A rare escalation this month exposed the increasingly lethal arsenals the two Koreas are building up across the world’s most heavily fortified border.",
+          "yayin_tarihi": "Fri, 23 Oct 2026 05:13:32 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
-          "ozet": "For weeks, the Iran-backed Houthis have been attacking the kingdom’s aviation and energy sectors.",
-          "yayin_tarihi": "Thu, 22 Oct 2026 11:10:02 +0000",
+          "ozet": "The airport is in Dammam, which is near the headquarters of oil giant Saudi Aramco. For weeks, Yemen’s Iran-backed Houthi militia has been attacking the kingdom’s aviation and energy sectors.",
+          "yayin_tarihi": "Thu, 22 Oct 2026 18:07:36 +0000",
           "dil": "İngilizce"
         },
         {
@@ -64,86 +80,70 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
           "ozet": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working.",
-          "yayin_tarihi": "Thu, 22 Oct 2026 11:11:44 +0000",
+          "yayin_tarihi": "Thu, 22 Oct 2026 15:22:53 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
+          "baslik": "Above Iran’s Capital, a Trump Impersonator Dances in a Jail Cell",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html",
-          "ozet": "Ukraine says it still doesn’t know why the military satellite internet service, a sister to Starlink, was abruptly throttled, leaving troops vulnerable to Russian attacks.",
-          "yayin_tarihi": "Wed, 21 Oct 2026 17:11:32 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Who Is Stephen James Hubbard, the American Released From Russian Jail?",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/21/world/europe/who-stephen-hubbard-american-russia-prisoner-release.html",
-          "ozet": "Mr. Hubbard, a 74-year-old teacher, was held for more than four years on what the State Department called fabricated charges.",
-          "yayin_tarihi": "Wed, 21 Oct 2026 13:10:45 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "China’s Free A.I. Models Are Thrown Into Uncertainty",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
-          "ozet": "Draft rules on the export of artificial intelligence technology show how China is trying to balance national security risks with its desire to outpace the United States.",
-          "yayin_tarihi": "Wed, 21 Oct 2026 14:43:43 +0000",
+          "url": "https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html",
+          "ozet": "The Islamic republic has long used billboards in Tehran to mock its opponents and hammer home its messaging, but this piece of performance propaganda is perhaps the most eccentric yet.",
+          "yayin_tarihi": "Thu, 22 Oct 2026 21:25:08 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-22T11:31:03.169177"
+      "taranma_zamani": "2026-10-23T11:20:36.048965"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "EU’s attempts to preserve criminal regime in Kiev to fail — Russian diplomat",
+          "baslik": "Russia believes in Trump’s sincere intention to resolve Ukrainian conflict — diplomat",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2206229",
-          "ozet": "Dmitry Polyansky stressed that Europe is well aware of the conditions under which Moscow is ready to negotiate",
-          "yayin_tarihi": "Thu, 22 Oct 2026 14:25:41 +0300",
+          "url": "https://tass.com/politics/2206831",
+          "ozet": "Alexander Gusarov said that Moscow appreciates the efforts the US president is making to achieve this goal",
+          "yayin_tarihi": "Fri, 23 Oct 2026 13:57:47 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia patents new portable multiple rocket launcher",
+          "baslik": "Bank of Russia has decided to keep its key rate at 14%",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2206225",
-          "ozet": "The lightweight portable multiple rocket launcher is used to fire with reduced rollover effects and shorter intervals between launches",
-          "yayin_tarihi": "Thu, 22 Oct 2026 14:22:39 +0300",
+          "url": "https://tass.com/economy/2206817",
+          "ozet": "The regulator said that current price pressure remains elevated",
+          "yayin_tarihi": "Fri, 23 Oct 2026 13:44:36 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Montenegro plans to join EU in 2028, Russian ambassador tells TASS",
+          "baslik": "Russia, US need to move forward in eliminating bilateral irritants — Russian MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2206221",
-          "ozet": "Alexander Lukashik emphasized that Podgorica’s full support for the EU’s anti-Russian restrictions was another reflection of this approach",
-          "yayin_tarihi": "Thu, 22 Oct 2026 14:15:58 +0300",
+          "url": "https://tass.com/politics/2206803",
+          "ozet": "According to the statement, quite significant results have been achieved in the form of agreements to improve the operating conditions of the diplomatic missions",
+          "yayin_tarihi": "Fri, 23 Oct 2026 13:32:29 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US moving troops closer to Iran in anticipation of new confrontation — news portal",
+          "baslik": "Russia changes world balance, making US, Europe move to dialogue — legislator",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2206201",
-          "ozet": "According to an unnamed US official, Donald Trump called off operations against Iran and Yemen’s Ansar Allah rebel movement, the Houthis, on seven occasions, \"at the last minute\"",
-          "yayin_tarihi": "Thu, 22 Oct 2026 14:04:54 +0300",
+          "url": "https://tass.com/politics/2206791",
+          "ozet": "The Croatian portal Advance previously published an opinion that the resumption of direct economic cooperation between Russia and Slovakia indicates that dialogue with Moscow is ceasing to be a \"political taboo\" in the European Union",
+          "yayin_tarihi": "Fri, 23 Oct 2026 13:23:10 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Joint board meeting adopts decisions to ensure security of Russia and Belarus — Belousov",
+          "baslik": "Russia develops advanced Titan robotic demining system",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2206211",
-          "ozet": "The Russian defense minister noted that joint operational and combat training of the troops remained a priority area of cooperation between the defense ministries of the two countries",
-          "yayin_tarihi": "Thu, 22 Oct 2026 14:03:36 +0300",
+          "url": "https://tass.com/defense/2206773",
+          "ozet": "The system is designed to clear a continuous route through anti-personnel minefields by sweeping away the main types of anti-personnel mines",
+          "yayin_tarihi": "Fri, 23 Oct 2026 13:09:44 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-22T11:31:03.169208"
+      "taranma_zamani": "2026-10-23T11:20:36.048988"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-22T11:31:03.169210"
+      "taranma_zamani": "2026-10-23T11:20:36.048991"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-22T11:31:03.169217"
+      "taranma_zamani": "2026-10-23T11:20:36.049192"
     }
   }
 }
