@@ -1,18 +1,10 @@
 {
-  "olusturma_tarihi": "2026-10-23",
-  "olusturma_zamani": "2026-10-23T11:20:36.049223",
+  "olusturma_tarihi": "2026-10-24",
+  "olusturma_zamani": "2026-10-24T10:40:17.551665",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
-        {
-          "baslik": "Cumhurbaşkanı Erdoğan: Adil çözümler için arabuluculuk yapmaya devam edeceğiz",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-adil-cozumler-icin-arabuluculuk-yapmaya-devam-edecegiz-960964.html",
-          "ozet": "Cumhurbaşkanı Erdoğan, \"Türkiye olarak güvensizlik üzerine bina edilen bir uluslararası siyaset anlayışını kabul etmiyoruz. En çetin ihtilaflarda dahi diplomasi için mutlaka bir kapı olduğuna inanıyoruz. Bu noktada barış için tarafları bir araya getirmeye, adil çözümler için arabuluculuk yapmaya ve sorumluluk üstlenmeye devam edeceğiz\" dedi.",
-          "yayin_tarihi": "Fri, 23 Oct 2026 11:00:00 +0300",
-          "dil": "Türkçe"
-        },
         {
           "baslik": "3 faili meçhul dosyasında yeni gelişme",
           "kaynak": "www.trthaber.com",
@@ -38,19 +30,59 @@
           "dil": "Türkçe"
         },
         {
-          "baslik": "İstanbul'da kara para aklama soruşturmasında 15 şüpheli tutuklandı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/istanbulda-kara-para-aklama-sorusturmasinda-15-supheli-tutuklandi-960558.html",
-          "ozet": "Kara para aklama soruşturması kapsamında gözaltına alınan Mustafa Sarıgül’ün eski eşi Aylin Kotil, oğlu Ömer Sarıgül ve Murat Ağırel’in de bulunduğu 17 şüpheliden 15'i tutuklandı. 2'si için ise adli kontrol tedbiri uygulandı.",
-          "yayin_tarihi": "Mon, 19 Oct 2026 19:57:00 +0300",
+          "baslik": "ABD'li yetkililerin Rusya-Ukrayna Savaşı'nın sona erdirilmesi için plan hazırladığı iddiası",
+          "kaynak": "Hürriyet",
+          "url": "https://www.hurriyet.com.tr/dunya/abdli-yetkililerin-rusya-ukrayna-savasinin-sona-erdirilmesi-icin-plan-hazirladigi-iddiasi-43352804",
+          "ozet": "En Son Haberler - The Economist, ABD'li yetkililerin, Rusya-Ukrayna Savaşı'nın sona erdirilmesine yönelik Donbas'ta askerden arındırılmış bir bölge oluşturulması, Moskova'ya yönelik yaptırımların hafifletilmesi ve Ukrayna'nın NATO üyeliğinden vazgeçmesi gibi maddeleri içeren plan hazırladığını öne sürdü.​​​​​​​",
+          "yayin_tarihi": "2026-10-23T17:06:33Z",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Rusya ve Ukrayna arasında bölgesel ateşkes",
+          "kaynak": "Hürriyet",
+          "url": "https://www.hurriyet.com.tr/dunya/rusya-ve-ukrayna-arasinda-bolgesel-ateskes-43352571",
+          "ozet": "Güncel Haberler - ABD, Rusya ve Ukrayna arasında bölgesel ateşkesin sağlandığını duyurdu. Açıklamada, ateşkesin Oleşki şehriyle sınırlı olduğu ve 29 Ekim'de yürürlüğe gireceği kaydedildi.",
+          "yayin_tarihi": "2026-10-23T13:39:16Z",
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-23T11:20:36.048948"
+      "taranma_zamani": "2026-10-24T10:40:17.551399"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-trump.html",
+          "ozet": "The United States once declared that Ukraine’s fight was the front line in a global battle for freedom. Now the Trump administration is sending money to Moscow.",
+          "yayin_tarihi": "Sat, 24 Oct 2026 09:03:20 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Speed of Starshield Satellite Network Is Improving, Ukraine Says",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+          "ozet": "The announcement followed more than a week of disruption to Starshield, the Pentagon-funded satellite network that Ukraine relies on to thwart Russian attacks.",
+          "yayin_tarihi": "Sat, 24 Oct 2026 10:08:45 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "North Korea’s Kim Jong-un Arrives in China, South Korea Says",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
+          "ozet": "Mr. Kim was said to have crossed the border via a newly opened bridge for his first visit to China in over a year, as the countries move to deepen ties.",
+          "yayin_tarihi": "Sat, 24 Oct 2026 10:25:29 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
+          "ozet": "The U.S. government has ordered diplomats and other federal employees to leave Saudi Arabia. It is also drawing down staff at other missions in the region.",
+          "yayin_tarihi": "Sat, 24 Oct 2026 03:46:54 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "How Long Will Russians Put Up With War? Here’s What They Told Us.",
           "kaynak": "rss.nytimes.com",
@@ -58,92 +90,60 @@
           "ozet": "“Everything is fine” is a common refrain in a country used to adapting to a new normal.",
           "yayin_tarihi": "Fri, 23 Oct 2026 09:30:47 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "Arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html",
-          "ozet": "A rare escalation this month exposed the increasingly lethal arsenals the two Koreas are building up across the world’s most heavily fortified border.",
-          "yayin_tarihi": "Fri, 23 Oct 2026 05:13:32 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
-          "ozet": "The airport is in Dammam, which is near the headquarters of oil giant Saudi Aramco. For weeks, Yemen’s Iran-backed Houthi militia has been attacking the kingdom’s aviation and energy sectors.",
-          "yayin_tarihi": "Thu, 22 Oct 2026 18:07:36 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
-          "ozet": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working.",
-          "yayin_tarihi": "Thu, 22 Oct 2026 15:22:53 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Above Iran’s Capital, a Trump Impersonator Dances in a Jail Cell",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html",
-          "ozet": "The Islamic republic has long used billboards in Tehran to mock its opponents and hammer home its messaging, but this piece of performance propaganda is perhaps the most eccentric yet.",
-          "yayin_tarihi": "Thu, 22 Oct 2026 21:25:08 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-23T11:20:36.048965"
+      "taranma_zamani": "2026-10-24T10:40:17.551415"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia believes in Trump’s sincere intention to resolve Ukrainian conflict — diplomat",
+          "baslik": "Russian air defenses down 1,297 drones over past 24 hours",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2206831",
-          "ozet": "Alexander Gusarov said that Moscow appreciates the efforts the US president is making to achieve this goal",
-          "yayin_tarihi": "Fri, 23 Oct 2026 13:57:47 +0300",
+          "url": "https://tass.com/defense/2207273",
+          "ozet": "Kiev forces lose almost 1,190 troops in special military operation zone",
+          "yayin_tarihi": "Sat, 24 Oct 2026 12:46:39 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Bank of Russia has decided to keep its key rate at 14%",
+          "baslik": "Russia hopes new UN chief election will rid Secretariat of Western dictate — MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2206817",
-          "ozet": "The regulator said that current price pressure remains elevated",
-          "yayin_tarihi": "Fri, 23 Oct 2026 13:44:36 +0300",
+          "url": "https://tass.com/politics/2207259",
+          "ozet": "Kirill Logvinov, Director of the Department for International Organizations at the Russian Foreign Ministry said that serious problems within the UN’s operations cannot be ignored",
+          "yayin_tarihi": "Sat, 24 Oct 2026 09:33:00 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia, US need to move forward in eliminating bilateral irritants — Russian MFA",
+          "baslik": "Air defense down 616 Ukrainian drones overnight over Russian regions — Defense Ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2206803",
-          "ozet": "According to the statement, quite significant results have been achieved in the form of agreements to improve the operating conditions of the diplomatic missions",
-          "yayin_tarihi": "Fri, 23 Oct 2026 13:32:29 +0300",
+          "url": "https://tass.com/defense/2207257",
+          "ozet": "They were destroyed over the territories of 22 regions and the waters of the Azov and Black seas",
+          "yayin_tarihi": "Sat, 24 Oct 2026 08:58:52 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia changes world balance, making US, Europe move to dialogue — legislator",
+          "baslik": "Attempt to accuse Russia of disinformation turned against West — envoy",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2206791",
-          "ozet": "The Croatian portal Advance previously published an opinion that the resumption of direct economic cooperation between Russia and Slovakia indicates that dialogue with Moscow is ceasing to be a \"political taboo\" in the European Union",
-          "yayin_tarihi": "Fri, 23 Oct 2026 13:23:10 +0300",
+          "url": "https://tass.com/politics/2207251",
+          "ozet": "Kirill Dmitriev responsed to the news that two FBI agents were arrested in the United States on charges of giving false testimony to Congress regarding the laptop belonging to the son of the former US president",
+          "yayin_tarihi": "Sat, 24 Oct 2026 08:14:46 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia develops advanced Titan robotic demining system",
+          "baslik": "Putin and Modi instruct governments on trade development — ambassador to Russia",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2206773",
-          "ozet": "The system is designed to clear a continuous route through anti-personnel minefields by sweeping away the main types of anti-personnel mines",
-          "yayin_tarihi": "Fri, 23 Oct 2026 13:09:44 +0300",
+          "url": "https://tass.com/economy/2207249",
+          "ozet": "This instruction was given by the Russian and Indian leaders following their joint participation in the BRICS summit, India’s ambassador to Russia Vinay Kumar emphasized",
+          "yayin_tarihi": "Sat, 24 Oct 2026 07:48:00 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-23T11:20:36.048988"
+      "taranma_zamani": "2026-10-24T10:40:17.551441"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-23T11:20:36.048991"
+      "taranma_zamani": "2026-10-24T10:40:17.551443"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-23T11:20:36.049192"
+      "taranma_zamani": "2026-10-24T10:40:17.551637"
     }
   }
 }
