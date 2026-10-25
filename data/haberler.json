@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-10-24",
-  "olusturma_zamani": "2026-10-24T10:40:17.551665",
+  "olusturma_tarihi": "2026-10-25",
+  "olusturma_zamani": "2026-10-25T11:04:29.052763",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "TürkiyeKKTC doğal gaz hattı için NAVTEX yayımlandı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/turkiye-kktc-dogal-gaz-hatti-icin-navtex-yayimlandi-961104.html",
+          "ozet": "Türkiye ile KKTC arasında yapılacak doğal gaz boru hattı projesi için NAVTEX yayımlandı. Akdeniz'de belirlenen 12 koordinatta 31 Aralık'a kadar çalışma yürütülecek.",
+          "yayin_tarihi": "Sat, 24 Oct 2026 23:31:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "3 faili meçhul dosyasında yeni gelişme",
           "kaynak": "www.trthaber.com",
@@ -22,57 +30,57 @@
           "dil": "Türkçe"
         },
         {
-          "baslik": "Görünmeyen cephe: Türkiyenin elektronik harp kabiliyeti",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/gorunmeyen-cephe-turkiyenin-elektronik-harp-kabiliyeti-960634.html",
-          "ozet": "Modern savaşlarda artık yalnızca tanklar, uçaklar, füzeler ve gemiler karşı karşıya gelmiyor. Bunların görev yapabilmesi için ihtiyaç duyduğu radar, haberleşme, seyrüsefer ve veri bağlantıları da hedef haline geliyor. Türkiye işte tam da bu alanda yerli ve milli kabiliyetlerle kendi ekosistemini inşa ediyor…",
-          "yayin_tarihi": "Tue, 20 Oct 2026 13:30:00 +0300",
+          "baslik": "Avrupa'yı korkutan harita! Yüzlerce olay incelendi",
+          "kaynak": "Hürriyet",
+          "url": "https://www.hurriyet.com.tr/dunya/avrupayi-tedirgin-harita-yuzlerce-olay-incelendi-43353597",
+          "ozet": "En Son Haberler - Avrupa'da 17 ülkeden gazeteciler, Rusya bağlantılı olduğu değerlendirilen sabotaj girişimleri, şüpheli İHA hareketleri ve hava sahası ihlalleri dahil yüzlerce olayı inceleyerek etkileşimli bir harita hazırladı.",
+          "yayin_tarihi": "2026-10-24T13:29:08Z",
           "dil": "Türkçe"
         },
         {
-          "baslik": "ABD'li yetkililerin Rusya-Ukrayna Savaşı'nın sona erdirilmesi için plan hazırladığı iddiası",
+          "baslik": "ABD Rusya ve Ukrayna masaya oturuyor! Abu Dabi’de barış zirvesi",
           "kaynak": "Hürriyet",
-          "url": "https://www.hurriyet.com.tr/dunya/abdli-yetkililerin-rusya-ukrayna-savasinin-sona-erdirilmesi-icin-plan-hazirladigi-iddiasi-43352804",
-          "ozet": "En Son Haberler - The Economist, ABD'li yetkililerin, Rusya-Ukrayna Savaşı'nın sona erdirilmesine yönelik Donbas'ta askerden arındırılmış bir bölge oluşturulması, Moskova'ya yönelik yaptırımların hafifletilmesi ve Ukrayna'nın NATO üyeliğinden vazgeçmesi gibi maddeleri içeren plan hazırladığını öne sürdü.​​​​​​​",
-          "yayin_tarihi": "2026-10-23T17:06:33Z",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Rusya ve Ukrayna arasında bölgesel ateşkes",
-          "kaynak": "Hürriyet",
-          "url": "https://www.hurriyet.com.tr/dunya/rusya-ve-ukrayna-arasinda-bolgesel-ateskes-43352571",
-          "ozet": "Güncel Haberler - ABD, Rusya ve Ukrayna arasında bölgesel ateşkesin sağlandığını duyurdu. Açıklamada, ateşkesin Oleşki şehriyle sınırlı olduğu ve 29 Ekim'de yürürlüğe gireceği kaydedildi.",
-          "yayin_tarihi": "2026-10-23T13:39:16Z",
+          "url": "https://www.hurriyet.com.tr/dunya/abd-rusya-ve-ukrayna-masaya-oturuyor-abu-dabide-baris-zirvesi-43352955",
+          "ozet": "Güncel Haberler - Rusya, ABD’nin yeni barış planını müzakere etmek üzere önümüzdeki ay BAE’nin başkenti Abu Dabi’de üçlü masaya oturmayı kabul etti. Ukrayna’nın doğusundaki Donbas’ın silahtan arındırılması ve Kiev’in NATO üyeliğinden vazgeçmesini içeren planın detayları basına sızdı.",
+          "yayin_tarihi": "2026-10-23T23:40:09Z",
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-24T10:40:17.551399"
+      "taranma_zamani": "2026-10-25T11:04:29.052587"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+          "ozet": "The comments came after the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
+          "yayin_tarihi": "Sun, 25 Oct 2026 09:28:35 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Iranians Face Anxious Wait as Threat of Attack Looms",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
+          "ozet": "The United States and Israel have drawn up plans to renew strikes against Iran, creating a sense of dread among war-weary residents.",
+          "yayin_tarihi": "Sun, 25 Oct 2026 05:14:43 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-trump.html",
           "ozet": "The United States once declared that Ukraine’s fight was the front line in a global battle for freedom. Now the Trump administration is sending money to Moscow.",
-          "yayin_tarihi": "Sat, 24 Oct 2026 09:03:20 +0000",
+          "yayin_tarihi": "Sat, 24 Oct 2026 09:03:21 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Speed of Starshield Satellite Network Is Improving, Ukraine Says",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-          "ozet": "The announcement followed more than a week of disruption to Starshield, the Pentagon-funded satellite network that Ukraine relies on to thwart Russian attacks.",
-          "yayin_tarihi": "Sat, 24 Oct 2026 10:08:45 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "North Korea’s Kim Jong-un Arrives in China, South Korea Says",
+          "baslik": "Kim Jong-un Makes First Visit to China in Over a Year",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
-          "ozet": "Mr. Kim was said to have crossed the border via a newly opened bridge for his first visit to China in over a year, as the countries move to deepen ties.",
-          "yayin_tarihi": "Sat, 24 Oct 2026 10:25:29 +0000",
+          "ozet": "The North Korean leader crossed the border on a newly opened bridge for the trip, as the two countries move to deepen ties.",
+          "yayin_tarihi": "Sun, 25 Oct 2026 01:14:39 +0000",
           "dil": "İngilizce"
         },
         {
@@ -80,74 +88,74 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
           "ozet": "The U.S. government has ordered diplomats and other federal employees to leave Saudi Arabia. It is also drawing down staff at other missions in the region.",
-          "yayin_tarihi": "Sat, 24 Oct 2026 03:46:54 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "How Long Will Russians Put Up With War? Here’s What They Told Us.",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/23/world/europe/russia-ukraine-public-opinion.html",
-          "ozet": "“Everything is fine” is a common refrain in a country used to adapting to a new normal.",
-          "yayin_tarihi": "Fri, 23 Oct 2026 09:30:47 +0000",
+          "yayin_tarihi": "Sat, 24 Oct 2026 16:09:15 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-24T10:40:17.551415"
+      "taranma_zamani": "2026-10-25T11:04:29.052602"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russian air defenses down 1,297 drones over past 24 hours",
+          "baslik": "Air defenses down 532 Ukrainian drones over Russian regions overnight",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2207273",
-          "ozet": "Kiev forces lose almost 1,190 troops in special military operation zone",
-          "yayin_tarihi": "Sat, 24 Oct 2026 12:46:39 +0300",
+          "url": "https://tass.com/defense/2207429",
+          "ozet": "They were destroyed over 23 regions and the waters of the Sea of Azov, he Russian Defense Ministry reported",
+          "yayin_tarihi": "Sun, 25 Oct 2026 10:11:26 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia hopes new UN chief election will rid Secretariat of Western dictate — MFA",
+          "baslik": "US intelligence agencies aware of Zelensky’s embezzled billions — Russian lawmaker",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2207259",
-          "ozet": "Kirill Logvinov, Director of the Department for International Organizations at the Russian Foreign Ministry said that serious problems within the UN’s operations cannot be ignored",
-          "yayin_tarihi": "Sat, 24 Oct 2026 09:33:00 +0300",
+          "url": "https://tass.com/politics/2207403",
+          "ozet": "Only a change in power in Kiev can alter the situation, Viktor Vodolatsky said",
+          "yayin_tarihi": "Sun, 25 Oct 2026 08:00:00 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Air defense down 616 Ukrainian drones overnight over Russian regions — Defense Ministry",
+          "baslik": "Ukrainian drone attack on Russia’s Omsk Region injures three — governor",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2207257",
-          "ozet": "They were destroyed over the territories of 22 regions and the waters of the Azov and Black seas",
-          "yayin_tarihi": "Sat, 24 Oct 2026 08:58:52 +0300",
+          "url": "https://tass.com/politics/2207401",
+          "ozet": "Emergency services continue to work on site to address the aftermath of the attack",
+          "yayin_tarihi": "Sun, 25 Oct 2026 07:45:49 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Attempt to accuse Russia of disinformation turned against West — envoy",
+          "baslik": "Ukraine loses nearly 14% of its locomotives in less than two years",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2207251",
-          "ozet": "Kirill Dmitriev responsed to the news that two FBI agents were arrested in the United States on charges of giving false testimony to Congress regarding the laptop belonging to the son of the former US president",
-          "yayin_tarihi": "Sat, 24 Oct 2026 08:14:46 +0300",
+          "url": "https://tass.com/economy/2207397",
+          "ozet": "The majority of the losses, around 300, occurred in 2026",
+          "yayin_tarihi": "Sun, 25 Oct 2026 06:55:01 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Putin and Modi instruct governments on trade development — ambassador to Russia",
+          "baslik": "Conflict with Russian to cost Ukraine over $470 million per day in 2027",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2207249",
-          "ozet": "This instruction was given by the Russian and Indian leaders following their joint participation in the BRICS summit, India’s ambassador to Russia Vinay Kumar emphasized",
-          "yayin_tarihi": "Sat, 24 Oct 2026 07:48:00 +0300",
+          "url": "https://tass.com/world/2207393",
+          "ozet": "In 2026, Ukraine’s military spending averaged about $300 million per day",
+          "yayin_tarihi": "Sun, 25 Oct 2026 06:23:01 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-24T10:40:17.551441"
+      "taranma_zamani": "2026-10-25T11:04:29.052613"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-24T10:40:17.551443"
+      "taranma_zamani": "2026-10-25T11:04:29.052615"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "金正恩跨新鸭绿江大桥访问中国  死亡谣传平息",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/podcasts/yataibaodao/2026/10/24/north-korean-kim-visit-china/",
+          "ozet": "朝鲜领导人金正恩于24日突传访问中国，这是他时隔1年1个月再次访中。分析人士认为，此行可能是为了在中国「抗美援朝」纪念日（25日）前夕，再次确认朝鲜与中国之间的「全面战略伙伴关系」。",
+          "yayin_tarihi": "Sat, 24 Oct 2026 11:12:49 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "国安人士：黃逸豪假车祸 幕后主使“K”入台交付任务",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "台湾相声演员黄逸豪疑似因为在表演中讽刺中国国家主席席近平，今年9月遭到五名台湾人设计假车祸撞伤。台湾新北地检署周三(21日)起诉这五名嫌犯，起诉书并且披露，一名昵称“K”的中国人士策划了这起攻击事件。",
           "yayin_tarihi": "Wed, 21 Oct 2026 08:25:00 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "过去称「台湾不独，中国不武」  学者：习近平时代已非如此",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/podcasts/yataibaodao/2026/10/19/unite-taiwan-force/",
-          "ozet": "台湾战略学者揭仲认为，这样的谈法，在以往或许是事实，但习近平上任后，情况已经改变。“中华民族的伟大复兴“在习近平时代，已经从口号变成必须实现的政治目标，而其中就包括统一台湾。",
-          "yayin_tarihi": "Mon, 19 Oct 2026 09:19:09 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-24T10:40:17.551637"
+      "taranma_zamani": "2026-10-25T11:04:29.052622"
     }
   }
 }
