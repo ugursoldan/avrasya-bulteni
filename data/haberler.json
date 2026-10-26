@@ -1,10 +1,34 @@
 {
-  "olusturma_tarihi": "2026-10-25",
-  "olusturma_zamani": "2026-10-25T11:04:29.052763",
+  "olusturma_tarihi": "2026-10-26",
+  "olusturma_zamani": "2026-10-26T12:37:31.518591",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Bakan Gürlek: Fon soruşturmalarında önceliğimiz iyi niyetli yatırımcıların hakkını korumak",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/bakan-gurlek-fon-sorusturmalarinda-onceligimiz-iyi-niyetli-yatirimcilarin-hakkini-korumak-961160.html",
+          "ozet": "Adalet Bakanı Akın Gürlek, fon soruşturmalarıyla ilgili, \"Hiçbir hukuka aykırılığın karşılıksız kalmaması, mağduriyetlerin giderilmesi ve adaletin eksiksiz tecellisi için kararlılıkla çalışacağız\" açıklamasını yaptı.",
+          "yayin_tarihi": "Sun, 25 Oct 2026 18:35:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "TOLGA ve PİRANA sistemleri hedefleri tam isabetle vurdu",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/savunma/tolga-ve-pirana-sistemleri-hedefleri-tam-isabetle-vurdu-961149.html",
+          "ozet": "Makine ve Kimya Endüstrisi (MKE) tarafından geliştirilen TOLGA Yakın Hava Savunma Sistemi ve PİRANA kamikaze insansız deniz aracı Milli İnsansız Deniz Sistemleri Tatbikatı'nda (TURNAs-2026) hedefleri tam isabetle vurdu.",
+          "yayin_tarihi": "Sun, 25 Oct 2026 15:19:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Trump: Bugün İran'a saldırı olmayacak",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/trump-bugun-irana-saldiri-olmayacak-961164.html",
+          "ozet": "ABD Başkanı Donald Trump, İran'a yönelik olası saldırıların ne zaman sona ereceği konusunda net bir yanıt vermekten kaçınarak, \"Bugün bir saldırı olmayacak\" dedi.",
+          "yayin_tarihi": "Sun, 25 Oct 2026 19:24:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "TürkiyeKKTC doğal gaz hattı için NAVTEX yayımlandı",
           "kaynak": "www.trthaber.com",
@@ -20,43 +44,27 @@
           "ozet": "İzmir, Mersin ve Osmaniye’de 10 ila 21 yıl öncesine dayanan üç ayrı faili meçhul dosyasında önemli gelişmeler kaydedildi. Bakan Akın Gürlek, 64 dosyada 71 cinayetin faili meçhul olmaktan çıkardıklarını söyledi. Gürlek, \"Aradan ne kadar zaman geçerse geçsin, hakikatin izini sürmekten ve adaletin tecellisi için çalışmaktan vazgeçmeyeceğiz\" dedi.",
           "yayin_tarihi": "Thu, 22 Oct 2026 13:23:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Gazze'de hastane jeneratörlerini çalıştırmak için gerekli yakıt tükendi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/gazzede-hastane-jeneratorlerini-calistirmak-icin-gerekli-yakit-tukendi-960723.html",
-          "ozet": "Soykırımcı İsrail ordusunun saldırılarıyla büyük yıkıma uğrattığı Gazze Şeridi'ndeki hastanelerde jeneratörleri çalıştırmak için gerekli yakıtın tükendiği bildirildi.",
-          "yayin_tarihi": "Wed, 21 Oct 2026 09:46:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Avrupa'yı korkutan harita! Yüzlerce olay incelendi",
-          "kaynak": "Hürriyet",
-          "url": "https://www.hurriyet.com.tr/dunya/avrupayi-tedirgin-harita-yuzlerce-olay-incelendi-43353597",
-          "ozet": "En Son Haberler - Avrupa'da 17 ülkeden gazeteciler, Rusya bağlantılı olduğu değerlendirilen sabotaj girişimleri, şüpheli İHA hareketleri ve hava sahası ihlalleri dahil yüzlerce olayı inceleyerek etkileşimli bir harita hazırladı.",
-          "yayin_tarihi": "2026-10-24T13:29:08Z",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "ABD Rusya ve Ukrayna masaya oturuyor! Abu Dabi’de barış zirvesi",
-          "kaynak": "Hürriyet",
-          "url": "https://www.hurriyet.com.tr/dunya/abd-rusya-ve-ukrayna-masaya-oturuyor-abu-dabide-baris-zirvesi-43352955",
-          "ozet": "Güncel Haberler - Rusya, ABD’nin yeni barış planını müzakere etmek üzere önümüzdeki ay BAE’nin başkenti Abu Dabi’de üçlü masaya oturmayı kabul etti. Ukrayna’nın doğusundaki Donbas’ın silahtan arındırılması ve Kiev’in NATO üyeliğinden vazgeçmesini içeren planın detayları basına sızdı.",
-          "yayin_tarihi": "2026-10-23T23:40:09Z",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-25T11:04:29.052587"
+      "taranma_zamani": "2026-10-26T12:37:31.518419"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "To Work With P.O.W.s, Ukrainians Suppress Feelings About the Enemy",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-russia-pows-prisoners.html",
+          "ozet": "Much has been said about how Ukraine should treat Russian prisoners of war. Less attention has been paid to the emotional struggle for the Ukrainians tasked with that work.",
+          "yayin_tarihi": "Mon, 26 Oct 2026 09:58:09 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "Elon Musk Says Ukraine Violated Starlink’s Rules",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
           "ozet": "The comments came after the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
-          "yayin_tarihi": "Sun, 25 Oct 2026 09:28:35 +0000",
+          "yayin_tarihi": "Sun, 25 Oct 2026 09:28:36 +0000",
           "dil": "İngilizce"
         },
         {
@@ -64,7 +72,15 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
           "ozet": "The United States and Israel have drawn up plans to renew strikes against Iran, creating a sense of dread among war-weary residents.",
-          "yayin_tarihi": "Sun, 25 Oct 2026 05:14:43 +0000",
+          "yayin_tarihi": "Sun, 25 Oct 2026 05:14:44 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
+          "ozet": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month.",
+          "yayin_tarihi": "Sun, 25 Oct 2026 21:39:45 +0000",
           "dil": "İngilizce"
         },
         {
@@ -74,76 +90,60 @@
           "ozet": "The United States once declared that Ukraine’s fight was the front line in a global battle for freedom. Now the Trump administration is sending money to Moscow.",
           "yayin_tarihi": "Sat, 24 Oct 2026 09:03:21 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "Kim Jong-un Makes First Visit to China in Over a Year",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
-          "ozet": "The North Korean leader crossed the border on a newly opened bridge for the trip, as the two countries move to deepen ties.",
-          "yayin_tarihi": "Sun, 25 Oct 2026 01:14:39 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
-          "ozet": "The U.S. government has ordered diplomats and other federal employees to leave Saudi Arabia. It is also drawing down staff at other missions in the region.",
-          "yayin_tarihi": "Sat, 24 Oct 2026 16:09:15 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-25T11:04:29.052602"
+      "taranma_zamani": "2026-10-26T12:37:31.518433"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Air defenses down 532 Ukrainian drones over Russian regions overnight",
+          "baslik": "Despite thousands of sanctions, Russia stands firm — Medvedev",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2207429",
-          "ozet": "They were destroyed over 23 regions and the waters of the Sea of Azov, he Russian Defense Ministry reported",
-          "yayin_tarihi": "Sun, 25 Oct 2026 10:11:26 +0300",
+          "url": "https://tass.com/politics/2207929",
+          "ozet": "More than 30,000 illegal, unilateral restrictive measures have been imposed against Russia, the politician recalled",
+          "yayin_tarihi": "Mon, 26 Oct 2026 15:19:35 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US intelligence agencies aware of Zelensky’s embezzled billions — Russian lawmaker",
+          "baslik": "Accusations against Raul Castro legally null and void — Russian Foreign Ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2207403",
-          "ozet": "Only a change in power in Kiev can alter the situation, Viktor Vodolatsky said",
-          "yayin_tarihi": "Sun, 25 Oct 2026 08:00:00 +0300",
+          "url": "https://tass.com/politics/2207933",
+          "ozet": "Maria Zakharova emphasized that it had been confirmed by a UN Security Council resolution adopted 30 years ago",
+          "yayin_tarihi": "Mon, 26 Oct 2026 15:15:10 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ukrainian drone attack on Russia’s Omsk Region injures three — governor",
+          "baslik": "Ukraine’s parliament votes to extend martial law",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2207401",
-          "ozet": "Emergency services continue to work on site to address the aftermath of the attack",
-          "yayin_tarihi": "Sun, 25 Oct 2026 07:45:49 +0300",
+          "url": "https://tass.com/world/2207927",
+          "ozet": "Martial law is set to remain in force until January 29, 2027",
+          "yayin_tarihi": "Mon, 26 Oct 2026 15:10:58 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ukraine loses nearly 14% of its locomotives in less than two years",
+          "baslik": "Russia’s Courier ground robotic system can withstand up to six enemy FPV attacks",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2207397",
-          "ozet": "The majority of the losses, around 300, occurred in 2026",
-          "yayin_tarihi": "Sun, 25 Oct 2026 06:55:01 +0300",
+          "url": "https://tass.com/politics/2207925",
+          "ozet": "According to the report, the anti-drone armor is made from conveyor belts and used tracks",
+          "yayin_tarihi": "Mon, 26 Oct 2026 15:09:45 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Conflict with Russian to cost Ukraine over $470 million per day in 2027",
+          "baslik": "Alyoshki roads' daily shelling, Kiev’s refusal to allow evacuation: top brass' statements",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2207393",
-          "ozet": "In 2026, Ukraine’s military spending averaged about $300 million per day",
-          "yayin_tarihi": "Sun, 25 Oct 2026 06:23:01 +0300",
+          "url": "https://tass.com/defense/2207923",
+          "ozet": "The Ukrainian army is remotely laying mines on access routes to Alyoshki to prevent the evacuation of civilians and block the delivery of medicine, the Russian Defense Ministry reported",
+          "yayin_tarihi": "Mon, 26 Oct 2026 15:05:00 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-25T11:04:29.052613"
+      "taranma_zamani": "2026-10-26T12:37:31.518453"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-25T11:04:29.052615"
+      "taranma_zamani": "2026-10-26T12:37:31.518455"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-25T11:04:29.052622"
+      "taranma_zamani": "2026-10-26T12:37:31.518461"
     }
   }
 }
