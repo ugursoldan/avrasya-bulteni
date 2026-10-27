@@ -1,10 +1,42 @@
 {
-  "olusturma_tarihi": "2026-10-26",
-  "olusturma_zamani": "2026-10-26T12:37:31.518591",
+  "olusturma_tarihi": "2026-10-27",
+  "olusturma_zamani": "2026-10-27T11:54:25.671139",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Mekke Anlaşması TBMM Dışişleri Komisyonunda",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/mekke-anlasmasi-tbmm-disisleri-komisyonunda-961342.html",
+          "ozet": "TBMM Dışişleri Komisyonunda, Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı Arasında Ortak Savunma İçin Mekke Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi'nin görüşmeleri sürüyor.",
+          "yayin_tarihi": "Tue, 27 Oct 2026 12:57:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Türk uçak gemisine milli insansız sistemler damga vuracak",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/turk-ucak-gemisine-milli-insansiz-sistemler-damga-vuracak-961322.html",
+          "ozet": "Geçtiğimiz günlerde tamamlanan TURNAs 2026 Tatbikatı esnasında kullanılan insansız sistemler Türkiye için yeni bir döneme işaret ediyor. Gelecek yıl suya inecek milli uçak gemisinde çok sayıda insansız platform kullanılacağı da biliniyor. Ankara böylece uçak gemisini dünyadaki diğer örneklerden farklı kullanacağının da sinyalini veriyor.",
+          "yayin_tarihi": "Tue, 27 Oct 2026 11:30:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Pendik ve Tuzla'da yollar göle döndü",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/pendik-ve-tuzlada-yollar-gole-dondu-961297.html",
+          "ozet": "İstanbul'da gece saatlerinde itibaren etkisini gösteren sağanak sonrası Tuzla ve Pendik’te yollar göle dönerken, bazı araçlar su birikintilerinin içinde mahsur kaldı.",
+          "yayin_tarihi": "Tue, 27 Oct 2026 08:18:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "11 il için sarı uyarı: Kuvvetli yağışa dikkat",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/11-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-961285.html",
+          "ozet": "Marmara, Kıyı Ege ile Batı Akdeniz'de beklenen kuvvetli yağış nedeniyle 11 il için \"sarı\" ve \"turuncu\" kodlu uyarıda bulunuldu.",
+          "yayin_tarihi": "Tue, 27 Oct 2026 06:26:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Bakan Gürlek: Fon soruşturmalarında önceliğimiz iyi niyetli yatırımcıların hakkını korumak",
           "kaynak": "www.trthaber.com",
@@ -12,45 +44,21 @@
           "ozet": "Adalet Bakanı Akın Gürlek, fon soruşturmalarıyla ilgili, \"Hiçbir hukuka aykırılığın karşılıksız kalmaması, mağduriyetlerin giderilmesi ve adaletin eksiksiz tecellisi için kararlılıkla çalışacağız\" açıklamasını yaptı.",
           "yayin_tarihi": "Sun, 25 Oct 2026 18:35:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "TOLGA ve PİRANA sistemleri hedefleri tam isabetle vurdu",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/savunma/tolga-ve-pirana-sistemleri-hedefleri-tam-isabetle-vurdu-961149.html",
-          "ozet": "Makine ve Kimya Endüstrisi (MKE) tarafından geliştirilen TOLGA Yakın Hava Savunma Sistemi ve PİRANA kamikaze insansız deniz aracı Milli İnsansız Deniz Sistemleri Tatbikatı'nda (TURNAs-2026) hedefleri tam isabetle vurdu.",
-          "yayin_tarihi": "Sun, 25 Oct 2026 15:19:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Trump: Bugün İran'a saldırı olmayacak",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/trump-bugun-irana-saldiri-olmayacak-961164.html",
-          "ozet": "ABD Başkanı Donald Trump, İran'a yönelik olası saldırıların ne zaman sona ereceği konusunda net bir yanıt vermekten kaçınarak, \"Bugün bir saldırı olmayacak\" dedi.",
-          "yayin_tarihi": "Sun, 25 Oct 2026 19:24:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "TürkiyeKKTC doğal gaz hattı için NAVTEX yayımlandı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/turkiye-kktc-dogal-gaz-hatti-icin-navtex-yayimlandi-961104.html",
-          "ozet": "Türkiye ile KKTC arasında yapılacak doğal gaz boru hattı projesi için NAVTEX yayımlandı. Akdeniz'de belirlenen 12 koordinatta 31 Aralık'a kadar çalışma yürütülecek.",
-          "yayin_tarihi": "Sat, 24 Oct 2026 23:31:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "3 faili meçhul dosyasında yeni gelişme",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/3-faili-mechul-dosyasinda-yeni-gelisme-960888.html",
-          "ozet": "İzmir, Mersin ve Osmaniye’de 10 ila 21 yıl öncesine dayanan üç ayrı faili meçhul dosyasında önemli gelişmeler kaydedildi. Bakan Akın Gürlek, 64 dosyada 71 cinayetin faili meçhul olmaktan çıkardıklarını söyledi. Gürlek, \"Aradan ne kadar zaman geçerse geçsin, hakikatin izini sürmekten ve adaletin tecellisi için çalışmaktan vazgeçmeyeceğiz\" dedi.",
-          "yayin_tarihi": "Thu, 22 Oct 2026 13:23:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-26T12:37:31.518419"
+      "taranma_zamani": "2026-10-27T11:54:25.671017"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "2 British Men Charged Over RAF Fairford Incident",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/27/world/europe/raf-fairford-charges-uk-air-base-us-iran.html",
+          "ozet": "One man is accused of helping Iranian intelligence in connection with the events at R.A.F. Fairford, a base used by the United States in its war against Iran.",
+          "yayin_tarihi": "Tue, 27 Oct 2026 11:46:42 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "To Work With P.O.W.s, Ukrainians Suppress Feelings About the Enemy",
           "kaynak": "rss.nytimes.com",
@@ -60,94 +68,102 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+          "baslik": "Egypt OKs Military Aid to Saudis in Fight With Houthis",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-          "ozet": "The comments came after the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
-          "yayin_tarihi": "Sun, 25 Oct 2026 09:28:36 +0000",
+          "url": "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html",
+          "ozet": "The Egyptians will commit forces for defensive purposes only, officials have said, as the kingdom exchanges increasingly deadly strikes with the Iranian-backed militia in Yemen.",
+          "yayin_tarihi": "Mon, 26 Oct 2026 19:42:58 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iranians Face Anxious Wait as Threat of Attack Looms",
+          "baslik": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
-          "ozet": "The United States and Israel have drawn up plans to renew strikes against Iran, creating a sense of dread among war-weary residents.",
-          "yayin_tarihi": "Sun, 25 Oct 2026 05:14:44 +0000",
+          "url": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
+          "ozet": "Israel’s military chief resisted the prime minister, who then pressed in recent days for a separate action, short of an overt strike, according to an official and a person briefed on the matter.",
+          "yayin_tarihi": "Tue, 27 Oct 2026 01:34:24 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
+          "baslik": "Civilian Suffering Was Goal of Russian Strikes in Ukraine, U.N. Panel Says",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
-          "ozet": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month.",
-          "yayin_tarihi": "Sun, 25 Oct 2026 21:39:45 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-trump.html",
-          "ozet": "The United States once declared that Ukraine’s fight was the front line in a global battle for freedom. Now the Trump administration is sending money to Moscow.",
-          "yayin_tarihi": "Sat, 24 Oct 2026 09:03:21 +0000",
+          "url": "https://www.nytimes.com/2026/10/26/world/europe/russia-ukraine-energy-strikes-un.html",
+          "ozet": "The assaults on infrastructure, which cut off heat and power on bitterly cold winter days, amounted to a crime against humanity, investigators said.",
+          "yayin_tarihi": "Mon, 26 Oct 2026 23:12:02 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-26T12:37:31.518433"
+      "taranma_zamani": "2026-10-27T11:54:25.671033"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Despite thousands of sanctions, Russia stands firm — Medvedev",
+          "baslik": "Putin attends plenary session of Gas Exporting Countries Forum summit",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2207929",
-          "ozet": "More than 30,000 illegal, unilateral restrictive measures have been imposed against Russia, the politician recalled",
-          "yayin_tarihi": "Mon, 26 Oct 2026 15:19:35 +0300",
+          "url": "https://tass.com/politics/2208623",
+          "ozet": "The plenary session is chaired by the head of the Russian state",
+          "yayin_tarihi": "Tue, 27 Oct 2026 14:50:51 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Accusations against Raul Castro legally null and void — Russian Foreign Ministry",
+          "baslik": "Fourth tanker carrying diesel for export to sail tomorrow — deputy PM Novak",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2207933",
-          "ozet": "Maria Zakharova emphasized that it had been confirmed by a UN Security Council resolution adopted 30 years ago",
-          "yayin_tarihi": "Mon, 26 Oct 2026 15:15:10 +0300",
+          "url": "https://tass.com/economy/2208621",
+          "ozet": "Alexander Novak said three tankers carrying diesel had already departed from Russian ports",
+          "yayin_tarihi": "Tue, 27 Oct 2026 14:48:06 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ukraine’s parliament votes to extend martial law",
+          "baslik": "Iran’s conditions for ending war must be met — supreme leader",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2207927",
-          "ozet": "Martial law is set to remain in force until January 29, 2027",
-          "yayin_tarihi": "Mon, 26 Oct 2026 15:10:58 +0300",
+          "url": "https://tass.com/world/2208615",
+          "ozet": "The Supreme Leader of the Islamic Revolution emphasized the need for ensuring the rights and interests of the Iranian people",
+          "yayin_tarihi": "Tue, 27 Oct 2026 14:45:21 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia’s Courier ground robotic system can withstand up to six enemy FPV attacks",
+          "baslik": "Putin arrives at Gas Exporting Countries Forum summit",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2207925",
-          "ozet": "According to the report, the anti-drone armor is made from conveyor belts and used tracks",
-          "yayin_tarihi": "Mon, 26 Oct 2026 15:09:45 +0300",
+          "url": "https://tass.com/economy/2208595",
+          "ozet": "The summit will open with an official welcoming ceremony hosted by the Russian leader, followed by the traditional group photo",
+          "yayin_tarihi": "Tue, 27 Oct 2026 14:40:31 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Alyoshki roads' daily shelling, Kiev’s refusal to allow evacuation: top brass' statements",
+          "baslik": "Iran's supreme leader healthy, in full charge of country — parliament speaker",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2207923",
-          "ozet": "The Ukrainian army is remotely laying mines on access routes to Alyoshki to prevent the evacuation of civilians and block the delivery of medicine, the Russian Defense Ministry reported",
-          "yayin_tarihi": "Mon, 26 Oct 2026 15:05:00 +0300",
+          "url": "https://tass.com/world/2208603",
+          "ozet": "According to Mohammad Bagher Ghalibaf, despite heavy losses, Mojtaba Khamenei maintains an air of serenity, testifying to his strong faith in God and deep trust in the people",
+          "yayin_tarihi": "Tue, 27 Oct 2026 14:40:14 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-26T12:37:31.518453"
+      "taranma_zamani": "2026-10-27T11:54:25.671102"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-26T12:37:31.518455"
+      "taranma_zamani": "2026-10-27T11:54:25.671105"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "中共前三季处分105名省部级及以上官员",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/2026/10/27/china-fifth-plenary-session-corrupt-officials-strict-governance-of-the-party-cpc-commission-for-discipline-inspection/",
+          "ozet": "《中国纪检监察报》本周二（27日）报道，今年前三季度，全国纪检监察机关共处分68万人，其中省部级及以上官员105人，平均每月近12人；厅局级官员3680人。",
+          "yayin_tarihi": "Tue, 27 Oct 2026 07:42:37 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "网络流传中国高校生”联署书”　呼吁恢复国家主席任期",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/podcasts/yataibaodao/2026/10/26/student-protest-xi-bbs/",
+          "ozet": "一篇宣称来自中国多所高校学生联署的”公开信”，10月26日下午3时许出现在名为“思源湖BBS”的网站上。帖中呼吁恢复中国国家主席任期限制、推动民主修宪，并保障公民讨论国事的空间。\n但自由亚洲电台难以确定这个简体中文网是在中国境内。",
+          "yayin_tarihi": "Mon, 26 Oct 2026 16:25:38 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "金正恩跨新鸭绿江大桥访问中国  死亡谣传平息",
           "kaynak": "www.rfa.org",
@@ -171,25 +187,9 @@
           "ozet": "台湾国防部周三（21日）公布台海周边海空域动态，从周二上午6时至周三上午6时，共侦获29架次解放军军机，其中23架次越过台海中线；另有6艘解放军军舰及9艘中国公务船持续在台海周边活动，整体数量处于近期高位。",
           "yayin_tarihi": "Thu, 22 Oct 2026 04:42:55 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "中国整治网络 打击”片面解读”涉军政策",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/yataibaodao/2026/10/21/pla-online-information/",
-          "ozet": "“在部队患病”被指“导向不良”　中国整治网络“唱衰”军旅前景信息",
-          "yayin_tarihi": "Wed, 21 Oct 2026 12:14:07 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "五台嫌執行中共跨境鎮壓 假車禍撞傷台灣相聲演員",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/yataibaodao/2026/10/21/comedian-crossborder-repression/",
-          "ozet": "台湾相声演员黄逸豪疑似因为在表演中讽刺中国国家主席席近平，今年9月遭到五名台湾人设计假车祸撞伤。台湾新北地检署周三(21日)起诉这五名嫌犯，起诉书并且披露，一名昵称“K”的中国人士策划了这起攻击事件。",
-          "yayin_tarihi": "Wed, 21 Oct 2026 08:25:00 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-26T12:37:31.518461"
+      "taranma_zamani": "2026-10-27T11:54:25.671112"
     }
   }
 }
