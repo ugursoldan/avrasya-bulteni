@@ -1,153 +1,177 @@
 {
-  "olusturma_tarihi": "2026-10-27",
-  "olusturma_zamani": "2026-10-27T11:54:25.671139",
+  "olusturma_tarihi": "2026-10-28",
+  "olusturma_zamani": "2026-10-28T12:29:42.915921",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "Mekke Anlaşması TBMM Dışişleri Komisyonunda",
+          "baslik": "Tasfiye sürecindeki fonlarda ilk ara ödeme cuma günü başlıyor",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/mekke-anlasmasi-tbmm-disisleri-komisyonunda-961342.html",
-          "ozet": "TBMM Dışişleri Komisyonunda, Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı Arasında Ortak Savunma İçin Mekke Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi'nin görüşmeleri sürüyor.",
-          "yayin_tarihi": "Tue, 27 Oct 2026 12:57:00 +0300",
+          "url": "https://www.trthaber.com/haber/gundem/tasfiye-surecindeki-fonlarda-ilk-ara-odeme-cuma-gunu-basliyor-961484.html",
+          "ozet": "Tasfiye sürecindeki yatırım fonları kapsamında bugüne kadar 71 bin 899 hesaba toplam 68 milyar lira ödendi. Olağanüstü tasfiye kapsamındaki fonlar için ilk ara ödemeler ise 30 Ekim Cuma günü başlayacak.",
+          "yayin_tarihi": "Wed, 28 Oct 2026 13:27:00 +0300",
           "dil": "Türkçe"
         },
         {
-          "baslik": "Türk uçak gemisine milli insansız sistemler damga vuracak",
+          "baslik": "Meteoroloji'den 29 kente kuvvetli yağış uyarısı",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/turk-ucak-gemisine-milli-insansiz-sistemler-damga-vuracak-961322.html",
-          "ozet": "Geçtiğimiz günlerde tamamlanan TURNAs 2026 Tatbikatı esnasında kullanılan insansız sistemler Türkiye için yeni bir döneme işaret ediyor. Gelecek yıl suya inecek milli uçak gemisinde çok sayıda insansız platform kullanılacağı da biliniyor. Ankara böylece uçak gemisini dünyadaki diğer örneklerden farklı kullanacağının da sinyalini veriyor.",
-          "yayin_tarihi": "Tue, 27 Oct 2026 11:30:00 +0300",
+          "url": "https://www.trthaber.com/haber/gundem/meteorolojiden-29-kente-kuvvetli-yagis-uyarisi-961493.html",
+          "ozet": "Yarın beklenen kuvvetli ve gök gürültülü sağanak nedeniyle,  Adana, Antalya, Mersin ve Muğla için \"turuncu\", aralarında İstanbul ve İzmir'in de bulunduğu 25 il için ise \"sarı\" kodlu uyarı yapıldı.",
+          "yayin_tarihi": "Wed, 28 Oct 2026 14:28:00 +0300",
           "dil": "Türkçe"
         },
         {
-          "baslik": "Pendik ve Tuzla'da yollar göle döndü",
+          "baslik": "Türkiye'nin ulusal dijital kimlik cüzdanı için ilk adım atılıyor",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/pendik-ve-tuzlada-yollar-gole-dondu-961297.html",
-          "ozet": "İstanbul'da gece saatlerinde itibaren etkisini gösteren sağanak sonrası Tuzla ve Pendik’te yollar göle dönerken, bazı araçlar su birikintilerinin içinde mahsur kaldı.",
-          "yayin_tarihi": "Tue, 27 Oct 2026 08:18:00 +0300",
+          "url": "https://www.trthaber.com/haber/gundem/turkiyenin-ulusal-dijital-kimlik-cuzdani-icin-ilk-adim-atiliyor-961465.html",
+          "ozet": "Siber Güvenlik Başkanlığının sorumluluğunda geliştirilecek ulusal dijital kimlik cüzdanı, temel kimlik ve diploma belgelerini bir araya getirecek. Kamu çalışanları öncelikli olarak hazırlanacak prototipin gelecek yıl pilot bir yükseköğretim kurumunda test edilmesi öngörülüyor.",
+          "yayin_tarihi": "Wed, 28 Oct 2026 12:02:00 +0300",
           "dil": "Türkçe"
         },
         {
-          "baslik": "11 il için sarı uyarı: Kuvvetli yağışa dikkat",
+          "baslik": "ÖSYM'nin 2027 sınav takvimi belli oldu",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/11-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-961285.html",
-          "ozet": "Marmara, Kıyı Ege ile Batı Akdeniz'de beklenen kuvvetli yağış nedeniyle 11 il için \"sarı\" ve \"turuncu\" kodlu uyarıda bulunuldu.",
-          "yayin_tarihi": "Tue, 27 Oct 2026 06:26:00 +0300",
+          "url": "https://www.trthaber.com/haber/egitim/osymnin-2027-sinav-takvimi-belli-oldu-961445.html",
+          "ozet": "ÖSYM'nin 2027 yılı sınav takvimi açıklandı. Takvime göre, YKS 19-20 Haziran'da gerçekleştirilecek, başvurular 4 Şubat-2 Mart tarihlerinde alınacak. KPSS başvuruları 8-19 Temmuz'da yapılacak. KPSS A Grubu Genel Yetenek-Genel Kültür oturumları 12 Eylül'de, Alan Bilgisi 1. gün oturumları 18 Eylül'de, 2. gün oturumları ise 19 Eylül'de düzenlenecek.",
+          "yayin_tarihi": "Wed, 28 Oct 2026 09:59:00 +0300",
           "dil": "Türkçe"
         },
         {
-          "baslik": "Bakan Gürlek: Fon soruşturmalarında önceliğimiz iyi niyetli yatırımcıların hakkını korumak",
+          "baslik": "Sözde kasım indirimlerine bakanlık kalkanı",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/bakan-gurlek-fon-sorusturmalarinda-onceligimiz-iyi-niyetli-yatirimcilarin-hakkini-korumak-961160.html",
-          "ozet": "Adalet Bakanı Akın Gürlek, fon soruşturmalarıyla ilgili, \"Hiçbir hukuka aykırılığın karşılıksız kalmaması, mağduriyetlerin giderilmesi ve adaletin eksiksiz tecellisi için kararlılıkla çalışacağız\" açıklamasını yaptı.",
-          "yayin_tarihi": "Sun, 25 Oct 2026 18:35:00 +0300",
+          "url": "https://www.trthaber.com/haber/ekonomi/sozde-kasim-indirimlerine-bakanlik-kalkani-961446.html",
+          "ozet": "Ticaret Bakanlığı, kasım ayında yoğunlaşan indirim kampanyalarında tüketicilerin mağdur edilmesini önlemek için harekete geçti. Fiyatı önce şişirip sonra indiren, kafa karıştıran oranlarla vatandaşı aldatan ve gizli masraf çıkaran satıcılara mecra ayrımı gözetilmeksizin 40 milyon liraya varan tarihi cezalar kesilecek.",
+          "yayin_tarihi": "Wed, 28 Oct 2026 09:48:00 +0300",
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-27T11:54:25.671017"
+      "taranma_zamani": "2026-10-28T12:29:42.915722"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "2 British Men Charged Over RAF Fairford Incident",
+          "baslik": "Rare Wartime Dissent in Moscow Over Plans to Dismantle Russia’s ‘Eiffel Tower’",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/27/world/europe/raf-fairford-charges-uk-air-base-us-iran.html",
-          "ozet": "One man is accused of helping Iranian intelligence in connection with the events at R.A.F. Fairford, a base used by the United States in its war against Iran.",
-          "yayin_tarihi": "Tue, 27 Oct 2026 11:46:42 +0000",
+          "url": "https://www.nytimes.com/2026/10/28/world/europe/russia-shukhov-radio-tower.html",
+          "ozet": "A state broadcaster says it cannot afford the restoration of a 1922 steel tower, prompting rare wartime dissent and a movement to save the Modernist masterpiece.",
+          "yayin_tarihi": "Wed, 28 Oct 2026 09:04:44 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "To Work With P.O.W.s, Ukrainians Suppress Feelings About the Enemy",
+          "baslik": "A Chinese Port Could Be a Lifeline for Spain, but Also a Threat",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-russia-pows-prisoners.html",
-          "ozet": "Much has been said about how Ukraine should treat Russian prisoners of war. Less attention has been paid to the emotional struggle for the Ukrainians tasked with that work.",
-          "yayin_tarihi": "Mon, 26 Oct 2026 09:58:09 +0000",
+          "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
+          "ozet": "Residents say a proposed Chinese car plant in northern Spain will create new jobs. Others say it’s a long-term risk, distilling a debate about the costs and perks of ties to China.",
+          "yayin_tarihi": "Wed, 28 Oct 2026 04:01:09 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Egypt OKs Military Aid to Saudis in Fight With Houthis",
+          "baslik": "Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html",
-          "ozet": "The Egyptians will commit forces for defensive purposes only, officials have said, as the kingdom exchanges increasingly deadly strikes with the Iranian-backed militia in Yemen.",
-          "yayin_tarihi": "Mon, 26 Oct 2026 19:42:58 +0000",
+          "url": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html",
+          "ozet": "The move would be the latest U.S. concession to Moscow as President Trump pursues economic incentives he hopes will secure an end to war in Ukraine.",
+          "yayin_tarihi": "Tue, 27 Oct 2026 17:30:52 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
+          "baslik": "European Leaders Split Over Phone Call to Putin",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
-          "ozet": "Israel’s military chief resisted the prime minister, who then pressed in recent days for a separate action, short of an overt strike, according to an official and a person briefed on the matter.",
-          "yayin_tarihi": "Tue, 27 Oct 2026 01:34:24 +0000",
+          "url": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html",
+          "ozet": "The diplomatic outreach was part of an effort to push talks to end the war in Ukraine, though it was not welcomed by all European leaders.",
+          "yayin_tarihi": "Tue, 27 Oct 2026 20:49:50 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Civilian Suffering Was Goal of Russian Strikes in Ukraine, U.N. Panel Says",
+          "baslik": "For Israel’s Neighbors in Middle East, the Election Offers Little Hope of a Reset",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/26/world/europe/russia-ukraine-energy-strikes-un.html",
-          "ozet": "The assaults on infrastructure, which cut off heat and power on bitterly cold winter days, amounted to a crime against humanity, investigators said.",
-          "yayin_tarihi": "Mon, 26 Oct 2026 23:12:02 +0000",
+          "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
+          "ozet": "Few countries in the Middle East expect a turning point in relations with Israel. But the outcome of the vote has implications for the regional conflict with Iran.",
+          "yayin_tarihi": "Wed, 28 Oct 2026 10:45:04 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-27T11:54:25.671033"
+      "taranma_zamani": "2026-10-28T12:29:42.915741"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Putin attends plenary session of Gas Exporting Countries Forum summit",
+          "baslik": "Africa holds boundless potential for development — Putin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2208623",
-          "ozet": "The plenary session is chaired by the head of the Russian state",
-          "yayin_tarihi": "Tue, 27 Oct 2026 14:50:51 +0300",
+          "url": "https://tass.com/politics/2209507",
+          "ozet": "The Russian president added that Africa is rightly described as the \"continent of the future\"",
+          "yayin_tarihi": "Wed, 28 Oct 2026 15:26:07 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Fourth tanker carrying diesel for export to sail tomorrow — deputy PM Novak",
+          "baslik": "Russia ready to share ideas in using public administration technology with Africa — Putin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2208621",
-          "ozet": "Alexander Novak said three tankers carrying diesel had already departed from Russian ports",
-          "yayin_tarihi": "Tue, 27 Oct 2026 14:48:06 +0300",
+          "url": "https://tass.com/politics/2209505",
+          "ozet": "Russia has significant experience in applying information technology to public administration, the Russian president said",
+          "yayin_tarihi": "Wed, 28 Oct 2026 15:24:24 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Iran’s conditions for ending war must be met — supreme leader",
+          "baslik": "At least 11 Ukrainian cities are being prepared for 360 defense — underground sources",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2208615",
-          "ozet": "The Supreme Leader of the Islamic Revolution emphasized the need for ensuring the rights and interests of the Iranian people",
-          "yayin_tarihi": "Tue, 27 Oct 2026 14:45:21 +0300",
+          "url": "https://tass.com/society/2209501",
+          "ozet": "The pro-Russian underground sources noted that people are intentionally not being told which cities will be prepared for a circular defense, so as not to cause panic",
+          "yayin_tarihi": "Wed, 28 Oct 2026 15:22:10 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Putin arrives at Gas Exporting Countries Forum summit",
+          "baslik": "Ethiopia expects to receive four S-400 air defense system batteries from Russia — PM",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2208595",
-          "ozet": "The summit will open with an official welcoming ceremony hosted by the Russian leader, followed by the traditional group photo",
-          "yayin_tarihi": "Tue, 27 Oct 2026 14:40:31 +0300",
+          "url": "https://tass.com/world/2209503",
+          "ozet": "Russia and Ethiopia have been developing military-industrial cooperation for many years",
+          "yayin_tarihi": "Wed, 28 Oct 2026 15:17:56 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Iran's supreme leader healthy, in full charge of country — parliament speaker",
+          "baslik": "Russia exports 13 mln tons of agricultural products to Africa in nine months — Putin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2208603",
-          "ozet": "According to Mohammad Bagher Ghalibaf, despite heavy losses, Mojtaba Khamenei maintains an air of serenity, testifying to his strong faith in God and deep trust in the people",
-          "yayin_tarihi": "Tue, 27 Oct 2026 14:40:14 +0300",
+          "url": "https://tass.com/economy/2209485",
+          "ozet": "Meanwhile, Africa possesses its own agricultural potential and can provide itself with food on its own, the Russian leader said",
+          "yayin_tarihi": "Wed, 28 Oct 2026 15:02:30 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-27T11:54:25.671102"
+      "taranma_zamani": "2026-10-28T12:29:42.915764"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-27T11:54:25.671105"
+      "taranma_zamani": "2026-10-28T12:29:42.915766"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "美太平洋陆军司令：“戴维森窗口”仍有意义  2027年是美军战备节点",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/yataibaodao/2026/10/28/davidson-window-taiwan-strait/",
+          "ozet": "美国太平洋陆军司令罗纳德·克拉克表示，中国可能在2027年前具备攻台能力的“戴维森窗口”仍然有意义，美军必须以这一时间点为目标完成战备。不过，美国情报部门今年的评估同时指出，北京目前没有在2027年攻打台湾的既定计划。",
+          "yayin_tarihi": "Wed, 28 Oct 2026 10:50:15 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "姆巴佩称毛泽东独裁者  中国举国声讨",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shehui/2026/10/28/china-mbappe-mao-zedong-football-patriotism/",
+          "ozet": "10月26日，法国足球明星、皇家马德里前锋基利安·姆巴佩的一段访谈视频在中国网络流传。视频中，主持人问姆巴佩，哪张以他为主角的网络表情包最令他发笑。姆巴佩提到一张将自己的面孔与中国历史人物合成的图片，并使用“中国独裁者”的说法。",
+          "yayin_tarihi": "Wed, 28 Oct 2026 04:52:39 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "网传中国高校生联署反习延任  发布及备份网站资料均消失",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/podcasts/yataibaodao/2026/10/27/student-protest-xi-web/",
+          "ozet": "网络近日流传一份据称由中国高校学生发起的”联名呼吁书”，但周二网站已经无法连结。世界知名的网站备份伺服器”Way Back Machine”也显示”思源湖BBS”的网址内容曾经在27日被存档，但资料已消失。",
+          "yayin_tarihi": "Tue, 27 Oct 2026 15:57:02 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "中共前三季处分105名省部级及以上官员",
           "kaynak": "www.rfa.org",
@@ -163,33 +187,9 @@
           "ozet": "一篇宣称来自中国多所高校学生联署的”公开信”，10月26日下午3时许出现在名为“思源湖BBS”的网站上。帖中呼吁恢复中国国家主席任期限制、推动民主修宪，并保障公民讨论国事的空间。\n但自由亚洲电台难以确定这个简体中文网是在中国境内。",
           "yayin_tarihi": "Mon, 26 Oct 2026 16:25:38 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "金正恩跨新鸭绿江大桥访问中国  死亡谣传平息",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/podcasts/yataibaodao/2026/10/24/north-korean-kim-visit-china/",
-          "ozet": "朝鲜领导人金正恩于24日突传访问中国，这是他时隔1年1个月再次访中。分析人士认为，此行可能是为了在中国「抗美援朝」纪念日（25日）前夕，再次确认朝鲜与中国之间的「全面战略伙伴关系」。",
-          "yayin_tarihi": "Sat, 24 Oct 2026 11:12:49 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "国安人士：黃逸豪假车祸 幕后主使“K”入台交付任务",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/yataibaodao/2026/10/22/china-transnational-repression-against-taiwanese-entertainer/",
-          "ozet": "台湾相声演员黄逸豪因表演讽刺中国的段子，而遭撞伤。检方指，昵称“K”的中国人士出资指使在台人员制造假车祸。国安人士向本台披露，嫌犯手机显示，中方要求将黄逸豪撞至“断手断脚”，使其一至两周无法演出；“K”甚至曾入境台湾交付任务。",
-          "yayin_tarihi": "Thu, 22 Oct 2026 08:38:53 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "台湾周边活动中国舰船 数量居高 海域联动   ",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/yataibaodao/2026/10/22/pla-near-taiwan/",
-          "ozet": "台湾国防部周三（21日）公布台海周边海空域动态，从周二上午6时至周三上午6时，共侦获29架次解放军军机，其中23架次越过台海中线；另有6艘解放军军舰及9艘中国公务船持续在台海周边活动，整体数量处于近期高位。",
-          "yayin_tarihi": "Thu, 22 Oct 2026 04:42:55 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-27T11:54:25.671112"
+      "taranma_zamani": "2026-10-28T12:29:42.915893"
     }
   }
 }
