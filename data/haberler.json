@@ -1,16 +1,32 @@
 {
-  "olusturma_tarihi": "2026-10-28",
-  "olusturma_zamani": "2026-10-28T12:29:42.915921",
+  "olusturma_tarihi": "2026-10-29",
+  "olusturma_zamani": "2026-10-29T12:40:57.345590",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "Tasfiye sürecindeki fonlarda ilk ara ödeme cuma günü başlıyor",
+          "baslik": "Gazze'de 21 bin 468 hasta ve yaralı tahliye bekliyor",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/tasfiye-surecindeki-fonlarda-ilk-ara-odeme-cuma-gunu-basliyor-961484.html",
-          "ozet": "Tasfiye sürecindeki yatırım fonları kapsamında bugüne kadar 71 bin 899 hesaba toplam 68 milyar lira ödendi. Olağanüstü tasfiye kapsamındaki fonlar için ilk ara ödemeler ise 30 Ekim Cuma günü başlayacak.",
-          "yayin_tarihi": "Wed, 28 Oct 2026 13:27:00 +0300",
+          "url": "https://www.trthaber.com/haber/dunya/gazzede-21-bin-468-hasta-ve-yarali-tahliye-bekliyor-961618.html",
+          "ozet": "Katil İsrail ordusunun soykırıma varan saldırılarıyla 175 binden fazla kişiyi yaraladığı ve tıbbi imkanların kısıtlı olduğu Gazze Şeridi'nde 21 bin 468 Filistinlinin bölge dışında tedavi olmak için beklediği bildirildi.",
+          "yayin_tarihi": "Thu, 29 Oct 2026 13:15:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "19 il için turuncu ve sarı uyarı: Kuvvetli yağışa dikkat",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/19-il-icin-turuncu-ve-sari-uyari-kuvvetli-yagisa-dikkat-961594.html",
+          "ozet": "Doğu Akdeniz, Antalya çevreleri, Marmara'nın doğusu, Balıkesir ve Çanakkale çevreleri ile doğu kesimlerde beklenen kuvvetli yağış nedeniyle 19 il için \"turuncu\" ve \"sarı\" kodlu uyarıda bulunuldu.",
+          "yayin_tarihi": "Thu, 29 Oct 2026 11:13:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Cumhurbaşkanı Erdoğan'dan 29 Ekim Cumhuriyet Bayramı mesajı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-29-ekim-cumhuriyet-bayrami-mesaji-961573.html",
+          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhuriyetin 103. yılı için verdiği mesajda, \"Türkiye hamdolsun bugün dünden daha güçlüdür. İnşallah yarın çok daha güçlü, çok daha etkin olacaktır\" dedi.",
+          "yayin_tarihi": "Thu, 29 Oct 2026 09:00:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -22,128 +38,112 @@
           "dil": "Türkçe"
         },
         {
-          "baslik": "Türkiye'nin ulusal dijital kimlik cüzdanı için ilk adım atılıyor",
+          "baslik": "Tasfiye sürecindeki fonlarda ilk ara ödeme cuma günü başlıyor",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/turkiyenin-ulusal-dijital-kimlik-cuzdani-icin-ilk-adim-atiliyor-961465.html",
-          "ozet": "Siber Güvenlik Başkanlığının sorumluluğunda geliştirilecek ulusal dijital kimlik cüzdanı, temel kimlik ve diploma belgelerini bir araya getirecek. Kamu çalışanları öncelikli olarak hazırlanacak prototipin gelecek yıl pilot bir yükseköğretim kurumunda test edilmesi öngörülüyor.",
-          "yayin_tarihi": "Wed, 28 Oct 2026 12:02:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "ÖSYM'nin 2027 sınav takvimi belli oldu",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/egitim/osymnin-2027-sinav-takvimi-belli-oldu-961445.html",
-          "ozet": "ÖSYM'nin 2027 yılı sınav takvimi açıklandı. Takvime göre, YKS 19-20 Haziran'da gerçekleştirilecek, başvurular 4 Şubat-2 Mart tarihlerinde alınacak. KPSS başvuruları 8-19 Temmuz'da yapılacak. KPSS A Grubu Genel Yetenek-Genel Kültür oturumları 12 Eylül'de, Alan Bilgisi 1. gün oturumları 18 Eylül'de, 2. gün oturumları ise 19 Eylül'de düzenlenecek.",
-          "yayin_tarihi": "Wed, 28 Oct 2026 09:59:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Sözde kasım indirimlerine bakanlık kalkanı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/ekonomi/sozde-kasim-indirimlerine-bakanlik-kalkani-961446.html",
-          "ozet": "Ticaret Bakanlığı, kasım ayında yoğunlaşan indirim kampanyalarında tüketicilerin mağdur edilmesini önlemek için harekete geçti. Fiyatı önce şişirip sonra indiren, kafa karıştıran oranlarla vatandaşı aldatan ve gizli masraf çıkaran satıcılara mecra ayrımı gözetilmeksizin 40 milyon liraya varan tarihi cezalar kesilecek.",
-          "yayin_tarihi": "Wed, 28 Oct 2026 09:48:00 +0300",
+          "url": "https://www.trthaber.com/haber/gundem/tasfiye-surecindeki-fonlarda-ilk-ara-odeme-cuma-gunu-basliyor-961484.html",
+          "ozet": "Tasfiye sürecindeki yatırım fonları kapsamında bugüne kadar 71 bin 899 hesaba toplam 68 milyar lira ödendi. Olağanüstü tasfiye kapsamındaki fonlar için ilk ara ödemeler ise 30 Ekim Cuma günü başlayacak.",
+          "yayin_tarihi": "Wed, 28 Oct 2026 13:27:00 +0300",
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-28T12:29:42.915722"
+      "taranma_zamani": "2026-10-29T12:40:57.345297"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Rare Wartime Dissent in Moscow Over Plans to Dismantle Russia’s ‘Eiffel Tower’",
+          "baslik": "China Is Not Happy About Fan-made A.I. Videos of Sun Wukong and Lin Daiyu",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/28/world/europe/russia-shukhov-radio-tower.html",
-          "ozet": "A state broadcaster says it cannot afford the restoration of a 1922 steel tower, prompting rare wartime dissent and a movement to save the Modernist masterpiece.",
-          "yayin_tarihi": "Wed, 28 Oct 2026 09:04:44 +0000",
+          "url": "https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html",
+          "ozet": "Mash-up videos of beloved characters from Chinese classics — some made with A.I. — have caught the attention of the authorities.",
+          "yayin_tarihi": "Thu, 29 Oct 2026 09:09:01 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "A Chinese Port Could Be a Lifeline for Spain, but Also a Threat",
+          "baslik": "A Ukrainian City in the Kill Zone Relishes a Moment of Peace",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
-          "ozet": "Residents say a proposed Chinese car plant in northern Spain will create new jobs. Others say it’s a long-term risk, distilling a debate about the costs and perks of ties to China.",
-          "yayin_tarihi": "Wed, 28 Oct 2026 04:01:09 +0000",
+          "url": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html",
+          "ozet": "A rare localized cease-fire announced by the first lady, Melania Trump, offered a brief respite for Kherson, where Russian drones and artillery have long terrorized civilians.",
+          "yayin_tarihi": "Thu, 29 Oct 2026 12:18:45 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund",
+          "baslik": "Russian Strike on Ukrainian Train Station Kills 13",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html",
-          "ozet": "The move would be the latest U.S. concession to Moscow as President Trump pursues economic incentives he hopes will secure an end to war in Ukraine.",
-          "yayin_tarihi": "Tue, 27 Oct 2026 17:30:52 +0000",
+          "url": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html",
+          "ozet": "A deadly strike was a grim reminder that despite a rare local cease-fire around the Russian-occupied town of Oleshky, other communities remained under fire.",
+          "yayin_tarihi": "Thu, 29 Oct 2026 12:06:10 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "European Leaders Split Over Phone Call to Putin",
+          "baslik": "Vance Proposes Restarting Peace Talks in Outreach to Iranian Official",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html",
-          "ozet": "The diplomatic outreach was part of an effort to push talks to end the war in Ukraine, though it was not welcomed by all European leaders.",
-          "yayin_tarihi": "Tue, 27 Oct 2026 20:49:50 +0000",
+          "url": "https://www.nytimes.com/2026/10/28/us/politics/vance-peace-talks-letter-iran.html",
+          "ozet": "In his letter, the vice president suggested an immediate resumption of comprehensive talks, including about Iran’s nuclear program.",
+          "yayin_tarihi": "Thu, 29 Oct 2026 02:15:19 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "For Israel’s Neighbors in Middle East, the Election Offers Little Hope of a Reset",
+          "baslik": "Trump Officials Discussing Sanctions Relief for Russian Fund, Russia Acknowledges",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
-          "ozet": "Few countries in the Middle East expect a turning point in relations with Israel. But the outcome of the vote has implications for the regional conflict with Iran.",
-          "yayin_tarihi": "Wed, 28 Oct 2026 10:45:04 +0000",
+          "url": "https://www.nytimes.com/2026/10/28/us/politics/russia-sanctions-relief-fund-trump.html",
+          "ozet": "A Russian official said potential relief for a state investment fund was part of talks. Russia has sought to wring economic benefits from the negotiations on ending the war with Ukraine.",
+          "yayin_tarihi": "Wed, 28 Oct 2026 23:37:41 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-28T12:29:42.915741"
+      "taranma_zamani": "2026-10-29T12:40:57.345311"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Africa holds boundless potential for development — Putin",
+          "baslik": "Russia’s Su-57 fighter has high upgrade potential — Sukhoi Design Bureau",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2209507",
-          "ozet": "The Russian president added that Africa is rightly described as the \"continent of the future\"",
-          "yayin_tarihi": "Wed, 28 Oct 2026 15:26:07 +0300",
+          "url": "https://tass.com/economy/2210191",
+          "ozet": "Mikhail Strelets, director of the Sukhoi Design Bureau, emphasized that the platform is modular and enables the development of a scientific and technical foundation for adapting the aircraft system components featuring a new level of technical characteristics",
+          "yayin_tarihi": "Thu, 29 Oct 2026 15:36:14 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia ready to share ideas in using public administration technology with Africa — Putin",
+          "baslik": "Africa needs Russia’s expertise for development — Burundi’s President",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2209505",
-          "ozet": "Russia has significant experience in applying information technology to public administration, the Russian president said",
-          "yayin_tarihi": "Wed, 28 Oct 2026 15:24:24 +0300",
+          "url": "https://tass.com/world/2210189",
+          "ozet": "Evariste Ndayishimiye said that Africa needs Russia’s contribution to the development of agriculture, energy, healthcare, and scientific research",
+          "yayin_tarihi": "Thu, 29 Oct 2026 15:35:56 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "At least 11 Ukrainian cities are being prepared for 360 defense — underground sources",
+          "baslik": "Putin says resolving conflict in Sahel states important for entire world",
           "kaynak": "tass.com",
-          "url": "https://tass.com/society/2209501",
-          "ozet": "The pro-Russian underground sources noted that people are intentionally not being told which cities will be prepared for a circular defense, so as not to cause panic",
-          "yayin_tarihi": "Wed, 28 Oct 2026 15:22:10 +0300",
+          "url": "https://tass.com/politics/2210167",
+          "ozet": "The Russian president believes that everyone agrees with it",
+          "yayin_tarihi": "Thu, 29 Oct 2026 15:18:06 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ethiopia expects to receive four S-400 air defense system batteries from Russia — PM",
+          "baslik": "Russia ready to open vehicle service centers in Africa — minister",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2209503",
-          "ozet": "Russia and Ethiopia have been developing military-industrial cooperation for many years",
-          "yayin_tarihi": "Wed, 28 Oct 2026 15:17:56 +0300",
+          "url": "https://tass.com/economy/2210165",
+          "ozet": "African specialists could undergo training to work with sophisticated diagnostic systems and equipment",
+          "yayin_tarihi": "Thu, 29 Oct 2026 15:13:42 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia exports 13 mln tons of agricultural products to Africa in nine months — Putin",
+          "baslik": "African Union aims to give new impetus to cooperation with Russia — chairperson",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2209485",
-          "ozet": "Meanwhile, Africa possesses its own agricultural potential and can provide itself with food on its own, the Russian leader said",
-          "yayin_tarihi": "Wed, 28 Oct 2026 15:02:30 +0300",
+          "url": "https://tass.com/world/2210161",
+          "ozet": "Evariste Ndayishimiye noted that African countries seek to develop constructive relations with all international partners",
+          "yayin_tarihi": "Thu, 29 Oct 2026 15:10:02 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-28T12:29:42.915764"
+      "taranma_zamani": "2026-10-29T12:40:57.345551"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-28T12:29:42.915766"
+      "taranma_zamani": "2026-10-29T12:40:57.345554"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-28T12:29:42.915893"
+      "taranma_zamani": "2026-10-29T12:40:57.345561"
     }
   }
 }
