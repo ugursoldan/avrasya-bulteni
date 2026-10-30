@@ -1,153 +1,161 @@
 {
-  "olusturma_tarihi": "2026-10-29",
-  "olusturma_zamani": "2026-10-29T12:40:57.345590",
+  "olusturma_tarihi": "2026-10-30",
+  "olusturma_zamani": "2026-10-30T12:32:03.136800",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "Gazze'de 21 bin 468 hasta ve yaralı tahliye bekliyor",
+          "baslik": "LGS kapsamındaki merkezi sınav 13 Haziran 2027'de yapılacak",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/gazzede-21-bin-468-hasta-ve-yarali-tahliye-bekliyor-961618.html",
-          "ozet": "Katil İsrail ordusunun soykırıma varan saldırılarıyla 175 binden fazla kişiyi yaraladığı ve tıbbi imkanların kısıtlı olduğu Gazze Şeridi'nde 21 bin 468 Filistinlinin bölge dışında tedavi olmak için beklediği bildirildi.",
-          "yayin_tarihi": "Thu, 29 Oct 2026 13:15:00 +0300",
+          "url": "https://www.trthaber.com/haber/egitim/lgs-kapsamindaki-merkezi-sinav-13-haziran-2027de-yapilacak-961737.html",
+          "ozet": "Liselere Geçiş Sistemi kapsamındaki merkezi sınav, 13 Haziran 2027 Pazar günü gerçekleştirilecek.",
+          "yayin_tarihi": "Fri, 30 Oct 2026 14:05:00 +0300",
           "dil": "Türkçe"
         },
         {
-          "baslik": "19 il için turuncu ve sarı uyarı: Kuvvetli yağışa dikkat",
+          "baslik": "21 il için sarı uyarı: Kuvvetli yağışa dikkat",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/19-il-icin-turuncu-ve-sari-uyari-kuvvetli-yagisa-dikkat-961594.html",
-          "ozet": "Doğu Akdeniz, Antalya çevreleri, Marmara'nın doğusu, Balıkesir ve Çanakkale çevreleri ile doğu kesimlerde beklenen kuvvetli yağış nedeniyle 19 il için \"turuncu\" ve \"sarı\" kodlu uyarıda bulunuldu.",
-          "yayin_tarihi": "Thu, 29 Oct 2026 11:13:00 +0300",
+          "url": "https://www.trthaber.com/haber/turkiye/21-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-961698.html",
+          "ozet": "Marmara'nın doğusu ile doğu ve güneydoğu kesimlerde beklenen kuvvetli yağış nedeniyle 21 il için \"sarı\" kodlu uyarıda bulunuldu.",
+          "yayin_tarihi": "Fri, 30 Oct 2026 07:41:00 +0300",
           "dil": "Türkçe"
         },
         {
-          "baslik": "Cumhurbaşkanı Erdoğan'dan 29 Ekim Cumhuriyet Bayramı mesajı",
+          "baslik": "Dünyanın gözü Türkiye'de: COP31 için geri sayım başladı",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-29-ekim-cumhuriyet-bayrami-mesaji-961573.html",
-          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhuriyetin 103. yılı için verdiği mesajda, \"Türkiye hamdolsun bugün dünden daha güçlüdür. İnşallah yarın çok daha güçlü, çok daha etkin olacaktır\" dedi.",
-          "yayin_tarihi": "Thu, 29 Oct 2026 09:00:00 +0300",
+          "url": "https://www.trthaber.com/haber/gundem/dunyanin-gozu-turkiyede-cop31-icin-geri-sayim-basladi-961697.html",
+          "ozet": "Gezegenin geleceğini belirleyecek en kritik virajlardan biri olan Birleşmiş Milletler İklim Değişikliği Konferansı (COP31), Türkiye’nin ev sahipliğinde gerçekleşecek. Akdeniz’in incisi Antalya, 9–20 Kasım 2026 tarihleri arasında dünya liderlerini ağırlamaya hazırlanırken, küresel iklim diplomasisinin kalbi Türkiye’de atacak.",
+          "yayin_tarihi": "Fri, 30 Oct 2026 07:19:00 +0300",
           "dil": "Türkçe"
         },
         {
-          "baslik": "Meteoroloji'den 29 kente kuvvetli yağış uyarısı",
+          "baslik": "Cumhurbaşkanı Erdoğan: 21'inci yüzyıl 'Türk Dünyası Yüzyılı' olacak",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/meteorolojiden-29-kente-kuvvetli-yagis-uyarisi-961493.html",
-          "ozet": "Yarın beklenen kuvvetli ve gök gürültülü sağanak nedeniyle,  Adana, Antalya, Mersin ve Muğla için \"turuncu\", aralarında İstanbul ve İzmir'in de bulunduğu 25 il için ise \"sarı\" kodlu uyarı yapıldı.",
-          "yayin_tarihi": "Wed, 28 Oct 2026 14:28:00 +0300",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-21inci-yuzyil-turk-dunyasi-yuzyili-olacak-961700.html",
+          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"21'inci yüzyılın ‘Türk Dünyası Yüzyılı’ olacağına yürekten inanıyorum. Ankara Zirvesi bu hedef doğrultusunda yeni ufuklar açacak, Teşkilatımızın uluslararası alandaki etkinliğini artıracak ve kardeş ülkelerimiz arasındaki dayanışmayı daha da perçinleyecektir\" dedi.",
+          "yayin_tarihi": "Fri, 30 Oct 2026 08:40:00 +0300",
           "dil": "Türkçe"
         },
         {
-          "baslik": "Tasfiye sürecindeki fonlarda ilk ara ödeme cuma günü başlıyor",
+          "baslik": "Putin, Avrupa ile olası savaşta kazanan olmayacağını söyledi",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/tasfiye-surecindeki-fonlarda-ilk-ara-odeme-cuma-gunu-basliyor-961484.html",
-          "ozet": "Tasfiye sürecindeki yatırım fonları kapsamında bugüne kadar 71 bin 899 hesaba toplam 68 milyar lira ödendi. Olağanüstü tasfiye kapsamındaki fonlar için ilk ara ödemeler ise 30 Ekim Cuma günü başlayacak.",
-          "yayin_tarihi": "Wed, 28 Oct 2026 13:27:00 +0300",
+          "url": "https://www.trthaber.com/haber/dunya/putin-avrupa-ile-olasi-savasta-kazanan-olmayacagini-soyledi-961669.html",
+          "ozet": "Rusya Devlet Başkanı Vladimir Putin, Avrupa ile savaş istemediklerini ancak böyle bir çatışmaya hazır olduklarını belirterek, olası bir savaşta kazanan olmayacağı uyarısında bulundu.",
+          "yayin_tarihi": "Thu, 29 Oct 2026 21:54:00 +0300",
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-29T12:40:57.345297"
+      "taranma_zamani": "2026-10-30T12:32:03.136737"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "China Is Not Happy About Fan-made A.I. Videos of Sun Wukong and Lin Daiyu",
+          "baslik": "How the Japanese Spy Drama ‘Vivant’ Became The Target of China’s Anger",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html",
-          "ozet": "Mash-up videos of beloved characters from Chinese classics — some made with A.I. — have caught the attention of the authorities.",
-          "yayin_tarihi": "Thu, 29 Oct 2026 09:09:01 +0000",
+          "url": "https://www.nytimes.com/2026/10/30/world/asia/japan-vivant-spy-show-china.html",
+          "ozet": "“Vivant,” a Japanese thriller that features Chinese spies, has drawn intense criticism from Beijing. Its creators defend the show, saying it is “completely fictional.”",
+          "yayin_tarihi": "Fri, 30 Oct 2026 06:15:29 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "A Ukrainian City in the Kill Zone Relishes a Moment of Peace",
+          "baslik": "Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One.",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html",
-          "ozet": "A rare localized cease-fire announced by the first lady, Melania Trump, offered a brief respite for Kherson, where Russian drones and artillery have long terrorized civilians.",
-          "yayin_tarihi": "Thu, 29 Oct 2026 12:18:45 +0000",
+          "url": "https://www.nytimes.com/2026/10/30/world/europe/ukraine-russia-natural-gas-pipes.html",
+          "ozet": "I experienced war’s subterranean future as drones dominate the skies. I didn’t like it.",
+          "yayin_tarihi": "Fri, 30 Oct 2026 12:15:29 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Russian Strike on Ukrainian Train Station Kills 13",
+          "baslik": "I Covered the Tiananmen Square Massacre. It Still Weighs on Me.",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html",
-          "ozet": "A deadly strike was a grim reminder that despite a rare local cease-fire around the Russian-occupied town of Oleshky, other communities remained under fire.",
-          "yayin_tarihi": "Thu, 29 Oct 2026 12:06:10 +0000",
+          "url": "https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html",
+          "ozet": "The day that changed modern China also taught me how to recognize true courage.",
+          "yayin_tarihi": "Fri, 30 Oct 2026 10:00:08 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Vance Proposes Restarting Peace Talks in Outreach to Iranian Official",
+          "baslik": "In China, the War on Mosquitoes Has Entered the A.I. Era",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/28/us/politics/vance-peace-talks-letter-iran.html",
-          "ozet": "In his letter, the vice president suggested an immediate resumption of comprehensive talks, including about Iran’s nuclear program.",
-          "yayin_tarihi": "Thu, 29 Oct 2026 02:15:19 +0000",
+          "url": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
+          "ozet": "Using sensors developed for self-driving cars, a Chinese start-up claims it can track and destroy tiny flying targets while avoiding people, pets and reflective surfaces.",
+          "yayin_tarihi": "Fri, 30 Oct 2026 04:01:12 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Trump Officials Discussing Sanctions Relief for Russian Fund, Russia Acknowledges",
+          "baslik": "Newly Freed American Describes His Years in Russian Prison",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/28/us/politics/russia-sanctions-relief-fund-trump.html",
-          "ozet": "A Russian official said potential relief for a state investment fund was part of talks. Russia has sought to wring economic benefits from the negotiations on ending the war with Ukraine.",
-          "yayin_tarihi": "Wed, 28 Oct 2026 23:37:41 +0000",
+          "url": "https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html",
+          "ozet": "Stephen James Hubbard, the retired teacher arrested soon after Russia’s full-scale invasion of Ukraine in 2022, said he sometimes lost hope.",
+          "yayin_tarihi": "Thu, 29 Oct 2026 23:32:33 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-29T12:40:57.345311"
+      "taranma_zamani": "2026-10-30T12:32:03.136750"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia’s Su-57 fighter has high upgrade potential — Sukhoi Design Bureau",
+          "baslik": "Madagascar is Russia’s important partner in building multipolar world, Putin says",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2210191",
-          "ozet": "Mikhail Strelets, director of the Sukhoi Design Bureau, emphasized that the platform is modular and enables the development of a scientific and technical foundation for adapting the aircraft system components featuring a new level of technical characteristics",
-          "yayin_tarihi": "Thu, 29 Oct 2026 15:36:14 +0300",
+          "url": "https://tass.com/politics/2210899",
+          "ozet": "The Russian president noted that Russia and Madagascar share long-standing, friendly ties",
+          "yayin_tarihi": "Fri, 30 Oct 2026 15:23:53 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Africa needs Russia’s expertise for development — Burundi’s President",
+          "baslik": "US military preparing options for potential strikes on Iran — TV",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2210189",
-          "ozet": "Evariste Ndayishimiye said that Africa needs Russia’s contribution to the development of agriculture, energy, healthcare, and scientific research",
-          "yayin_tarihi": "Thu, 29 Oct 2026 15:35:56 +0300",
+          "url": "https://tass.com/world/2210897",
+          "ozet": "Israeli Prime Minister Benjamin Netanyahu is reportedly pushing for fresh strikes on Iran, the broadcaster said",
+          "yayin_tarihi": "Fri, 30 Oct 2026 15:23:23 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Putin says resolving conflict in Sahel states important for entire world",
+          "baslik": "Kremlin aware of Zelensky’s remarks on territorial issue — presidential aide",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2210167",
-          "ozet": "The Russian president believes that everyone agrees with it",
-          "yayin_tarihi": "Thu, 29 Oct 2026 15:18:06 +0300",
+          "url": "https://tass.com/politics/2210891",
+          "ozet": "Vladimir Zelensky earlier said he was willing to discuss territorial issues as part of efforts to settle the Ukraine conflict",
+          "yayin_tarihi": "Fri, 30 Oct 2026 15:15:55 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia ready to open vehicle service centers in Africa — minister",
+          "baslik": "China successfully launches stealthy UAV from Sichuan amphibious assault ship",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2210165",
-          "ozet": "African specialists could undergo training to work with sophisticated diagnostic systems and equipment",
-          "yayin_tarihi": "Thu, 29 Oct 2026 15:13:42 +0300",
+          "url": "https://tass.com/defense/2210893",
+          "ozet": "The tests mark a breakthrough in the development of China’s amphibious assault ships and demonstrate the PLA Navy’s capability to launch and recover fixed-wing unmanned aerial vehicles from large naval combat platforms",
+          "yayin_tarihi": "Fri, 30 Oct 2026 15:14:58 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "African Union aims to give new impetus to cooperation with Russia — chairperson",
+          "baslik": "Russia-Africa relations are developing successfully at good pace — Putin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2210161",
-          "ozet": "Evariste Ndayishimiye noted that African countries seek to develop constructive relations with all international partners",
-          "yayin_tarihi": "Thu, 29 Oct 2026 15:10:02 +0300",
+          "url": "https://tass.com/politics/2210875",
+          "ozet": "The Russian president met with the transitional President of Madagascar, Michael Randrianirina",
+          "yayin_tarihi": "Fri, 30 Oct 2026 14:58:02 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-29T12:40:57.345551"
+      "taranma_zamani": "2026-10-30T12:32:03.136776"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-29T12:40:57.345554"
+      "taranma_zamani": "2026-10-30T12:32:03.136777"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "《纽时》：英伟达客戶高管被控为中国情搜　黄仁勋未获警示",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/yataibaodao/2026/10/29/nvidia-china-intel/",
+          "ozet": "《纽约时报》10月29日报道，美国情报机构认定，一名曾任职于新加坡数据中心公司Megaspeed的中国籍高管涉嫌替北京搜集情报；对她的电子监控还显示，她与英伟达执行长黄仁勋保持联系。",
+          "yayin_tarihi": "Thu, 29 Oct 2026 14:58:31 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "美太平洋陆军司令：“戴维森窗口”仍有意义  2027年是美军战备节点",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "《中国纪检监察报》本周二（27日）报道，今年前三季度，全国纪检监察机关共处分68万人，其中省部级及以上官员105人，平均每月近12人；厅局级官员3680人。",
           "yayin_tarihi": "Tue, 27 Oct 2026 07:42:37 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "网络流传中国高校生”联署书”　呼吁恢复国家主席任期",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/podcasts/yataibaodao/2026/10/26/student-protest-xi-bbs/",
-          "ozet": "一篇宣称来自中国多所高校学生联署的”公开信”，10月26日下午3时许出现在名为“思源湖BBS”的网站上。帖中呼吁恢复中国国家主席任期限制、推动民主修宪，并保障公民讨论国事的空间。\n但自由亚洲电台难以确定这个简体中文网是在中国境内。",
-          "yayin_tarihi": "Mon, 26 Oct 2026 16:25:38 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-29T12:40:57.345561"
+      "taranma_zamani": "2026-10-30T12:32:03.136781"
     }
   }
 }
