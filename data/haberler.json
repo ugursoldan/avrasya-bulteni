@@ -1,10 +1,34 @@
 {
-  "olusturma_tarihi": "2026-10-30",
-  "olusturma_zamani": "2026-10-30T12:32:03.136800",
+  "olusturma_tarihi": "2026-10-31",
+  "olusturma_zamani": "2026-10-31T11:59:10.016916",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Cumhurbaşkanı Erdoğan: Değerlerimiz yaşatmak üzerine kurulu",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-degerlerimiz-yasatmak-uzerine-kurulu-961815.html",
+          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Tıp ve hekimlik bizim için hayati bir öneme sahiptir. Bizim inanç değerlerimiz yaşamak ve yaşatmak üzerine kuruludur\" dedi.",
+          "yayin_tarihi": "Sat, 31 Oct 2026 13:26:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Türkiye, Feridun Sinirlioğlu'nu BM Genel Sekreterliği için aday gösterdi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/turkiye-feridun-sinirlioglunu-bm-genel-sekreterligi-icin-aday-gosterdi-961782.html",
+          "ozet": "Türkiye, eski Dışişleri Bakanı ve halen Avrupa Güvenlik ve İşbirliği Teşkilatı (AGİT) Genel Sekreteri görevini yürüten Büyükelçi Feridun Sinirlioğlu'nun Birleşmiş Milletler Genel Sekreterliği adaylığı için resmi başvurusunu yaptı.",
+          "yayin_tarihi": "Sat, 31 Oct 2026 01:58:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Dışişleri Bakanı Fidan'dan ABD'de diplomasi trafiği",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/disisleri-bakani-fidandan-abdde-diplomasi-trafigi-961765.html",
+          "ozet": "Dışişleri Bakanı Hakan Fidan, G20 Dışişleri Bakanları Toplantısı için gittiği ABD'nin Atlanta kentinde diplomatik temaslarda bulundu.",
+          "yayin_tarihi": "Fri, 30 Oct 2026 20:39:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "LGS kapsamındaki merkezi sınav 13 Haziran 2027'de yapılacak",
           "kaynak": "www.trthaber.com",
@@ -20,51 +44,35 @@
           "ozet": "Marmara'nın doğusu ile doğu ve güneydoğu kesimlerde beklenen kuvvetli yağış nedeniyle 21 il için \"sarı\" kodlu uyarıda bulunuldu.",
           "yayin_tarihi": "Fri, 30 Oct 2026 07:41:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Dünyanın gözü Türkiye'de: COP31 için geri sayım başladı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/dunyanin-gozu-turkiyede-cop31-icin-geri-sayim-basladi-961697.html",
-          "ozet": "Gezegenin geleceğini belirleyecek en kritik virajlardan biri olan Birleşmiş Milletler İklim Değişikliği Konferansı (COP31), Türkiye’nin ev sahipliğinde gerçekleşecek. Akdeniz’in incisi Antalya, 9–20 Kasım 2026 tarihleri arasında dünya liderlerini ağırlamaya hazırlanırken, küresel iklim diplomasisinin kalbi Türkiye’de atacak.",
-          "yayin_tarihi": "Fri, 30 Oct 2026 07:19:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Cumhurbaşkanı Erdoğan: 21'inci yüzyıl 'Türk Dünyası Yüzyılı' olacak",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-21inci-yuzyil-turk-dunyasi-yuzyili-olacak-961700.html",
-          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"21'inci yüzyılın ‘Türk Dünyası Yüzyılı’ olacağına yürekten inanıyorum. Ankara Zirvesi bu hedef doğrultusunda yeni ufuklar açacak, Teşkilatımızın uluslararası alandaki etkinliğini artıracak ve kardeş ülkelerimiz arasındaki dayanışmayı daha da perçinleyecektir\" dedi.",
-          "yayin_tarihi": "Fri, 30 Oct 2026 08:40:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Putin, Avrupa ile olası savaşta kazanan olmayacağını söyledi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/putin-avrupa-ile-olasi-savasta-kazanan-olmayacagini-soyledi-961669.html",
-          "ozet": "Rusya Devlet Başkanı Vladimir Putin, Avrupa ile savaş istemediklerini ancak böyle bir çatışmaya hazır olduklarını belirterek, olası bir savaşta kazanan olmayacağı uyarısında bulundu.",
-          "yayin_tarihi": "Thu, 29 Oct 2026 21:54:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-30T12:32:03.136737"
+      "taranma_zamani": "2026-10-31T11:59:10.016836"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "How the Japanese Spy Drama ‘Vivant’ Became The Target of China’s Anger",
+          "baslik": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/30/world/asia/japan-vivant-spy-show-china.html",
-          "ozet": "“Vivant,” a Japanese thriller that features Chinese spies, has drawn intense criticism from Beijing. Its creators defend the show, saying it is “completely fictional.”",
-          "yayin_tarihi": "Fri, 30 Oct 2026 06:15:29 +0000",
+          "url": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
+          "ozet": "Prime Minister Benjamin Netanyahu is jockeying to stay in power, and President Trump is in a tough midterm fight, yet Iran’s leaders do not expect a major shift in Israeli or U.S. policy.",
+          "yayin_tarihi": "Sat, 31 Oct 2026 09:05:41 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One.",
+          "baslik": "Liu Yandong, Rare Woman Among China’s Political Elite, Dies at 80",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/30/world/europe/ukraine-russia-natural-gas-pipes.html",
-          "ozet": "I experienced war’s subterranean future as drones dominate the skies. I didn’t like it.",
-          "yayin_tarihi": "Fri, 30 Oct 2026 12:15:29 +0000",
+          "url": "https://www.nytimes.com/2026/10/31/world/asia/liu-yandong-dead.html",
+          "ozet": "The former vice premier was one of just six women to have served on the Chinese Communist Party’s elite Politburo, though she was excluded from the top ranks of power.",
+          "yayin_tarihi": "Sat, 31 Oct 2026 07:18:22 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Russian News Outlet That Defied Kremlin Will Shut Down: ‘They Killed Us’",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
+          "ozet": "Journalists at the fiercely independent Novaya Gazeta, whose co-founder received the Nobel Peace Prize, said the government had orchestrated its demise.",
+          "yayin_tarihi": "Fri, 30 Oct 2026 19:09:14 +0000",
           "dil": "İngilizce"
         },
         {
@@ -72,78 +80,70 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html",
           "ozet": "The day that changed modern China also taught me how to recognize true courage.",
-          "yayin_tarihi": "Fri, 30 Oct 2026 10:00:08 +0000",
+          "yayin_tarihi": "Fri, 30 Oct 2026 21:04:43 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "In China, the War on Mosquitoes Has Entered the A.I. Era",
+          "baslik": "Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One.",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
-          "ozet": "Using sensors developed for self-driving cars, a Chinese start-up claims it can track and destroy tiny flying targets while avoiding people, pets and reflective surfaces.",
-          "yayin_tarihi": "Fri, 30 Oct 2026 04:01:12 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Newly Freed American Describes His Years in Russian Prison",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html",
-          "ozet": "Stephen James Hubbard, the retired teacher arrested soon after Russia’s full-scale invasion of Ukraine in 2022, said he sometimes lost hope.",
-          "yayin_tarihi": "Thu, 29 Oct 2026 23:32:33 +0000",
+          "url": "https://www.nytimes.com/2026/10/30/world/europe/ukraine-russia-natural-gas-pipes.html",
+          "ozet": "I experienced war’s subterranean future as drones dominate the skies. I didn’t like it.",
+          "yayin_tarihi": "Fri, 30 Oct 2026 20:40:52 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-30T12:32:03.136750"
+      "taranma_zamani": "2026-10-31T11:59:10.016857"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Madagascar is Russia’s important partner in building multipolar world, Putin says",
+          "baslik": "Russia’s Shnaider through to final of 2026 WTA Toray Pan Pacific Open in Tokyo",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2210899",
-          "ozet": "The Russian president noted that Russia and Madagascar share long-standing, friendly ties",
-          "yayin_tarihi": "Fri, 30 Oct 2026 15:23:53 +0300",
+          "url": "https://tass.com/sports/2211351",
+          "ozet": "The Russian tennis player is now set to face off in the final against Canada’s Leylah Fernandez",
+          "yayin_tarihi": "Sat, 31 Oct 2026 13:46:07 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US military preparing options for potential strikes on Iran — TV",
+          "baslik": "No deals yet on Russia, Ukraine human rights envoys’ mutual visits to prisoners — Kremlin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2210897",
-          "ozet": "Israeli Prime Minister Benjamin Netanyahu is reportedly pushing for fresh strikes on Iran, the broadcaster said",
-          "yayin_tarihi": "Fri, 30 Oct 2026 15:23:23 +0300",
+          "url": "https://tass.com/politics/2211337",
+          "ozet": "But the very fact that Human Right Ombudsman of Ukraine Dmitry Lubinets has come to Russia is already a precedent, Russian Presidential Spokesman Dmitry Peskov said",
+          "yayin_tarihi": "Sat, 31 Oct 2026 12:22:11 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Kremlin aware of Zelensky’s remarks on territorial issue — presidential aide",
+          "baslik": "Russian air defenses intercept two drones heading for Moscow",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2210891",
-          "ozet": "Vladimir Zelensky earlier said he was willing to discuss territorial issues as part of efforts to settle the Ukraine conflict",
-          "yayin_tarihi": "Fri, 30 Oct 2026 15:15:55 +0300",
+          "url": "https://tass.com/emergencies/2211335",
+          "ozet": "Emergency response teams are working at the sites where debris fell, Sergey Sobyanin, the Russian capital’s mayor, said",
+          "yayin_tarihi": "Sat, 31 Oct 2026 11:22:56 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "China successfully launches stealthy UAV from Sichuan amphibious assault ship",
+          "baslik": "Russian, Ukrainian human rights ombudspersons establish good dialogue — Kremlin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2210893",
-          "ozet": "The tests mark a breakthrough in the development of China’s amphibious assault ships and demonstrate the PLA Navy’s capability to launch and recover fixed-wing unmanned aerial vehicles from large naval combat platforms",
-          "yayin_tarihi": "Fri, 30 Oct 2026 15:14:58 +0300",
+          "url": "https://tass.com/politics/2211331",
+          "ozet": "This is good for human rights work, Russian Presidential Spokesman Dmitry Peskov said",
+          "yayin_tarihi": "Sat, 31 Oct 2026 11:20:35 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia-Africa relations are developing successfully at good pace — Putin",
+          "baslik": "Alyoshki’s residents wishing to return to Ukraine are en-route from Anapa Airport to Gomel",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2210875",
-          "ozet": "The Russian president met with the transitional President of Madagascar, Michael Randrianirina",
-          "yayin_tarihi": "Fri, 30 Oct 2026 14:58:02 +0300",
+          "url": "https://tass.com/society/2211329",
+          "ozet": "The Russian Defense Ministry said that the evacuees at the issue are transported by military transport aircraft of the Russian Aerospace Forces",
+          "yayin_tarihi": "Sat, 31 Oct 2026 10:36:03 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-30T12:32:03.136776"
+      "taranma_zamani": "2026-10-31T11:59:10.016885"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-30T12:32:03.136777"
+      "taranma_zamani": "2026-10-31T11:59:10.016887"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-30T12:32:03.136781"
+      "taranma_zamani": "2026-10-31T11:59:10.016892"
     }
   }
 }
