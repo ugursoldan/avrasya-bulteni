@@ -1,16 +1,32 @@
 {
-  "olusturma_tarihi": "2026-10-31",
-  "olusturma_zamani": "2026-10-31T11:59:10.016916",
+  "olusturma_tarihi": "2026-11-01",
+  "olusturma_zamani": "2026-11-01T12:59:24.955616",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Sosyal medyada çocuklar için yeni dönem",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/sosyal-medyada-cocuklar-icin-yeni-donem-961860.html",
+          "ozet": "Sosyal medyada çocukları korumaya yönelik yeni dönem bugün başladı. 15 yaşından küçüklere sosyal medya hizmeti sunulmayacak, 15–17 yaş grubunda ise canlı yayın ve sonsuz kaydırma gibi özellikler sınırlandırılacak.",
+          "yayin_tarihi": "Sun, 01 Nov 2026 10:12:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Cumhurbaşkanı Erdoğan: Değerlerimiz yaşatmak üzerine kurulu",
           "kaynak": "www.trthaber.com",
           "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-degerlerimiz-yasatmak-uzerine-kurulu-961815.html",
           "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Tıp ve hekimlik bizim için hayati bir öneme sahiptir. Bizim inanç değerlerimiz yaşamak ve yaşatmak üzerine kuruludur\" dedi.",
           "yayin_tarihi": "Sat, 31 Oct 2026 13:26:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Ukrayna Devlet Başkanı Zelenskiy İstanbul'da",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/ukrayna-devlet-baskani-zelenskiy-istanbulda-961828.html",
+          "ozet": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Cumhurbaşkanı Recep Tayyip Erdoğan'ın davetine icabetle Türkiye'ye çalışma ziyareti gerçekleştiriyor.",
+          "yayin_tarihi": "Sat, 31 Oct 2026 16:00:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -28,35 +44,35 @@
           "ozet": "Dışişleri Bakanı Hakan Fidan, G20 Dışişleri Bakanları Toplantısı için gittiği ABD'nin Atlanta kentinde diplomatik temaslarda bulundu.",
           "yayin_tarihi": "Fri, 30 Oct 2026 20:39:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "LGS kapsamındaki merkezi sınav 13 Haziran 2027'de yapılacak",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/egitim/lgs-kapsamindaki-merkezi-sinav-13-haziran-2027de-yapilacak-961737.html",
-          "ozet": "Liselere Geçiş Sistemi kapsamındaki merkezi sınav, 13 Haziran 2027 Pazar günü gerçekleştirilecek.",
-          "yayin_tarihi": "Fri, 30 Oct 2026 14:05:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "21 il için sarı uyarı: Kuvvetli yağışa dikkat",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/21-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-961698.html",
-          "ozet": "Marmara'nın doğusu ile doğu ve güneydoğu kesimlerde beklenen kuvvetli yağış nedeniyle 21 il için \"sarı\" kodlu uyarıda bulunuldu.",
-          "yayin_tarihi": "Fri, 30 Oct 2026 07:41:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-10-31T11:59:10.016836"
+      "taranma_zamani": "2026-11-01T12:59:24.955574"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "Putin Breaks Down His Isolation, With a Big Assist From Trump",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/01/world/europe/putin-isolation-breakdown-trump.html",
+          "ozet": "Notching wins from Washington, the Russian leader is talking with foreign leaders and could return to diplomatic center stage with possible summit meetings.",
+          "yayin_tarihi": "Sun, 01 Nov 2026 10:04:00 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
+          "ozet": "A move to join Saudi Arabia’s agreement with Turkey and Pakistan could entangle more countries in the kingdom’s escalating conflict between the Iran-backed Houthis.",
+          "yayin_tarihi": "Sat, 31 Oct 2026 17:56:18 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
-          "ozet": "Prime Minister Benjamin Netanyahu is jockeying to stay in power, and President Trump is in a tough midterm fight, yet Iran’s leaders do not expect a major shift in Israeli or U.S. policy.",
-          "yayin_tarihi": "Sat, 31 Oct 2026 09:05:41 +0000",
+          "ozet": "With Prime Minister Benjamin Netanyahu fighting to stay in power and President Trump facing a tough midterm, Iran’s leaders expect no major shift in policy.",
+          "yayin_tarihi": "Sat, 31 Oct 2026 20:04:18 +0000",
           "dil": "İngilizce"
         },
         {
@@ -64,7 +80,7 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/10/31/world/asia/liu-yandong-dead.html",
           "ozet": "The former vice premier was one of just six women to have served on the Chinese Communist Party’s elite Politburo, though she was excluded from the top ranks of power.",
-          "yayin_tarihi": "Sat, 31 Oct 2026 07:18:22 +0000",
+          "yayin_tarihi": "Sat, 31 Oct 2026 07:18:23 +0000",
           "dil": "İngilizce"
         },
         {
@@ -74,80 +90,72 @@
           "ozet": "Journalists at the fiercely independent Novaya Gazeta, whose co-founder received the Nobel Peace Prize, said the government had orchestrated its demise.",
           "yayin_tarihi": "Fri, 30 Oct 2026 19:09:14 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "I Covered the Tiananmen Square Massacre. It Still Weighs on Me.",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/30/world/asia/china-tiananmen-kristof.html",
-          "ozet": "The day that changed modern China also taught me how to recognize true courage.",
-          "yayin_tarihi": "Fri, 30 Oct 2026 21:04:43 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One.",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/30/world/europe/ukraine-russia-natural-gas-pipes.html",
-          "ozet": "I experienced war’s subterranean future as drones dominate the skies. I didn’t like it.",
-          "yayin_tarihi": "Fri, 30 Oct 2026 20:40:52 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-10-31T11:59:10.016857"
+      "taranma_zamani": "2026-11-01T12:59:24.955585"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia’s Shnaider through to final of 2026 WTA Toray Pan Pacific Open in Tokyo",
+          "baslik": "Russian regional human rights commissioners to support Alyoshki evacuees — Lantratova",
           "kaynak": "tass.com",
-          "url": "https://tass.com/sports/2211351",
-          "ozet": "The Russian tennis player is now set to face off in the final against Canada’s Leylah Fernandez",
-          "yayin_tarihi": "Sat, 31 Oct 2026 13:46:07 +0300",
+          "url": "https://tass.com/society/2211535",
+          "ozet": "According to the ombudswoman, the authorities have ensured that people can reinstate or receive the necessary documents to live in Russia",
+          "yayin_tarihi": "Sun, 01 Nov 2026 15:52:58 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "No deals yet on Russia, Ukraine human rights envoys’ mutual visits to prisoners — Kremlin",
+          "baslik": "Central African Republic builds relations with Russia as full-fledged partner — president",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2211337",
-          "ozet": "But the very fact that Human Right Ombudsman of Ukraine Dmitry Lubinets has come to Russia is already a precedent, Russian Presidential Spokesman Dmitry Peskov said",
-          "yayin_tarihi": "Sat, 31 Oct 2026 12:22:11 +0300",
+          "url": "https://tass.com/world/2211527",
+          "ozet": "The republic is building relations with Russia in the areas of security, the economy, and personnel training, Faustin-Archange Touadera said",
+          "yayin_tarihi": "Sun, 01 Nov 2026 14:28:26 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian air defenses intercept two drones heading for Moscow",
+          "baslik": "Ill-wishers fail to derail Russia-Africa Summit — Kremlin aide",
           "kaynak": "tass.com",
-          "url": "https://tass.com/emergencies/2211335",
-          "ozet": "Emergency response teams are working at the sites where debris fell, Sergey Sobyanin, the Russian capital’s mayor, said",
-          "yayin_tarihi": "Sat, 31 Oct 2026 11:22:56 +0300",
+          "url": "https://tass.com/politics/2211525",
+          "ozet": "But some delegations faced difficulties on their way to Moscow, Yury Ushakov said",
+          "yayin_tarihi": "Sun, 01 Nov 2026 14:11:10 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian, Ukrainian human rights ombudspersons establish good dialogue — Kremlin",
+          "baslik": "Drone debris falling in Russia’s central Nizhny Novgorod Region injures woman — governor",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2211331",
-          "ozet": "This is good for human rights work, Russian Presidential Spokesman Dmitry Peskov said",
-          "yayin_tarihi": "Sat, 31 Oct 2026 11:20:35 +0300",
+          "url": "https://tass.com/emergencies/2211523",
+          "ozet": "Her life is not in danger, Gleb Nikitin said",
+          "yayin_tarihi": "Sun, 01 Nov 2026 13:54:48 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Alyoshki’s residents wishing to return to Ukraine are en-route from Anapa Airport to Gomel",
+          "baslik": "First rounds of Ukraine talks should take place in trilateral format — Kremlin aide",
           "kaynak": "tass.com",
-          "url": "https://tass.com/society/2211329",
-          "ozet": "The Russian Defense Ministry said that the evacuees at the issue are transported by military transport aircraft of the Russian Aerospace Forces",
-          "yayin_tarihi": "Sat, 31 Oct 2026 10:36:03 +0300",
+          "url": "https://tass.com/politics/2211521",
+          "ozet": "Representatives from Europe may also be present at the negotiating table, but the process must begin in a trilateral format, Yury Ushakov said",
+          "yayin_tarihi": "Sun, 01 Nov 2026 13:53:08 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-10-31T11:59:10.016885"
+      "taranma_zamani": "2026-11-01T12:59:24.955593"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-10-31T11:59:10.016887"
+      "taranma_zamani": "2026-11-01T12:59:24.955595"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "周世锋女儿抵美后发声　诉709家庭创伤",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/11/01/china-human-rights-situation-zhou-shifeng-709-lawyer/",
+          "ozet": "原北京锋锐律师事务所主任周世锋的女儿周怡然，今年9月27日离开中国，赴美国就读中学。她接受自由亚洲电台专访，讲述父亲因“709”事件被捕入狱后，自己与母亲的生活经历。",
+          "yayin_tarihi": "Sun, 01 Nov 2026 04:09:00 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "《纽时》：英伟达客戶高管被控为中国情搜　黄仁勋未获警示",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "网络近日流传一份据称由中国高校学生发起的”联名呼吁书”，但周二网站已经无法连结。世界知名的网站备份伺服器”Way Back Machine”也显示”思源湖BBS”的网址内容曾经在27日被存档，但资料已消失。",
           "yayin_tarihi": "Tue, 27 Oct 2026 15:57:02 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "中共前三季处分105名省部级及以上官员",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/2026/10/27/china-fifth-plenary-session-corrupt-officials-strict-governance-of-the-party-cpc-commission-for-discipline-inspection/",
-          "ozet": "《中国纪检监察报》本周二（27日）报道，今年前三季度，全国纪检监察机关共处分68万人，其中省部级及以上官员105人，平均每月近12人；厅局级官员3680人。",
-          "yayin_tarihi": "Tue, 27 Oct 2026 07:42:37 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-10-31T11:59:10.016892"
+      "taranma_zamani": "2026-11-01T12:59:24.955597"
     }
   }
 }
