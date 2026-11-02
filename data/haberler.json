@@ -1,10 +1,34 @@
 {
-  "olusturma_tarihi": "2026-11-01",
-  "olusturma_zamani": "2026-11-01T12:59:24.955616",
+  "olusturma_tarihi": "2026-11-02",
+  "olusturma_zamani": "2026-11-02T15:19:27.189760",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Mekke Anlaşması TBMM Genel Kurulu'na geliyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/mekke-anlasmasi-tbmm-genel-kuruluna-geliyor-961968.html",
+          "ozet": "Türkiye, Pakistan ve Suudi Arabistan Arasında Ortak Savunma İçin Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun teklifi Çarşamba günü TBMM Genel Kurulu'nda görüşülecek.",
+          "yayin_tarihi": "Mon, 02 Nov 2026 15:25:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Türk Üniversiteleri Çin Eğitim Fuarı'na katıldı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/turk-universiteleri-cin-egitim-fuarina-katildi-961973.html",
+          "ozet": "Türk üniversiteleri, Türkiye Ulusal Ajansı organizasyonuyla Çin'in başkenti Pekin'de düzenlenen Çin Eğitim Fuarı'na (CEE) katıldı.",
+          "yayin_tarihi": "Mon, 02 Nov 2026 16:11:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Dünyada örneği yok: LÜFER denklemi değiştirmeye geliyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/dunyada-ornegi-yok-lufer-denklemi-degistirmeye-geliyor-961923.html",
+          "ozet": "Harp sahasının en kritik alanlarından biri olan suyun altı için Türk mühendisler son derece stratejik ürünler geliştirmeye devam ediyor. İTÜ merkezli savunma sanayii şirketi DATUM imzalı LÜFER ve KOFANA da bunlardan biri. Tel güdümlü olarak 15 km menzile sahip olan LÜFER’in dünyada muadili yok. Ürünün yakın zamanda envantere girmesi bekleniyor.",
+          "yayin_tarihi": "Mon, 02 Nov 2026 10:30:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Sosyal medyada çocuklar için yeni dönem",
           "kaynak": "www.trthaber.com",
@@ -20,37 +44,29 @@
           "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Tıp ve hekimlik bizim için hayati bir öneme sahiptir. Bizim inanç değerlerimiz yaşamak ve yaşatmak üzerine kuruludur\" dedi.",
           "yayin_tarihi": "Sat, 31 Oct 2026 13:26:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Ukrayna Devlet Başkanı Zelenskiy İstanbul'da",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/ukrayna-devlet-baskani-zelenskiy-istanbulda-961828.html",
-          "ozet": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Cumhurbaşkanı Recep Tayyip Erdoğan'ın davetine icabetle Türkiye'ye çalışma ziyareti gerçekleştiriyor.",
-          "yayin_tarihi": "Sat, 31 Oct 2026 16:00:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Türkiye, Feridun Sinirlioğlu'nu BM Genel Sekreterliği için aday gösterdi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/turkiye-feridun-sinirlioglunu-bm-genel-sekreterligi-icin-aday-gosterdi-961782.html",
-          "ozet": "Türkiye, eski Dışişleri Bakanı ve halen Avrupa Güvenlik ve İşbirliği Teşkilatı (AGİT) Genel Sekreteri görevini yürüten Büyükelçi Feridun Sinirlioğlu'nun Birleşmiş Milletler Genel Sekreterliği adaylığı için resmi başvurusunu yaptı.",
-          "yayin_tarihi": "Sat, 31 Oct 2026 01:58:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Dışişleri Bakanı Fidan'dan ABD'de diplomasi trafiği",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/disisleri-bakani-fidandan-abdde-diplomasi-trafigi-961765.html",
-          "ozet": "Dışişleri Bakanı Hakan Fidan, G20 Dışişleri Bakanları Toplantısı için gittiği ABD'nin Atlanta kentinde diplomatik temaslarda bulundu.",
-          "yayin_tarihi": "Fri, 30 Oct 2026 20:39:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-01T12:59:24.955574"
+      "taranma_zamani": "2026-11-02T15:19:27.189546"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
+          "ozet": "Iranian officials spoke of some progress in negotiating to reopen the strait, a vital oil and gas shipping lane, even as they prepare for all-out war.",
+          "yayin_tarihi": "Mon, 02 Nov 2026 13:44:14 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "China’s Message to Its Rivals: You Need What We Make",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/02/world/asia/china-us-exports-ai-solar.html",
+          "ozet": "It’s not just rare earths. China is making it harder for other countries to shed their dependence on its solar, drone and drugmaking technology.",
+          "yayin_tarihi": "Mon, 02 Nov 2026 05:00:08 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "Putin Breaks Down His Isolation, With a Big Assist From Trump",
           "kaynak": "rss.nytimes.com",
@@ -60,94 +76,86 @@
           "dil": "İngilizce"
         },
         {
+          "baslik": "A Lesson From Germany",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html",
+          "ozet": "Trump is betting on economic incentives to stop Putin in Ukraine. Germany’s experience shows why that strategy is risky.",
+          "yayin_tarihi": "Mon, 02 Nov 2026 05:35:54 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
           "ozet": "A move to join Saudi Arabia’s agreement with Turkey and Pakistan could entangle more countries in the kingdom’s escalating conflict between the Iran-backed Houthis.",
-          "yayin_tarihi": "Sat, 31 Oct 2026 17:56:18 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
-          "ozet": "With Prime Minister Benjamin Netanyahu fighting to stay in power and President Trump facing a tough midterm, Iran’s leaders expect no major shift in policy.",
-          "yayin_tarihi": "Sat, 31 Oct 2026 20:04:18 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Liu Yandong, Rare Woman Among China’s Political Elite, Dies at 80",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/31/world/asia/liu-yandong-dead.html",
-          "ozet": "The former vice premier was one of just six women to have served on the Chinese Communist Party’s elite Politburo, though she was excluded from the top ranks of power.",
-          "yayin_tarihi": "Sat, 31 Oct 2026 07:18:23 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Russian News Outlet That Defied Kremlin Will Shut Down: ‘They Killed Us’",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
-          "ozet": "Journalists at the fiercely independent Novaya Gazeta, whose co-founder received the Nobel Peace Prize, said the government had orchestrated its demise.",
-          "yayin_tarihi": "Fri, 30 Oct 2026 19:09:14 +0000",
+          "yayin_tarihi": "Sun, 01 Nov 2026 20:08:50 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-01T12:59:24.955585"
+      "taranma_zamani": "2026-11-02T15:19:27.189569"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russian regional human rights commissioners to support Alyoshki evacuees — Lantratova",
+          "baslik": "Mission accomplished in Alyoshki, much-needed aid reaches people: Lantratova’s statements",
           "kaynak": "tass.com",
-          "url": "https://tass.com/society/2211535",
-          "ozet": "According to the ombudswoman, the authorities have ensured that people can reinstate or receive the necessary documents to live in Russia",
-          "yayin_tarihi": "Sun, 01 Nov 2026 15:52:58 +0300",
+          "url": "https://tass.com/politics/2212021",
+          "ozet": "According to Yana Lantratova, the organizational process in Alyoshki was made possible thanks to Russian President Vladimir Putin and his team",
+          "yayin_tarihi": "Mon, 02 Nov 2026 18:08:51 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Central African Republic builds relations with Russia as full-fledged partner — president",
+          "baslik": "European gas exchange prices plunge to $1,100 amid Iran-US talks",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2211527",
-          "ozet": "The republic is building relations with Russia in the areas of security, the economy, and personnel training, Faustin-Archange Touadera said",
-          "yayin_tarihi": "Sun, 01 Nov 2026 14:28:26 +0300",
+          "url": "https://tass.com/economy/2212013",
+          "ozet": "At one point, the decline exceeded 3%",
+          "yayin_tarihi": "Mon, 02 Nov 2026 17:55:33 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ill-wishers fail to derail Russia-Africa Summit — Kremlin aide",
+          "baslik": "Russia, China have every reason to oppose NATO’s activity in Asia-Pacific — senator",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2211525",
-          "ozet": "But some delegations faced difficulties on their way to Moscow, Yury Ushakov said",
-          "yayin_tarihi": "Sun, 01 Nov 2026 14:11:10 +0300",
+          "url": "https://tass.com/politics/2212011",
+          "ozet": "According to Andrey Denisov, NATO countries \"have effectively created an explosive situation\" in Europe and are seeking to spread it to the Asia-Pacific",
+          "yayin_tarihi": "Mon, 02 Nov 2026 17:50:00 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Drone debris falling in Russia’s central Nizhny Novgorod Region injures woman — governor",
+          "baslik": "Kiev steps up strikes on LPR ahead of planned talks on Ukraine, says expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/emergencies/2211523",
-          "ozet": "Her life is not in danger, Gleb Nikitin said",
-          "yayin_tarihi": "Sun, 01 Nov 2026 13:54:48 +0300",
+          "url": "https://tass.com/politics/2212005",
+          "ozet": "Lugansk is currently being targeted every single day, Andrey Marochko noted",
+          "yayin_tarihi": "Mon, 02 Nov 2026 17:40:51 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "First rounds of Ukraine talks should take place in trilateral format — Kremlin aide",
+          "baslik": "Austrian elites foster Russophobia, public favors ties with Russia — political analyst",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2211521",
-          "ozet": "Representatives from Europe may also be present at the negotiating table, but the process must begin in a trilateral format, Yury Ushakov said",
-          "yayin_tarihi": "Sun, 01 Nov 2026 13:53:08 +0300",
+          "url": "https://tass.com/world/2211995",
+          "ozet": "Patrick Poppel emphasized that the views of ordinary citizens differed sharply from those of the establishment",
+          "yayin_tarihi": "Mon, 02 Nov 2026 17:29:52 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-01T12:59:24.955593"
+      "taranma_zamani": "2026-11-02T15:19:27.189595"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-01T12:59:24.955595"
+      "taranma_zamani": "2026-11-02T15:19:27.189597"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "中国各地本月代扣增值税　个人服务报酬将缩水 ",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shangye/jingji/2026/11/02/china-ministry-of-finance-state-taxation-administration-value-added-tax-higher-education-institutions/",
+          "ozet": "中国国家税务总局今年9月3日发布的《境内单位代扣代缴自然人增值税管理办法》，自11月1日起实施。根据新规，境内各单位向境内个人支付规定范围内的应税服务报酬时，须代扣代缴增值税及附加税费。承接相关业务且达到征税条件的个人，领取报酬时",
+          "yayin_tarihi": "Mon, 02 Nov 2026 08:35:16 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "周世锋女儿抵美后发声　诉709家庭创伤",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "10月26日，法国足球明星、皇家马德里前锋基利安·姆巴佩的一段访谈视频在中国网络流传。视频中，主持人问姆巴佩，哪张以他为主角的网络表情包最令他发笑。姆巴佩提到一张将自己的面孔与中国历史人物合成的图片，并使用“中国独裁者”的说法。",
           "yayin_tarihi": "Wed, 28 Oct 2026 04:52:39 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "网传中国高校生联署反习延任  发布及备份网站资料均消失",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/podcasts/yataibaodao/2026/10/27/student-protest-xi-web/",
-          "ozet": "网络近日流传一份据称由中国高校学生发起的”联名呼吁书”，但周二网站已经无法连结。世界知名的网站备份伺服器”Way Back Machine”也显示”思源湖BBS”的网址内容曾经在27日被存档，但资料已消失。",
-          "yayin_tarihi": "Tue, 27 Oct 2026 15:57:02 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-01T12:59:24.955597"
+      "taranma_zamani": "2026-11-02T15:19:27.189734"
     }
   }
 }
