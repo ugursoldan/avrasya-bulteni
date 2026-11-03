@@ -1,16 +1,16 @@
 {
-  "olusturma_tarihi": "2026-11-02",
-  "olusturma_zamani": "2026-11-02T15:19:27.189760",
+  "olusturma_tarihi": "2026-11-03",
+  "olusturma_zamani": "2026-11-03T13:56:36.249513",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "Mekke Anlaşması TBMM Genel Kurulu'na geliyor",
+          "baslik": "Türkiye, COP31 zirvesine hazır: İklim diplomasisinin kalbi Antalya'da atacak",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/mekke-anlasmasi-tbmm-genel-kuruluna-geliyor-961968.html",
-          "ozet": "Türkiye, Pakistan ve Suudi Arabistan Arasında Ortak Savunma İçin Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun teklifi Çarşamba günü TBMM Genel Kurulu'nda görüşülecek.",
-          "yayin_tarihi": "Mon, 02 Nov 2026 15:25:00 +0300",
+          "url": "https://www.trthaber.com/haber/gundem/turkiye-cop31-zirvesine-hazir-iklim-diplomasisinin-kalbi-antalyada-atacak-962015.html",
+          "ozet": "Türkiye, 9-20 Kasım 2026'da Antalya'da düzenlenecek COP31 İklim Zirvesi ile dünyaya ev sahipliği yapacak. Sıfır Atık vizyonu ve liderlerin katılımıyla küresel yol haritasının çizileceği dev buluşma için 26 bin kişilik güvenlik kalkanı, kapsamlı sağlık filosu ve özel geliştirilen 'COP31 Super APP' ile tüm hazırlıklar tamamlandı.",
+          "yayin_tarihi": "Tue, 03 Nov 2026 06:30:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -46,108 +46,132 @@
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-02T15:19:27.189546"
+      "taranma_zamani": "2026-11-03T13:56:36.249285"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
+          "ozet": "The energy-rich Gulf Arab countries are engaged in a flurry of mediation efforts to avert war between the U.S. and Iran, as many fear that the fighting will be worse this time around.",
+          "yayin_tarihi": "Tue, 03 Nov 2026 10:47:18 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Why Trump Often Mentioned Iran in the Midterm Campaign",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html",
+          "ozet": "President Trump has repeatedly reminded Americans of a losing campaign issue just as voters head to the polls. Why?",
+          "yayin_tarihi": "Tue, 03 Nov 2026 10:45:04 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Russian Strike on Ukraine Humanitarian Hub Kills Dozens",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html",
+          "ozet": "The strike in the Zaporizhzhia region came a day after a brief humanitarian truce ended in neighboring Kherson.",
+          "yayin_tarihi": "Mon, 02 Nov 2026 20:50:14 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Russia Senses Opportunity in Polish Political Turmoil",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
+          "ozet": "After its sometime allies were ousted in elections in Hungary and Serbia, Moscow has seized on Poland’s constitutional standoff in its effort to weaken Europe’s support for Ukraine.",
+          "yayin_tarihi": "Mon, 02 Nov 2026 19:05:52 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
-          "ozet": "Iranian officials spoke of some progress in negotiating to reopen the strait, a vital oil and gas shipping lane, even as they prepare for all-out war.",
-          "yayin_tarihi": "Mon, 02 Nov 2026 13:44:14 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "China’s Message to Its Rivals: You Need What We Make",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/02/world/asia/china-us-exports-ai-solar.html",
-          "ozet": "It’s not just rare earths. China is making it harder for other countries to shed their dependence on its solar, drone and drugmaking technology.",
-          "yayin_tarihi": "Mon, 02 Nov 2026 05:00:08 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Putin Breaks Down His Isolation, With a Big Assist From Trump",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/01/world/europe/putin-isolation-breakdown-trump.html",
-          "ozet": "Notching wins from Washington, the Russian leader is talking with foreign leaders and could return to diplomatic center stage with possible summit meetings.",
-          "yayin_tarihi": "Sun, 01 Nov 2026 10:04:00 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "A Lesson From Germany",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html",
-          "ozet": "Trump is betting on economic incentives to stop Putin in Ukraine. Germany’s experience shows why that strategy is risky.",
-          "yayin_tarihi": "Mon, 02 Nov 2026 05:35:54 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
-          "ozet": "A move to join Saudi Arabia’s agreement with Turkey and Pakistan could entangle more countries in the kingdom’s escalating conflict between the Iran-backed Houthis.",
-          "yayin_tarihi": "Sun, 01 Nov 2026 20:08:50 +0000",
+          "ozet": "Iranian officials spoke of some progress in negotiating to reopen the strait even as they prepared for all-out war. A Qatari delegation arrived in Tehran on Monday to meet with the foreign minister to continue talks.",
+          "yayin_tarihi": "Mon, 02 Nov 2026 20:25:34 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-02T15:19:27.189569"
+      "taranma_zamani": "2026-11-03T13:56:36.249311"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Mission accomplished in Alyoshki, much-needed aid reaches people: Lantratova’s statements",
+          "baslik": "Majority of Russians say Russian language unites country’s peoples — poll",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2212021",
-          "ozet": "According to Yana Lantratova, the organizational process in Alyoshki was made possible thanks to Russian President Vladimir Putin and his team",
-          "yayin_tarihi": "Mon, 02 Nov 2026 18:08:51 +0300",
+          "url": "https://tass.com/society/2212549",
+          "ozet": "According to analysts, Russians view Russia as the foundation of unity, namely the common area for living, supported by historical memory and love for the homeland",
+          "yayin_tarihi": "Tue, 03 Nov 2026 16:53:18 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "European gas exchange prices plunge to $1,100 amid Iran-US talks",
+          "baslik": "Melania Trump to hold meeting with representatives of Russia, Ukraine on Thursday",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2212013",
-          "ozet": "At one point, the decline exceeded 3%",
-          "yayin_tarihi": "Mon, 02 Nov 2026 17:55:33 +0300",
+          "url": "https://tass.com/world/2212539",
+          "ozet": "The meeting will take place at the White House",
+          "yayin_tarihi": "Tue, 03 Nov 2026 16:46:47 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia, China have every reason to oppose NATO’s activity in Asia-Pacific — senator",
+          "baslik": "Zelensky says Musk refuses to discuss SpaceX’s operation in Ukraine with him",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2212011",
-          "ozet": "According to Andrey Denisov, NATO countries \"have effectively created an explosive situation\" in Europe and are seeking to spread it to the Asia-Pacific",
-          "yayin_tarihi": "Mon, 02 Nov 2026 17:50:00 +0300",
+          "url": "https://tass.com/world/2212537",
+          "ozet": "Vladimir Zelensky also complained that Musk seems to have turned against Ukraine",
+          "yayin_tarihi": "Tue, 03 Nov 2026 16:44:40 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Kiev steps up strikes on LPR ahead of planned talks on Ukraine, says expert",
+          "baslik": "UN’s silence on torture in Ukraine tantamount to complicity in these crimes — diplomat",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2212005",
-          "ozet": "Lugansk is currently being targeted every single day, Andrey Marochko noted",
-          "yayin_tarihi": "Mon, 02 Nov 2026 17:40:51 +0300",
+          "url": "https://tass.com/politics/2212529",
+          "ozet": "Gennady Gatilov demanded that UN officials and experts publicly condemn what is happening",
+          "yayin_tarihi": "Tue, 03 Nov 2026 16:28:08 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Austrian elites foster Russophobia, public favors ties with Russia — political analyst",
+          "baslik": "CIS to continue efforts to build new architecture of Eurasian security — chief",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2211995",
-          "ozet": "Patrick Poppel emphasized that the views of ordinary citizens differed sharply from those of the establishment",
-          "yayin_tarihi": "Mon, 02 Nov 2026 17:29:52 +0300",
+          "url": "https://tass.com/politics/2212521",
+          "ozet": "The architecture of Eurasian security has begun taking shape through contacts and interaction between regional organizations within Greater Eurasia, Sergey Lebedev noted",
+          "yayin_tarihi": "Tue, 03 Nov 2026 16:19:14 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-02T15:19:27.189595"
+      "taranma_zamani": "2026-11-03T13:56:36.249473"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-02T15:19:27.189597"
+      "taranma_zamani": "2026-11-03T13:56:36.249475"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "程晓农谈红墙内幕　高官警卫也是监视者",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/2026/11/03/china-ccp-leadership-cheng-xiaonong-secret-surveillance-zhongnanhai/",
+          "ozet": "程晓农的新书《红色高墙》在台湾出版。曾任职中国全国人大常委会研究室及赵紫阳建立的中国经济体制改革研究所的他，在接受自由亚洲专访时，结合自身体制内经历，讲述中共高层的内部运作，包括保密通信、贴身警卫及领导人活动场所背后的的权力关系。",
+          "yayin_tarihi": "Tue, 03 Nov 2026 08:42:57 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "流亡海外中国媒体人程万军飞抵台湾桃园机场寻求人道保护",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/guoji/yatai/gangtai/2026/11/03/chinese-exile-chengwanjun-taiwan-airport-seek-humanitarianprotection/",
+          "ozet": "流亡海外的中国资深媒体人、曾任中国《法律与生活》杂志社主编、中央电视台法律讲堂栏目主讲人程万军，11月3日从泰国飞抵台湾桃园机场，向台湾政府寻求短期的人道保护。",
+          "yayin_tarihi": "Tue, 03 Nov 2026 06:24:45 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "应对中国海警“常态化执法”  台湾加速发展海上无人系统",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/podcasts/yataibaodao/2026/11/02/china-sea-police-drone/",
+          "ozet": "台湾海巡署连续三天通报海上对峙事件。包括10月31日，中国海警船关闭船舶自动识别系统（AIS），进入东沙限制水域；11月1日，中国海警宣称在台湾东部海域展开常态化执法巡查；11月2日，中国海警船又进入金门限制水域。",
+          "yayin_tarihi": "Mon, 02 Nov 2026 15:58:31 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "中国各地本月代扣增值税　个人服务报酬将缩水 ",
           "kaynak": "www.rfa.org",
@@ -163,33 +187,9 @@
           "ozet": "原北京锋锐律师事务所主任周世锋的女儿周怡然，今年9月27日离开中国，赴美国就读中学。她接受自由亚洲电台专访，讲述父亲因“709”事件被捕入狱后，自己与母亲的生活经历。",
           "yayin_tarihi": "Sun, 01 Nov 2026 04:09:00 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "《纽时》：英伟达客戶高管被控为中国情搜　黄仁勋未获警示",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/yataibaodao/2026/10/29/nvidia-china-intel/",
-          "ozet": "《纽约时报》10月29日报道，美国情报机构认定，一名曾任职于新加坡数据中心公司Megaspeed的中国籍高管涉嫌替北京搜集情报；对她的电子监控还显示，她与英伟达执行长黄仁勋保持联系。",
-          "yayin_tarihi": "Thu, 29 Oct 2026 14:58:31 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "美太平洋陆军司令：“戴维森窗口”仍有意义  2027年是美军战备节点",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/yataibaodao/2026/10/28/davidson-window-taiwan-strait/",
-          "ozet": "美国太平洋陆军司令罗纳德·克拉克表示，中国可能在2027年前具备攻台能力的“戴维森窗口”仍然有意义，美军必须以这一时间点为目标完成战备。不过，美国情报部门今年的评估同时指出，北京目前没有在2027年攻打台湾的既定计划。",
-          "yayin_tarihi": "Wed, 28 Oct 2026 10:50:15 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "姆巴佩称毛泽东独裁者  中国举国声讨",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/10/28/china-mbappe-mao-zedong-football-patriotism/",
-          "ozet": "10月26日，法国足球明星、皇家马德里前锋基利安·姆巴佩的一段访谈视频在中国网络流传。视频中，主持人问姆巴佩，哪张以他为主角的网络表情包最令他发笑。姆巴佩提到一张将自己的面孔与中国历史人物合成的图片，并使用“中国独裁者”的说法。",
-          "yayin_tarihi": "Wed, 28 Oct 2026 04:52:39 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-02T15:19:27.189734"
+      "taranma_zamani": "2026-11-03T13:56:36.249485"
     }
   }
 }
