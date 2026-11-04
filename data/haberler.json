@@ -1,10 +1,18 @@
 {
-  "olusturma_tarihi": "2026-11-03",
-  "olusturma_zamani": "2026-11-03T13:56:36.249513",
+  "olusturma_tarihi": "2026-11-04",
+  "olusturma_zamani": "2026-11-04T14:07:46.639228",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Meteoroloji'den 21 il için sarı, 2 il için turuncu uyarı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/meteorolojiden-21-il-icin-sari-2-il-icin-turuncu-uyari-962161.html",
+          "ozet": "Meteoroloji Genel Müdürlüğü, bugünden itibaren batı kesimlerden başlayarak Türkiye genelinde serin ve yağışlı havanın etkili olacağını belirterek 21 il için sarı, 2 il için turuncu kodlu uyarı yayımladı.",
+          "yayin_tarihi": "Wed, 04 Nov 2026 06:50:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Türkiye, COP31 zirvesine hazır: İklim diplomasisinin kalbi Antalya'da atacak",
           "kaynak": "www.trthaber.com",
@@ -36,27 +44,43 @@
           "ozet": "Sosyal medyada çocukları korumaya yönelik yeni dönem bugün başladı. 15 yaşından küçüklere sosyal medya hizmeti sunulmayacak, 15–17 yaş grubunda ise canlı yayın ve sonsuz kaydırma gibi özellikler sınırlandırılacak.",
           "yayin_tarihi": "Sun, 01 Nov 2026 10:12:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Cumhurbaşkanı Erdoğan: Değerlerimiz yaşatmak üzerine kurulu",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-degerlerimiz-yasatmak-uzerine-kurulu-961815.html",
-          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Tıp ve hekimlik bizim için hayati bir öneme sahiptir. Bizim inanç değerlerimiz yaşamak ve yaşatmak üzerine kuruludur\" dedi.",
-          "yayin_tarihi": "Sat, 31 Oct 2026 13:26:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-03T13:56:36.249285"
+      "taranma_zamani": "2026-11-04T14:07:46.639002"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "Countries Weigh, and Worry About, What Trump Will Do After Midterm Defeat",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
+          "ozet": "Commentators abroad wondered what the president’s electoral losses might mean for oil prices, the war on Iran and the end of the Trump era.",
+          "yayin_tarihi": "Wed, 04 Nov 2026 13:19:17 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "More Iranians Call for Nuclear Weapons After War With U.S.",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
+          "ozet": "Some Iranian clerics and officials argue the country must rebuild deterrence by dropping its longstanding pledge not to build a nuclear bomb.",
+          "yayin_tarihi": "Wed, 04 Nov 2026 13:17:49 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Poland Beefs Up Security at Border With Russia",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html",
+          "ozet": "Prime Minister Donald Tusk said there had been “disturbing movement” in Kaliningrad, a Russian region just north of Poland.",
+          "yayin_tarihi": "Tue, 03 Nov 2026 18:18:07 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
           "ozet": "The energy-rich Gulf Arab countries are engaged in a flurry of mediation efforts to avert war between the U.S. and Iran, as many fear that the fighting will be worse this time around.",
-          "yayin_tarihi": "Tue, 03 Nov 2026 10:47:18 +0000",
+          "yayin_tarihi": "Wed, 04 Nov 2026 03:39:11 +0000",
           "dil": "İngilizce"
         },
         {
@@ -64,90 +88,90 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html",
           "ozet": "President Trump has repeatedly reminded Americans of a losing campaign issue just as voters head to the polls. Why?",
-          "yayin_tarihi": "Tue, 03 Nov 2026 10:45:04 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Russian Strike on Ukraine Humanitarian Hub Kills Dozens",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html",
-          "ozet": "The strike in the Zaporizhzhia region came a day after a brief humanitarian truce ended in neighboring Kherson.",
-          "yayin_tarihi": "Mon, 02 Nov 2026 20:50:14 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Russia Senses Opportunity in Polish Political Turmoil",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
-          "ozet": "After its sometime allies were ousted in elections in Hungary and Serbia, Moscow has seized on Poland’s constitutional standoff in its effort to weaken Europe’s support for Ukraine.",
-          "yayin_tarihi": "Mon, 02 Nov 2026 19:05:52 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
-          "ozet": "Iranian officials spoke of some progress in negotiating to reopen the strait even as they prepared for all-out war. A Qatari delegation arrived in Tehran on Monday to meet with the foreign minister to continue talks.",
-          "yayin_tarihi": "Mon, 02 Nov 2026 20:25:34 +0000",
+          "yayin_tarihi": "Tue, 03 Nov 2026 21:30:27 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-03T13:56:36.249311"
+      "taranma_zamani": "2026-11-04T14:07:46.639045"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Majority of Russians say Russian language unites country’s peoples — poll",
+          "baslik": "Virtually all US elites seek to isolate Russia, contain China, expand NATO — expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/society/2212549",
-          "ozet": "According to analysts, Russians view Russia as the foundation of unity, namely the common area for living, supported by historical memory and love for the homeland",
-          "yayin_tarihi": "Tue, 03 Nov 2026 16:53:18 +0300",
+          "url": "https://tass.com/world/2212907",
+          "ozet": "Changes in the composition of the [US] Congress could have only a marginal effect via budget appropriations and confirmation of senior appointees, the political analyst argued",
+          "yayin_tarihi": "Wed, 04 Nov 2026 16:36:33 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Melania Trump to hold meeting with representatives of Russia, Ukraine on Thursday",
+          "baslik": "Kremlin says hopefully Trump will continue his Ukraine peace push post election",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2212539",
-          "ozet": "The meeting will take place at the White House",
-          "yayin_tarihi": "Tue, 03 Nov 2026 16:46:47 +0300",
+          "url": "https://tass.com/politics/2212883",
+          "ozet": "Peskov refused to speculate on whether Congress may block the US’s leader peace efforts, saying",
+          "yayin_tarihi": "Wed, 04 Nov 2026 15:09:38 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Zelensky says Musk refuses to discuss SpaceX’s operation in Ukraine with him",
+          "baslik": "Trump says no need to use nukes against Iran",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2212537",
-          "ozet": "Vladimir Zelensky also complained that Musk seems to have turned against Ukraine",
-          "yayin_tarihi": "Tue, 03 Nov 2026 16:44:40 +0300",
+          "url": "https://tass.com/world/2212875",
+          "ozet": "\"We've knocked them out already 90%,\" US President told Politico in a phone interview",
+          "yayin_tarihi": "Wed, 04 Nov 2026 15:06:46 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "UN’s silence on torture in Ukraine tantamount to complicity in these crimes — diplomat",
+          "baslik": "Outcome of US midterms unlikely to affect situation around Ukraine — analyst",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2212529",
-          "ozet": "Gennady Gatilov demanded that UN officials and experts publicly condemn what is happening",
-          "yayin_tarihi": "Tue, 03 Nov 2026 16:28:08 +0300",
+          "url": "https://tass.com/world/2212869",
+          "ozet": "\"I don’t think there’ll be any significant change,\" blogger Andrew Napolitano said",
+          "yayin_tarihi": "Wed, 04 Nov 2026 14:07:58 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "CIS to continue efforts to build new architecture of Eurasian security — chief",
+          "baslik": "Baltic states, Poland urge EU members to terminate investment treaties with Russia",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2212521",
-          "ozet": "The architecture of Eurasian security has begun taking shape through contacts and interaction between regional organizations within Greater Eurasia, Sergey Lebedev noted",
-          "yayin_tarihi": "Tue, 03 Nov 2026 16:19:14 +0300",
+          "url": "https://tass.com/economy/2212867",
+          "ozet": "The continued validity of bilateral investment treaties that establish mutually agreed rules governing the investment environment between the parties \"poses a threat to the EU’s economic security as a whole,\" Estonia’s MFA argued",
+          "yayin_tarihi": "Wed, 04 Nov 2026 13:40:32 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-03T13:56:36.249473"
+      "taranma_zamani": "2026-11-04T14:07:46.639067"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-03T13:56:36.249475"
+      "taranma_zamani": "2026-11-04T14:07:46.639069"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "程万军遭遣返  台移民署：因自伤、抗拒曾采取“必要措施”",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/yataibaodao/2026/11/04/chinese-exile-chengwanjun-sent-back-to-thailand/",
+          "ozet": "曾任中国央视《法律讲堂》主讲人的程万军，周二(3日)前在台湾桃园机场转机时寻求人道庇护，随后被遣返泰国。他11月4日公开指控，台湾移民署人员押送他登机期间，曾对他捆绑、堵嘴及殴打。",
+          "yayin_tarihi": "Wed, 04 Nov 2026 11:13:17 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "深圳APEC加强安保　桑拿店须上传顾客身分",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shehui/2026/11/04/china-apec-heightened-security-shenzhen-restrictions-on-kitchen-knives/",
+          "ozet": "亚太经合组织领导人非正式会议将于11月18日至19日在深圳举行。美国白宫此前表示，总统特朗普有意赴会；俄罗斯方面已宣布，总统普京将率团参加；日本首相高市早苗正在协调出席。特朗普与中国国家主席习近平预计将在会议间再次会面。",
+          "yayin_tarihi": "Wed, 04 Nov 2026 08:00:29 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "专访李老师：跨境镇压是 “同时消灭精神、肉体的一套组合拳”",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/yataibaodao/2026/11/04/teacher-li-transnational-repression/",
+          "ozet": "意大利米兰检察官近日侦结对中国海外异议人士“李老师不是你老师”遭跟踪、监视及威胁的案件。共有10人列为嫌疑人，其中4人被控涉嫌共谋长期打压旅意中国异议人士，包括网名“李老师”的李颖。",
+          "yayin_tarihi": "Wed, 04 Nov 2026 07:49:36 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "程晓农谈红墙内幕　高官警卫也是监视者",
           "kaynak": "www.rfa.org",
@@ -163,33 +187,9 @@
           "ozet": "流亡海外的中国资深媒体人、曾任中国《法律与生活》杂志社主编、中央电视台法律讲堂栏目主讲人程万军，11月3日从泰国飞抵台湾桃园机场，向台湾政府寻求短期的人道保护。",
           "yayin_tarihi": "Tue, 03 Nov 2026 06:24:45 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "应对中国海警“常态化执法”  台湾加速发展海上无人系统",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/podcasts/yataibaodao/2026/11/02/china-sea-police-drone/",
-          "ozet": "台湾海巡署连续三天通报海上对峙事件。包括10月31日，中国海警船关闭船舶自动识别系统（AIS），进入东沙限制水域；11月1日，中国海警宣称在台湾东部海域展开常态化执法巡查；11月2日，中国海警船又进入金门限制水域。",
-          "yayin_tarihi": "Mon, 02 Nov 2026 15:58:31 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "中国各地本月代扣增值税　个人服务报酬将缩水 ",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shangye/jingji/2026/11/02/china-ministry-of-finance-state-taxation-administration-value-added-tax-higher-education-institutions/",
-          "ozet": "中国国家税务总局今年9月3日发布的《境内单位代扣代缴自然人增值税管理办法》，自11月1日起实施。根据新规，境内各单位向境内个人支付规定范围内的应税服务报酬时，须代扣代缴增值税及附加税费。承接相关业务且达到征税条件的个人，领取报酬时",
-          "yayin_tarihi": "Mon, 02 Nov 2026 08:35:16 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "周世锋女儿抵美后发声　诉709家庭创伤",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/renquan/2026/11/01/china-human-rights-situation-zhou-shifeng-709-lawyer/",
-          "ozet": "原北京锋锐律师事务所主任周世锋的女儿周怡然，今年9月27日离开中国，赴美国就读中学。她接受自由亚洲电台专访，讲述父亲因“709”事件被捕入狱后，自己与母亲的生活经历。",
-          "yayin_tarihi": "Sun, 01 Nov 2026 04:09:00 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-03T13:56:36.249485"
+      "taranma_zamani": "2026-11-04T14:07:46.639076"
     }
   }
 }
