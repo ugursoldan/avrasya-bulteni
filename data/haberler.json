@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-11-04",
-  "olusturma_zamani": "2026-11-04T14:07:46.639228",
+  "olusturma_tarihi": "2026-11-05",
+  "olusturma_zamani": "2026-11-05T14:25:58.722959",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "ABD'de seçim sonuçları: Demokratlar neler yapabilir, neler yapamaz?",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/abdde-secim-sonuclari-demokratlar-neler-yapabilir-neler-yapamaz-962281.html",
+          "ozet": "Seçim gecesi Demokratlar için adeta büyük bir heyecan kasırgasıydı; ancak ocak ayında gerçeklerle yüzleşilecek. Salı gecesi kutlama yapmak için haklı sebepleri vardı; tarihi bir zaferin ardından önümüzdeki yıl Kongre'nin her iki kanadının da kontrolünü ele geçirecekler. Temsilciler Meclisi Demokrat Lideri Hakeem Jeffries coşkulu bir şekilde, büyük",
+          "yayin_tarihi": "Thu, 05 Nov 2026 06:22:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "ABD'deki seçimler İran'da nasıl yorumlandı?",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/abddeki-secimler-iranda-nasil-yorumlandi-962241.html",
+          "ozet": "ABD Kongre ara seçimlerinde Demokratların, resmi olmayan sonuçlara göre Senatoda 54, Temsilciler Meclisinde ise 228 sandalyeye ulaşarak her iki kanatta çoğunluğu elde etmesi, İran'da Washington yönetiminin Tahran'a yönelik politikalarında değişiklik olup olmayacağına ilişkin tartışmaları beraberinde getirdi.",
+          "yayin_tarihi": "Wed, 04 Nov 2026 16:14:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Meteoroloji'den 21 il için sarı, 2 il için turuncu uyarı",
           "kaynak": "www.trthaber.com",
@@ -28,35 +44,35 @@
           "ozet": "Türk üniversiteleri, Türkiye Ulusal Ajansı organizasyonuyla Çin'in başkenti Pekin'de düzenlenen Çin Eğitim Fuarı'na (CEE) katıldı.",
           "yayin_tarihi": "Mon, 02 Nov 2026 16:11:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Dünyada örneği yok: LÜFER denklemi değiştirmeye geliyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/dunyada-ornegi-yok-lufer-denklemi-degistirmeye-geliyor-961923.html",
-          "ozet": "Harp sahasının en kritik alanlarından biri olan suyun altı için Türk mühendisler son derece stratejik ürünler geliştirmeye devam ediyor. İTÜ merkezli savunma sanayii şirketi DATUM imzalı LÜFER ve KOFANA da bunlardan biri. Tel güdümlü olarak 15 km menzile sahip olan LÜFER’in dünyada muadili yok. Ürünün yakın zamanda envantere girmesi bekleniyor.",
-          "yayin_tarihi": "Mon, 02 Nov 2026 10:30:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Sosyal medyada çocuklar için yeni dönem",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/sosyal-medyada-cocuklar-icin-yeni-donem-961860.html",
-          "ozet": "Sosyal medyada çocukları korumaya yönelik yeni dönem bugün başladı. 15 yaşından küçüklere sosyal medya hizmeti sunulmayacak, 15–17 yaş grubunda ise canlı yayın ve sonsuz kaydırma gibi özellikler sınırlandırılacak.",
-          "yayin_tarihi": "Sun, 01 Nov 2026 10:12:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-04T14:07:46.639002"
+      "taranma_zamani": "2026-11-05T14:25:58.722725"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Countries Weigh, and Worry About, What Trump Will Do After Midterm Defeat",
+          "baslik": "What Trump’s Midterm Defeat Means for Iran and Oil Prices",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
-          "ozet": "Commentators abroad wondered what the president’s electoral losses might mean for oil prices, the war on Iran and the end of the Trump era.",
-          "yayin_tarihi": "Wed, 04 Nov 2026 13:19:17 +0000",
+          "ozet": "Commentators abroad wondered what President Trump’s electoral losses might mean for oil prices, the war on Iran and the future of American politics.",
+          "yayin_tarihi": "Wed, 04 Nov 2026 23:37:00 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Midterm Election Losses Complicate Trump’s Options on Iran War",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
+          "ozet": "The midterm results laid bare the deep unpopularity of the war of choice that President Trump started and is now struggling to end.",
+          "yayin_tarihi": "Thu, 05 Nov 2026 10:04:44 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Helicopters Collide Over Everest Trail, Killing 1 and Injuring 3 Others",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/03/world/asia/helicopter-crash-everest-nepal.html",
+          "ozet": "The crash, in a popular tourist area during the autumn climbing season, highlighted the safety challenges posed by growing numbers of aircraft in the Himalayas.",
+          "yayin_tarihi": "Tue, 03 Nov 2026 23:19:17 +0000",
           "dil": "İngilizce"
         },
         {
@@ -64,86 +80,70 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
           "ozet": "Some Iranian clerics and officials argue the country must rebuild deterrence by dropping its longstanding pledge not to build a nuclear bomb.",
-          "yayin_tarihi": "Wed, 04 Nov 2026 13:17:49 +0000",
+          "yayin_tarihi": "Wed, 04 Nov 2026 16:26:33 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Poland Beefs Up Security at Border With Russia",
+          "baslik": "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html",
-          "ozet": "Prime Minister Donald Tusk said there had been “disturbing movement” in Kaliningrad, a Russian region just north of Poland.",
-          "yayin_tarihi": "Tue, 03 Nov 2026 18:18:07 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
-          "ozet": "The energy-rich Gulf Arab countries are engaged in a flurry of mediation efforts to avert war between the U.S. and Iran, as many fear that the fighting will be worse this time around.",
-          "yayin_tarihi": "Wed, 04 Nov 2026 03:39:11 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Why Trump Often Mentioned Iran in the Midterm Campaign",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html",
-          "ozet": "President Trump has repeatedly reminded Americans of a losing campaign issue just as voters head to the polls. Why?",
-          "yayin_tarihi": "Tue, 03 Nov 2026 21:30:27 +0000",
+          "url": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html",
+          "ozet": "Some administration officials suggested Prime Minister Benjamin Netanyahu is trying to draw President Trump back into military action.",
+          "yayin_tarihi": "Tue, 03 Nov 2026 17:48:03 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-04T14:07:46.639045"
+      "taranma_zamani": "2026-11-05T14:25:58.722745"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Virtually all US elites seek to isolate Russia, contain China, expand NATO — expert",
+          "baslik": "Tankers sailing to the US did not change route — Dmitriev",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2212907",
-          "ozet": "Changes in the composition of the [US] Congress could have only a marginal effect via budget appropriations and confirmation of senior appointees, the political analyst argued",
-          "yayin_tarihi": "Wed, 04 Nov 2026 16:36:33 +0300",
+          "url": "https://tass.com/politics/2213365",
+          "ozet": "The Russian envoy stressed that the vessels continued on course",
+          "yayin_tarihi": "Thu, 05 Nov 2026 17:19:57 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Kremlin says hopefully Trump will continue his Ukraine peace push post election",
+          "baslik": "Number of SMEs in Russia’s IT sector up 15% in one year — ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2212883",
-          "ozet": "Peskov refused to speculate on whether Congress may block the US’s leader peace efforts, saying",
-          "yayin_tarihi": "Wed, 04 Nov 2026 15:09:38 +0300",
+          "url": "https://tass.com/economy/2213363",
+          "ozet": "In particular, 183,000 small and medium-sized enterprises, specializing in software development, operate in Russia",
+          "yayin_tarihi": "Thu, 05 Nov 2026 17:16:33 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Trump says no need to use nukes against Iran",
+          "baslik": "Putin highlights importance of fertilizer production for Russian exports, global market",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2212875",
-          "ozet": "\"We've knocked them out already 90%,\" US President told Politico in a phone interview",
-          "yayin_tarihi": "Wed, 04 Nov 2026 15:06:46 +0300",
+          "url": "https://tass.com/politics/2213359",
+          "ozet": "According to the Russian leader, it is an export-oriented sector that works \"not only in the interests of the Russian Federation but also for many of Russia's partners and friends abroad\"",
+          "yayin_tarihi": "Thu, 05 Nov 2026 17:12:33 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Outcome of US midterms unlikely to affect situation around Ukraine — analyst",
+          "baslik": "Democratic Party to stand in way of Trump’s peaceful ideas on Ukraine — political analyst",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2212869",
-          "ozet": "\"I don’t think there’ll be any significant change,\" blogger Andrew Napolitano said",
-          "yayin_tarihi": "Wed, 04 Nov 2026 14:07:58 +0300",
+          "url": "https://tass.com/world/2213345",
+          "ozet": "According to Dimitri Simes, on the other hand, a Democratic victory will make it difficult for the Trump administration to \"take any military action against Iran\"",
+          "yayin_tarihi": "Thu, 05 Nov 2026 17:07:28 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Baltic states, Poland urge EU members to terminate investment treaties with Russia",
+          "baslik": "Russia to monitor how UN chief fulfills Russian-language mandate — MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2212867",
-          "ozet": "The continued validity of bilateral investment treaties that establish mutually agreed rules governing the investment environment between the parties \"poses a threat to the EU’s economic security as a whole,\" Estonia’s MFA argued",
-          "yayin_tarihi": "Wed, 04 Nov 2026 13:40:32 +0300",
+          "url": "https://tass.com/politics/2213341",
+          "ozet": "According to Kirill Logvinov, a key element of the resolution is the instruction to the UN secretary-general to \"take the necessary measures to ensure compliance with the official linguistic norms and rules of each official language\"",
+          "yayin_tarihi": "Thu, 05 Nov 2026 17:04:04 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-04T14:07:46.639067"
+      "taranma_zamani": "2026-11-05T14:25:58.722771"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-04T14:07:46.639069"
+      "taranma_zamani": "2026-11-05T14:25:58.722772"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-04T14:07:46.639076"
+      "taranma_zamani": "2026-11-05T14:25:58.722779"
     }
   }
 }
