@@ -1,10 +1,42 @@
 {
-  "olusturma_tarihi": "2026-11-05",
-  "olusturma_zamani": "2026-11-05T14:25:58.722959",
+  "olusturma_tarihi": "2026-11-06",
+  "olusturma_zamani": "2026-11-06T14:01:53.959382",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Bakan Şimşek aralık ayını işaret etti: Emeklilere yeni zam formülü",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/bakan-simsek-aralik-ayini-isaret-etti-emeklilere-yeni-zam-formulu-962404.html",
+          "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, tüm emeklileri kapsayacak yeni düzenleme için aralık ayını işaret ederek; adaleti sağlamak adına maaş artışının yaş ve prim gün sayısına göre farklılaşacağını, seyyanen zamda dahi bu kriterlerin gözetileceğini açıkladı.",
+          "yayin_tarihi": "Fri, 06 Nov 2026 08:08:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Mekke Anlaşması TBMM Genel Kurulu'nda kabul edildi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/mekke-anlasmasi-tbmm-genel-kurulunda-kabul-edildi-962375.html",
+          "ozet": "Türkiye, Pakistan ve Suudi Arabistan Arasında Ortak Savunma İçin Mekke Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi, TBMM Genel Kurulunda kabul edildi.",
+          "yayin_tarihi": "Thu, 05 Nov 2026 23:54:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Kara para aklama soruşturmasında 11 gözaltı kararı daha",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/kara-para-aklama-sorusturmasinda-11-gozalti-karari-daha-962407.html",
+          "ozet": "Yurt içinde ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin Emir ve Ömer Sarıgül'ün de aralarında bulunduğu 28 şüphelinin tutuklandığı soruşturma kapsamında 11 şüpheli hakkında daha gözaltı kararı verildi.",
+          "yayin_tarihi": "Fri, 06 Nov 2026 09:04:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "16 il için sarı uyarı: Kuvvetli yağışa dikkat",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/16-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-962389.html",
+          "ozet": "Yurdun güneydoğu kesimlerinde beklenen kuvvetli yağışlar nedeniyle 16 il için \"sarı\" kodlu uyarıda bulunuldu.",
+          "yayin_tarihi": "Fri, 06 Nov 2026 06:19:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "ABD'de seçim sonuçları: Demokratlar neler yapabilir, neler yapamaz?",
           "kaynak": "www.trthaber.com",
@@ -12,142 +44,85 @@
           "ozet": "Seçim gecesi Demokratlar için adeta büyük bir heyecan kasırgasıydı; ancak ocak ayında gerçeklerle yüzleşilecek. Salı gecesi kutlama yapmak için haklı sebepleri vardı; tarihi bir zaferin ardından önümüzdeki yıl Kongre'nin her iki kanadının da kontrolünü ele geçirecekler. Temsilciler Meclisi Demokrat Lideri Hakeem Jeffries coşkulu bir şekilde, büyük",
           "yayin_tarihi": "Thu, 05 Nov 2026 06:22:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "ABD'deki seçimler İran'da nasıl yorumlandı?",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/abddeki-secimler-iranda-nasil-yorumlandi-962241.html",
-          "ozet": "ABD Kongre ara seçimlerinde Demokratların, resmi olmayan sonuçlara göre Senatoda 54, Temsilciler Meclisinde ise 228 sandalyeye ulaşarak her iki kanatta çoğunluğu elde etmesi, İran'da Washington yönetiminin Tahran'a yönelik politikalarında değişiklik olup olmayacağına ilişkin tartışmaları beraberinde getirdi.",
-          "yayin_tarihi": "Wed, 04 Nov 2026 16:14:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Meteoroloji'den 21 il için sarı, 2 il için turuncu uyarı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/meteorolojiden-21-il-icin-sari-2-il-icin-turuncu-uyari-962161.html",
-          "ozet": "Meteoroloji Genel Müdürlüğü, bugünden itibaren batı kesimlerden başlayarak Türkiye genelinde serin ve yağışlı havanın etkili olacağını belirterek 21 il için sarı, 2 il için turuncu kodlu uyarı yayımladı.",
-          "yayin_tarihi": "Wed, 04 Nov 2026 06:50:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Türkiye, COP31 zirvesine hazır: İklim diplomasisinin kalbi Antalya'da atacak",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/turkiye-cop31-zirvesine-hazir-iklim-diplomasisinin-kalbi-antalyada-atacak-962015.html",
-          "ozet": "Türkiye, 9-20 Kasım 2026'da Antalya'da düzenlenecek COP31 İklim Zirvesi ile dünyaya ev sahipliği yapacak. Sıfır Atık vizyonu ve liderlerin katılımıyla küresel yol haritasının çizileceği dev buluşma için 26 bin kişilik güvenlik kalkanı, kapsamlı sağlık filosu ve özel geliştirilen 'COP31 Super APP' ile tüm hazırlıklar tamamlandı.",
-          "yayin_tarihi": "Tue, 03 Nov 2026 06:30:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Türk Üniversiteleri Çin Eğitim Fuarı'na katıldı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/turk-universiteleri-cin-egitim-fuarina-katildi-961973.html",
-          "ozet": "Türk üniversiteleri, Türkiye Ulusal Ajansı organizasyonuyla Çin'in başkenti Pekin'de düzenlenen Çin Eğitim Fuarı'na (CEE) katıldı.",
-          "yayin_tarihi": "Mon, 02 Nov 2026 16:11:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-05T14:25:58.722725"
+      "taranma_zamani": "2026-11-06T14:01:53.959321"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "What Trump’s Midterm Defeat Means for Iran and Oil Prices",
+          "baslik": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
-          "ozet": "Commentators abroad wondered what President Trump’s electoral losses might mean for oil prices, the war on Iran and the future of American politics.",
-          "yayin_tarihi": "Wed, 04 Nov 2026 23:37:00 +0000",
+          "url": "https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html",
+          "ozet": "Victory for Democrats could alter the course of peace negotiations and a war nearing its fifth year.",
+          "yayin_tarihi": "Fri, 06 Nov 2026 10:22:24 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Midterm Election Losses Complicate Trump’s Options on Iran War",
+          "baslik": "Europe Still Sees Trump As Powerful, Especially in Foreign Policy",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
-          "ozet": "The midterm results laid bare the deep unpopularity of the war of choice that President Trump started and is now struggling to end.",
-          "yayin_tarihi": "Thu, 05 Nov 2026 10:04:44 +0000",
+          "url": "https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html",
+          "ozet": "The commanding victory of the Democrats has brought private relief to some Europeans but no official glee, with Ukraine, Iran and NATO all hanging in the balance.",
+          "yayin_tarihi": "Fri, 06 Nov 2026 10:00:19 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Helicopters Collide Over Everest Trail, Killing 1 and Injuring 3 Others",
+          "baslik": "A Trump-Putin-Xi Summit? That Might Be Awkward for One of Them.",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/03/world/asia/helicopter-crash-everest-nepal.html",
-          "ozet": "The crash, in a popular tourist area during the autumn climbing season, highlighted the safety challenges posed by growing numbers of aircraft in the Himalayas.",
-          "yayin_tarihi": "Tue, 03 Nov 2026 23:19:17 +0000",
+          "url": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
+          "ozet": "A summit could bolster Xi Jinping’s stature. But talks about Ukraine’s future and limits on nuclear weapons pose uncomfortable choices for China.",
+          "yayin_tarihi": "Fri, 06 Nov 2026 12:28:55 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "More Iranians Call for Nuclear Weapons After War With U.S.",
+          "baslik": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
-          "ozet": "Some Iranian clerics and officials argue the country must rebuild deterrence by dropping its longstanding pledge not to build a nuclear bomb.",
-          "yayin_tarihi": "Wed, 04 Nov 2026 16:26:33 +0000",
+          "url": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
+          "ozet": "Iran’s willingness to re-engage on the issue suggests that Qatar-led diplomatic efforts to avert full-blown war between the U.S. and Iran have had some success.",
+          "yayin_tarihi": "Thu, 05 Nov 2026 18:27:59 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials",
+          "baslik": "American Is Convicted of Murder in Case That Gripped Italy",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-trump.html",
-          "ozet": "Some administration officials suggested Prime Minister Benjamin Netanyahu is trying to draw President Trump back into military action.",
-          "yayin_tarihi": "Tue, 03 Nov 2026 17:48:03 +0000",
+          "url": "https://www.nytimes.com/2026/11/05/world/europe/italy-american-murder-case.html",
+          "ozet": "A TV program helped to identify the victims, a Russian woman and her young daughter, who were found dead in a Rome park.",
+          "yayin_tarihi": "Thu, 05 Nov 2026 16:33:59 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-05T14:25:58.722745"
+      "taranma_zamani": "2026-11-06T14:01:53.959339"
     },
     "ru": {
       "dil": "Rusça",
-      "haberler": [
-        {
-          "baslik": "Tankers sailing to the US did not change route — Dmitriev",
-          "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2213365",
-          "ozet": "The Russian envoy stressed that the vessels continued on course",
-          "yayin_tarihi": "Thu, 05 Nov 2026 17:19:57 +0300",
-          "dil": "Rusça"
-        },
-        {
-          "baslik": "Number of SMEs in Russia’s IT sector up 15% in one year — ministry",
-          "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2213363",
-          "ozet": "In particular, 183,000 small and medium-sized enterprises, specializing in software development, operate in Russia",
-          "yayin_tarihi": "Thu, 05 Nov 2026 17:16:33 +0300",
-          "dil": "Rusça"
-        },
-        {
-          "baslik": "Putin highlights importance of fertilizer production for Russian exports, global market",
-          "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2213359",
-          "ozet": "According to the Russian leader, it is an export-oriented sector that works \"not only in the interests of the Russian Federation but also for many of Russia's partners and friends abroad\"",
-          "yayin_tarihi": "Thu, 05 Nov 2026 17:12:33 +0300",
-          "dil": "Rusça"
-        },
-        {
-          "baslik": "Democratic Party to stand in way of Trump’s peaceful ideas on Ukraine — political analyst",
-          "kaynak": "tass.com",
-          "url": "https://tass.com/world/2213345",
-          "ozet": "According to Dimitri Simes, on the other hand, a Democratic victory will make it difficult for the Trump administration to \"take any military action against Iran\"",
-          "yayin_tarihi": "Thu, 05 Nov 2026 17:07:28 +0300",
-          "dil": "Rusça"
-        },
-        {
-          "baslik": "Russia to monitor how UN chief fulfills Russian-language mandate — MFA",
-          "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2213341",
-          "ozet": "According to Kirill Logvinov, a key element of the resolution is the instruction to the UN secretary-general to \"take the necessary measures to ensure compliance with the official linguistic norms and rules of each official language\"",
-          "yayin_tarihi": "Thu, 05 Nov 2026 17:04:04 +0300",
-          "dil": "Rusça"
-        }
-      ],
-      "taranma_zamani": "2026-11-05T14:25:58.722771"
+      "haberler": [],
+      "taranma_zamani": "2026-11-06T14:01:53.959341"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-05T14:25:58.722772"
+      "taranma_zamani": "2026-11-06T14:01:53.959343"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "被控为中国影响台湾选举  退将臧幼侠交保候查",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/yataibaodao/2026/11/06/china-election-interference-in-taiwan/",
+          "ozet": "台湾高雄地检署指控，退役少将、前国民党黄复兴党部主委臧幼侠，涉嫌透过两个由其负责的协会，接受中国方面资助及指示，以免费赴中旅游及在台举办餐会等方式，介入2026年台湾地方选举。",
+          "yayin_tarihi": "Fri, 06 Nov 2026 12:21:55 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "美国会议员要求黄仁勋出席会议  说明与“中国情报员”关系 ",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/06/mast-moolenaar-crawford-jensenhuang-brief-congress-nvidia-huangle-alicehuang/",
+          "ozet": "美国众议院外交事务委员会主席布莱恩·马斯特、美中战略竞争特别委员会主席约翰·穆勒纳尔，和常设情报特别委员会主席里克·克劳福联合致信英伟达执行长黄仁勋，要求他出席三个委员会的联合闭门简报会，说明他与被指控为中国女情报员黄乐的关系。",
+          "yayin_tarihi": "Fri, 06 Nov 2026 05:13:27 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "程万军遭遣返  台移民署：因自伤、抗拒曾采取“必要措施”",
           "kaynak": "www.rfa.org",
@@ -171,25 +146,9 @@
           "ozet": "意大利米兰检察官近日侦结对中国海外异议人士“李老师不是你老师”遭跟踪、监视及威胁的案件。共有10人列为嫌疑人，其中4人被控涉嫌共谋长期打压旅意中国异议人士，包括网名“李老师”的李颖。",
           "yayin_tarihi": "Wed, 04 Nov 2026 07:49:36 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "程晓农谈红墙内幕　高官警卫也是监视者",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/2026/11/03/china-ccp-leadership-cheng-xiaonong-secret-surveillance-zhongnanhai/",
-          "ozet": "程晓农的新书《红色高墙》在台湾出版。曾任职中国全国人大常委会研究室及赵紫阳建立的中国经济体制改革研究所的他，在接受自由亚洲专访时，结合自身体制内经历，讲述中共高层的内部运作，包括保密通信、贴身警卫及领导人活动场所背后的的权力关系。",
-          "yayin_tarihi": "Tue, 03 Nov 2026 08:42:57 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "流亡海外中国媒体人程万军飞抵台湾桃园机场寻求人道保护",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/guoji/yatai/gangtai/2026/11/03/chinese-exile-chengwanjun-taiwan-airport-seek-humanitarianprotection/",
-          "ozet": "流亡海外的中国资深媒体人、曾任中国《法律与生活》杂志社主编、中央电视台法律讲堂栏目主讲人程万军，11月3日从泰国飞抵台湾桃园机场，向台湾政府寻求短期的人道保护。",
-          "yayin_tarihi": "Tue, 03 Nov 2026 06:24:45 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-05T14:25:58.722779"
+      "taranma_zamani": "2026-11-06T14:01:53.959356"
     }
   }
 }
