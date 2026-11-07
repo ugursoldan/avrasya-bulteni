@@ -1,6 +1,6 @@
 {
-  "olusturma_tarihi": "2026-11-06",
-  "olusturma_zamani": "2026-11-06T14:01:53.959382",
+  "olusturma_tarihi": "2026-11-07",
+  "olusturma_zamani": "2026-11-07T12:45:54.109600",
   "diller": {
     "tr": {
       "dil": "Türkçe",
@@ -46,11 +46,19 @@
           "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-06T14:01:53.959321"
+      "taranma_zamani": "2026-11-07T12:45:54.109522"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
+          "ozet": "After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.",
+          "yayin_tarihi": "Sat, 07 Nov 2026 10:01:41 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
           "kaynak": "rss.nytimes.com",
@@ -82,31 +90,72 @@
           "ozet": "Iran’s willingness to re-engage on the issue suggests that Qatar-led diplomatic efforts to avert full-blown war between the U.S. and Iran have had some success.",
           "yayin_tarihi": "Thu, 05 Nov 2026 18:27:59 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "American Is Convicted of Murder in Case That Gripped Italy",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/05/world/europe/italy-american-murder-case.html",
-          "ozet": "A TV program helped to identify the victims, a Russian woman and her young daughter, who were found dead in a Rome park.",
-          "yayin_tarihi": "Thu, 05 Nov 2026 16:33:59 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-06T14:01:53.959339"
+      "taranma_zamani": "2026-11-07T12:45:54.109542"
     },
     "ru": {
       "dil": "Rusça",
-      "haberler": [],
-      "taranma_zamani": "2026-11-06T14:01:53.959341"
+      "haberler": [
+        {
+          "baslik": "Secret prison affair unlikely to change power in Ukraine — Kherson Region Governor",
+          "kaynak": "tass.com",
+          "url": "https://tass.com/politics/2214243",
+          "ozet": "The Kiev regime suppresses any dissent in the country, Vladimir Saldo said",
+          "yayin_tarihi": "Sat, 07 Nov 2026 15:26:42 +0300",
+          "dil": "Rusça"
+        },
+        {
+          "baslik": "Russian figure skater Alexandra Trusova wins silver at Grand Prix event in China",
+          "kaynak": "tass.com",
+          "url": "https://tass.com/sports/2214237",
+          "ozet": "She scored a total of 221.27 points",
+          "yayin_tarihi": "Sat, 07 Nov 2026 14:25:48 +0300",
+          "dil": "Rusça"
+        },
+        {
+          "baslik": "Iran lifts restrictions on missile range — IRGC",
+          "kaynak": "tass.com",
+          "url": "https://tass.com/world/2214235",
+          "ozet": "According to Brigadier General Hossein Mohebbi, Tehran will demonstrate in practice its ability to respond to threats and, in the context of asymmetric warfare, will be capable of striking an adversary where they least expect it",
+          "yayin_tarihi": "Sat, 07 Nov 2026 14:14:40 +0300",
+          "dil": "Rusça"
+        },
+        {
+          "baslik": "Russian athlete Galina Begim wins world trampoline gymnastics title",
+          "kaynak": "tass.com",
+          "url": "https://tass.com/sports/2214231",
+          "ozet": "Begim scored 26.200 points in the final",
+          "yayin_tarihi": "Sat, 07 Nov 2026 14:01:11 +0300",
+          "dil": "Rusça"
+        },
+        {
+          "baslik": "Finland explores possibility of digging anti-tank ditches along Russian border — Bloomberg",
+          "kaynak": "tass.com",
+          "url": "https://tass.com/world/2214225",
+          "ozet": "Commander of the country’s Army, Pasi Valimaki, pointed to the harsh climatic conditions in Finland",
+          "yayin_tarihi": "Sat, 07 Nov 2026 13:19:17 +0300",
+          "dil": "Rusça"
+        }
+      ],
+      "taranma_zamani": "2026-11-07T12:45:54.109565"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-06T14:01:53.959343"
+      "taranma_zamani": "2026-11-07T12:45:54.109567"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "移植”网格”到海外  智库揭中国借全球华社组监控网络",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/07/safeguarddefenders-repression-formula-china-global-grid-community-control/",
+          "ozet": "人权组织“保护卫士”发布最新报告指出，继四年前中国海外警察站曝光后，相关机构虽然摘下警察标识，但管控功能并未消失，反而进一步扩大，覆盖范围也更加广泛。中国正通过公安、法院、检察院等机关，将管控网络延伸至世界各地。",
+          "yayin_tarihi": "Sat, 07 Nov 2026 09:27:13 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "被控为中国影响台湾选举  退将臧幼侠交保候查",
           "kaynak": "www.rfa.org",
@@ -138,17 +187,9 @@
           "ozet": "亚太经合组织领导人非正式会议将于11月18日至19日在深圳举行。美国白宫此前表示，总统特朗普有意赴会；俄罗斯方面已宣布，总统普京将率团参加；日本首相高市早苗正在协调出席。特朗普与中国国家主席习近平预计将在会议间再次会面。",
           "yayin_tarihi": "Wed, 04 Nov 2026 08:00:29 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "专访李老师：跨境镇压是 “同时消灭精神、肉体的一套组合拳”",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/yataibaodao/2026/11/04/teacher-li-transnational-repression/",
-          "ozet": "意大利米兰检察官近日侦结对中国海外异议人士“李老师不是你老师”遭跟踪、监视及威胁的案件。共有10人列为嫌疑人，其中4人被控涉嫌共谋长期打压旅意中国异议人士，包括网名“李老师”的李颖。",
-          "yayin_tarihi": "Wed, 04 Nov 2026 07:49:36 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-06T14:01:53.959356"
+      "taranma_zamani": "2026-11-07T12:45:54.109574"
     }
   }
 }
