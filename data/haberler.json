@@ -1,10 +1,42 @@
 {
-  "olusturma_tarihi": "2026-11-07",
-  "olusturma_zamani": "2026-11-07T12:45:54.109600",
+  "olusturma_tarihi": "2026-11-08",
+  "olusturma_zamani": "2026-11-08T13:03:51.646030",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Cumhurbaşkanı Erdoğan: Kardeşliğimizi zayıflatmak isteyenler emellerine asla ulaşamayacak",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-kardesligimizi-zayiflatmak-isteyenler-emellerine-asla-ulasamayacak-962590.html",
+          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"15 Haziran 2021 günü Şuşa'da imzaladığımız beyanname ile müttefiklik bağıyla tahkim ettiğimiz bu kardeşliğimizi zayıflatmak isteyenler; dün olduğu gibi bugün de, yarın da emellerine asla ulaşamayacaktır\" ifadelerini kullandı.",
+          "yayin_tarihi": "Sun, 08 Nov 2026 14:56:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Dünya iklim gündemi için Antalya'da buluşuyor: COP31 yarın başlıyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/dunya-iklim-gundemi-icin-antalyada-bulusuyor-cop31-yarin-basliyor-962576.html",
+          "ozet": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenecek Birleşmiş Milletler İklim Değişikliği Konferansı COP31, yarın devlet ve hükümet temsilcileri, bakanlar, akademisyenler ve sivil toplum kuruluşlarının katılımıyla başlayacak. Konferansta 27 bin 957 personel görev yapacak, ulaşımda 630 düşük emisyonlu otobüs kullanılacak.",
+          "yayin_tarihi": "Sun, 08 Nov 2026 10:21:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "18 il için 'sarı' kodlu uyarı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/18-il-icin-sari-kodlu-uyari-962571.html",
+          "ozet": "Soğuk ve yağışlı hava yurt genelinde etkili oluyor. 18 il için Meteoroloji tarafından 'sarı' kodlu uyarı yapıldı. Vatandaşlardan yaşanabilecek olumsuzluklara karşı tedbirli olmaları istendi.",
+          "yayin_tarihi": "Sun, 08 Nov 2026 07:27:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Cumhurbaşkanı Erdoğan ABD Başkanı Trump ile görüştü",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-962557.html",
+          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile görüştü. Liderler, Türkiye-ABD ikili ilişkileri ile bölgesel ve küresel gelişmeleri ele aldı. Cumhurbaşkanı Erdoğan görüşmede, ABD Başkanı Trump’a Türk Devletleri Teşkilatı Zirvesi’ne verdiği destek için de teşekkür etti.",
+          "yayin_tarihi": "Sat, 07 Nov 2026 20:30:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Bakan Şimşek aralık ayını işaret etti: Emeklilere yeni zam formülü",
           "kaynak": "www.trthaber.com",
@@ -12,51 +44,27 @@
           "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, tüm emeklileri kapsayacak yeni düzenleme için aralık ayını işaret ederek; adaleti sağlamak adına maaş artışının yaş ve prim gün sayısına göre farklılaşacağını, seyyanen zamda dahi bu kriterlerin gözetileceğini açıkladı.",
           "yayin_tarihi": "Fri, 06 Nov 2026 08:08:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Mekke Anlaşması TBMM Genel Kurulu'nda kabul edildi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/mekke-anlasmasi-tbmm-genel-kurulunda-kabul-edildi-962375.html",
-          "ozet": "Türkiye, Pakistan ve Suudi Arabistan Arasında Ortak Savunma İçin Mekke Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi, TBMM Genel Kurulunda kabul edildi.",
-          "yayin_tarihi": "Thu, 05 Nov 2026 23:54:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Kara para aklama soruşturmasında 11 gözaltı kararı daha",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/kara-para-aklama-sorusturmasinda-11-gozalti-karari-daha-962407.html",
-          "ozet": "Yurt içinde ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin Emir ve Ömer Sarıgül'ün de aralarında bulunduğu 28 şüphelinin tutuklandığı soruşturma kapsamında 11 şüpheli hakkında daha gözaltı kararı verildi.",
-          "yayin_tarihi": "Fri, 06 Nov 2026 09:04:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "16 il için sarı uyarı: Kuvvetli yağışa dikkat",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/16-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-962389.html",
-          "ozet": "Yurdun güneydoğu kesimlerinde beklenen kuvvetli yağışlar nedeniyle 16 il için \"sarı\" kodlu uyarıda bulunuldu.",
-          "yayin_tarihi": "Fri, 06 Nov 2026 06:19:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "ABD'de seçim sonuçları: Demokratlar neler yapabilir, neler yapamaz?",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/abdde-secim-sonuclari-demokratlar-neler-yapabilir-neler-yapamaz-962281.html",
-          "ozet": "Seçim gecesi Demokratlar için adeta büyük bir heyecan kasırgasıydı; ancak ocak ayında gerçeklerle yüzleşilecek. Salı gecesi kutlama yapmak için haklı sebepleri vardı; tarihi bir zaferin ardından önümüzdeki yıl Kongre'nin her iki kanadının da kontrolünü ele geçirecekler. Temsilciler Meclisi Demokrat Lideri Hakeem Jeffries coşkulu bir şekilde, büyük",
-          "yayin_tarihi": "Thu, 05 Nov 2026 06:22:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-07T12:45:54.109522"
+      "taranma_zamani": "2026-11-08T13:03:51.645725"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "A Guide to COP31 Climate Talks in Antalya, Turkey",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
+          "ozet": "Negotiators and leaders are gathering for annual United Nations climate talks. They come as global temperatures are set to breach a key threshold.",
+          "yayin_tarihi": "Sun, 08 Nov 2026 10:01:50 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
           "ozet": "After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.",
-          "yayin_tarihi": "Sat, 07 Nov 2026 10:01:41 +0000",
+          "yayin_tarihi": "Sat, 07 Nov 2026 18:17:34 +0000",
           "dil": "İngilizce"
         },
         {
@@ -82,72 +90,72 @@
           "ozet": "A summit could bolster Xi Jinping’s stature. But talks about Ukraine’s future and limits on nuclear weapons pose uncomfortable choices for China.",
           "yayin_tarihi": "Fri, 06 Nov 2026 12:28:55 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
-          "ozet": "Iran’s willingness to re-engage on the issue suggests that Qatar-led diplomatic efforts to avert full-blown war between the U.S. and Iran have had some success.",
-          "yayin_tarihi": "Thu, 05 Nov 2026 18:27:59 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-07T12:45:54.109542"
+      "taranma_zamani": "2026-11-08T13:03:51.645742"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Secret prison affair unlikely to change power in Ukraine — Kherson Region Governor",
+          "baslik": "Russia ready to explore CIS plus Iran format — MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2214243",
-          "ozet": "The Kiev regime suppresses any dissent in the country, Vladimir Saldo said",
-          "yayin_tarihi": "Sat, 07 Nov 2026 15:26:42 +0300",
+          "url": "https://tass.com/politics/2214469",
+          "ozet": "Iranian President Masoud Pezeshkian was the first Iranian leader to be invited to a meeting of the CIS Council of Heads of State, which took place on October 9 in Turkmenistan, Russian Deputy Foreign Minister Alexander Pankin said",
+          "yayin_tarihi": "Sun, 08 Nov 2026 16:00:25 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian figure skater Alexandra Trusova wins silver at Grand Prix event in China",
+          "baslik": "Russian trampolinists win gold in team final at World Championships",
           "kaynak": "tass.com",
-          "url": "https://tass.com/sports/2214237",
-          "ozet": "She scored a total of 221.27 points",
-          "yayin_tarihi": "Sat, 07 Nov 2026 14:25:48 +0300",
+          "url": "https://tass.com/sports/2214465",
+          "ozet": "The Russian team scored 64 points overall",
+          "yayin_tarihi": "Sun, 08 Nov 2026 15:36:52 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Iran lifts restrictions on missile range — IRGC",
+          "baslik": "Condition of Russian woman wounded in Krakow shooting stable — embassy",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2214235",
-          "ozet": "According to Brigadier General Hossein Mohebbi, Tehran will demonstrate in practice its ability to respond to threats and, in the context of asymmetric warfare, will be capable of striking an adversary where they least expect it",
-          "yayin_tarihi": "Sat, 07 Nov 2026 14:14:40 +0300",
+          "url": "https://tass.com/world/2214461",
+          "ozet": "No further information had been received from the Polish authorities, a representative of the Russian embassy in Warsaw said",
+          "yayin_tarihi": "Sun, 08 Nov 2026 15:32:34 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian athlete Galina Begim wins world trampoline gymnastics title",
+          "baslik": "Russia's Dikidzhi takes second place at ISU Grand Prix in China, Semenenko finishes third",
           "kaynak": "tass.com",
-          "url": "https://tass.com/sports/2214231",
-          "ozet": "Begim scored 26.200 points in the final",
-          "yayin_tarihi": "Sat, 07 Nov 2026 14:01:11 +0300",
+          "url": "https://tass.com/sports/2214459",
+          "ozet": "Across the two programs, Vladislav Dikidzhi scored 282.44 points",
+          "yayin_tarihi": "Sun, 08 Nov 2026 15:22:26 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Finland explores possibility of digging anti-tank ditches along Russian border — Bloomberg",
+          "baslik": "Among those killed, wounded in Krakow shooting citizens of Russia, other states — ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2214225",
-          "ozet": "Commander of the country’s Army, Pasi Valimaki, pointed to the harsh climatic conditions in Finland",
-          "yayin_tarihi": "Sat, 07 Nov 2026 13:19:17 +0300",
+          "url": "https://tass.com/world/2214453",
+          "ozet": "Among those killed and wounded in terrorist attack in Krakow are citizens of four more countries: the UK, Austria, Germany and Portugal, Polish Interior Ministry Spokesperson Karolina Galecka reported",
+          "yayin_tarihi": "Sun, 08 Nov 2026 14:53:29 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-07T12:45:54.109565"
+      "taranma_zamani": "2026-11-08T13:03:51.645755"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-07T12:45:54.109567"
+      "taranma_zamani": "2026-11-08T13:03:51.645757"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "（独家）特习会前北京酝酿五项贸易要求 涉关税芯片及投资",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/11/08/us-china-trade-trump-xi-jinping-trump-xi-meeting-trade-war-tariffs/",
+          "ozet": "美国中期选举之后，APEC领导人非正式会议将于本月18日至19日在深圳举行，北京一位外贸部门人士向本台透露，中方酝酿的五项贸易诉求涉及关税、农产品采购、先进芯片及设备出口限制、中国企业赴美投资，以及跨境合规与多边规则。",
+          "yayin_tarihi": "Sun, 08 Nov 2026 07:08:14 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "移植”网格”到海外  智库揭中国借全球华社组监控网络",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "曾任中国央视《法律讲堂》主讲人的程万军，周二(3日)前在台湾桃园机场转机时寻求人道庇护，随后被遣返泰国。他11月4日公开指控，台湾移民署人员押送他登机期间，曾对他捆绑、堵嘴及殴打。",
           "yayin_tarihi": "Wed, 04 Nov 2026 11:13:17 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "深圳APEC加强安保　桑拿店须上传顾客身分",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/11/04/china-apec-heightened-security-shenzhen-restrictions-on-kitchen-knives/",
-          "ozet": "亚太经合组织领导人非正式会议将于11月18日至19日在深圳举行。美国白宫此前表示，总统特朗普有意赴会；俄罗斯方面已宣布，总统普京将率团参加；日本首相高市早苗正在协调出席。特朗普与中国国家主席习近平预计将在会议间再次会面。",
-          "yayin_tarihi": "Wed, 04 Nov 2026 08:00:29 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-07T12:45:54.109574"
+      "taranma_zamani": "2026-11-08T13:03:51.646003"
     }
   }
 }
