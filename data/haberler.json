@@ -1,32 +1,24 @@
 {
-  "olusturma_tarihi": "2026-11-08",
-  "olusturma_zamani": "2026-11-08T13:03:51.646030",
+  "olusturma_tarihi": "2026-11-09",
+  "olusturma_zamani": "2026-11-09T15:46:57.135183",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Cumhurbaşkanı Erdoğan: Terörsüz Türkiye sürecinden geriye dönüş olmayacak",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-terorsuz-turkiye-surecinden-geriye-donus-olmayacak-962665.html",
+          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Biz hem Cumhur İttifakı hem de devlet olarak Terörsüz Türkiye sürecine sadece elimizi değil, aynı zamanda vücudumuzu koyduk. Milletimiz ve devletimiz, yarım asrına mal olan terör meselesini çözmek için kararını vermiş, yol haritasını belirlemiş ve harekete geçmiştir. Bundan geriye dönüş olmayacaktır\" dedi.",
+          "yayin_tarihi": "Mon, 09 Nov 2026 13:00:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Cumhurbaşkanı Erdoğan: Kardeşliğimizi zayıflatmak isteyenler emellerine asla ulaşamayacak",
           "kaynak": "www.trthaber.com",
           "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-kardesligimizi-zayiflatmak-isteyenler-emellerine-asla-ulasamayacak-962590.html",
           "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"15 Haziran 2021 günü Şuşa'da imzaladığımız beyanname ile müttefiklik bağıyla tahkim ettiğimiz bu kardeşliğimizi zayıflatmak isteyenler; dün olduğu gibi bugün de, yarın da emellerine asla ulaşamayacaktır\" ifadelerini kullandı.",
           "yayin_tarihi": "Sun, 08 Nov 2026 14:56:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Dünya iklim gündemi için Antalya'da buluşuyor: COP31 yarın başlıyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/dunya-iklim-gundemi-icin-antalyada-bulusuyor-cop31-yarin-basliyor-962576.html",
-          "ozet": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenecek Birleşmiş Milletler İklim Değişikliği Konferansı COP31, yarın devlet ve hükümet temsilcileri, bakanlar, akademisyenler ve sivil toplum kuruluşlarının katılımıyla başlayacak. Konferansta 27 bin 957 personel görev yapacak, ulaşımda 630 düşük emisyonlu otobüs kullanılacak.",
-          "yayin_tarihi": "Sun, 08 Nov 2026 10:21:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "18 il için 'sarı' kodlu uyarı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/18-il-icin-sari-kodlu-uyari-962571.html",
-          "ozet": "Soğuk ve yağışlı hava yurt genelinde etkili oluyor. 18 il için Meteoroloji tarafından 'sarı' kodlu uyarı yapıldı. Vatandaşlardan yaşanabilecek olumsuzluklara karşı tedbirli olmaları istendi.",
-          "yayin_tarihi": "Sun, 08 Nov 2026 07:27:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -44,19 +36,35 @@
           "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, tüm emeklileri kapsayacak yeni düzenleme için aralık ayını işaret ederek; adaleti sağlamak adına maaş artışının yaş ve prim gün sayısına göre farklılaşacağını, seyyanen zamda dahi bu kriterlerin gözetileceğini açıkladı.",
           "yayin_tarihi": "Fri, 06 Nov 2026 08:08:00 +0300",
           "dil": "Türkçe"
+        },
+        {
+          "baslik": "Mekke Anlaşması TBMM Genel Kurulu'nda kabul edildi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/mekke-anlasmasi-tbmm-genel-kurulunda-kabul-edildi-962375.html",
+          "ozet": "Türkiye, Pakistan ve Suudi Arabistan Arasında Ortak Savunma İçin Mekke Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi, TBMM Genel Kurulunda kabul edildi.",
+          "yayin_tarihi": "Thu, 05 Nov 2026 23:54:00 +0300",
+          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-08T13:03:51.645725"
+      "taranma_zamani": "2026-11-09T15:46:57.135099"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+          "ozet": "U.S.-led talks to end the war between Russia and Ukraine will resume this week in Abu Dhabi. A cease-fire won’t be on the table.",
+          "yayin_tarihi": "Mon, 09 Nov 2026 15:08:54 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "A Guide to COP31 Climate Talks in Antalya, Turkey",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
           "ozet": "Negotiators and leaders are gathering for annual United Nations climate talks. They come as global temperatures are set to breach a key threshold.",
-          "yayin_tarihi": "Sun, 08 Nov 2026 10:01:50 +0000",
+          "yayin_tarihi": "Sun, 08 Nov 2026 10:01:51 +0000",
           "dil": "İngilizce"
         },
         {
@@ -82,72 +90,72 @@
           "ozet": "The commanding victory of the Democrats has brought private relief to some Europeans but no official glee, with Ukraine, Iran and NATO all hanging in the balance.",
           "yayin_tarihi": "Fri, 06 Nov 2026 10:00:19 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "A Trump-Putin-Xi Summit? That Might Be Awkward for One of Them.",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
-          "ozet": "A summit could bolster Xi Jinping’s stature. But talks about Ukraine’s future and limits on nuclear weapons pose uncomfortable choices for China.",
-          "yayin_tarihi": "Fri, 06 Nov 2026 12:28:55 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-08T13:03:51.645742"
+      "taranma_zamani": "2026-11-09T15:46:57.135117"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia ready to explore CIS plus Iran format — MFA",
+          "baslik": "Bank of Russia purchases yuan worth $147 mln with settlements on November 6",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2214469",
-          "ozet": "Iranian President Masoud Pezeshkian was the first Iranian leader to be invited to a meeting of the CIS Council of Heads of State, which took place on October 9 in Turkmenistan, Russian Deputy Foreign Minister Alexander Pankin said",
-          "yayin_tarihi": "Sun, 08 Nov 2026 16:00:25 +0300",
+          "url": "https://tass.com/economy/2214991",
+          "ozet": "The regulator also purchased yuan on the domestic market with settlements on November 5 in the amount of 12.2 bln rubles",
+          "yayin_tarihi": "Mon, 09 Nov 2026 18:24:58 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian trampolinists win gold in team final at World Championships",
+          "baslik": "Plans to lower key rate and rising prices: statements by Nabiullina",
           "kaynak": "tass.com",
-          "url": "https://tass.com/sports/2214465",
-          "ozet": "The Russian team scored 64 points overall",
-          "yayin_tarihi": "Sun, 08 Nov 2026 15:36:52 +0300",
+          "url": "https://tass.com/economy/2214989",
+          "ozet": "The Russian Central Bank chief called sharp growth of prices the most unfair of all possible types of taxes",
+          "yayin_tarihi": "Mon, 09 Nov 2026 18:24:52 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Condition of Russian woman wounded in Krakow shooting stable — embassy",
+          "baslik": "NATO manages Ukrainian conflict, responsible for it — Russia’s deputy foreign minister",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2214461",
-          "ozet": "No further information had been received from the Polish authorities, a representative of the Russian embassy in Warsaw said",
-          "yayin_tarihi": "Sun, 08 Nov 2026 15:32:34 +0300",
+          "url": "https://tass.com/politics/2214983",
+          "ozet": "This is precisely how Russia views the actions of those who supply Kiev with enormous volumes of weapons and military equipment, Sergey Ryabkov said",
+          "yayin_tarihi": "Mon, 09 Nov 2026 18:06:06 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia's Dikidzhi takes second place at ISU Grand Prix in China, Semenenko finishes third",
+          "baslik": "Europe to continue fake news barrage against Russia-US diesel deal — GFCN",
           "kaynak": "tass.com",
-          "url": "https://tass.com/sports/2214459",
-          "ozet": "Across the two programs, Vladislav Dikidzhi scored 282.44 points",
-          "yayin_tarihi": "Sun, 08 Nov 2026 15:22:26 +0300",
+          "url": "https://tass.com/economy/2214971",
+          "ozet": "The diesel deal between Moscow and Washington does not benefit European countries, Daniil Bisslinger said",
+          "yayin_tarihi": "Mon, 09 Nov 2026 17:56:48 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Among those killed, wounded in Krakow shooting citizens of Russia, other states — ministry",
+          "baslik": "Certain forces in West pushing to fast-track conflict with Russia — senior diplomat",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2214453",
-          "ozet": "Among those killed and wounded in terrorist attack in Krakow are citizens of four more countries: the UK, Austria, Germany and Portugal, Polish Interior Ministry Spokesperson Karolina Galecka reported",
-          "yayin_tarihi": "Sun, 08 Nov 2026 14:53:29 +0300",
+          "url": "https://tass.com/politics/2214967",
+          "ozet": "According to Sergey Ryabkov, Russia is also dismayed by the attempts of certain European elites to brainwash their citizens by peddling the myth of a \"Russian threat\"",
+          "yayin_tarihi": "Mon, 09 Nov 2026 17:50:30 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-08T13:03:51.645755"
+      "taranma_zamani": "2026-11-09T15:46:57.135148"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-08T13:03:51.645757"
+      "taranma_zamani": "2026-11-09T15:46:57.135150"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "黄仁勋卷入女谍案　分析指美方早已知情",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/2026/11/09/chinanvidiajensen-huangfemale-spy-casechip-sales/",
+          "ozet": "特朗普11月8日回应英伟达首席执行官黄仁勋与涉嫌为中国情报机构工作的女商人存在亲密关系一事，称黄仁勋是一个正直的人。英伟达同日宣布启动独立调查，了解黄仁勋是否成为外国情报机构的目标，以及公公司机密和美国国家安全是否受到影响。",
+          "yayin_tarihi": "Mon, 09 Nov 2026 08:20:23 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "（独家）特习会前北京酝酿五项贸易要求 涉关税芯片及投资",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "美国众议院外交事务委员会主席布莱恩·马斯特、美中战略竞争特别委员会主席约翰·穆勒纳尔，和常设情报特别委员会主席里克·克劳福联合致信英伟达执行长黄仁勋，要求他出席三个委员会的联合闭门简报会，说明他与被指控为中国女情报员黄乐的关系。",
           "yayin_tarihi": "Fri, 06 Nov 2026 05:13:27 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "程万军遭遣返  台移民署：因自伤、抗拒曾采取“必要措施”",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/yataibaodao/2026/11/04/chinese-exile-chengwanjun-sent-back-to-thailand/",
-          "ozet": "曾任中国央视《法律讲堂》主讲人的程万军，周二(3日)前在台湾桃园机场转机时寻求人道庇护，随后被遣返泰国。他11月4日公开指控，台湾移民署人员押送他登机期间，曾对他捆绑、堵嘴及殴打。",
-          "yayin_tarihi": "Wed, 04 Nov 2026 11:13:17 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-08T13:03:51.646003"
+      "taranma_zamani": "2026-11-09T15:46:57.135157"
     }
   }
 }
