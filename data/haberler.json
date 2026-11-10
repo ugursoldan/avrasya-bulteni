@@ -1,10 +1,34 @@
 {
-  "olusturma_tarihi": "2026-11-09",
-  "olusturma_zamani": "2026-11-09T15:46:57.135183",
+  "olusturma_tarihi": "2026-11-10",
+  "olusturma_zamani": "2026-11-10T14:39:46.637824",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Taşacak Bu Deniz YouTube aramalarına da damga vurdu",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/bilim-teknoloji/tasacak-bu-deniz-youtube-aramalarina-da-damga-vurdu-962809.html",
+          "ozet": "Türkiye'de 1 Temmuz 2025 – 30 Haziran 2026 dönemini kapsayan YouTube arama verilerine göre TRT 1'in rekortmen dizisi Taşacak Bu Deniz ilk sırada yer aldı. 10 Ekim 2025'te yayın hayatına başlayan dizinin arama endeksi de 100 olarak ölçüldü.",
+          "yayin_tarihi": "Tue, 10 Nov 2026 14:28:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Nvidia ve CEO'su Huang'a yatırımcıları yanılttıkları iddiasıyla dava açıldı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/nvidia-ve-ceosu-huanga-yatirimcilari-yanilttiklari-iddiasiyla-dava-acildi-962737.html",
+          "ozet": "ABD'li çip üreticisi Nvidia ve şirketin Üst Yöneticisi (CEO) Jensen Huang hakkında, Huang'ın Çin adına istihbarat topladığı öne sürülen Singapur merkezli Megaspeed şirketinin eski yöneticisi Alice Huang ile ilişkisini açıklamayarak yatırımcıları yanılttıkları iddiasıyla dava açıldı.",
+          "yayin_tarihi": "Tue, 10 Nov 2026 06:13:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Cumhurbaşkanı Erdoğan: Bu cennet vatanı ihya etmeye kararlılıkla devam edeceğiz",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bu-cennet-vatani-ihya-etmeye-kararlilikla-devam-edecegiz-962759.html",
+          "ozet": "Cumhurbaşkanı Erdoğan, \"Bölgemizin ve dünyanın krizlerle boğuştuğu bu zorlu dönemde, Türkiye Cumhuriyeti'ni 86 milyon ferdiyle daha müreffeh bir geleceğe taşımak için tüm imkanlarımızı harekete geçirmiş durumdayız\" dedi.",
+          "yayin_tarihi": "Tue, 10 Nov 2026 09:14:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Cumhurbaşkanı Erdoğan: Terörsüz Türkiye sürecinden geriye dönüş olmayacak",
           "kaynak": "www.trthaber.com",
@@ -20,134 +44,126 @@
           "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"15 Haziran 2021 günü Şuşa'da imzaladığımız beyanname ile müttefiklik bağıyla tahkim ettiğimiz bu kardeşliğimizi zayıflatmak isteyenler; dün olduğu gibi bugün de, yarın da emellerine asla ulaşamayacaktır\" ifadelerini kullandı.",
           "yayin_tarihi": "Sun, 08 Nov 2026 14:56:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Cumhurbaşkanı Erdoğan ABD Başkanı Trump ile görüştü",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-962557.html",
-          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile görüştü. Liderler, Türkiye-ABD ikili ilişkileri ile bölgesel ve küresel gelişmeleri ele aldı. Cumhurbaşkanı Erdoğan görüşmede, ABD Başkanı Trump’a Türk Devletleri Teşkilatı Zirvesi’ne verdiği destek için de teşekkür etti.",
-          "yayin_tarihi": "Sat, 07 Nov 2026 20:30:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Bakan Şimşek aralık ayını işaret etti: Emeklilere yeni zam formülü",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/bakan-simsek-aralik-ayini-isaret-etti-emeklilere-yeni-zam-formulu-962404.html",
-          "ozet": "Hazine ve Maliye Bakanı Mehmet Şimşek, tüm emeklileri kapsayacak yeni düzenleme için aralık ayını işaret ederek; adaleti sağlamak adına maaş artışının yaş ve prim gün sayısına göre farklılaşacağını, seyyanen zamda dahi bu kriterlerin gözetileceğini açıkladı.",
-          "yayin_tarihi": "Fri, 06 Nov 2026 08:08:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Mekke Anlaşması TBMM Genel Kurulu'nda kabul edildi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/mekke-anlasmasi-tbmm-genel-kurulunda-kabul-edildi-962375.html",
-          "ozet": "Türkiye, Pakistan ve Suudi Arabistan Arasında Ortak Savunma İçin Mekke Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi, TBMM Genel Kurulunda kabul edildi.",
-          "yayin_tarihi": "Thu, 05 Nov 2026 23:54:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-09T15:46:57.135099"
+      "taranma_zamani": "2026-11-10T14:39:46.637618"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "Why U.S. Business Deals Are Unlikely to Get Putin to Give Any Ground",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/10/world/europe/putin-trump-abu-dhabi-talks.html",
+          "ozet": "President Vladimir V. Putin of Russia has shown a willingness to endure a high price to get what he wants in Ukraine, and he sees little reason to stop fighting now, analysts say.",
+          "yayin_tarihi": "Tue, 10 Nov 2026 12:51:02 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Turkey Promotes Itself as a Climate Champion. Not Everyone Agrees.",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
+          "ozet": "Critics say some of the country’s environmental policies run counter to the image it is offering as host of a United Nations climate summit.",
+          "yayin_tarihi": "Tue, 10 Nov 2026 10:01:42 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
           "ozet": "U.S.-led talks to end the war between Russia and Ukraine will resume this week in Abu Dhabi. A cease-fire won’t be on the table.",
-          "yayin_tarihi": "Mon, 09 Nov 2026 15:08:54 +0000",
+          "yayin_tarihi": "Tue, 10 Nov 2026 03:39:35 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "A Guide to COP31 Climate Talks in Antalya, Turkey",
+          "baslik": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
-          "ozet": "Negotiators and leaders are gathering for annual United Nations climate talks. They come as global temperatures are set to breach a key threshold.",
-          "yayin_tarihi": "Sun, 08 Nov 2026 10:01:51 +0000",
+          "url": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
+          "ozet": "China’s factories are finding eager buyers worldwide, but the export boom is raising concerns about its impact on trading partner nations.",
+          "yayin_tarihi": "Tue, 10 Nov 2026 09:00:49 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
+          "baslik": "The Nvidia Affair",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
-          "ozet": "After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.",
-          "yayin_tarihi": "Sat, 07 Nov 2026 18:17:34 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html",
-          "ozet": "Victory for Democrats could alter the course of peace negotiations and a war nearing its fifth year.",
-          "yayin_tarihi": "Fri, 06 Nov 2026 10:22:24 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Europe Still Sees Trump As Powerful, Especially in Foreign Policy",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html",
-          "ozet": "The commanding victory of the Democrats has brought private relief to some Europeans but no official glee, with Ukraine, Iran and NATO all hanging in the balance.",
-          "yayin_tarihi": "Fri, 06 Nov 2026 10:00:19 +0000",
+          "url": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
+          "ozet": "An illicit relationship between the C.E.O. and an alleged Chinese spy is putting the spotlight on a murky ecosystem of companies smuggling A.I. chips into China.",
+          "yayin_tarihi": "Tue, 10 Nov 2026 05:43:35 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-09T15:46:57.135117"
+      "taranma_zamani": "2026-11-10T14:39:46.637639"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Bank of Russia purchases yuan worth $147 mln with settlements on November 6",
+          "baslik": "US ready to strike Iran if finds evidence of 'nefarious activity' at nuke sites — Pentagon",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2214991",
-          "ozet": "The regulator also purchased yuan on the domestic market with settlements on November 5 in the amount of 12.2 bln rubles",
-          "yayin_tarihi": "Mon, 09 Nov 2026 18:24:58 +0300",
+          "url": "https://tass.com/world/2215621",
+          "ozet": "US Secretary of War Pete Hegseth said that Washington will watch that on a lot of levels \"very closely\"",
+          "yayin_tarihi": "Tue, 10 Nov 2026 17:29:36 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Plans to lower key rate and rising prices: statements by Nabiullina",
+          "baslik": "US redeployment in Europe to force EU to foot bill for NATO, Kiev — expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2214989",
-          "ozet": "The Russian Central Bank chief called sharp growth of prices the most unfair of all possible types of taxes",
-          "yayin_tarihi": "Mon, 09 Nov 2026 18:24:52 +0300",
+          "url": "https://tass.com/society/2215619",
+          "ozet": "With regard to Ukraine, Washington has also shifted the bulk of the costs from the US budget to the European one",
+          "yayin_tarihi": "Tue, 10 Nov 2026 17:27:10 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "NATO manages Ukrainian conflict, responsible for it — Russia’s deputy foreign minister",
+          "baslik": "Bulgaria unable to provide funds for loans to Ukraine — prime minister",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2214983",
-          "ozet": "This is precisely how Russia views the actions of those who supply Kiev with enormous volumes of weapons and military equipment, Sergey Ryabkov said",
-          "yayin_tarihi": "Mon, 09 Nov 2026 18:06:06 +0300",
+          "url": "https://tass.com/world/2215615",
+          "ozet": "Rumen Radev added that Bulgaria is not blocking EU decisions",
+          "yayin_tarihi": "Tue, 10 Nov 2026 17:24:52 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Europe to continue fake news barrage against Russia-US diesel deal — GFCN",
+          "baslik": "MEP deeply troubled over twisting of torture facts in Ukraine",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2214971",
-          "ozet": "The diesel deal between Moscow and Washington does not benefit European countries, Daniil Bisslinger said",
-          "yayin_tarihi": "Mon, 09 Nov 2026 17:56:48 +0300",
+          "url": "https://tass.com/world/2215613",
+          "ozet": "Fernand Kartheiser also said that the Western media is \"selective\" in its coverage of what's happening in Ukraine",
+          "yayin_tarihi": "Tue, 10 Nov 2026 17:23:04 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Certain forces in West pushing to fast-track conflict with Russia — senior diplomat",
+          "baslik": "Russian foreign minister comments on Armenia in CSTO, Kiev's revenge, EU plans for Ukraine",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2214967",
-          "ozet": "According to Sergey Ryabkov, Russia is also dismayed by the attempts of certain European elites to brainwash their citizens by peddling the myth of a \"Russian threat\"",
-          "yayin_tarihi": "Mon, 09 Nov 2026 17:50:30 +0300",
+          "url": "https://tass.com/politics/2215611",
+          "ozet": "Sergey Lavrov highlighted that EU countries intend to use military exercises that began in Poland to rehearse the deployment of troops to Ukraine to protect the Kiev Nazi regime",
+          "yayin_tarihi": "Tue, 10 Nov 2026 17:20:40 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-09T15:46:57.135148"
+      "taranma_zamani": "2026-11-10T14:39:46.637660"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-09T15:46:57.135150"
+      "taranma_zamani": "2026-11-10T14:39:46.637662"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "多地查账从企业个人继续扩大  寺庙、道观也成对象",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shehui/2026/11/10/china-tax-audits-temples-income-tax-fines-economic-downturn/",
+          "ozet": "中国部分地区近期对寺院、道观等宗教活动场所开展财务检查，涉及资金收支、捐赠登记及账簿管理。网上另有消息称，全国数万座寺院、道观正在接受财务检查，但这一说法尚未获得官方证实。受访民众怀疑，地方政府查账与财政收入减少有关。",
+          "yayin_tarihi": "Tue, 10 Nov 2026 07:36:53 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "黄仁勋风波持续发酵 美总统与国会两党接连回应",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/10/jensen-huang-nvidia-trump-congress-response/",
+          "ozet": "英伟达首席执行官黄仁勋承认婚外情，且交往对象涉嫌“中国间谍”。特朗普11月9日称已与黄通话，并提及FBI调查。国会两党议员要求追查或加强芯片出口管制；英伟达启动独立调查，中方否认相关间谍指控。",
+          "yayin_tarihi": "Tue, 10 Nov 2026 02:31:49 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "黄仁勋卷入女谍案　分析指美方早已知情",
           "kaynak": "www.rfa.org",
@@ -171,25 +187,9 @@
           "ozet": "人权组织“保护卫士”发布最新报告指出，继四年前中国海外警察站曝光后，相关机构虽然摘下警察标识，但管控功能并未消失，反而进一步扩大，覆盖范围也更加广泛。中国正通过公安、法院、检察院等机关，将管控网络延伸至世界各地。",
           "yayin_tarihi": "Sat, 07 Nov 2026 09:27:13 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "被控为中国影响台湾选举  退将臧幼侠交保候查",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/yataibaodao/2026/11/06/china-election-interference-in-taiwan/",
-          "ozet": "台湾高雄地检署指控，退役少将、前国民党黄复兴党部主委臧幼侠，涉嫌透过两个由其负责的协会，接受中国方面资助及指示，以免费赴中旅游及在台举办餐会等方式，介入2026年台湾地方选举。",
-          "yayin_tarihi": "Fri, 06 Nov 2026 12:21:55 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "美国会议员要求黄仁勋出席会议  说明与“中国情报员”关系 ",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/06/mast-moolenaar-crawford-jensenhuang-brief-congress-nvidia-huangle-alicehuang/",
-          "ozet": "美国众议院外交事务委员会主席布莱恩·马斯特、美中战略竞争特别委员会主席约翰·穆勒纳尔，和常设情报特别委员会主席里克·克劳福联合致信英伟达执行长黄仁勋，要求他出席三个委员会的联合闭门简报会，说明他与被指控为中国女情报员黄乐的关系。",
-          "yayin_tarihi": "Fri, 06 Nov 2026 05:13:27 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-09T15:46:57.135157"
+      "taranma_zamani": "2026-11-10T14:39:46.637801"
     }
   }
 }
