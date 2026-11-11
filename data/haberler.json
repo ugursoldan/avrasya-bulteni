@@ -1,10 +1,42 @@
 {
-  "olusturma_tarihi": "2026-11-10",
-  "olusturma_zamani": "2026-11-10T14:39:46.637824",
+  "olusturma_tarihi": "2026-11-11",
+  "olusturma_zamani": "2026-11-11T13:55:07.691341",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Guterres: İklim önümüzdeki yılların sınaması olacak",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/guterres-iklim-onumuzdeki-yillarin-sinamasi-olacak-962931.html",
+          "ozet": "BM Genel Sekreteri Antonio Guterres, Antalya'daki COP31 Liderler Zirvesi Açılış Programı'nda konuştu. Guterres, \"Yeni bir iklim adaletine ihtiyaç var. Tüm ülkeler iklim için üzerine düşeni yapmalı.\" mesajını verdi.",
+          "yayin_tarihi": "Wed, 11 Nov 2026 12:55:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "BDDK Başkanı Kavcıoğlu görevinden affını istedi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/ekonomi/bddk-baskani-kavcioglu-gorevinden-affini-istedi-962904.html",
+          "ozet": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı Şahap Kavcıoğlu, \"BDDK ve şahsımla ilgili son günlerdeki iddialar üzerine, Kurumumuzun daha fazla yıpranmaması için Sayın Cumhurbaşkanımız Erdoğan'dan affımı istedim\" dedi.",
+          "yayin_tarihi": "Wed, 11 Nov 2026 10:53:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "FDA, GLP1 kilo verme ilaçları için körlük riski uyarısında bulundu",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/fda-glp-1-kilo-verme-ilaclari-icin-korluk-riski-uyarisinda-bulundu-962864.html",
+          "ozet": "Amerikan Gıda ve İlaç Dairesi (FDA), Ozempic, Wegovy ve Mounjaro gibi popüler GLP-1 sınıfı kilo verme ve diyabet ilaçlarının uyarı etiketlerine nadir görülen ve kalıcı körlüğe yol açabilen bir göz rahatsızlığı riskinin eklenmesini zorunlu kıldı.",
+          "yayin_tarihi": "Wed, 11 Nov 2026 00:23:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Antalya'da COP31 için üst düzey güvenlik ve trafik önlemi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/antalyada-cop31-icin-ust-duzey-guvenlik-ve-trafik-onlemi-962860.html",
+          "ozet": "Antalya'da 11-12 Kasım'da düzenlenecek COP31 Dünya Liderler Zirvesi dolayısıyla kent genelinde üst düzey güvenlik ve trafik tedbirleri uygulanacak. Valilik, özellikle 08.00-10.00 saatlerinde ana güzergahlarda yaşanabilecek yoğunluğa karşı vatandaşlardan özel araçlarıyla trafiğe çıkmamalarını istedi.",
+          "yayin_tarihi": "Tue, 10 Nov 2026 23:44:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Taşacak Bu Deniz YouTube aramalarına da damga vurdu",
           "kaynak": "www.trthaber.com",
@@ -12,142 +44,142 @@
           "ozet": "Türkiye'de 1 Temmuz 2025 – 30 Haziran 2026 dönemini kapsayan YouTube arama verilerine göre TRT 1'in rekortmen dizisi Taşacak Bu Deniz ilk sırada yer aldı. 10 Ekim 2025'te yayın hayatına başlayan dizinin arama endeksi de 100 olarak ölçüldü.",
           "yayin_tarihi": "Tue, 10 Nov 2026 14:28:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Nvidia ve CEO'su Huang'a yatırımcıları yanılttıkları iddiasıyla dava açıldı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/nvidia-ve-ceosu-huanga-yatirimcilari-yanilttiklari-iddiasiyla-dava-acildi-962737.html",
-          "ozet": "ABD'li çip üreticisi Nvidia ve şirketin Üst Yöneticisi (CEO) Jensen Huang hakkında, Huang'ın Çin adına istihbarat topladığı öne sürülen Singapur merkezli Megaspeed şirketinin eski yöneticisi Alice Huang ile ilişkisini açıklamayarak yatırımcıları yanılttıkları iddiasıyla dava açıldı.",
-          "yayin_tarihi": "Tue, 10 Nov 2026 06:13:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Cumhurbaşkanı Erdoğan: Bu cennet vatanı ihya etmeye kararlılıkla devam edeceğiz",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bu-cennet-vatani-ihya-etmeye-kararlilikla-devam-edecegiz-962759.html",
-          "ozet": "Cumhurbaşkanı Erdoğan, \"Bölgemizin ve dünyanın krizlerle boğuştuğu bu zorlu dönemde, Türkiye Cumhuriyeti'ni 86 milyon ferdiyle daha müreffeh bir geleceğe taşımak için tüm imkanlarımızı harekete geçirmiş durumdayız\" dedi.",
-          "yayin_tarihi": "Tue, 10 Nov 2026 09:14:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Cumhurbaşkanı Erdoğan: Terörsüz Türkiye sürecinden geriye dönüş olmayacak",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-terorsuz-turkiye-surecinden-geriye-donus-olmayacak-962665.html",
-          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Biz hem Cumhur İttifakı hem de devlet olarak Terörsüz Türkiye sürecine sadece elimizi değil, aynı zamanda vücudumuzu koyduk. Milletimiz ve devletimiz, yarım asrına mal olan terör meselesini çözmek için kararını vermiş, yol haritasını belirlemiş ve harekete geçmiştir. Bundan geriye dönüş olmayacaktır\" dedi.",
-          "yayin_tarihi": "Mon, 09 Nov 2026 13:00:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Cumhurbaşkanı Erdoğan: Kardeşliğimizi zayıflatmak isteyenler emellerine asla ulaşamayacak",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-kardesligimizi-zayiflatmak-isteyenler-emellerine-asla-ulasamayacak-962590.html",
-          "ozet": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"15 Haziran 2021 günü Şuşa'da imzaladığımız beyanname ile müttefiklik bağıyla tahkim ettiğimiz bu kardeşliğimizi zayıflatmak isteyenler; dün olduğu gibi bugün de, yarın da emellerine asla ulaşamayacaktır\" ifadelerini kullandı.",
-          "yayin_tarihi": "Sun, 08 Nov 2026 14:56:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-10T14:39:46.637618"
+      "taranma_zamani": "2026-11-11T13:55:07.691155"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Why U.S. Business Deals Are Unlikely to Get Putin to Give Any Ground",
+          "baslik": "Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/10/world/europe/putin-trump-abu-dhabi-talks.html",
-          "ozet": "President Vladimir V. Putin of Russia has shown a willingness to endure a high price to get what he wants in Ukraine, and he sees little reason to stop fighting now, analysts say.",
-          "yayin_tarihi": "Tue, 10 Nov 2026 12:51:02 +0000",
+          "url": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
+          "ozet": "Hezbollah’s conflict with Israel and the U.S.-Israel war with Iran have made systemic problems worse, causing the cost of living to soar and driving many Lebanese to despair.",
+          "yayin_tarihi": "Wed, 11 Nov 2026 09:31:18 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Turkey Promotes Itself as a Climate Champion. Not Everyone Agrees.",
+          "baslik": "They’re in Ukraine. Why Do Their Phones Say They’re in Peru?",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
-          "ozet": "Critics say some of the country’s environmental policies run counter to the image it is offering as host of a United Nations climate summit.",
-          "yayin_tarihi": "Tue, 10 Nov 2026 10:01:42 +0000",
+          "url": "https://www.nytimes.com/2026/11/11/world/europe/ukraine-lima-electronic-warefare-gps.html",
+          "ozet": "GPS-linked devices have been insisting that Ukrainians are in Lima, the Peruvian capital. The culprit is a jamming system built to thwart Russian airstrikes.",
+          "yayin_tarihi": "Wed, 11 Nov 2026 10:00:40 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+          "baslik": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
-          "ozet": "U.S.-led talks to end the war between Russia and Ukraine will resume this week in Abu Dhabi. A cease-fire won’t be on the table.",
-          "yayin_tarihi": "Tue, 10 Nov 2026 03:39:35 +0000",
+          "url": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
+          "ozet": "The 41-year-old man, who was not named, was in custody pending possible charges after a joint investigation with the F.B.I. and U.S. military intelligence.",
+          "yayin_tarihi": "Tue, 10 Nov 2026 22:24:05 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
+          "baslik": "Novaya Gazeta, Russia’s Bravest Newspaper, Closes",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
-          "ozet": "China’s factories are finding eager buyers worldwide, but the export boom is raising concerns about its impact on trading partner nations.",
-          "yayin_tarihi": "Tue, 10 Nov 2026 09:00:49 +0000",
+          "url": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
+          "ozet": "For more than 30 years, the paper covered an increasingly repressive Russia. “The process of silencing us started many years ago,” one of its journalists said.",
+          "yayin_tarihi": "Tue, 10 Nov 2026 20:53:41 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "The Nvidia Affair",
+          "baslik": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
-          "ozet": "An illicit relationship between the C.E.O. and an alleged Chinese spy is putting the spotlight on a murky ecosystem of companies smuggling A.I. chips into China.",
-          "yayin_tarihi": "Tue, 10 Nov 2026 05:43:35 +0000",
+          "url": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
+          "ozet": "The Iranian immigrants in the plane were scheduled to be flown to Pakistan and then transferred to Iran, lawyers for the group said.",
+          "yayin_tarihi": "Wed, 11 Nov 2026 03:57:10 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-10T14:39:46.637639"
+      "taranma_zamani": "2026-11-11T13:55:07.691180"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "US ready to strike Iran if finds evidence of 'nefarious activity' at nuke sites — Pentagon",
+          "baslik": "Post-Soviet security bloc’ summit to address global security — Putin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2215621",
-          "ozet": "US Secretary of War Pete Hegseth said that Washington will watch that on a lot of levels \"very closely\"",
-          "yayin_tarihi": "Tue, 10 Nov 2026 17:29:36 +0300",
+          "url": "https://tass.com/politics/2216327",
+          "ozet": "As the current CSTO chair, Russia has prepared an agenda for the meeting in consultation with all member states, the Russian president said",
+          "yayin_tarihi": "Wed, 11 Nov 2026 16:52:17 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US redeployment in Europe to force EU to foot bill for NATO, Kiev — expert",
+          "baslik": "Thailand backs Russia’s bid for APEC chairmanship — MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/society/2215619",
-          "ozet": "With regard to Ukraine, Washington has also shifted the bulk of the costs from the US budget to the European one",
-          "yayin_tarihi": "Tue, 10 Nov 2026 17:27:10 +0300",
+          "url": "https://tass.com/politics/2216325",
+          "ozet": "Marat Berdiyev said that he welcome this news",
+          "yayin_tarihi": "Wed, 11 Nov 2026 16:50:03 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Bulgaria unable to provide funds for loans to Ukraine — prime minister",
+          "baslik": "Russia works successfully with CSTO to counter international terrorism — official",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2215615",
-          "ozet": "Rumen Radev added that Bulgaria is not blocking EU decisions",
-          "yayin_tarihi": "Tue, 10 Nov 2026 17:24:52 +0300",
+          "url": "https://tass.com/politics/2216319",
+          "ozet": "Pyotr Ilyichev noted that international terrorism \"remains the main threat to state security\"",
+          "yayin_tarihi": "Wed, 11 Nov 2026 16:45:18 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "MEP deeply troubled over twisting of torture facts in Ukraine",
+          "baslik": "Russian e-commerce market reaching $133 bln over 9M 2026",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2215613",
-          "ozet": "Fernand Kartheiser also said that the Western media is \"selective\" in its coverage of what's happening in Ukraine",
-          "yayin_tarihi": "Tue, 10 Nov 2026 17:23:04 +0300",
+          "url": "https://tass.com/economy/2216317",
+          "ozet": "Despite the fact that the number of e-commerce users is practically not increasing, the market continues to develop due to the introduction of new technologies, Artyom Sokolov noted",
+          "yayin_tarihi": "Wed, 11 Nov 2026 16:44:17 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian foreign minister comments on Armenia in CSTO, Kiev's revenge, EU plans for Ukraine",
+          "baslik": "Foundation laid for further work after trilateral talks on Ukraine in Abu Dhabi — diplomat",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2215611",
-          "ozet": "Sergey Lavrov highlighted that EU countries intend to use military exercises that began in Poland to rehearse the deployment of troops to Ukraine to protect the Kiev Nazi regime",
-          "yayin_tarihi": "Tue, 10 Nov 2026 17:20:40 +0300",
+          "url": "https://tass.com/politics/2216315",
+          "ozet": "Russia, the United States and Ukraine held talks in Abu Dhabi on November 10-11",
+          "yayin_tarihi": "Wed, 11 Nov 2026 16:41:27 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-10T14:39:46.637660"
+      "taranma_zamani": "2026-11-11T13:55:07.691207"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-10T14:39:46.637662"
+      "taranma_zamani": "2026-11-11T13:55:07.691209"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "Acer创办人施振荣  获指派任台湾APEC峰会代表",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/yataibaodao/2026/11/11/apec-acer-founder-taiwan/",
+          "ozet": "台湾总统府周三（11日）宣布，总统赖清德指派宏碁集团创办人、荣誉董事长施振荣，代表台湾出席11月18日至19日在中国深圳举行的亚太经济合作组织（APEC）经济领袖会议。",
+          "yayin_tarihi": "Wed, 11 Nov 2026 09:56:20 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "拆局黄乐芯片交易：钱哪里来？货交给谁？",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shangye/2026/11/11/chinese-female-spy-huang-le-jensen-huang-chips/",
+          "ozet": "中国女商人黄乐利用与英伟达首席执行官黄仁勋的关系，协助关联企业采购高端芯片。自2023年以来，黄乐关联商业网络促成至少75亿美元的英伟达芯片交易，涉及约24万颗H100、H200及A100芯片。",
+          "yayin_tarihi": "Wed, 11 Nov 2026 08:02:51 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "黄乐做的是什么生意？ 美国对中管制高阶芯片的漏洞在哪里？",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/yataibaodao/2026/11/10/nvidia-jensen-huang-alice-huang-national-security/",
+          "ozet": "美国人工智能芯片龙头英伟达（NVIDIA）执行长黄仁勋近日卷入“粉红间谍”疑云。美国情报机关怀疑黄仁勋的绯闻对象 — 中国籍商人黄乐（Alice Huang），可能与中国国家安全部有关，并利用与黄仁勋的关系接近英伟达决策核心。",
+          "yayin_tarihi": "Tue, 10 Nov 2026 16:16:26 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "AI 听谁的？（中）AI说我可疑，我能找谁说理？",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/ytbdzhuantixilie/2026/11/10/ai-flags-me-as-suspicious/",
+          "ozet": "当AI被用于分析个人数据、评估潜在风险，谁来决定一个人是否“可疑”？如果判断有误，当事人能否看到依据、要求纠正？本集通过李厚辰与埃米尔·迪克斯的访谈，探讨中国的AI监控、预测性警务，以及普通人的隐私、申辩与纠错机会。",
+          "yayin_tarihi": "Tue, 10 Nov 2026 14:43:01 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "多地查账从企业个人继续扩大  寺庙、道观也成对象",
           "kaynak": "www.rfa.org",
@@ -155,41 +187,9 @@
           "ozet": "中国部分地区近期对寺院、道观等宗教活动场所开展财务检查，涉及资金收支、捐赠登记及账簿管理。网上另有消息称，全国数万座寺院、道观正在接受财务检查，但这一说法尚未获得官方证实。受访民众怀疑，地方政府查账与财政收入减少有关。",
           "yayin_tarihi": "Tue, 10 Nov 2026 07:36:53 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "黄仁勋风波持续发酵 美总统与国会两党接连回应",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/10/jensen-huang-nvidia-trump-congress-response/",
-          "ozet": "英伟达首席执行官黄仁勋承认婚外情，且交往对象涉嫌“中国间谍”。特朗普11月9日称已与黄通话，并提及FBI调查。国会两党议员要求追查或加强芯片出口管制；英伟达启动独立调查，中方否认相关间谍指控。",
-          "yayin_tarihi": "Tue, 10 Nov 2026 02:31:49 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "黄仁勋卷入女谍案　分析指美方早已知情",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/2026/11/09/chinanvidiajensen-huangfemale-spy-casechip-sales/",
-          "ozet": "特朗普11月8日回应英伟达首席执行官黄仁勋与涉嫌为中国情报机构工作的女商人存在亲密关系一事，称黄仁勋是一个正直的人。英伟达同日宣布启动独立调查，了解黄仁勋是否成为外国情报机构的目标，以及公公司机密和美国国家安全是否受到影响。",
-          "yayin_tarihi": "Mon, 09 Nov 2026 08:20:23 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "（独家）特习会前北京酝酿五项贸易要求 涉关税芯片及投资",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/11/08/us-china-trade-trump-xi-jinping-trump-xi-meeting-trade-war-tariffs/",
-          "ozet": "美国中期选举之后，APEC领导人非正式会议将于本月18日至19日在深圳举行，北京一位外贸部门人士向本台透露，中方酝酿的五项贸易诉求涉及关税、农产品采购、先进芯片及设备出口限制、中国企业赴美投资，以及跨境合规与多边规则。",
-          "yayin_tarihi": "Sun, 08 Nov 2026 07:08:14 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "移植”网格”到海外  智库揭中国借全球华社组监控网络",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/07/safeguarddefenders-repression-formula-china-global-grid-community-control/",
-          "ozet": "人权组织“保护卫士”发布最新报告指出，继四年前中国海外警察站曝光后，相关机构虽然摘下警察标识，但管控功能并未消失，反而进一步扩大，覆盖范围也更加广泛。中国正通过公安、法院、检察院等机关，将管控网络延伸至世界各地。",
-          "yayin_tarihi": "Sat, 07 Nov 2026 09:27:13 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-10T14:39:46.637801"
+      "taranma_zamani": "2026-11-11T13:55:07.691319"
     }
   }
 }
