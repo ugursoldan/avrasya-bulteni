@@ -1,16 +1,40 @@
 {
-  "olusturma_tarihi": "2026-11-11",
-  "olusturma_zamani": "2026-11-11T13:55:07.691341",
+  "olusturma_tarihi": "2026-11-12",
+  "olusturma_zamani": "2026-11-12T14:56:07.957974",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "Guterres: İklim önümüzdeki yılların sınaması olacak",
+          "baslik": "Jensen Huang Nvidia CEO'luğundan istifa etti",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/guterres-iklim-onumuzdeki-yillarin-sinamasi-olacak-962931.html",
-          "ozet": "BM Genel Sekreteri Antonio Guterres, Antalya'daki COP31 Liderler Zirvesi Açılış Programı'nda konuştu. Guterres, \"Yeni bir iklim adaletine ihtiyaç var. Tüm ülkeler iklim için üzerine düşeni yapmalı.\" mesajını verdi.",
-          "yayin_tarihi": "Wed, 11 Nov 2026 12:55:00 +0300",
+          "url": "https://www.trthaber.com/haber/dunya/jensen-huang-nvidia-ceolugundan-istifa-etti-963087.html",
+          "ozet": "Nvidia CEO'su Jensen Huang, hakkındaki skandalın ardından görevinden ayrıldı. Şirketin CFO'su Colette Kress, geçici CEO olarak görevlendirildi. Huang'ın evlilik dışı ilişkisini kabul etmesi ve ilişki yaşadığı öne sürülen Alice Huang'ın Çin istihbaratıyla bağlantılı olduğu iddiaları, şirkette bağımsız soruşturma başlatılmasına neden olmuştu.",
+          "yayin_tarihi": "Thu, 12 Nov 2026 17:00:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Türkiye ile Kanada arasında nükleer santral için işbirliği anlaşması",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/ekonomi/turkiye-ile-kanada-arasinda-nukleer-santral-icin-isbirligi-anlasmasi-963021.html",
+          "ozet": "Türkiye Nükleer Enerji AŞ ile Kanada merkezli AtkinsRealis, CANDU reaktör teknolojisiyle kurulabilecek nükleer santral için fizibilite ve ön tasarım mühendisliği anlaşması imzaladı.",
+          "yayin_tarihi": "Thu, 12 Nov 2026 10:07:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Hürmüz Boğazı'nda gemilere saldırılar artarak sürüyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/hurmuz-bogazinda-gemilere-saldirilar-artarak-suruyor-963048.html",
+          "ozet": "ABD ve İsrail'in 28 Şubat'ta İran'a yönelik saldırılarıyla başlayan savaşla birlikte Hürmüz Boğazı ve çevresinde şu ana kadar ticari gemilere yönelik 134 saldırı düzenlenirken, bunların en az 50'si son 42 gün içinde gerçekleştirildi.",
+          "yayin_tarihi": "Thu, 12 Nov 2026 12:33:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Okullarda birinci ara tatil yarın başlıyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/okullarda-birinci-ara-tatil-yarin-basliyor-963000.html",
+          "ozet": "Milyonlarca öğrenci için birinci dönem birinci ara tatil yarın başlıyor. Öğrenciler hafta sonlarıyla birlikte derslere 9 günlük mola verecek. Uzmanlar, tatil süresince öğrencilerin dinlenirken konu tekrarlarını aksatmaması gerektiğini söylüyor. Ekran başında geçirilen süreye dikkat edilmesi öneriliyor.",
+          "yayin_tarihi": "Thu, 12 Nov 2026 08:02:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -20,130 +44,106 @@
           "ozet": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı Şahap Kavcıoğlu, \"BDDK ve şahsımla ilgili son günlerdeki iddialar üzerine, Kurumumuzun daha fazla yıpranmaması için Sayın Cumhurbaşkanımız Erdoğan'dan affımı istedim\" dedi.",
           "yayin_tarihi": "Wed, 11 Nov 2026 10:53:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "FDA, GLP1 kilo verme ilaçları için körlük riski uyarısında bulundu",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/fda-glp-1-kilo-verme-ilaclari-icin-korluk-riski-uyarisinda-bulundu-962864.html",
-          "ozet": "Amerikan Gıda ve İlaç Dairesi (FDA), Ozempic, Wegovy ve Mounjaro gibi popüler GLP-1 sınıfı kilo verme ve diyabet ilaçlarının uyarı etiketlerine nadir görülen ve kalıcı körlüğe yol açabilen bir göz rahatsızlığı riskinin eklenmesini zorunlu kıldı.",
-          "yayin_tarihi": "Wed, 11 Nov 2026 00:23:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Antalya'da COP31 için üst düzey güvenlik ve trafik önlemi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/antalyada-cop31-icin-ust-duzey-guvenlik-ve-trafik-onlemi-962860.html",
-          "ozet": "Antalya'da 11-12 Kasım'da düzenlenecek COP31 Dünya Liderler Zirvesi dolayısıyla kent genelinde üst düzey güvenlik ve trafik tedbirleri uygulanacak. Valilik, özellikle 08.00-10.00 saatlerinde ana güzergahlarda yaşanabilecek yoğunluğa karşı vatandaşlardan özel araçlarıyla trafiğe çıkmamalarını istedi.",
-          "yayin_tarihi": "Tue, 10 Nov 2026 23:44:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Taşacak Bu Deniz YouTube aramalarına da damga vurdu",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/bilim-teknoloji/tasacak-bu-deniz-youtube-aramalarina-da-damga-vurdu-962809.html",
-          "ozet": "Türkiye'de 1 Temmuz 2025 – 30 Haziran 2026 dönemini kapsayan YouTube arama verilerine göre TRT 1'in rekortmen dizisi Taşacak Bu Deniz ilk sırada yer aldı. 10 Ekim 2025'te yayın hayatına başlayan dizinin arama endeksi de 100 olarak ölçüldü.",
-          "yayin_tarihi": "Tue, 10 Nov 2026 14:28:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-11T13:55:07.691155"
+      "taranma_zamani": "2026-11-12T14:56:07.957737"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement",
+          "baslik": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
-          "ozet": "Hezbollah’s conflict with Israel and the U.S.-Israel war with Iran have made systemic problems worse, causing the cost of living to soar and driving many Lebanese to despair.",
-          "yayin_tarihi": "Wed, 11 Nov 2026 09:31:18 +0000",
+          "url": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
+          "ozet": "The Ukrainian government has opened up a trove of five million battlefield videos to defense companies at home and abroad.",
+          "yayin_tarihi": "Thu, 12 Nov 2026 10:00:57 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "They’re in Ukraine. Why Do Their Phones Say They’re in Peru?",
+          "baslik": "They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/11/world/europe/ukraine-lima-electronic-warefare-gps.html",
-          "ozet": "GPS-linked devices have been insisting that Ukrainians are in Lima, the Peruvian capital. The culprit is a jamming system built to thwart Russian airstrikes.",
-          "yayin_tarihi": "Wed, 11 Nov 2026 10:00:40 +0000",
+          "url": "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html",
+          "ozet": "The Iranian authorities are pursuing diaspora dissidents and journalists, extending the government’s repressive apparatus far beyond its borders.",
+          "yayin_tarihi": "Thu, 12 Nov 2026 09:45:47 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
+          "baslik": "In China’s Spy Operations, Romance Can Be a Long Game",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
-          "ozet": "The 41-year-old man, who was not named, was in custody pending possible charges after a joint investigation with the F.B.I. and U.S. military intelligence.",
-          "yayin_tarihi": "Tue, 10 Nov 2026 22:24:05 +0000",
+          "url": "https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html",
+          "ozet": "Jensen Huang’s affair with a woman U.S. officials say is a Chinese spy has drawn attention to the role of intimate relationships in espionage.",
+          "yayin_tarihi": "Thu, 12 Nov 2026 14:39:46 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Novaya Gazeta, Russia’s Bravest Newspaper, Closes",
+          "baslik": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
-          "ozet": "For more than 30 years, the paper covered an increasingly repressive Russia. “The process of silencing us started many years ago,” one of its journalists said.",
-          "yayin_tarihi": "Tue, 10 Nov 2026 20:53:41 +0000",
+          "url": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
+          "ozet": "Washington wants to intensify its economic pressure campaign on Iran by closing its land borders. Neighboring states, fearing economic fallout, are pushing back.",
+          "yayin_tarihi": "Wed, 11 Nov 2026 18:02:52 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
+          "baslik": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
-          "ozet": "The Iranian immigrants in the plane were scheduled to be flown to Pakistan and then transferred to Iran, lawyers for the group said.",
-          "yayin_tarihi": "Wed, 11 Nov 2026 03:57:10 +0000",
+          "url": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
+          "ozet": "As a round of negotiations ended in Abu Dhabi, President Trump’s envoys said they would go to Moscow as the Kremlin demands discussions on European security structures.",
+          "yayin_tarihi": "Wed, 11 Nov 2026 17:40:41 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-11T13:55:07.691180"
+      "taranma_zamani": "2026-11-12T14:56:07.957760"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Post-Soviet security bloc’ summit to address global security — Putin",
+          "baslik": "Putin’s meeting with US presidential envoys concludes",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2216327",
-          "ozet": "As the current CSTO chair, Russia has prepared an agenda for the meeting in consultation with all member states, the Russian president said",
-          "yayin_tarihi": "Wed, 11 Nov 2026 16:52:17 +0300",
+          "url": "https://tass.com/politics/2217255",
+          "ozet": "The discussion was focused on ways to settle the conflict in Ukraine",
+          "yayin_tarihi": "Thu, 12 Nov 2026 17:51:44 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Thailand backs Russia’s bid for APEC chairmanship — MFA",
+          "baslik": "UK blacklists Russian companies, projects",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2216325",
-          "ozet": "Marat Berdiyev said that he welcome this news",
-          "yayin_tarihi": "Wed, 11 Nov 2026 16:50:03 +0300",
+          "url": "https://tass.com/economy/2217249",
+          "ozet": "The Russian chemical company Sibur Holding and the Vostok Oil project of the Russian oil major Rosneft were added to the black list",
+          "yayin_tarihi": "Thu, 12 Nov 2026 17:46:52 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia works successfully with CSTO to counter international terrorism — official",
+          "baslik": "CSTO states to jointly train cybersecurity specialists — Russian Foreign Ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2216319",
-          "ozet": "Pyotr Ilyichev noted that international terrorism \"remains the main threat to state security\"",
-          "yayin_tarihi": "Wed, 11 Nov 2026 16:45:18 +0300",
+          "url": "https://tass.com/politics/2217247",
+          "ozet": "In addition, the sides emphasized the importance of \"the earliest possible entry into force of the United Nations Convention against Cybercrime, developed at Russia’s initiative\"",
+          "yayin_tarihi": "Thu, 12 Nov 2026 17:45:26 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian e-commerce market reaching $133 bln over 9M 2026",
+          "baslik": "Brazil intends to increase supplies of fertilizers from Iran — Lula da Silva",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2216317",
-          "ozet": "Despite the fact that the number of e-commerce users is practically not increasing, the market continues to develop due to the introduction of new technologies, Artyom Sokolov noted",
-          "yayin_tarihi": "Wed, 11 Nov 2026 16:44:17 +0300",
+          "url": "https://tass.com/world/2217245",
+          "ozet": "The Brazilian president also expressed hope for a resolution to the conflict between the US and Iran",
+          "yayin_tarihi": "Thu, 12 Nov 2026 17:43:35 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Foundation laid for further work after trilateral talks on Ukraine in Abu Dhabi — diplomat",
+          "baslik": "US no longer needs deal with Iran — Trump",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2216315",
-          "ozet": "Russia, the United States and Ukraine held talks in Abu Dhabi on November 10-11",
-          "yayin_tarihi": "Wed, 11 Nov 2026 16:41:27 +0300",
+          "url": "https://tass.com/world/2217239",
+          "ozet": "The US president stated that Washington has Tehran's money and \"its strait\"",
+          "yayin_tarihi": "Thu, 12 Nov 2026 17:40:06 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-11T13:55:07.691207"
+      "taranma_zamani": "2026-11-12T14:56:07.957783"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-11T13:55:07.691209"
+      "taranma_zamani": "2026-11-12T14:56:07.957785"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-11T13:55:07.691319"
+      "taranma_zamani": "2026-11-12T14:56:07.957946"
     }
   }
 }
