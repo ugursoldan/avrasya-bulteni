@@ -1,18 +1,10 @@
 {
-  "olusturma_tarihi": "2026-11-12",
-  "olusturma_zamani": "2026-11-12T14:56:07.957974",
+  "olusturma_tarihi": "2026-11-13",
+  "olusturma_zamani": "2026-11-13T14:21:49.133067",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
-        {
-          "baslik": "Jensen Huang Nvidia CEO'luğundan istifa etti",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/jensen-huang-nvidia-ceolugundan-istifa-etti-963087.html",
-          "ozet": "Nvidia CEO'su Jensen Huang, hakkındaki skandalın ardından görevinden ayrıldı. Şirketin CFO'su Colette Kress, geçici CEO olarak görevlendirildi. Huang'ın evlilik dışı ilişkisini kabul etmesi ve ilişki yaşadığı öne sürülen Alice Huang'ın Çin istihbaratıyla bağlantılı olduğu iddiaları, şirkette bağımsız soruşturma başlatılmasına neden olmuştu.",
-          "yayin_tarihi": "Thu, 12 Nov 2026 17:00:00 +0300",
-          "dil": "Türkçe"
-        },
         {
           "baslik": "Türkiye ile Kanada arasında nükleer santral için işbirliği anlaşması",
           "kaynak": "www.trthaber.com",
@@ -44,13 +36,45 @@
           "ozet": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı Şahap Kavcıoğlu, \"BDDK ve şahsımla ilgili son günlerdeki iddialar üzerine, Kurumumuzun daha fazla yıpranmaması için Sayın Cumhurbaşkanımız Erdoğan'dan affımı istedim\" dedi.",
           "yayin_tarihi": "Wed, 11 Nov 2026 10:53:00 +0300",
           "dil": "Türkçe"
+        },
+        {
+          "baslik": "FDA, GLP1 kilo verme ilaçları için körlük riski uyarısında bulundu",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/fda-glp-1-kilo-verme-ilaclari-icin-korluk-riski-uyarisinda-bulundu-962864.html",
+          "ozet": "Amerikan Gıda ve İlaç Dairesi (FDA), Ozempic, Wegovy ve Mounjaro gibi popüler GLP-1 sınıfı kilo verme ve diyabet ilaçlarının uyarı etiketlerine nadir görülen ve kalıcı körlüğe yol açabilen bir göz rahatsızlığı riskinin eklenmesini zorunlu kıldı.",
+          "yayin_tarihi": "Wed, 11 Nov 2026 00:23:00 +0300",
+          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-12T14:56:07.957737"
+      "taranma_zamani": "2026-11-13T14:21:49.132774"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "Europe Haggles Over Who Will Represent It in Talks With Russia",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
+          "ozet": "After coveting a seat in the Ukraine war discussions, Europe is poised to get one. Deciding who should speak for the continent is its own negotiation.",
+          "yayin_tarihi": "Fri, 13 Nov 2026 12:33:19 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "After Xi Purges China’s Generals, a Military Inquisitor Rises",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/13/world/asia/china-military-purge-zhang-shengmin-taiwan.html",
+          "ozet": "The rise of Zhang Shengmin suggests that China’s top brass remains embroiled in investigations, potentially complicating preparations for war over Taiwan.",
+          "yayin_tarihi": "Fri, 13 Nov 2026 10:02:17 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+          "ozet": "In Dublin, President Volodymyr Zelensky of Ukraine said Europeans would join the next round of talks. Russia has not confirmed that.",
+          "yayin_tarihi": "Fri, 13 Nov 2026 07:58:38 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
           "kaynak": "rss.nytimes.com",
@@ -66,88 +90,72 @@
           "ozet": "The Iranian authorities are pursuing diaspora dissidents and journalists, extending the government’s repressive apparatus far beyond its borders.",
           "yayin_tarihi": "Thu, 12 Nov 2026 09:45:47 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "In China’s Spy Operations, Romance Can Be a Long Game",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html",
-          "ozet": "Jensen Huang’s affair with a woman U.S. officials say is a Chinese spy has drawn attention to the role of intimate relationships in espionage.",
-          "yayin_tarihi": "Thu, 12 Nov 2026 14:39:46 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
-          "ozet": "Washington wants to intensify its economic pressure campaign on Iran by closing its land borders. Neighboring states, fearing economic fallout, are pushing back.",
-          "yayin_tarihi": "Wed, 11 Nov 2026 18:02:52 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
-          "ozet": "As a round of negotiations ended in Abu Dhabi, President Trump’s envoys said they would go to Moscow as the Kremlin demands discussions on European security structures.",
-          "yayin_tarihi": "Wed, 11 Nov 2026 17:40:41 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-12T14:56:07.957760"
+      "taranma_zamani": "2026-11-13T14:21:49.132798"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Putin’s meeting with US presidential envoys concludes",
+          "baslik": "Zelensky caught lying about Ukrainian control of Konstantinovka — Russian politician",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2217255",
-          "ozet": "The discussion was focused on ways to settle the conflict in Ukraine",
-          "yayin_tarihi": "Thu, 12 Nov 2026 17:51:44 +0300",
+          "url": "https://tass.com/politics/2217907",
+          "ozet": "According to Leonid Slutsky, the Kiev regime uses lies as a tool of its neo-Nazi policy",
+          "yayin_tarihi": "Fri, 13 Nov 2026 17:02:37 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "UK blacklists Russian companies, projects",
+          "baslik": "APEC summit declaration being prepared — Russian Foreign Ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2217249",
-          "ozet": "The Russian chemical company Sibur Holding and the Vostok Oil project of the Russian oil major Rosneft were added to the black list",
-          "yayin_tarihi": "Thu, 12 Nov 2026 17:46:52 +0300",
+          "url": "https://tass.com/politics/2217905",
+          "ozet": "Ambassador at Large of the Russian Foreign Ministry Marat Berdyev highlighted that Russia was promoting ideas on open and non-discriminated functioning of chains of supplies and strengthening of production and innovation potential in the region in interests of all APEC members",
+          "yayin_tarihi": "Fri, 13 Nov 2026 16:58:49 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "CSTO states to jointly train cybersecurity specialists — Russian Foreign Ministry",
+          "baslik": "Zelensky reports continued Starshield restrictions for Ukraine",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2217247",
-          "ozet": "In addition, the sides emphasized the importance of \"the earliest possible entry into force of the United Nations Convention against Cybercrime, developed at Russia’s initiative\"",
-          "yayin_tarihi": "Thu, 12 Nov 2026 17:45:26 +0300",
+          "url": "https://tass.com/world/2217901",
+          "ozet": "According to the head of Kiev regime, the US side offered no explanation for what was happening",
+          "yayin_tarihi": "Fri, 13 Nov 2026 16:50:56 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Brazil intends to increase supplies of fertilizers from Iran — Lula da Silva",
+          "baslik": "Ukraine loses nearly 400 locomotives this year alone — transport minister",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2217245",
-          "ozet": "The Brazilian president also expressed hope for a resolution to the conflict between the US and Iran",
-          "yayin_tarihi": "Thu, 12 Nov 2026 17:43:35 +0300",
+          "url": "https://tass.com/economy/2217903",
+          "ozet": "Nikolay Kalashnik believes that losses of locomotives, rolling stock, and railway infrastructure will only increase in the future",
+          "yayin_tarihi": "Fri, 13 Nov 2026 16:50:46 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US no longer needs deal with Iran — Trump",
+          "baslik": "US reports repelling Iranian attack on Bahrain",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2217239",
-          "ozet": "The US president stated that Washington has Tehran's money and \"its strait\"",
-          "yayin_tarihi": "Thu, 12 Nov 2026 17:40:06 +0300",
+          "url": "https://tass.com/world/2217897",
+          "ozet": "According to CENTCOM, there were no injuries or damage",
+          "yayin_tarihi": "Fri, 13 Nov 2026 16:44:35 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-12T14:56:07.957783"
+      "taranma_zamani": "2026-11-13T14:21:49.132825"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-12T14:56:07.957785"
+      "taranma_zamani": "2026-11-13T14:21:49.132827"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "（独家）美国列管的“济南超算中心”  今年仍采购英伟达AI产品　",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/yataibaodao/2026/11/12/nvidia-products-sold-to-sanctioned-entities-in-china/",
+          "ozet": "自由亚洲电台查阅中国政府采购资料发现，被美国列入出口管制实体清单的山东省计算中心（国家超级计算济南中心），今年一项人工智能设备采购案的成交公告中，出现英伟达的RTX 5090显卡及DGX Spark等产品。",
+          "yayin_tarihi": "Thu, 12 Nov 2026 18:21:08 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "Acer创办人施振荣  获指派任台湾APEC峰会代表",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "当AI被用于分析个人数据、评估潜在风险，谁来决定一个人是否“可疑”？如果判断有误，当事人能否看到依据、要求纠正？本集通过李厚辰与埃米尔·迪克斯的访谈，探讨中国的AI监控、预测性警务，以及普通人的隐私、申辩与纠错机会。",
           "yayin_tarihi": "Tue, 10 Nov 2026 14:43:01 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "多地查账从企业个人继续扩大  寺庙、道观也成对象",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shehui/2026/11/10/china-tax-audits-temples-income-tax-fines-economic-downturn/",
-          "ozet": "中国部分地区近期对寺院、道观等宗教活动场所开展财务检查，涉及资金收支、捐赠登记及账簿管理。网上另有消息称，全国数万座寺院、道观正在接受财务检查，但这一说法尚未获得官方证实。受访民众怀疑，地方政府查账与财政收入减少有关。",
-          "yayin_tarihi": "Tue, 10 Nov 2026 07:36:53 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-12T14:56:07.957946"
+      "taranma_zamani": "2026-11-13T14:21:49.132836"
     }
   }
 }
