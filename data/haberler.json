@@ -1,10 +1,42 @@
 {
-  "olusturma_tarihi": "2026-11-13",
-  "olusturma_zamani": "2026-11-13T14:21:49.133067",
+  "olusturma_tarihi": "2026-11-14",
+  "olusturma_zamani": "2026-11-14T13:17:04.882198",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Helikopter kazasında şehit olan askerlerimiz için tören düzenlendi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/helikopter-kazasinda-sehit-olan-askerlerimiz-icin-toren-duzenlendi-963253.html",
+          "ozet": "Malatya'da S-70 tipi helikopterin kaza kırıma uğraması sonucu şehit olan Kara Pilot Binbaşı Erdem Çimen, Uçuş Helikopter Teknisyeni Astsubay Kıdemli Üstçavuş Hüseyin Zehir ve Uçuş Helikopter Teknisyeni Astsubay Kıdemli Çavuş Serkan Önder için Mürted Hava Meydan Komutanlığı'nda tören düzenlendi.",
+          "yayin_tarihi": "Sat, 14 Nov 2026 11:04:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "11 il için sarı uyarı: Sağanak ve fırtınaya dikkat",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/11-il-icin-sari-uyari-saganak-ve-firtinaya-dikkat-963237.html",
+          "ozet": "Marmara'da beklenen kuvvetli rüzgar ve sağanak nedeniyle 11 il için \"sarı\" kodlu uyarıda bulunuldu.",
+          "yayin_tarihi": "Sat, 14 Nov 2026 08:54:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Zorunlu kış lastiği uygulaması yarın başlıyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/ekonomi/zorunlu-kis-lastigi-uygulamasi-yarin-basliyor-963238.html",
+          "ozet": "Ticari araçlarda zorunlu kış lastiği uygulaması yarın başlıyor. Özel otomobiller için ise yasal zorunluluk olmasa da kış lastiği kullanımı öneriliyor.",
+          "yayin_tarihi": "Sat, 14 Nov 2026 09:05:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "BM Genel Sekreteri Guterres Türkiye'ye ev sahipliği ve misafirperverliği için teşekkür etti",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/bm-genel-sekreteri-guterres-turkiyeye-ev-sahipligi-ve-misafirperverligi-icin-tesekkur-etti-963224.html",
+          "ozet": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, \"Türkiye, şimdiye kadarki en büyük COP'lardan birine ve şüphesiz bu yılın en büyük BM konferansına ev sahipliği yapıyor. Dünyanın her köşesinden gelen on binlerce insanın enerjisini, coşkusunu ve kararlılığını hissetmek gerçekten olağanüstü\" dedi.",
+          "yayin_tarihi": "Fri, 13 Nov 2026 22:27:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Türkiye ile Kanada arasında nükleer santral için işbirliği anlaşması",
           "kaynak": "www.trthaber.com",
@@ -12,51 +44,35 @@
           "ozet": "Türkiye Nükleer Enerji AŞ ile Kanada merkezli AtkinsRealis, CANDU reaktör teknolojisiyle kurulabilecek nükleer santral için fizibilite ve ön tasarım mühendisliği anlaşması imzaladı.",
           "yayin_tarihi": "Thu, 12 Nov 2026 10:07:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Hürmüz Boğazı'nda gemilere saldırılar artarak sürüyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/hurmuz-bogazinda-gemilere-saldirilar-artarak-suruyor-963048.html",
-          "ozet": "ABD ve İsrail'in 28 Şubat'ta İran'a yönelik saldırılarıyla başlayan savaşla birlikte Hürmüz Boğazı ve çevresinde şu ana kadar ticari gemilere yönelik 134 saldırı düzenlenirken, bunların en az 50'si son 42 gün içinde gerçekleştirildi.",
-          "yayin_tarihi": "Thu, 12 Nov 2026 12:33:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Okullarda birinci ara tatil yarın başlıyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/okullarda-birinci-ara-tatil-yarin-basliyor-963000.html",
-          "ozet": "Milyonlarca öğrenci için birinci dönem birinci ara tatil yarın başlıyor. Öğrenciler hafta sonlarıyla birlikte derslere 9 günlük mola verecek. Uzmanlar, tatil süresince öğrencilerin dinlenirken konu tekrarlarını aksatmaması gerektiğini söylüyor. Ekran başında geçirilen süreye dikkat edilmesi öneriliyor.",
-          "yayin_tarihi": "Thu, 12 Nov 2026 08:02:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "BDDK Başkanı Kavcıoğlu görevinden affını istedi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/ekonomi/bddk-baskani-kavcioglu-gorevinden-affini-istedi-962904.html",
-          "ozet": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı Şahap Kavcıoğlu, \"BDDK ve şahsımla ilgili son günlerdeki iddialar üzerine, Kurumumuzun daha fazla yıpranmaması için Sayın Cumhurbaşkanımız Erdoğan'dan affımı istedim\" dedi.",
-          "yayin_tarihi": "Wed, 11 Nov 2026 10:53:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "FDA, GLP1 kilo verme ilaçları için körlük riski uyarısında bulundu",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/fda-glp-1-kilo-verme-ilaclari-icin-korluk-riski-uyarisinda-bulundu-962864.html",
-          "ozet": "Amerikan Gıda ve İlaç Dairesi (FDA), Ozempic, Wegovy ve Mounjaro gibi popüler GLP-1 sınıfı kilo verme ve diyabet ilaçlarının uyarı etiketlerine nadir görülen ve kalıcı körlüğe yol açabilen bir göz rahatsızlığı riskinin eklenmesini zorunlu kıldı.",
-          "yayin_tarihi": "Wed, 11 Nov 2026 00:23:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-13T14:21:49.132774"
+      "taranma_zamani": "2026-11-14T13:17:04.881968"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Europe Haggles Over Who Will Represent It in Talks With Russia",
+          "baslik": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
+          "ozet": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.",
+          "yayin_tarihi": "Fri, 13 Nov 2026 20:10:37 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Ukraine’s Starshield Access Is Being Restricted Again, Zelensky Says",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
+          "ozet": "President Volodymyr Zelensky said the system, which Ukraine uses to guide drones, was being throttled over Russian-occupied territory. SpaceX, its developer, has denied the claim.",
+          "yayin_tarihi": "Sat, 14 Nov 2026 12:24:35 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Europe Agrees on a Team to Represent It in Talks With Russia",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
-          "ozet": "After coveting a seat in the Ukraine war discussions, Europe is poised to get one. Deciding who should speak for the continent is its own negotiation.",
-          "yayin_tarihi": "Fri, 13 Nov 2026 12:33:19 +0000",
+          "ozet": "After coveting a seat in the Ukraine war discussions, Europe is poised to get one. The continent wants to fill it with a six-member team.",
+          "yayin_tarihi": "Fri, 13 Nov 2026 22:47:13 +0000",
           "dil": "İngilizce"
         },
         {
@@ -68,86 +84,86 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+          "baslik": "Army Officer Accused of Trying to Spy for Russia Is Afghan War Veteran",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
-          "ozet": "In Dublin, President Volodymyr Zelensky of Ukraine said Europeans would join the next round of talks. Russia has not confirmed that.",
-          "yayin_tarihi": "Fri, 13 Nov 2026 07:58:38 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
-          "ozet": "The Ukrainian government has opened up a trove of five million battlefield videos to defense companies at home and abroad.",
-          "yayin_tarihi": "Thu, 12 Nov 2026 10:00:57 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html",
-          "ozet": "The Iranian authorities are pursuing diaspora dissidents and journalists, extending the government’s repressive apparatus far beyond its borders.",
-          "yayin_tarihi": "Thu, 12 Nov 2026 09:45:47 +0000",
+          "url": "https://www.nytimes.com/2026/11/12/world/europe/army-britain-arrest-spy-russia.html",
+          "ozet": "The officer, who served at a NATO base in Britain, is expected to be charged in the coming days, two officials said.",
+          "yayin_tarihi": "Thu, 12 Nov 2026 22:16:40 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-13T14:21:49.132798"
+      "taranma_zamani": "2026-11-14T13:17:04.881993"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Zelensky caught lying about Ukrainian control of Konstantinovka — Russian politician",
+          "baslik": "Bulgaria to stop supplying weapons to Ukraine — PM",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2217907",
-          "ozet": "According to Leonid Slutsky, the Kiev regime uses lies as a tool of its neo-Nazi policy",
-          "yayin_tarihi": "Fri, 13 Nov 2026 17:02:37 +0300",
+          "url": "https://tass.com/world/2218193",
+          "ozet": "Bulgaria does not intend to block EU member states’ decision to provide aid to Kiev, but cannot afford additional financial commitments, Bulgarian Prime Minister Rumen Radev said",
+          "yayin_tarihi": "Sat, 14 Nov 2026 15:55:21 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "APEC summit declaration being prepared — Russian Foreign Ministry",
+          "baslik": "Staying out of EANA, other ‘decaying’ European forums serves Russia — Russian MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2217905",
-          "ozet": "Ambassador at Large of the Russian Foreign Ministry Marat Berdyev highlighted that Russia was promoting ideas on open and non-discriminated functioning of chains of supplies and strengthening of production and innovation potential in the region in interests of all APEC members",
-          "yayin_tarihi": "Fri, 13 Nov 2026 16:58:49 +0300",
+          "url": "https://tass.com/politics/2218191",
+          "ozet": "Moscow believes that staying out of the European Alliance of News Agencies (EANA) and other European forums serves the interests of Russian organizations, Foreign Ministry Spokeswoman Maria Zakharova said",
+          "yayin_tarihi": "Sat, 14 Nov 2026 15:45:36 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Zelensky reports continued Starshield restrictions for Ukraine",
+          "baslik": "Russia unwilling to set conditions on Europe’s negotiating team — Kremlin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2217901",
-          "ozet": "According to the head of Kiev regime, the US side offered no explanation for what was happening",
-          "yayin_tarihi": "Fri, 13 Nov 2026 16:50:56 +0300",
+          "url": "https://tass.com/politics/2218187",
+          "ozet": "Speaking about Russia’s position on EU representatives joining the talks on Ukraine, Peskov stressed that \"it would be better to speak with the Europeans and see to what extent their position could help advance the peace process\"",
+          "yayin_tarihi": "Sat, 14 Nov 2026 15:29:02 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ukraine loses nearly 400 locomotives this year alone — transport minister",
+          "baslik": "EANA joins militaristic psychosis by expelling TASS — Russian MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2217903",
-          "ozet": "Nikolay Kalashnik believes that losses of locomotives, rolling stock, and railway infrastructure will only increase in the future",
-          "yayin_tarihi": "Fri, 13 Nov 2026 16:50:46 +0300",
+          "url": "https://tass.com/politics/2218185",
+          "ozet": "By expelling the agency, EANA showed that it is unable to uphold press freedom, Maria Zakharova said",
+          "yayin_tarihi": "Sat, 14 Nov 2026 15:04:19 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US reports repelling Iranian attack on Bahrain",
+          "baslik": "Lavrov holds series of meetings at Abu Dhabi forum — Russian MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2217897",
-          "ozet": "According to CENTCOM, there were no injuries or damage",
-          "yayin_tarihi": "Fri, 13 Nov 2026 16:44:35 +0300",
+          "url": "https://tass.com/politics/2218183",
+          "ozet": "The Russian foreign minister took part in a conference on political affairs",
+          "yayin_tarihi": "Sat, 14 Nov 2026 14:42:54 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-13T14:21:49.132825"
+      "taranma_zamani": "2026-11-14T13:17:04.882016"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-13T14:21:49.132827"
+      "taranma_zamani": "2026-11-14T13:17:04.882017"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "许成钢：芯片竞争关系到民主制度自身存亡",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/14/nvidia-alicehuang-huawei-deepseek-chenggangxu/",
+          "ozet": "美国财经媒体CNBC报道，与英伟达（NVIDIA）联合创始人黄仁勋过从甚密的黄乐（Alice Huang）透过其商业关系网络，与多家涉及华为业务的企业存在联系。而华为正是英伟达在中国最大的竞争对手。",
+          "yayin_tarihi": "Sat, 14 Nov 2026 10:24:22 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "为北京从事间谍活动 旅美民运人士唐元隽认罪获缓刑",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/14/chinese-dissident-yuanjuntang-spy-three-years-probation/",
+          "ozet": "美联社报道，长居纽约的中国民运人士唐元隽，承认代表中国政府从事间谍活动，并监控在纽约的中国民运人士长达5年。他12日在曼哈顿联邦法院被判3年缓刑。",
+          "yayin_tarihi": "Sat, 14 Nov 2026 04:49:42 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "（独家）美国列管的“济南超算中心”  今年仍采购英伟达AI产品　",
           "kaynak": "www.rfa.org",
@@ -171,25 +187,9 @@
           "ozet": "中国女商人黄乐利用与英伟达首席执行官黄仁勋的关系，协助关联企业采购高端芯片。自2023年以来，黄乐关联商业网络促成至少75亿美元的英伟达芯片交易，涉及约24万颗H100、H200及A100芯片。",
           "yayin_tarihi": "Wed, 11 Nov 2026 08:02:51 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "黄乐做的是什么生意？ 美国对中管制高阶芯片的漏洞在哪里？",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/yataibaodao/2026/11/10/nvidia-jensen-huang-alice-huang-national-security/",
-          "ozet": "美国人工智能芯片龙头英伟达（NVIDIA）执行长黄仁勋近日卷入“粉红间谍”疑云。美国情报机关怀疑黄仁勋的绯闻对象 — 中国籍商人黄乐（Alice Huang），可能与中国国家安全部有关，并利用与黄仁勋的关系接近英伟达决策核心。",
-          "yayin_tarihi": "Tue, 10 Nov 2026 16:16:26 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "AI 听谁的？（中）AI说我可疑，我能找谁说理？",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/ytbdzhuantixilie/2026/11/10/ai-flags-me-as-suspicious/",
-          "ozet": "当AI被用于分析个人数据、评估潜在风险，谁来决定一个人是否“可疑”？如果判断有误，当事人能否看到依据、要求纠正？本集通过李厚辰与埃米尔·迪克斯的访谈，探讨中国的AI监控、预测性警务，以及普通人的隐私、申辩与纠错机会。",
-          "yayin_tarihi": "Tue, 10 Nov 2026 14:43:01 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-13T14:21:49.132836"
+      "taranma_zamani": "2026-11-14T13:17:04.882174"
     }
   }
 }
