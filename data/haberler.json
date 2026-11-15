@@ -1,16 +1,24 @@
 {
-  "olusturma_tarihi": "2026-11-14",
-  "olusturma_zamani": "2026-11-14T13:17:04.882198",
+  "olusturma_tarihi": "2026-11-15",
+  "olusturma_zamani": "2026-11-15T13:45:29.689762",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "Helikopter kazasında şehit olan askerlerimiz için tören düzenlendi",
+          "baslik": "ASELSAN'dan dünyada bir ilk: 51 dron tek tuşla etkisiz hale getirildi",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/helikopter-kazasinda-sehit-olan-askerlerimiz-icin-toren-duzenlendi-963253.html",
-          "ozet": "Malatya'da S-70 tipi helikopterin kaza kırıma uğraması sonucu şehit olan Kara Pilot Binbaşı Erdem Çimen, Uçuş Helikopter Teknisyeni Astsubay Kıdemli Üstçavuş Hüseyin Zehir ve Uçuş Helikopter Teknisyeni Astsubay Kıdemli Çavuş Serkan Önder için Mürted Hava Meydan Komutanlığı'nda tören düzenlendi.",
-          "yayin_tarihi": "Sat, 14 Nov 2026 11:04:00 +0300",
+          "url": "https://www.trthaber.com/haber/savunma/aselsandan-dunyada-bir-ilk-51-dron-tek-tusla-etkisiz-hale-getirildi-963329.html",
+          "ozet": "ASELSAN’ın 51. kuruluş yıl dönümünde EJDERHA Yüksek Güçlü Elektromanyetik (HPEM) İHA savunma sistemi, aynı anda havalanan 51 dronu saniyeler içinde etkisiz hâle getirdi. ASELSAN'ın EJDERHA sistemi 51 dronu bir füze atmadan, bir mühimmat kullanmadan tek tuşla düşürmeyi başaran dünyada ilk sistem oldu.",
+          "yayin_tarihi": "Sun, 15 Nov 2026 11:52:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz: 444 bin 987 fon yatırımcısına ödeme yapıldı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmaz-444-bin-987-fon-yatirimcisina-odeme-yapildi-963302.html",
+          "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, TRT Haber'de gündeme dair açıklamalarda bulundu. Yılmaz, \"Fonların tasfiyesi için devlet bütçesinden tek bir lira kullanılmadı. Bugüne kadar 161 milyar TL ödeme yapıldı, gönüllü iadeler 33,4 milyar TL'ye ulaştı. 444 bin 987 tekil yatırımcıya ödeme yapıldı\" dedi.",
+          "yayin_tarihi": "Sat, 14 Nov 2026 21:00:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -36,27 +44,43 @@
           "ozet": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, \"Türkiye, şimdiye kadarki en büyük COP'lardan birine ve şüphesiz bu yılın en büyük BM konferansına ev sahipliği yapıyor. Dünyanın her köşesinden gelen on binlerce insanın enerjisini, coşkusunu ve kararlılığını hissetmek gerçekten olağanüstü\" dedi.",
           "yayin_tarihi": "Fri, 13 Nov 2026 22:27:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Türkiye ile Kanada arasında nükleer santral için işbirliği anlaşması",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/ekonomi/turkiye-ile-kanada-arasinda-nukleer-santral-icin-isbirligi-anlasmasi-963021.html",
-          "ozet": "Türkiye Nükleer Enerji AŞ ile Kanada merkezli AtkinsRealis, CANDU reaktör teknolojisiyle kurulabilecek nükleer santral için fizibilite ve ön tasarım mühendisliği anlaşması imzaladı.",
-          "yayin_tarihi": "Thu, 12 Nov 2026 10:07:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-14T13:17:04.881968"
+      "taranma_zamani": "2026-11-15T13:45:29.689571"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "After Decades of Blood and Mistrust, Doubts Over Who’s to Blame for an Israeli Hostage",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
+          "ozet": "Israeli spies kidnapped and killed Iranians. They were convinced that Tehran was to blame for a fallen airman. Alternative theories got little attention, until now.",
+          "yayin_tarihi": "Sun, 15 Nov 2026 09:36:59 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Iran Attacks Bahrain for the Second Time in Days",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+          "ozet": "The resumption of attacks after a two-month lull comes as peace talks between the U.S. and Iran appear to have stalled.",
+          "yayin_tarihi": "Sun, 15 Nov 2026 12:07:04 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
+          "ozet": "Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region.",
+          "yayin_tarihi": "Sun, 15 Nov 2026 05:01:20 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
           "ozet": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.",
-          "yayin_tarihi": "Fri, 13 Nov 2026 20:10:37 +0000",
+          "yayin_tarihi": "Sat, 14 Nov 2026 19:23:20 +0000",
           "dil": "İngilizce"
         },
         {
@@ -64,90 +88,82 @@
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
           "ozet": "President Volodymyr Zelensky said the system, which Ukraine uses to guide drones, was being throttled over Russian-occupied territory. SpaceX, its developer, has denied the claim.",
-          "yayin_tarihi": "Sat, 14 Nov 2026 12:24:35 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Europe Agrees on a Team to Represent It in Talks With Russia",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
-          "ozet": "After coveting a seat in the Ukraine war discussions, Europe is poised to get one. The continent wants to fill it with a six-member team.",
-          "yayin_tarihi": "Fri, 13 Nov 2026 22:47:13 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "After Xi Purges China’s Generals, a Military Inquisitor Rises",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/13/world/asia/china-military-purge-zhang-shengmin-taiwan.html",
-          "ozet": "The rise of Zhang Shengmin suggests that China’s top brass remains embroiled in investigations, potentially complicating preparations for war over Taiwan.",
-          "yayin_tarihi": "Fri, 13 Nov 2026 10:02:17 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Army Officer Accused of Trying to Spy for Russia Is Afghan War Veteran",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/12/world/europe/army-britain-arrest-spy-russia.html",
-          "ozet": "The officer, who served at a NATO base in Britain, is expected to be charged in the coming days, two officials said.",
-          "yayin_tarihi": "Thu, 12 Nov 2026 22:16:40 +0000",
+          "yayin_tarihi": "Sat, 14 Nov 2026 13:57:37 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-14T13:17:04.881993"
+      "taranma_zamani": "2026-11-15T13:45:29.689594"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Bulgaria to stop supplying weapons to Ukraine — PM",
+          "baslik": "Kremlin says discussing European security pointless if Europeans do not want peace",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2218193",
-          "ozet": "Bulgaria does not intend to block EU member states’ decision to provide aid to Kiev, but cannot afford additional financial commitments, Bulgarian Prime Minister Rumen Radev said",
-          "yayin_tarihi": "Sat, 14 Nov 2026 15:55:21 +0300",
+          "url": "https://tass.com/russias-foreign-policy/2218327",
+          "ozet": "Kremlin Spokesman Dmitry Peskov also noted that Russia would have to use force to achieve its goals if there was no prospect of reaching agreements with the Europeans",
+          "yayin_tarihi": "Sun, 15 Nov 2026 15:31:40 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Staying out of EANA, other ‘decaying’ European forums serves Russia — Russian MFA",
+          "baslik": "All participants in Abu Dhabi talks view them positively — Lavrov",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2218191",
-          "ozet": "Moscow believes that staying out of the European Alliance of News Agencies (EANA) and other European forums serves the interests of Russian organizations, Foreign Ministry Spokeswoman Maria Zakharova said",
-          "yayin_tarihi": "Sat, 14 Nov 2026 15:45:36 +0300",
+          "url": "https://tass.com/russias-foreign-policy/2218325",
+          "ozet": "The Russian Foreign Minister noted that this applies to everyone, with the exception of Volodymyr Zelenskyy",
+          "yayin_tarihi": "Sun, 15 Nov 2026 15:13:06 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia unwilling to set conditions on Europe’s negotiating team — Kremlin",
+          "baslik": "Russia will use force if no agreement with Europe is possible — Kremlin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2218187",
-          "ozet": "Speaking about Russia’s position on EU representatives joining the talks on Ukraine, Peskov stressed that \"it would be better to speak with the Europeans and see to what extent their position could help advance the peace process\"",
-          "yayin_tarihi": "Sat, 14 Nov 2026 15:29:02 +0300",
+          "url": "https://tass.com/russias-foreign-policy/2218321",
+          "ozet": "According to Kremlin Spokesman, if the EU does not want peace, then discussing a resolution to the Ukrainian conflict and the security architecture of the European Union is pointless",
+          "yayin_tarihi": "Sun, 15 Nov 2026 14:42:43 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "EANA joins militaristic psychosis by expelling TASS — Russian MFA",
+          "baslik": "Russia holds substantive talks with US on Ukraine — foreign minister",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2218185",
-          "ozet": "By expelling the agency, EANA showed that it is unable to uphold press freedom, Maria Zakharova said",
-          "yayin_tarihi": "Sat, 14 Nov 2026 15:04:19 +0300",
+          "url": "https://tass.com/russias-foreign-policy/2218317",
+          "ozet": "Moscow is taking the situation on the ground into account, Sergey Lavrov noted",
+          "yayin_tarihi": "Sun, 15 Nov 2026 14:17:35 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Lavrov holds series of meetings at Abu Dhabi forum — Russian MFA",
+          "baslik": "Europeans do not know what role they could play in Ukraine talks — Lavrov",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2218183",
-          "ozet": "The Russian foreign minister took part in a conference on political affairs",
-          "yayin_tarihi": "Sat, 14 Nov 2026 14:42:54 +0300",
+          "url": "https://tass.com/russias-foreign-policy/2218315",
+          "ozet": "The Russian Foreign Minister made this statement while appearing on the \"Vesti\" broadcast",
+          "yayin_tarihi": "Sun, 15 Nov 2026 14:11:52 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-14T13:17:04.882016"
+      "taranma_zamani": "2026-11-15T13:45:29.689604"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-14T13:17:04.882017"
+      "taranma_zamani": "2026-11-15T13:45:29.689606"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "西工大购芯片公告消失 两百亿项目生变",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shangye/jingji/2026/11/15/china-nvidia-jensen-huang-chips-large-scale-data-models/",
+          "ozet": "中国涉及受美国出口管制的英伟达芯片的算力项目及设备协议，合计金额超过230亿元人民币。部分项目已签订建设合同，但路透社尚无法确认相关芯片是否到货。一旦供应中断，相关项目可能延期，成本也将增加。",
+          "yayin_tarihi": "Sun, 15 Nov 2026 07:17:49 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "周末读书 / 安田峰俊： “恐龙研究，是中国少数仍然’正常’的领域”",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/wenhua/2026/11/15/dinosaur-china-yasudaminetoshi/",
+          "ozet": "日本作家安田峰俊身兼「记者」和「恐龙迷」两种身份，在新作《恐龙中国》里，钩勒了当代中国古生物学者研究恐龙化石的今昔物语。",
+          "yayin_tarihi": "Sun, 15 Nov 2026 07:12:28 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "许成钢：芯片竞争关系到民主制度自身存亡",
           "kaynak": "www.rfa.org",
@@ -171,25 +187,9 @@
           "ozet": "自由亚洲电台查阅中国政府采购资料发现，被美国列入出口管制实体清单的山东省计算中心（国家超级计算济南中心），今年一项人工智能设备采购案的成交公告中，出现英伟达的RTX 5090显卡及DGX Spark等产品。",
           "yayin_tarihi": "Thu, 12 Nov 2026 18:21:08 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "Acer创办人施振荣  获指派任台湾APEC峰会代表",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/yataibaodao/2026/11/11/apec-acer-founder-taiwan/",
-          "ozet": "台湾总统府周三（11日）宣布，总统赖清德指派宏碁集团创办人、荣誉董事长施振荣，代表台湾出席11月18日至19日在中国深圳举行的亚太经济合作组织（APEC）经济领袖会议。",
-          "yayin_tarihi": "Wed, 11 Nov 2026 09:56:20 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "拆局黄乐芯片交易：钱哪里来？货交给谁？",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shangye/2026/11/11/chinese-female-spy-huang-le-jensen-huang-chips/",
-          "ozet": "中国女商人黄乐利用与英伟达首席执行官黄仁勋的关系，协助关联企业采购高端芯片。自2023年以来，黄乐关联商业网络促成至少75亿美元的英伟达芯片交易，涉及约24万颗H100、H200及A100芯片。",
-          "yayin_tarihi": "Wed, 11 Nov 2026 08:02:51 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-14T13:17:04.882174"
+      "taranma_zamani": "2026-11-15T13:45:29.689612"
     }
   }
 }
