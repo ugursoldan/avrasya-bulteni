@@ -1,24 +1,16 @@
 {
-  "olusturma_tarihi": "2026-11-15",
-  "olusturma_zamani": "2026-11-15T13:45:29.689762",
+  "olusturma_tarihi": "2026-11-16",
+  "olusturma_zamani": "2026-11-16T15:22:57.250472",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "ASELSAN'dan dünyada bir ilk: 51 dron tek tuşla etkisiz hale getirildi",
+          "baslik": "Kimlik ve ehliyetlerde 10 yıl uyarısı",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/savunma/aselsandan-dunyada-bir-ilk-51-dron-tek-tusla-etkisiz-hale-getirildi-963329.html",
-          "ozet": "ASELSAN’ın 51. kuruluş yıl dönümünde EJDERHA Yüksek Güçlü Elektromanyetik (HPEM) İHA savunma sistemi, aynı anda havalanan 51 dronu saniyeler içinde etkisiz hâle getirdi. ASELSAN'ın EJDERHA sistemi 51 dronu bir füze atmadan, bir mühimmat kullanmadan tek tuşla düşürmeyi başaran dünyada ilk sistem oldu.",
-          "yayin_tarihi": "Sun, 15 Nov 2026 11:52:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Cumhurbaşkanı Yardımcısı Yılmaz: 444 bin 987 fon yatırımcısına ödeme yapıldı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmaz-444-bin-987-fon-yatirimcisina-odeme-yapildi-963302.html",
-          "ozet": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, TRT Haber'de gündeme dair açıklamalarda bulundu. Yılmaz, \"Fonların tasfiyesi için devlet bütçesinden tek bir lira kullanılmadı. Bugüne kadar 161 milyar TL ödeme yapıldı, gönüllü iadeler 33,4 milyar TL'ye ulaştı. 444 bin 987 tekil yatırımcıya ödeme yapıldı\" dedi.",
-          "yayin_tarihi": "Sat, 14 Nov 2026 21:00:00 +0300",
+          "url": "https://www.trthaber.com/haber/gundem/kimlik-ve-ehliyetlerde-10-yil-uyarisi-963403.html",
+          "ozet": "Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünün verilerine göre, 2027-2031 döneminde, süresi dolacak 45 milyonu aşkın kimlik kartı ile 13 milyon sürücü belgesinin yenileme işlemleri gerçekleştirilecek. Mağduriyet yaşanmaması için yenileme işlemlerinin süresi dolmadan tamamlanması önem taşıyor.",
+          "yayin_tarihi": "Mon, 16 Nov 2026 11:13:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -44,110 +36,126 @@
           "ozet": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, \"Türkiye, şimdiye kadarki en büyük COP'lardan birine ve şüphesiz bu yılın en büyük BM konferansına ev sahipliği yapıyor. Dünyanın her köşesinden gelen on binlerce insanın enerjisini, coşkusunu ve kararlılığını hissetmek gerçekten olağanüstü\" dedi.",
           "yayin_tarihi": "Fri, 13 Nov 2026 22:27:00 +0300",
           "dil": "Türkçe"
+        },
+        {
+          "baslik": "Türkiye ile Kanada arasında nükleer santral için işbirliği anlaşması",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/ekonomi/turkiye-ile-kanada-arasinda-nukleer-santral-icin-isbirligi-anlasmasi-963021.html",
+          "ozet": "Türkiye Nükleer Enerji AŞ ile Kanada merkezli AtkinsRealis, CANDU reaktör teknolojisiyle kurulabilecek nükleer santral için fizibilite ve ön tasarım mühendisliği anlaşması imzaladı.",
+          "yayin_tarihi": "Thu, 12 Nov 2026 10:07:00 +0300",
+          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-15T13:45:29.689571"
+      "taranma_zamani": "2026-11-16T15:22:57.250215"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "After Decades of Blood and Mistrust, Doubts Over Who’s to Blame for an Israeli Hostage",
+          "baslik": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
-          "ozet": "Israeli spies kidnapped and killed Iranians. They were convinced that Tehran was to blame for a fallen airman. Alternative theories got little attention, until now.",
-          "yayin_tarihi": "Sun, 15 Nov 2026 09:36:59 +0000",
+          "url": "https://www.nytimes.com/2026/11/16/world/europe/iran-dams-missile-sites-environmentalists.html",
+          "ozet": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
+          "yayin_tarihi": "Mon, 16 Nov 2026 10:10:58 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iran Attacks Bahrain for the Second Time in Days",
+          "baslik": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
-          "ozet": "The resumption of attacks after a two-month lull comes as peace talks between the U.S. and Iran appear to have stalled.",
-          "yayin_tarihi": "Sun, 15 Nov 2026 12:07:04 +0000",
+          "url": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
+          "ozet": "The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution.",
+          "yayin_tarihi": "Mon, 16 Nov 2026 14:31:14 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
+          "baslik": "U.N. Starts Uncertain Effort to Regulate Lethal Autonomous Weapons",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
-          "ozet": "Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region.",
-          "yayin_tarihi": "Sun, 15 Nov 2026 05:01:20 +0000",
+          "url": "https://www.nytimes.com/2026/11/16/world/europe/un-killer-robots-autonomous-weapons.html",
+          "ozet": "Delegates met in Geneva to discuss guardrails for such systems even as their development grows. Russia and the United States have resisted the efforts.",
+          "yayin_tarihi": "Mon, 16 Nov 2026 14:47:46 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
+          "baslik": "Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
-          "ozet": "A wave of assaults in Britain and elsewhere in the spring sowed fear across Europe. Prosecutors shed new light on how Iran took aim at U.S. allies.",
-          "yayin_tarihi": "Sat, 14 Nov 2026 19:23:20 +0000",
+          "url": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
+          "ozet": "Even as it talks peace, Russia has opened a bombing campaign intended to strip Kyiv and other cities of heat, running water and sanitation this winter.",
+          "yayin_tarihi": "Mon, 16 Nov 2026 12:50:08 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Ukraine’s Starshield Access Is Being Restricted Again, Zelensky Says",
+          "baslik": "Canada’s Leader, Once a Curiosity at Asia Summits, Is Now a Star",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
-          "ozet": "President Volodymyr Zelensky said the system, which Ukraine uses to guide drones, was being throttled over Russian-occupied territory. SpaceX, its developer, has denied the claim.",
-          "yayin_tarihi": "Sat, 14 Nov 2026 13:57:37 +0000",
+          "url": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
+          "ozet": "Prime Minister Mark Carney is courting Europe, but the bigger payoff might be in China, where he will share summit stages with Xi Jinping, Vladimir Putin and President Trump.",
+          "yayin_tarihi": "Mon, 16 Nov 2026 13:22:53 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-15T13:45:29.689594"
+      "taranma_zamani": "2026-11-16T15:22:57.250258"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Kremlin says discussing European security pointless if Europeans do not want peace",
+          "baslik": "Putin and Xi Jinping to hold Russian-Chinese talks on November 18 — Kremlin aide",
           "kaynak": "tass.com",
-          "url": "https://tass.com/russias-foreign-policy/2218327",
-          "ozet": "Kremlin Spokesman Dmitry Peskov also noted that Russia would have to use force to achieve its goals if there was no prospect of reaching agreements with the Europeans",
-          "yayin_tarihi": "Sun, 15 Nov 2026 15:31:40 +0300",
+          "url": "https://tass.com/politics/2218999",
+          "ozet": "Yury Ushakov noted that the meeting between the leaders of the two countries in Shenzhen would mark their fifth contact since the beginning of this year",
+          "yayin_tarihi": "Mon, 16 Nov 2026 18:17:14 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "All participants in Abu Dhabi talks view them positively — Lavrov",
+          "baslik": "'Ukraine fatigue' growing within UN — Reuters",
           "kaynak": "tass.com",
-          "url": "https://tass.com/russias-foreign-policy/2218325",
-          "ozet": "The Russian Foreign Minister noted that this applies to everyone, with the exception of Volodymyr Zelenskyy",
-          "yayin_tarihi": "Sun, 15 Nov 2026 15:13:06 +0300",
+          "url": "https://tass.com/world/2218993",
+          "ozet": "A source that a number of countries have been restoring their trade and security cooperation with Russia and \"do not want to openly oppose it at the UN\"",
+          "yayin_tarihi": "Mon, 16 Nov 2026 18:14:26 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia will use force if no agreement with Europe is possible — Kremlin",
+          "baslik": "Russia, China hold similar positions on key global issues — Kremlin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/russias-foreign-policy/2218321",
-          "ozet": "According to Kremlin Spokesman, if the EU does not want peace, then discussing a resolution to the Ukrainian conflict and the security architecture of the European Union is pointless",
-          "yayin_tarihi": "Sun, 15 Nov 2026 14:42:43 +0300",
+          "url": "https://tass.com/politics/2218991",
+          "ozet": "The two countries advocate for the formation of a more just and democratic multipolar world order and for ensuring equal and indivisible security",
+          "yayin_tarihi": "Mon, 16 Nov 2026 18:11:03 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia holds substantive talks with US on Ukraine — foreign minister",
+          "baslik": "Bank of Russia purchases yuan worth $182 mln with settlements on November 13",
           "kaynak": "tass.com",
-          "url": "https://tass.com/russias-foreign-policy/2218317",
-          "ozet": "Moscow is taking the situation on the ground into account, Sergey Lavrov noted",
-          "yayin_tarihi": "Sun, 15 Nov 2026 14:17:35 +0300",
+          "url": "https://tass.com/economy/2218979",
+          "ozet": "The regulator purchased yuan on the domestic market with settlements on November 12 in the same amount",
+          "yayin_tarihi": "Mon, 16 Nov 2026 18:10:03 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Europeans do not know what role they could play in Ukraine talks — Lavrov",
+          "baslik": "Russia’s non-resource exports up 7% in nine months to $123.5 bln — ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/russias-foreign-policy/2218315",
-          "ozet": "The Russian Foreign Minister made this statement while appearing on the \"Vesti\" broadcast",
-          "yayin_tarihi": "Sun, 15 Nov 2026 14:11:52 +0300",
+          "url": "https://tass.com/economy/2218987",
+          "ozet": "State Secretary, Deputy Minister of Industry and Trade Roman Chekushov highlighted that export figures were on the rise despite the challenges faced by Russian industrial enterprises and agricultural producers",
+          "yayin_tarihi": "Mon, 16 Nov 2026 18:08:45 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-15T13:45:29.689604"
+      "taranma_zamani": "2026-11-16T15:22:57.250288"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-15T13:45:29.689606"
+      "taranma_zamani": "2026-11-16T15:22:57.250291"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "美中俄元首APEC会晤在即 深圳数百公里空域管制",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/11/16/china-apec-trump-xi-jinping-putin-tariffs-and-trade/",
+          "ozet": "亚太经合组织（APEC）第三十三次领导人非正式会议将于本周三至周四（18日至19日）在深圳举行。美国总统特朗普将在访华行程结束前，与中国国家主席习近平、俄罗斯总统普京举行三方会谈。",
+          "yayin_tarihi": "Mon, 16 Nov 2026 07:27:47 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "西工大购芯片公告消失 两百亿项目生变",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "美联社报道，长居纽约的中国民运人士唐元隽，承认代表中国政府从事间谍活动，并监控在纽约的中国民运人士长达5年。他12日在曼哈顿联邦法院被判3年缓刑。",
           "yayin_tarihi": "Sat, 14 Nov 2026 04:49:42 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "（独家）美国列管的“济南超算中心”  今年仍采购英伟达AI产品　",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/yataibaodao/2026/11/12/nvidia-products-sold-to-sanctioned-entities-in-china/",
-          "ozet": "自由亚洲电台查阅中国政府采购资料发现，被美国列入出口管制实体清单的山东省计算中心（国家超级计算济南中心），今年一项人工智能设备采购案的成交公告中，出现英伟达的RTX 5090显卡及DGX Spark等产品。",
-          "yayin_tarihi": "Thu, 12 Nov 2026 18:21:08 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-15T13:45:29.689612"
+      "taranma_zamani": "2026-11-16T15:22:57.250296"
     }
   }
 }
