@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-11-16",
-  "olusturma_zamani": "2026-11-16T15:22:57.250472",
+  "olusturma_tarihi": "2026-11-17",
+  "olusturma_zamani": "2026-11-17T15:46:46.805235",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Devlet Bahçeli: Dengeli bir dış politika yürütmek durumundayız",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/devlet-bahceli-dengeli-bir-dis-politika-yurutmek-durumundayiz-963537.html",
+          "ozet": "MHP Genel Başkanı Devlet Bahçeli, \"Biz Türkiye olarak Ortadoğu, Kafkasya ve Doğu Avrupa üçgenindeki konumumuzla dünyadaki jeopolitiğimizle küresel krizlerin merkezinde dengeli bir dış politika yürütmek durumundayız\" dedi.",
+          "yayin_tarihi": "Tue, 17 Nov 2026 11:44:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Meteoroloji, İstanbul ve 12 ili kuvvetli yağışa karşı uyardı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/meteoroloji-istanbul-ve-12-ili-kuvvetli-yagisa-karsi-uyardi-963491.html",
+          "ozet": "Meteoroloji, aralarında İstanbul'un da olduğu 13 il için kuvvetli yağış nedeniyle \"sarı\" kodlu uyarı yayımladı. Yağışlı havanın hafta ortasına kadar etkisini sürdürmesi, çarşamba günü bazı bölgelerde rüzgarın saatte 70 kilometreye ulaşması bekleniyor.",
+          "yayin_tarihi": "Tue, 17 Nov 2026 08:03:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Kimlik ve ehliyetlerde 10 yıl uyarısı",
           "kaynak": "www.trthaber.com",
@@ -28,126 +44,134 @@
           "ozet": "Ticari araçlarda zorunlu kış lastiği uygulaması yarın başlıyor. Özel otomobiller için ise yasal zorunluluk olmasa da kış lastiği kullanımı öneriliyor.",
           "yayin_tarihi": "Sat, 14 Nov 2026 09:05:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "BM Genel Sekreteri Guterres Türkiye'ye ev sahipliği ve misafirperverliği için teşekkür etti",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/bm-genel-sekreteri-guterres-turkiyeye-ev-sahipligi-ve-misafirperverligi-icin-tesekkur-etti-963224.html",
-          "ozet": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, \"Türkiye, şimdiye kadarki en büyük COP'lardan birine ve şüphesiz bu yılın en büyük BM konferansına ev sahipliği yapıyor. Dünyanın her köşesinden gelen on binlerce insanın enerjisini, coşkusunu ve kararlılığını hissetmek gerçekten olağanüstü\" dedi.",
-          "yayin_tarihi": "Fri, 13 Nov 2026 22:27:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Türkiye ile Kanada arasında nükleer santral için işbirliği anlaşması",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/ekonomi/turkiye-ile-kanada-arasinda-nukleer-santral-icin-isbirligi-anlasmasi-963021.html",
-          "ozet": "Türkiye Nükleer Enerji AŞ ile Kanada merkezli AtkinsRealis, CANDU reaktör teknolojisiyle kurulabilecek nükleer santral için fizibilite ve ön tasarım mühendisliği anlaşması imzaladı.",
-          "yayin_tarihi": "Thu, 12 Nov 2026 10:07:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-16T15:22:57.250215"
+      "taranma_zamani": "2026-11-17T15:46:46.805002"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
+          "baslik": "Live Updates: Trump’s Whirlwind Asia Trip Begins in the Philippines",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/16/world/europe/iran-dams-missile-sites-environmentalists.html",
-          "ozet": "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.",
-          "yayin_tarihi": "Mon, 16 Nov 2026 10:10:58 +0000",
+          "url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
+          "ozet": "President Trump’s 48-hour trip will start with a meeting with Southeast Asian leaders in Manila. He will later meet Xi Jinping of China and Vladimir Putin of Russia in Shenzhen, a Chinese economic hub.",
+          "yayin_tarihi": "Tue, 17 Nov 2026 15:41:10 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
+          "baslik": "Tracking China’s War of Words Against Japan",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
-          "ozet": "The defendants were accused of colluding with Iran. Rights groups said the case was marred by torture allegations and raised concerns about religious persecution.",
-          "yayin_tarihi": "Mon, 16 Nov 2026 14:31:14 +0000",
+          "url": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
+          "ozet": "Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.",
+          "yayin_tarihi": "Tue, 17 Nov 2026 15:02:05 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "U.N. Starts Uncertain Effort to Regulate Lethal Autonomous Weapons",
+          "baslik": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/16/world/europe/un-killer-robots-autonomous-weapons.html",
-          "ozet": "Delegates met in Geneva to discuss guardrails for such systems even as their development grows. Russia and the United States have resisted the efforts.",
-          "yayin_tarihi": "Mon, 16 Nov 2026 14:47:46 +0000",
+          "url": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
+          "ozet": "Destroying the structure, the only one connecting Russia to the occupied Crimean Peninsula, has long been a top objective for Kyiv.",
+          "yayin_tarihi": "Tue, 17 Nov 2026 15:37:57 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly",
+          "baslik": "Carney and Xi Announce Canada-China Trade Pact",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
-          "ozet": "Even as it talks peace, Russia has opened a bombing campaign intended to strip Kyiv and other cities of heat, running water and sanitation this winter.",
-          "yayin_tarihi": "Mon, 16 Nov 2026 12:50:08 +0000",
+          "url": "https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html",
+          "ozet": "The agreement between Canada and China and the cordial relations on display by their leaders contrast with the current Canada-U.S. relationship.",
+          "yayin_tarihi": "Tue, 17 Nov 2026 09:46:43 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Canada’s Leader, Once a Curiosity at Asia Summits, Is Now a Star",
+          "baslik": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
-          "ozet": "Prime Minister Mark Carney is courting Europe, but the bigger payoff might be in China, where he will share summit stages with Xi Jinping, Vladimir Putin and President Trump.",
-          "yayin_tarihi": "Mon, 16 Nov 2026 13:22:53 +0000",
+          "url": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
+          "ozet": "“As you know we have a large Russian Oligarchs client population,” an analyst wrote as the bank braced for sanctions against wealthy clients.",
+          "yayin_tarihi": "Tue, 17 Nov 2026 06:00:12 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-16T15:22:57.250258"
+      "taranma_zamani": "2026-11-17T15:46:46.805033"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Putin and Xi Jinping to hold Russian-Chinese talks on November 18 — Kremlin aide",
+          "baslik": "Biden admits Russia's exclusion from G8 made it difficult to have dialogue with Moscow",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2218999",
-          "ozet": "Yury Ushakov noted that the meeting between the leaders of the two countries in Shenzhen would mark their fifth contact since the beginning of this year",
-          "yayin_tarihi": "Mon, 16 Nov 2026 18:17:14 +0300",
+          "url": "https://tass.com/world/2219833",
+          "ozet": "Russia has been a G8 member since 1997",
+          "yayin_tarihi": "Tue, 17 Nov 2026 18:31:20 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "'Ukraine fatigue' growing within UN — Reuters",
+          "baslik": "Ukrainian army strikes kill 64 Russian residents, including a child over week — envoy",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2218993",
-          "ozet": "A source that a number of countries have been restoring their trade and security cooperation with Russia and \"do not want to openly oppose it at the UN\"",
-          "yayin_tarihi": "Mon, 16 Nov 2026 18:14:26 +0300",
+          "url": "https://tass.com/politics/2219831",
+          "ozet": "According to Russian Foreign Ministry Ambassador-at-Large Rodion Miroshnik, 293 civilians, or 97% of those hurt, suffered wounds from attacks by Ukrainian drones",
+          "yayin_tarihi": "Tue, 17 Nov 2026 18:30:02 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia, China hold similar positions on key global issues — Kremlin",
+          "baslik": "Over 1.2 mln Russian tourists visit Vietnam in January-October 2026",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2218991",
-          "ozet": "The two countries advocate for the formation of a more just and democratic multipolar world order and for ensuring equal and indivisible security",
-          "yayin_tarihi": "Mon, 16 Nov 2026 18:11:03 +0300",
+          "url": "https://tass.com/economy/2219829",
+          "ozet": "There are 39 flights operated by the Russian side and 31 flights performed by the Vietnamese side between the two countries",
+          "yayin_tarihi": "Tue, 17 Nov 2026 18:28:08 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Bank of Russia purchases yuan worth $182 mln with settlements on November 13",
+          "baslik": "Third tanker over Tuesday struck mine in Hormuz — Iranian Navy",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2218979",
-          "ozet": "The regulator purchased yuan on the domestic market with settlements on November 12 in the same amount",
-          "yayin_tarihi": "Mon, 16 Nov 2026 18:10:03 +0300",
+          "url": "https://tass.com/world/2219815",
+          "ozet": "The tanker caught fire and lost propulsion in the eastern part of the strait",
+          "yayin_tarihi": "Tue, 17 Nov 2026 18:09:04 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia’s non-resource exports up 7% in nine months to $123.5 bln — ministry",
+          "baslik": "Biden acknowledges Russia’s legitimate concern about NATO’s expansion",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2218987",
-          "ozet": "State Secretary, Deputy Minister of Industry and Trade Roman Chekushov highlighted that export figures were on the rise despite the challenges faced by Russian industrial enterprises and agricultural producers",
-          "yayin_tarihi": "Mon, 16 Nov 2026 18:08:45 +0300",
+          "url": "https://tass.com/world/2219813",
+          "ozet": "The former US President noted that the United States \"had not been making many friends in the world\" at that period because of the war in Iraq",
+          "yayin_tarihi": "Tue, 17 Nov 2026 18:07:27 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-16T15:22:57.250288"
+      "taranma_zamani": "2026-11-17T15:46:46.805063"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-16T15:22:57.250291"
+      "taranma_zamani": "2026-11-17T15:46:46.805065"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "俄国军机犯日本领空  再穿越韩、台防空识别区",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/yataibaodao/2026/11/17/apec-taiwan-japan-russian-aircraft-putin-china/",
+          "ozet": "两架俄罗斯军机周二（11月17日）清晨先后进入韩国及日本周边空域，其后由台湾东北方向进入防空识别区，沿台湾东部外海南下。日本认定有关飞机侵犯领空，紧急出动战机并向莫斯科提出抗议；台湾军方则称全程掌握动态。",
+          "yayin_tarihi": "Tue, 17 Nov 2026 09:23:51 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "美国收紧算力管制 DeepSeek限额使用",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/shangye/2026/11/17/china-artificial-intelligence-us-restrictions-on-china-southeast-asia-and-data-centers/",
+          "ozet": "在美国收紧对华海外算力管制之际，中国人工智能企业DeepSeek近日出现限制用户使用的现象。部分用户本周在网上发布的留言和截图显示，平台以“算力不足”为由限制用户继续使用长期闲置的对话，并调整单次输入文字上限及每日使用额度。",
+          "yayin_tarihi": "Tue, 17 Nov 2026 07:10:30 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "特朗普：或在中国见金正恩 但取决于习近平 ",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/16/trump-kim-jong-un-possible-china-meeting/",
+          "ozet": "11月16日，特朗普表示可能在中国与金正恩会面。不过，白宫尚未对此予以确认，中朝双方也未表态。",
+          "yayin_tarihi": "Mon, 16 Nov 2026 20:13:42 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "美中俄元首APEC会晤在即 深圳数百公里空域管制",
           "kaynak": "www.rfa.org",
@@ -163,33 +187,9 @@
           "ozet": "中国涉及受美国出口管制的英伟达芯片的算力项目及设备协议，合计金额超过230亿元人民币。部分项目已签订建设合同，但路透社尚无法确认相关芯片是否到货。一旦供应中断，相关项目可能延期，成本也将增加。",
           "yayin_tarihi": "Sun, 15 Nov 2026 07:17:49 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "周末读书 / 安田峰俊： “恐龙研究，是中国少数仍然’正常’的领域”",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/wenhua/2026/11/15/dinosaur-china-yasudaminetoshi/",
-          "ozet": "日本作家安田峰俊身兼「记者」和「恐龙迷」两种身份，在新作《恐龙中国》里，钩勒了当代中国古生物学者研究恐龙化石的今昔物语。",
-          "yayin_tarihi": "Sun, 15 Nov 2026 07:12:28 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "许成钢：芯片竞争关系到民主制度自身存亡",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/14/nvidia-alicehuang-huawei-deepseek-chenggangxu/",
-          "ozet": "美国财经媒体CNBC报道，与英伟达（NVIDIA）联合创始人黄仁勋过从甚密的黄乐（Alice Huang）透过其商业关系网络，与多家涉及华为业务的企业存在联系。而华为正是英伟达在中国最大的竞争对手。",
-          "yayin_tarihi": "Sat, 14 Nov 2026 10:24:22 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "为北京从事间谍活动 旅美民运人士唐元隽认罪获缓刑",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/14/chinese-dissident-yuanjuntang-spy-three-years-probation/",
-          "ozet": "美联社报道，长居纽约的中国民运人士唐元隽，承认代表中国政府从事间谍活动，并监控在纽约的中国民运人士长达5年。他12日在曼哈顿联邦法院被判3年缓刑。",
-          "yayin_tarihi": "Sat, 14 Nov 2026 04:49:42 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-16T15:22:57.250296"
+      "taranma_zamani": "2026-11-17T15:46:46.805073"
     }
   }
 }
