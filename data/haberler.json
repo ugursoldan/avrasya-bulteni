@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-11-17",
-  "olusturma_zamani": "2026-11-17T15:46:46.805235",
+  "olusturma_tarihi": "2026-11-18",
+  "olusturma_zamani": "2026-11-18T15:26:50.951976",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Yılın kelimesi halk oylaması ile belirlenecek",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/kultur-sanat/yilin-kelimesi-halk-oylamasi-ile-belirlenecek-963676.html",
+          "ozet": "Türk Dil Kurumu (TDK), Ankara Üniversitesi İletişim Araştırmaları ve Uygulama Merkezi (İLAUM) işbirliğiyle \"2026 Yılının Kelimesi/Kavramı\"nı belirlemek için öneri sürecini başlattı.",
+          "yayin_tarihi": "Wed, 18 Nov 2026 12:27:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Meteorolojiden 12 ile sarı kodlu uyarı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/meteorolojiden-12-ile-sari-kodlu-uyari-963634.html",
+          "ozet": "Yurt genelinde bugün sağanak yağış ve kuvvetli rüzgar bekleniyor. Meteoroloji 12 il için sarı kodlu uyarı yaptı. Marmara’da fırtına, Hatay, Kahramanmaraş ve Osmaniye’de kuvvetli yağış bekleniyor. Doğu Karadeniz’in iç kesimleri ile Doğu Anadolu’da karla karışık yağmur ve kar yağışı tahmin ediliyor.",
+          "yayin_tarihi": "Wed, 18 Nov 2026 08:06:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Devlet Bahçeli: Dengeli bir dış politika yürütmek durumundayız",
           "kaynak": "www.trthaber.com",
@@ -28,126 +44,142 @@
           "ozet": "Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünün verilerine göre, 2027-2031 döneminde, süresi dolacak 45 milyonu aşkın kimlik kartı ile 13 milyon sürücü belgesinin yenileme işlemleri gerçekleştirilecek. Mağduriyet yaşanmaması için yenileme işlemlerinin süresi dolmadan tamamlanması önem taşıyor.",
           "yayin_tarihi": "Mon, 16 Nov 2026 11:13:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "11 il için sarı uyarı: Sağanak ve fırtınaya dikkat",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/11-il-icin-sari-uyari-saganak-ve-firtinaya-dikkat-963237.html",
-          "ozet": "Marmara'da beklenen kuvvetli rüzgar ve sağanak nedeniyle 11 il için \"sarı\" kodlu uyarıda bulunuldu.",
-          "yayin_tarihi": "Sat, 14 Nov 2026 08:54:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Zorunlu kış lastiği uygulaması yarın başlıyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/ekonomi/zorunlu-kis-lastigi-uygulamasi-yarin-basliyor-963238.html",
-          "ozet": "Ticari araçlarda zorunlu kış lastiği uygulaması yarın başlıyor. Özel otomobiller için ise yasal zorunluluk olmasa da kış lastiği kullanımı öneriliyor.",
-          "yayin_tarihi": "Sat, 14 Nov 2026 09:05:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-17T15:46:46.805002"
+      "taranma_zamani": "2026-11-18T15:26:50.951846"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Live Updates: Trump’s Whirlwind Asia Trip Begins in the Philippines",
+          "baslik": "Live Updates: Trump, Xi and Putin Shake Hands as Leaders Gather in China",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
-          "ozet": "President Trump’s 48-hour trip will start with a meeting with Southeast Asian leaders in Manila. He will later meet Xi Jinping of China and Vladimir Putin of Russia in Shenzhen, a Chinese economic hub.",
-          "yayin_tarihi": "Tue, 17 Nov 2026 15:41:10 +0000",
+          "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
+          "ozet": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia.",
+          "yayin_tarihi": "Wed, 18 Nov 2026 15:22:18 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Tracking China’s War of Words Against Japan",
+          "baslik": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
-          "ozet": "Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis.",
-          "yayin_tarihi": "Tue, 17 Nov 2026 15:02:05 +0000",
+          "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
+          "ozet": "Kuwait and Bahrain said they were targeted on Wednesday, a sign of how the Middle East is stuck in limbo between peace and full-blown war.",
+          "yayin_tarihi": "Wed, 18 Nov 2026 14:01:32 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
+          "baslik": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
-          "ozet": "Destroying the structure, the only one connecting Russia to the occupied Crimean Peninsula, has long been a top objective for Kyiv.",
-          "yayin_tarihi": "Tue, 17 Nov 2026 15:37:57 +0000",
+          "url": "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html",
+          "ozet": "The bilateral meeting between the neighbors follows trade gains for Canada’s prime minister this week with China and the Philippines.",
+          "yayin_tarihi": "Wed, 18 Nov 2026 15:22:16 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Carney and Xi Announce Canada-China Trade Pact",
+          "baslik": "Leaders of China and Japan Meet Amid Political Feud",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html",
-          "ozet": "The agreement between Canada and China and the cordial relations on display by their leaders contrast with the current Canada-U.S. relationship.",
-          "yayin_tarihi": "Tue, 17 Nov 2026 09:46:43 +0000",
+          "url": "https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html",
+          "ozet": "Xi Jinping, China’s leader, greeted Sanae Takaichi, Japan’s prime minister, in Shenzhen a year after China began punishing Japan over her comments on Taiwan.",
+          "yayin_tarihi": "Wed, 18 Nov 2026 13:46:45 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
+          "baslik": "These Villagers Wonder if They’re on the Front Line of Russia’s Shadow War",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
-          "ozet": "“As you know we have a large Russian Oligarchs client population,” an analyst wrote as the bank braced for sanctions against wealthy clients.",
-          "yayin_tarihi": "Tue, 17 Nov 2026 06:00:12 +0000",
+          "url": "https://www.nytimes.com/2026/11/18/world/europe/liepzig-airport-drone-attack-russia-ukraine-war.html",
+          "ozet": "Russia is accused of clandestine attacks on Ukraine’s allies in Europe, most notably at Leipzig/Halle airport in eastern Germany. That has changed life for villagers nearby.",
+          "yayin_tarihi": "Wed, 18 Nov 2026 05:01:06 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-17T15:46:46.805033"
+      "taranma_zamani": "2026-11-18T15:26:50.951869"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Biden admits Russia's exclusion from G8 made it difficult to have dialogue with Moscow",
+          "baslik": "Russian football team excluded from 2028 UEFA Cup Draw",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2219833",
-          "ozet": "Russia has been a G8 member since 1997",
-          "yayin_tarihi": "Tue, 17 Nov 2026 18:31:20 +0300",
+          "url": "https://tass.com/sports/2220627",
+          "ozet": "The qualifying group stage draw for the 2028 UEFA Cup is set to take place on December 6, 2026 in Belfast, Northern Ireland",
+          "yayin_tarihi": "Wed, 18 Nov 2026 18:11:33 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ukrainian army strikes kill 64 Russian residents, including a child over week — envoy",
+          "baslik": "Czech initiative provides Ukraine with more than 60% of its artillery shells — radio",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2219831",
-          "ozet": "According to Russian Foreign Ministry Ambassador-at-Large Rodion Miroshnik, 293 civilians, or 97% of those hurt, suffered wounds from attacks by Ukrainian drones",
-          "yayin_tarihi": "Tue, 17 Nov 2026 18:30:02 +0300",
+          "url": "https://tass.com/world/2220611",
+          "ozet": "Prague acts as the coordinator and logistical intermediary in this project",
+          "yayin_tarihi": "Wed, 18 Nov 2026 18:08:15 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Over 1.2 mln Russian tourists visit Vietnam in January-October 2026",
+          "baslik": "IAEA chief says UN should play role in resolving Ukraine conflict",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2219829",
-          "ozet": "There are 39 flights operated by the Russian side and 31 flights performed by the Vietnamese side between the two countries",
-          "yayin_tarihi": "Tue, 17 Nov 2026 18:28:08 +0300",
+          "url": "https://tass.com/world/2220609",
+          "ozet": "Rafael Grossi stressed the IAEA's cooperation with Russia, Ukraine and Iran, as well as its work on other regional issues, demonstrated that engagement through multilateral mechanisms can \"play a useful role in the solution of conflicts\"",
+          "yayin_tarihi": "Wed, 18 Nov 2026 18:06:48 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Third tanker over Tuesday struck mine in Hormuz — Iranian Navy",
+          "baslik": "Putin’s objectives for increasing trade with Africa entirely achievable for Russia — MFA",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2219815",
-          "ozet": "The tanker caught fire and lost propulsion in the eastern part of the strait",
-          "yayin_tarihi": "Tue, 17 Nov 2026 18:09:04 +0300",
+          "url": "https://tass.com/politics/2220599",
+          "ozet": "Russian Deputy Foreign Minister Georgy Borisenko noted that trade and economic cooperation did not yet correspond to the potential and the level of relations between Russia and African countries",
+          "yayin_tarihi": "Wed, 18 Nov 2026 17:57:15 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Biden acknowledges Russia’s legitimate concern about NATO’s expansion",
+          "baslik": "Dialogue between Russia, US, China needed for global South's economic viability — expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2219813",
-          "ozet": "The former US President noted that the United States \"had not been making many friends in the world\" at that period because of the war in Iraq",
-          "yayin_tarihi": "Tue, 17 Nov 2026 18:07:27 +0300",
+          "url": "https://tass.com/world/2220595",
+          "ozet": "Director of the Center for Asian Studies and Translation in Egypt Ahmed Mustafa believes that even limited strategic stability agreements can improve the conditions for attracting investments to developing countries",
+          "yayin_tarihi": "Wed, 18 Nov 2026 17:54:06 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-17T15:46:46.805063"
+      "taranma_zamani": "2026-11-18T15:26:50.951891"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-17T15:46:46.805065"
+      "taranma_zamani": "2026-11-18T15:26:50.951893"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "八炯、闽南狼遭跟监案3人被起诉 国安人士：征信外包难追幕后委托方",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/yataibaodao/2026/11/18/taiwan-private-investigators-work-for-china-on-transnational-repression/",
+          "ozet": "台湾新北地检署周二依违反《个人资料保护法》罪嫌，起诉曾先后在一统、国华征信社担任业务经理的王秉宏，以及吴姓、刘姓两名外务人员。检方指控，王秉宏受中方委托，派人跟监台湾网红闽南狼和八炯，并将两人及家属的个资交给中国公安官员。",
+          "yayin_tarihi": "Wed, 18 Nov 2026 12:04:08 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "特朗普抵达深圳 习近平亲赴机场接机",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/18/trump-xijinping-apec-stanshih/",
+          "ozet": "美国总统特朗普于18号傍晚当地时间5点04分搭乘空军一号抵达深圳宝安国际机场，中国国家主席习近平亲自到机场接机。大批群众挥舞鲜花和旗帜，用普通话高呼“热烈欢迎”。",
+          "yayin_tarihi": "Wed, 18 Nov 2026 12:00:57 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "美中俄元首首度会晤 核军控分歧待解",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/11/18/us-china-relations-apec-trump-xi-jinping-putin-nuclear-arms-control/",
+          "ozet": "美国总统特朗普、中国国家主席习近平与俄罗斯总统普京将于本周四（19日）在深圳麒麟山庄举行首次三方会晤。特朗普希望推动核军控对话，中方则强调维护世界和平与大国关系战略稳定。三国能否在核军控分歧下建立持续磋商安排，成为此次会谈的看点。",
+          "yayin_tarihi": "Wed, 18 Nov 2026 06:50:30 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "美中元首会晤前夕 专家解读美AI管制新规及美中博弈",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/2026/11/18/us-bis-ai-computing-restrictions-china/",
+          "ozet": "美国商务部（BIS）11月16日发布新规，限制中国企业通过海外数据中心获取美国先进AI算力，拟于19日生效。中方表示反对。美中元首会晤前夕，专家保罗·特里奥洛表示，多项限制措施叠加恐引发新一轮相互反制，冲击全球供应链。",
+          "yayin_tarihi": "Wed, 18 Nov 2026 02:15:39 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "俄国军机犯日本领空  再穿越韩、台防空识别区",
           "kaynak": "www.rfa.org",
@@ -155,41 +187,9 @@
           "ozet": "两架俄罗斯军机周二（11月17日）清晨先后进入韩国及日本周边空域，其后由台湾东北方向进入防空识别区，沿台湾东部外海南下。日本认定有关飞机侵犯领空，紧急出动战机并向莫斯科提出抗议；台湾军方则称全程掌握动态。",
           "yayin_tarihi": "Tue, 17 Nov 2026 09:23:51 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "美国收紧算力管制 DeepSeek限额使用",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shangye/2026/11/17/china-artificial-intelligence-us-restrictions-on-china-southeast-asia-and-data-centers/",
-          "ozet": "在美国收紧对华海外算力管制之际，中国人工智能企业DeepSeek近日出现限制用户使用的现象。部分用户本周在网上发布的留言和截图显示，平台以“算力不足”为由限制用户继续使用长期闲置的对话，并调整单次输入文字上限及每日使用额度。",
-          "yayin_tarihi": "Tue, 17 Nov 2026 07:10:30 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "特朗普：或在中国见金正恩 但取决于习近平 ",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/16/trump-kim-jong-un-possible-china-meeting/",
-          "ozet": "11月16日，特朗普表示可能在中国与金正恩会面。不过，白宫尚未对此予以确认，中朝双方也未表态。",
-          "yayin_tarihi": "Mon, 16 Nov 2026 20:13:42 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "美中俄元首APEC会晤在即 深圳数百公里空域管制",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/11/16/china-apec-trump-xi-jinping-putin-tariffs-and-trade/",
-          "ozet": "亚太经合组织（APEC）第三十三次领导人非正式会议将于本周三至周四（18日至19日）在深圳举行。美国总统特朗普将在访华行程结束前，与中国国家主席习近平、俄罗斯总统普京举行三方会谈。",
-          "yayin_tarihi": "Mon, 16 Nov 2026 07:27:47 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "西工大购芯片公告消失 两百亿项目生变",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/shangye/jingji/2026/11/15/china-nvidia-jensen-huang-chips-large-scale-data-models/",
-          "ozet": "中国涉及受美国出口管制的英伟达芯片的算力项目及设备协议，合计金额超过230亿元人民币。部分项目已签订建设合同，但路透社尚无法确认相关芯片是否到货。一旦供应中断，相关项目可能延期，成本也将增加。",
-          "yayin_tarihi": "Sun, 15 Nov 2026 07:17:49 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-17T15:46:46.805073"
+      "taranma_zamani": "2026-11-18T15:26:50.951901"
     }
   }
 }
