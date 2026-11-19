@@ -1,10 +1,42 @@
 {
-  "olusturma_tarihi": "2026-11-18",
-  "olusturma_zamani": "2026-11-18T15:26:50.951976",
+  "olusturma_tarihi": "2026-11-19",
+  "olusturma_zamani": "2026-11-19T15:31:59.137619",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "ÇinABDRusya'dan ortak Barış Deklarasyonu",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/cin-abd-rusyadan-ortak-baris-deklarasyonu-963818.html",
+          "ozet": "Kremlin, Rusya Devlet Başkanı Vladimir Putin, Çin Devlet Başkanı Şi Cinping ve ABD Başkanı Donald Trump'ın görüşmesinde kabul edilen Barış Deklarasyonu'nun tam metnini yayımladı. Bildiride enerji güvenliği, BM reformu ve nükleer risklerin azaltılması öne çıktı.",
+          "yayin_tarihi": "Thu, 19 Nov 2026 13:59:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Oruç Reis gemisi Pakistan'da göreve başlıyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/ekonomi/oruc-reis-gemisi-pakistanda-goreve-basliyor-963816.html",
+          "ozet": "Türkiye'nin sismik araştırma gemisi Oruç Reis, Somali'de gerçekleştirdiği ilk kıtalar arası görevin ardından yeni görevi için Pakistan'a ulaştı. İki ayrı noktada çalışacak Oruç Reis, 670 kilometrekarelik alanda üç boyutlu, 2 bin 353 kilometrelik alanda iki boyutlu sismik veri toplayacak.",
+          "yayin_tarihi": "Thu, 19 Nov 2026 13:49:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Çin, ABD ve Rusya liderleri üçlü zirvede bir araya geldi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/cin-abd-ve-rusya-liderleri-uclu-zirvede-bir-araya-geldi-963802.html",
+          "ozet": "Çin Devlet Başkanı Şi Cinping, ABD Başkanı Donald Trump ve Rusya Devlet Başkanı Vladimir Putin, Şıncın kentinde düzenlenen Asya-Pasifik Ekonomik İşbirliği (APEC) Zirvesi marjında üçlü toplantıda bir araya geldi.",
+          "yayin_tarihi": "Thu, 19 Nov 2026 12:00:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Meteorolojiden 32 il için kuvvetli yağış ve rüzgar uyarısı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/meteorolojiden-32-il-icin-kuvvetli-yagis-ve-ruzgar-uyarisi-963760.html",
+          "ozet": "Yurt genelinde bugün kuvvetli rüzgar ve sağanak bekleniyor. Meteoroloji 32 il için sarı kodlu uyarı yaptı. Yetkililer ulaşımda aksamalar, çatı uçması, baca gazı zehirlenmesi, ağaç ve direklerin devrilmesi gibi olumsuzluklara karşı dikkatli ve tedbirli olunması konusunda vatandaşları uyardı.",
+          "yayin_tarihi": "Thu, 19 Nov 2026 08:19:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Yılın kelimesi halk oylaması ile belirlenecek",
           "kaynak": "www.trthaber.com",
@@ -12,142 +44,118 @@
           "ozet": "Türk Dil Kurumu (TDK), Ankara Üniversitesi İletişim Araştırmaları ve Uygulama Merkezi (İLAUM) işbirliğiyle \"2026 Yılının Kelimesi/Kavramı\"nı belirlemek için öneri sürecini başlattı.",
           "yayin_tarihi": "Wed, 18 Nov 2026 12:27:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Meteorolojiden 12 ile sarı kodlu uyarı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/meteorolojiden-12-ile-sari-kodlu-uyari-963634.html",
-          "ozet": "Yurt genelinde bugün sağanak yağış ve kuvvetli rüzgar bekleniyor. Meteoroloji 12 il için sarı kodlu uyarı yaptı. Marmara’da fırtına, Hatay, Kahramanmaraş ve Osmaniye’de kuvvetli yağış bekleniyor. Doğu Karadeniz’in iç kesimleri ile Doğu Anadolu’da karla karışık yağmur ve kar yağışı tahmin ediliyor.",
-          "yayin_tarihi": "Wed, 18 Nov 2026 08:06:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Devlet Bahçeli: Dengeli bir dış politika yürütmek durumundayız",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/devlet-bahceli-dengeli-bir-dis-politika-yurutmek-durumundayiz-963537.html",
-          "ozet": "MHP Genel Başkanı Devlet Bahçeli, \"Biz Türkiye olarak Ortadoğu, Kafkasya ve Doğu Avrupa üçgenindeki konumumuzla dünyadaki jeopolitiğimizle küresel krizlerin merkezinde dengeli bir dış politika yürütmek durumundayız\" dedi.",
-          "yayin_tarihi": "Tue, 17 Nov 2026 11:44:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Meteoroloji, İstanbul ve 12 ili kuvvetli yağışa karşı uyardı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/meteoroloji-istanbul-ve-12-ili-kuvvetli-yagisa-karsi-uyardi-963491.html",
-          "ozet": "Meteoroloji, aralarında İstanbul'un da olduğu 13 il için kuvvetli yağış nedeniyle \"sarı\" kodlu uyarı yayımladı. Yağışlı havanın hafta ortasına kadar etkisini sürdürmesi, çarşamba günü bazı bölgelerde rüzgarın saatte 70 kilometreye ulaşması bekleniyor.",
-          "yayin_tarihi": "Tue, 17 Nov 2026 08:03:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Kimlik ve ehliyetlerde 10 yıl uyarısı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/kimlik-ve-ehliyetlerde-10-yil-uyarisi-963403.html",
-          "ozet": "Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünün verilerine göre, 2027-2031 döneminde, süresi dolacak 45 milyonu aşkın kimlik kartı ile 13 milyon sürücü belgesinin yenileme işlemleri gerçekleştirilecek. Mağduriyet yaşanmaması için yenileme işlemlerinin süresi dolmadan tamamlanması önem taşıyor.",
-          "yayin_tarihi": "Mon, 16 Nov 2026 11:13:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-18T15:26:50.951846"
+      "taranma_zamani": "2026-11-19T15:31:59.137340"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Live Updates: Trump, Xi and Putin Shake Hands as Leaders Gather in China",
+          "baslik": "Live Updates: Trump, Xi and Putin Seek to Project Power at Their First Summit",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
-          "ozet": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia.",
-          "yayin_tarihi": "Wed, 18 Nov 2026 15:22:18 +0000",
+          "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
+          "ozet": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.",
+          "yayin_tarihi": "Thu, 19 Nov 2026 15:27:00 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
+          "baslik": "Behind Trump Meeting, Xi and Putin Share a Vision of Usurping U.S. Power",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
-          "ozet": "Kuwait and Bahrain said they were targeted on Wednesday, a sign of how the Middle East is stuck in limbo between peace and full-blown war.",
-          "yayin_tarihi": "Wed, 18 Nov 2026 14:01:32 +0000",
+          "url": "https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html",
+          "ozet": "President Trump joined the Chinese and Russian leaders for a summit in Shenzhen, even though the two autocrats are trying to reverse America’s victory in the Cold War.",
+          "yayin_tarihi": "Thu, 19 Nov 2026 12:41:50 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit",
+          "baslik": "Putin, Trump and Xi Condemn Nuclear War as Europe Watches Closely",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html",
-          "ozet": "The bilateral meeting between the neighbors follows trade gains for Canada’s prime minister this week with China and the Philippines.",
-          "yayin_tarihi": "Wed, 18 Nov 2026 15:22:16 +0000",
+          "url": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
+          "ozet": "After their summit, the leaders of Russia, the United States and China agreed that “a nuclear war cannot be won and must never be fought.” Some analysts are skeptical that real change will result.",
+          "yayin_tarihi": "Thu, 19 Nov 2026 14:23:07 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Leaders of China and Japan Meet Amid Political Feud",
+          "baslik": "China Bars Bloomberg Reporter From Trilateral Talks for Asking a Question",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html",
-          "ozet": "Xi Jinping, China’s leader, greeted Sanae Takaichi, Japan’s prime minister, in Shenzhen a year after China began punishing Japan over her comments on Taiwan.",
-          "yayin_tarihi": "Wed, 18 Nov 2026 13:46:45 +0000",
+          "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-summit-china-media-bloomberg-reporter-nvidia.html",
+          "ozet": "The exclusion of the reporter after she shouted a question to President Trump is an example of how tightly China tries to stage-manage events.",
+          "yayin_tarihi": "Thu, 19 Nov 2026 12:08:19 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "These Villagers Wonder if They’re on the Front Line of Russia’s Shadow War",
+          "baslik": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/18/world/europe/liepzig-airport-drone-attack-russia-ukraine-war.html",
-          "ozet": "Russia is accused of clandestine attacks on Ukraine’s allies in Europe, most notably at Leipzig/Halle airport in eastern Germany. That has changed life for villagers nearby.",
-          "yayin_tarihi": "Wed, 18 Nov 2026 05:01:06 +0000",
+          "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
+          "ozet": "A record number of people are attending the U.N. climate talks in Turkey, which has become part trade show, part carnival, part climate therapy session.",
+          "yayin_tarihi": "Thu, 19 Nov 2026 10:02:50 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-18T15:26:50.951869"
+      "taranma_zamani": "2026-11-19T15:31:59.137361"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russian football team excluded from 2028 UEFA Cup Draw",
+          "baslik": "Russian envoy describes Ukrainian attacks on Crimean Bridge as PR play",
           "kaynak": "tass.com",
-          "url": "https://tass.com/sports/2220627",
-          "ozet": "The qualifying group stage draw for the 2028 UEFA Cup is set to take place on December 6, 2026 in Belfast, Northern Ireland",
-          "yayin_tarihi": "Wed, 18 Nov 2026 18:11:33 +0300",
+          "url": "https://tass.com/politics/2221993",
+          "ozet": "This PR stunt will not impact the situation on the battlefield, Russian OSCE Permanent Representative Dmitry Polyansky stressed",
+          "yayin_tarihi": "Thu, 19 Nov 2026 18:14:29 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Czech initiative provides Ukraine with more than 60% of its artillery shells — radio",
+          "baslik": "Response to attacks on Crimean Bridge, desire to end conflict: Putin’s remarks",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2220611",
-          "ozet": "Prague acts as the coordinator and logistical intermediary in this project",
-          "yayin_tarihi": "Wed, 18 Nov 2026 18:08:15 +0300",
+          "url": "https://tass.com/politics/2221989",
+          "ozet": "There are no insurmountable obstacles to reaching agreements on Ukraine, the Russian president noted",
+          "yayin_tarihi": "Thu, 19 Nov 2026 18:13:12 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "IAEA chief says UN should play role in resolving Ukraine conflict",
+          "baslik": "Russia considers any foreign troop deployment to Ukraine unacceptable — Putin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2220609",
-          "ozet": "Rafael Grossi stressed the IAEA's cooperation with Russia, Ukraine and Iran, as well as its work on other regional issues, demonstrated that engagement through multilateral mechanisms can \"play a useful role in the solution of conflicts\"",
-          "yayin_tarihi": "Wed, 18 Nov 2026 18:06:48 +0300",
+          "url": "https://tass.com/politics/2221987",
+          "ozet": "According to the president, Russia has invited European Union representatives to visit Moscow to discuss that issue",
+          "yayin_tarihi": "Thu, 19 Nov 2026 18:10:05 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Putin’s objectives for increasing trade with Africa entirely achievable for Russia — MFA",
+          "baslik": "Data centers for AI development will require as much energy as Japan — Putin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2220599",
-          "ozet": "Russian Deputy Foreign Minister Georgy Borisenko noted that trade and economic cooperation did not yet correspond to the potential and the level of relations between Russia and African countries",
-          "yayin_tarihi": "Wed, 18 Nov 2026 17:57:15 +0300",
+          "url": "https://tass.com/politics/2221971",
+          "ozet": "The Russian president emphasized that the development of artificial intelligence is directly linked to the availability of sufficient energy resources",
+          "yayin_tarihi": "Thu, 19 Nov 2026 17:47:52 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Dialogue between Russia, US, China needed for global South's economic viability — expert",
+          "baslik": "Ex-Ukrainian President Yanukovich opposed NATO membership, was ousted — Putin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2220595",
-          "ozet": "Director of the Center for Asian Studies and Translation in Egypt Ahmed Mustafa believes that even limited strategic stability agreements can improve the conditions for attracting investments to developing countries",
-          "yayin_tarihi": "Wed, 18 Nov 2026 17:54:06 +0300",
+          "url": "https://tass.com/politics/2221965",
+          "ozet": "The Russian president noted that Viktor Yanukovich was ousted in a coup, and the idea of Ukraine’s NATO membership emerged immediately afterwards",
+          "yayin_tarihi": "Thu, 19 Nov 2026 17:42:34 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-18T15:26:50.951891"
+      "taranma_zamani": "2026-11-19T15:31:59.137384"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-18T15:26:50.951893"
+      "taranma_zamani": "2026-11-19T15:31:59.137387"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "美中元首峰会，聚焦农产贸易及结束俄乌战争",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/yataibaodao/2026/11/19/apec-summit-us-china/",
+          "ozet": "亚太经济合作会议(APEC)周四（19日）下午举行了美、中两国的元首高峰会。美国总统特朗普在讲话时强调，美国的农产品可以满足中国的庞大需求。同时他也认为美中双方可以就结束俄乌战事展开合作。",
+          "yayin_tarihi": "Thu, 19 Nov 2026 12:58:34 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "八炯、闽南狼遭跟监案3人被起诉 国安人士：征信外包难追幕后委托方",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "美国商务部（BIS）11月16日发布新规，限制中国企业通过海外数据中心获取美国先进AI算力，拟于19日生效。中方表示反对。美中元首会晤前夕，专家保罗·特里奥洛表示，多项限制措施叠加恐引发新一轮相互反制，冲击全球供应链。",
           "yayin_tarihi": "Wed, 18 Nov 2026 02:15:39 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "俄国军机犯日本领空  再穿越韩、台防空识别区",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/yataibaodao/2026/11/17/apec-taiwan-japan-russian-aircraft-putin-china/",
-          "ozet": "两架俄罗斯军机周二（11月17日）清晨先后进入韩国及日本周边空域，其后由台湾东北方向进入防空识别区，沿台湾东部外海南下。日本认定有关飞机侵犯领空，紧急出动战机并向莫斯科提出抗议；台湾军方则称全程掌握动态。",
-          "yayin_tarihi": "Tue, 17 Nov 2026 09:23:51 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-18T15:26:50.951901"
+      "taranma_zamani": "2026-11-19T15:31:59.137394"
     }
   }
 }
