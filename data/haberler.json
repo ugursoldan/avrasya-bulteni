@@ -1,16 +1,40 @@
 {
-  "olusturma_tarihi": "2026-11-19",
-  "olusturma_zamani": "2026-11-19T15:31:59.137619",
+  "olusturma_tarihi": "2026-11-20",
+  "olusturma_zamani": "2026-11-20T15:11:08.652259",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
         {
-          "baslik": "ÇinABDRusya'dan ortak Barış Deklarasyonu",
+          "baslik": "Mustafa Sarıgül'ün dokunulmazlığının kaldırılması için fezleke hazırlandı",
           "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/cin-abd-rusyadan-ortak-baris-deklarasyonu-963818.html",
-          "ozet": "Kremlin, Rusya Devlet Başkanı Vladimir Putin, Çin Devlet Başkanı Şi Cinping ve ABD Başkanı Donald Trump'ın görüşmesinde kabul edilen Barış Deklarasyonu'nun tam metnini yayımladı. Bildiride enerji güvenliği, BM reformu ve nükleer risklerin azaltılması öne çıktı.",
-          "yayin_tarihi": "Thu, 19 Nov 2026 13:59:00 +0300",
+          "url": "https://www.trthaber.com/haber/gundem/mustafa-sarigulun-dokunulmazliginin-kaldirilmasi-icin-fezleke-hazirlandi-963981.html",
+          "ozet": "Ankara Cumhuriyet Başsavcılığı, bağımsız Erzincan Milletvekili Mustafa Sarıgül hakkında dokunulmazlığının kaldırılması talebiyle fezleke hazırlayarak Adalet Bakanlığına gönderdi.",
+          "yayin_tarihi": "Fri, 20 Nov 2026 16:33:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Kredi kartı asgari ödeme oranlarına ve konut kredilerine düzenleme",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/ekonomi/kredi-karti-asgari-odeme-oranlarina-ve-konut-kredilerine-duzenleme-963976.html",
+          "ozet": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) kararıyla limiti 100 ila 200 bin lira olan kredi kartlarının asgari ödeme oranı yüzde 30'a indirildi. Limiti 200 bin liranın üzerinde olan kartlarda ise oran yüzde 40 olarak sabit kaldı.",
+          "yayin_tarihi": "Fri, 20 Nov 2026 15:48:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "ALPAYD, mayınlı arazilerde havadan güvenli koridor oluşturacak",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/savunma/alpay-d-mayinli-arazilerde-havadan-guvenli-koridor-olusturacak-963939.html",
+          "ozet": "MKE tarafından geliştirilen ve insansız hava aracıyla görev yapan ALPAY-D, taşıdığı patlayıcı düzeneğini mayınlı bölgeye havadan bırakarak piyadeler için güvenli geçiş koridoru oluşturuyor.",
+          "yayin_tarihi": "Fri, 20 Nov 2026 11:05:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Meteorolojiden sarı kod uyarısı: 17 ilde kuvvetli yağış ve rüzgar bekleniyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/meteorolojiden-sari-kod-uyarisi-17-ilde-kuvvetli-yagis-ve-ruzgar-bekleniyor-963911.html",
+          "ozet": "Yurt genelinde bugün kuvvetli rüzgar ve sağanak bekleniyor. Meteoroloji 17 il için sarı kodlu uyarı yaptı. Yetkililer, ani sel, su baskını ve fırtınanın oluşturabileceği risklere karşı vatandaşların tedbirli olmasını istedi.",
+          "yayin_tarihi": "Fri, 20 Nov 2026 07:24:00 +0300",
           "dil": "Türkçe"
         },
         {
@@ -20,43 +44,35 @@
           "ozet": "Türkiye'nin sismik araştırma gemisi Oruç Reis, Somali'de gerçekleştirdiği ilk kıtalar arası görevin ardından yeni görevi için Pakistan'a ulaştı. İki ayrı noktada çalışacak Oruç Reis, 670 kilometrekarelik alanda üç boyutlu, 2 bin 353 kilometrelik alanda iki boyutlu sismik veri toplayacak.",
           "yayin_tarihi": "Thu, 19 Nov 2026 13:49:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Çin, ABD ve Rusya liderleri üçlü zirvede bir araya geldi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/cin-abd-ve-rusya-liderleri-uclu-zirvede-bir-araya-geldi-963802.html",
-          "ozet": "Çin Devlet Başkanı Şi Cinping, ABD Başkanı Donald Trump ve Rusya Devlet Başkanı Vladimir Putin, Şıncın kentinde düzenlenen Asya-Pasifik Ekonomik İşbirliği (APEC) Zirvesi marjında üçlü toplantıda bir araya geldi.",
-          "yayin_tarihi": "Thu, 19 Nov 2026 12:00:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Meteorolojiden 32 il için kuvvetli yağış ve rüzgar uyarısı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/meteorolojiden-32-il-icin-kuvvetli-yagis-ve-ruzgar-uyarisi-963760.html",
-          "ozet": "Yurt genelinde bugün kuvvetli rüzgar ve sağanak bekleniyor. Meteoroloji 32 il için sarı kodlu uyarı yaptı. Yetkililer ulaşımda aksamalar, çatı uçması, baca gazı zehirlenmesi, ağaç ve direklerin devrilmesi gibi olumsuzluklara karşı dikkatli ve tedbirli olunması konusunda vatandaşları uyardı.",
-          "yayin_tarihi": "Thu, 19 Nov 2026 08:19:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Yılın kelimesi halk oylaması ile belirlenecek",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/kultur-sanat/yilin-kelimesi-halk-oylamasi-ile-belirlenecek-963676.html",
-          "ozet": "Türk Dil Kurumu (TDK), Ankara Üniversitesi İletişim Araştırmaları ve Uygulama Merkezi (İLAUM) işbirliğiyle \"2026 Yılının Kelimesi/Kavramı\"nı belirlemek için öneri sürecini başlattı.",
-          "yayin_tarihi": "Wed, 18 Nov 2026 12:27:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-19T15:31:59.137340"
+      "taranma_zamani": "2026-11-20T15:11:08.652150"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Live Updates: Trump, Xi and Putin Seek to Project Power at Their First Summit",
+          "baslik": "The War Is Ravaging Ukraine’s Wildlife, Too",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
-          "ozet": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.",
-          "yayin_tarihi": "Thu, 19 Nov 2026 15:27:00 +0000",
+          "url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
+          "ozet": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
+          "yayin_tarihi": "Fri, 20 Nov 2026 13:36:03 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share ‘Values’",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
+          "ozet": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.",
+          "yayin_tarihi": "Fri, 20 Nov 2026 13:56:56 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
+          "ozet": "The Russian leader invited European representatives to Moscow to discuss giving them a role in negotiations. It was unclear how serious the offer was.",
+          "yayin_tarihi": "Thu, 19 Nov 2026 16:51:57 +0000",
           "dil": "İngilizce"
         },
         {
@@ -68,86 +84,86 @@
           "dil": "İngilizce"
         },
         {
-          "baslik": "Putin, Trump and Xi Condemn Nuclear War as Europe Watches Closely",
+          "baslik": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
-          "ozet": "After their summit, the leaders of Russia, the United States and China agreed that “a nuclear war cannot be won and must never be fought.” Some analysts are skeptical that real change will result.",
-          "yayin_tarihi": "Thu, 19 Nov 2026 14:23:07 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "China Bars Bloomberg Reporter From Trilateral Talks for Asking a Question",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-summit-china-media-bloomberg-reporter-nvidia.html",
-          "ozet": "The exclusion of the reporter after she shouted a question to President Trump is an example of how tightly China tries to stage-manage events.",
-          "yayin_tarihi": "Thu, 19 Nov 2026 12:08:19 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
-          "ozet": "A record number of people are attending the U.N. climate talks in Turkey, which has become part trade show, part carnival, part climate therapy session.",
-          "yayin_tarihi": "Thu, 19 Nov 2026 10:02:50 +0000",
+          "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
+          "ozet": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
+          "yayin_tarihi": "Fri, 20 Nov 2026 15:03:34 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-19T15:31:59.137361"
+      "taranma_zamani": "2026-11-20T15:11:08.652177"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russian envoy describes Ukrainian attacks on Crimean Bridge as PR play",
+          "baslik": "US, Israel still weighing strikes on Iran — media",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2221993",
-          "ozet": "This PR stunt will not impact the situation on the battlefield, Russian OSCE Permanent Representative Dmitry Polyansky stressed",
-          "yayin_tarihi": "Thu, 19 Nov 2026 18:14:29 +0300",
+          "url": "https://tass.com/world/2222599",
+          "ozet": "Israeli officials are concerned about how quickly Iran is rebuilding production capacity for its ballistic missile program",
+          "yayin_tarihi": "Fri, 20 Nov 2026 18:04:19 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Response to attacks on Crimean Bridge, desire to end conflict: Putin’s remarks",
+          "baslik": "Diplomat calls on OSCE to condemn discrimination against Russian athletes",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2221989",
-          "ozet": "There are no insurmountable obstacles to reaching agreements on Ukraine, the Russian president noted",
-          "yayin_tarihi": "Thu, 19 Nov 2026 18:13:12 +0300",
+          "url": "https://tass.com/politics/2222597",
+          "ozet": "Dmitry Polyansky noted that Moscow had long observed growing efforts by several OSCE participating States to politicize sports",
+          "yayin_tarihi": "Fri, 20 Nov 2026 18:02:41 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia considers any foreign troop deployment to Ukraine unacceptable — Putin",
+          "baslik": "Russia, China, and US laid foundation of global security architecture — Greek party",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2221987",
-          "ozet": "According to the president, Russia has invited European Union representatives to visit Moscow to discuss that issue",
-          "yayin_tarihi": "Thu, 19 Nov 2026 18:10:05 +0300",
+          "url": "https://tass.com/world/2222589",
+          "ozet": "If this message did not reach the EU leaders, they will understand it in the elections next year, when the peoples of Europe throw them into the dustbin of history, the Panhellenic Movement of Greek-Russian Friendship party said",
+          "yayin_tarihi": "Fri, 20 Nov 2026 17:46:25 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Data centers for AI development will require as much energy as Japan — Putin",
+          "baslik": "WTA nominates Russia's Diana Shnaider for 2026 Most Improved Player of the Year award",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2221971",
-          "ozet": "The Russian president emphasized that the development of artificial intelligence is directly linked to the availability of sufficient energy resources",
-          "yayin_tarihi": "Thu, 19 Nov 2026 17:47:52 +0300",
+          "url": "https://tass.com/sports/2222585",
+          "ozet": "The other nominees are Marta Kostyuk, Iva Jovic, Alexandra Eala and Sorana Cirstea",
+          "yayin_tarihi": "Fri, 20 Nov 2026 17:38:42 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Ex-Ukrainian President Yanukovich opposed NATO membership, was ousted — Putin",
+          "baslik": "Landmark Putin-Trump-Xi meeting ushers in multipolarity — Thai expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2221965",
-          "ozet": "The Russian president noted that Viktor Yanukovich was ousted in a coup, and the idea of Ukraine’s NATO membership emerged immediately afterwards",
-          "yayin_tarihi": "Thu, 19 Nov 2026 17:42:34 +0300",
+          "url": "https://tass.com/world/2222573",
+          "ozet": "Phongphan Chansugree believes that China has positioned itself especially well going forward, potentially taking on a role where it coordinates interests between leading powers",
+          "yayin_tarihi": "Fri, 20 Nov 2026 17:23:30 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-19T15:31:59.137384"
+      "taranma_zamani": "2026-11-20T15:11:08.652205"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-19T15:31:59.137387"
+      "taranma_zamani": "2026-11-20T15:11:08.652230"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "路透：美国新规堵住芯片制造漏洞 台积电收紧对中国AI芯片限制",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/20/tsmc-tightens-china-ai-chip-curbs-bis/",
+          "ozet": "美国商务部工业与安全局（BIS）11月16日发布先进芯片出口管制新规于19日正式生效，路透社引述知情人士消息指出，台积电下令，凡使用16纳米及以下制程技术的受影响订单，除非客户取得美国出口许可证，否则都必须暂停。",
+          "yayin_tarihi": "Fri, 20 Nov 2026 08:01:55 +0000",
+          "dil": "Çince"
+        },
+        {
+          "baslik": "美中俄元首三方会晤　将展开降低核风险对话",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/yataibaodao/2026/11/19/tri-party-summit-apec/",
+          "ozet": "美国总统特朗普、俄罗斯总统普京和中国国家主席习近平周四在深圳APEC峰会场边举行首次“三方会晤”。会后发布了《中俄美元首和平宣言》。",
+          "yayin_tarihi": "Thu, 19 Nov 2026 16:21:41 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "美中元首峰会，聚焦农产贸易及结束俄乌战争",
           "kaynak": "www.rfa.org",
@@ -171,25 +187,9 @@
           "ozet": "美国总统特朗普于18号傍晚当地时间5点04分搭乘空军一号抵达深圳宝安国际机场，中国国家主席习近平亲自到机场接机。大批群众挥舞鲜花和旗帜，用普通话高呼“热烈欢迎”。",
           "yayin_tarihi": "Wed, 18 Nov 2026 12:00:57 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "美中俄元首首度会晤 核军控分歧待解",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/11/18/us-china-relations-apec-trump-xi-jinping-putin-nuclear-arms-control/",
-          "ozet": "美国总统特朗普、中国国家主席习近平与俄罗斯总统普京将于本周四（19日）在深圳麒麟山庄举行首次三方会晤。特朗普希望推动核军控对话，中方则强调维护世界和平与大国关系战略稳定。三国能否在核军控分歧下建立持续磋商安排，成为此次会谈的看点。",
-          "yayin_tarihi": "Wed, 18 Nov 2026 06:50:30 +0000",
-          "dil": "Çince"
-        },
-        {
-          "baslik": "美中元首会晤前夕 专家解读美AI管制新规及美中博弈",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/zhengzhi/2026/11/18/us-bis-ai-computing-restrictions-china/",
-          "ozet": "美国商务部（BIS）11月16日发布新规，限制中国企业通过海外数据中心获取美国先进AI算力，拟于19日生效。中方表示反对。美中元首会晤前夕，专家保罗·特里奥洛表示，多项限制措施叠加恐引发新一轮相互反制，冲击全球供应链。",
-          "yayin_tarihi": "Wed, 18 Nov 2026 02:15:39 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-19T15:31:59.137394"
+      "taranma_zamani": "2026-11-20T15:11:08.652238"
     }
   }
 }
