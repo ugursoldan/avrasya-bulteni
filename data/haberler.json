@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-11-21",
-  "olusturma_zamani": "2026-11-21T14:28:44.666795",
+  "olusturma_tarihi": "2026-11-22",
+  "olusturma_zamani": "2026-11-22T14:23:32.260482",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "COP31de Antalya Mutabakatı için son viraj",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/cop31de-antalya-mutabakati-icin-son-viraj-964111.html",
+          "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, zirvedeki son Örtü Karar taslak metnine ilişkin, \"Ufak tefek talepler var. Onları da değerlendiriyoruz. Yapabileceklerimizi yapmaya çalışacağız. Genel Kurul'da göreceğiz. Umutluyuz.\" dedi.",
+          "yayin_tarihi": "Sun, 22 Nov 2026 09:49:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Bakan Fidan: Yemen içinde asker bulundurulmasına yönelik alınmış bir karar yok",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/bakan-fidan-yemen-icinde-asker-bulundurulmasina-yonelik-alinmis-bir-karar-yok-964092.html",
+          "ozet": "Dışişleri Bakan Hakan Fidan, Mekke İttifakı kapsamında Türkiye'nin politikasının Suudi Arabistan'ın savunmasına yönelik olduğunu, Yemen'de asker bulundurma kararı olmadığını söyledi.",
+          "yayin_tarihi": "Sat, 21 Nov 2026 21:52:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Fon soruşturmasında yabancı yatırımcı perdeli milyarlık ağ",
           "kaynak": "www.trthaber.com",
@@ -28,35 +44,35 @@
           "ozet": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) kararıyla limiti 100 ila 200 bin lira olan kredi kartlarının asgari ödeme oranı yüzde 30'a indirildi. Limiti 200 bin liranın üzerinde olan kartlarda ise oran yüzde 40 olarak sabit kaldı.",
           "yayin_tarihi": "Fri, 20 Nov 2026 15:48:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Mustafa Sarıgül'ün dokunulmazlığının kaldırılması için fezleke hazırlandı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/mustafa-sarigulun-dokunulmazliginin-kaldirilmasi-icin-fezleke-hazirlandi-963981.html",
-          "ozet": "Ankara Cumhuriyet Başsavcılığı, bağımsız Erzincan Milletvekili Mustafa Sarıgül hakkında dokunulmazlığının kaldırılması talebiyle fezleke hazırlayarak Adalet Bakanlığına gönderdi.",
-          "yayin_tarihi": "Fri, 20 Nov 2026 16:33:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "İmam hatiplerin kurucusu: Celal Hoca",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/egitim/imam-hatiplerin-kurucusu-celal-hoca-964036.html",
-          "ozet": "Ömrü boyunca imam hatip okullarının açılması ve yaygınlaşması için mücadele eden Türkiye'nin ilk İmam Hatip Lisesi Müdürü Mahmut Celalettin Ökten vefatının 65. yılında anılıyor.",
-          "yayin_tarihi": "Sat, 21 Nov 2026 10:00:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-21T14:28:44.666710"
+      "taranma_zamani": "2026-11-22T14:23:32.260386"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "The War Is Ravaging Ukraine’s Wildlife, Too",
+          "baslik": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
-          "ozet": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
-          "yayin_tarihi": "Fri, 20 Nov 2026 23:05:46 +0000",
+          "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+          "ozet": "China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.",
+          "yayin_tarihi": "Sun, 22 Nov 2026 11:03:04 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
+          "ozet": "Major military powers like the United States and Russia expressed strong resistance to binding restrictions.",
+          "yayin_tarihi": "Sat, 21 Nov 2026 13:35:19 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
+          "ozet": "Danish officials say Russian intelligence services recruited members of a violent gang to try to assassinate a Ukrainian rapper at a concert outside Copenhagen.",
+          "yayin_tarihi": "Fri, 20 Nov 2026 22:15:57 +0000",
           "dil": "İngilizce"
         },
         {
@@ -74,80 +90,72 @@
           "ozet": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
           "yayin_tarihi": "Fri, 20 Nov 2026 20:31:00 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share ‘Values’",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
-          "ozet": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power.",
-          "yayin_tarihi": "Fri, 20 Nov 2026 13:56:56 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
-          "ozet": "Major military powers like the United States and Russia expressed strong resistance to binding restrictions.",
-          "yayin_tarihi": "Sat, 21 Nov 2026 13:35:19 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-21T14:28:44.666729"
+      "taranma_zamani": "2026-11-22T14:23:32.260432"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russian rescue vessel approaches drone-hit commercial ship",
+          "baslik": "Extremist site Mirotvorets must not exist in principle - Russian diplomat",
           "kaynak": "tass.com",
-          "url": "https://tass.com/emergencies/2222893",
-          "ozet": "The crew reported that evacuation was not required",
-          "yayin_tarihi": "Sat, 21 Nov 2026 17:24:55 +0300",
+          "url": "https://tass.com/politics/2223035",
+          "ozet": "Russian Foreign Ministry Spokeswoman Maria Zakharova gave a comment after the criticism made by Italian Prime Minister Giorgia Meloni against Ukraine’s Vladimir Zelensky that Italian nationals were included in the database of the website",
+          "yayin_tarihi": "Sun, 22 Nov 2026 17:09:13 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Iran conducts one of its most intense operations in Strait of Hormuz — IRIB",
+          "baslik": "German, UK defense chiefs make inadequate statements on Russia’s special mil-op — Lavrov",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2222889",
-          "ozet": "It was aimed against US aerial vehicles",
-          "yayin_tarihi": "Sat, 21 Nov 2026 17:04:35 +0300",
+          "url": "https://tass.com/politics/2223031",
+          "ozet": "Russian Foreign Minister said, that he is unable to comment their words",
+          "yayin_tarihi": "Sun, 22 Nov 2026 16:56:32 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Oil tanker hits mine in east of Strait of Hormuz — Iranian Navy",
+          "baslik": "Four injured in Ukrainian drone attacks on Russia’s Belgorod Region",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2222883",
-          "ozet": "Iran warned shipowners and tanker operators that passage through prohibited areas posed a serious danger for the lives of crews and the safety of vessels",
-          "yayin_tarihi": "Sat, 21 Nov 2026 15:15:07 +0300",
+          "url": "https://tass.com/emergencies/2223029",
+          "ozet": "Dozens of passenger cars, residential houses and infrastructure facilities were damaged in various settlements after attacks",
+          "yayin_tarihi": "Sun, 22 Nov 2026 16:40:41 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia fully restores train traffic across Crimean Bridge after Ukrainian strikes",
+          "baslik": "Russia’s Ambassador to North Korea Podyelyshev presents credentials to Kim Jong Un",
           "kaynak": "tass.com",
-          "url": "https://tass.com/society/2222879",
-          "ozet": "Trains on this route are running as scheduled, reported by Russian Deputy Prime Minister Andrey Nikitin",
-          "yayin_tarihi": "Sat, 21 Nov 2026 14:20:04 +0300",
+          "url": "https://tass.com/politics/2223023",
+          "ozet": "The ceremony took place on Sunday",
+          "yayin_tarihi": "Sun, 22 Nov 2026 14:42:48 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "US-Iran talks come to a deadlock over disagreements on uranium — Al Arabiya",
+          "baslik": "Russian troops liberate Sosnovy Bor community in Kharkov Region over past day",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2222877",
-          "ozet": "Both sides firmly adhere to their positions, despite the mediators’ proposals, says the Saudi television channel",
-          "yayin_tarihi": "Sat, 21 Nov 2026 14:17:39 +0300",
+          "url": "https://tass.com/defense/2223013",
+          "ozet": "Russian air defense forces intercepted and destroyed 792 Ukrainian unmanned aerial vehicles and four smart bombs over the past 24 hours",
+          "yayin_tarihi": "Sun, 22 Nov 2026 13:42:08 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-21T14:28:44.666747"
+      "taranma_zamani": "2026-11-22T14:23:32.260453"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-21T14:28:44.666749"
+      "taranma_zamani": "2026-11-22T14:23:32.260456"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "美限中国电信商取号 国会追查芯片许可",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/zhengzhi/waijiao/2026/11/22/china-china-mobile-restrictions-on-chinese-companies-chips-sanctions-against-china/",
+          "ozet": "美国联邦通信委员会11月19日表决，禁止中国移动、中国电信和中国联通直接取得美国电话号码。同一天，美国众议院外交委员会公开文件，披露美国商务部截至今年5月11日已批准向中国相关企业出口、再出口或在境内转让近88万颗人工智能芯片。",
+          "yayin_tarihi": "Sun, 22 Nov 2026 06:44:54 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "台湾议员候选人涉受中共资助和网军助选遭起诉 ",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "亚太经济合作会议(APEC)周四（19日）下午举行了美、中两国的元首高峰会。美国总统特朗普在讲话时强调，美国的农产品可以满足中国的庞大需求。同时他也认为美中双方可以就结束俄乌战事展开合作。",
           "yayin_tarihi": "Thu, 19 Nov 2026 12:58:34 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "八炯、闽南狼遭跟监案3人被起诉 国安人士：征信外包难追幕后委托方",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/yataibaodao/2026/11/18/taiwan-private-investigators-work-for-china-on-transnational-repression/",
-          "ozet": "台湾新北地检署周二依违反《个人资料保护法》罪嫌，起诉曾先后在一统、国华征信社担任业务经理的王秉宏，以及吴姓、刘姓两名外务人员。检方指控，王秉宏受中方委托，派人跟监台湾网红闽南狼和八炯，并将两人及家属的个资交给中国公安官员。",
-          "yayin_tarihi": "Wed, 18 Nov 2026 12:04:08 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-21T14:28:44.666755"
+      "taranma_zamani": "2026-11-22T14:23:32.260464"
     }
   }
 }
