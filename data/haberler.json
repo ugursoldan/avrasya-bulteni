@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-11-22",
-  "olusturma_zamani": "2026-11-22T14:23:32.260482",
+  "olusturma_tarihi": "2026-11-23",
+  "olusturma_zamani": "2026-11-23T17:47:58.893886",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Ukrayna, Libya açıklarında Rus gemisini vurdu",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/ukrayna-libya-aciklarinda-rus-gemisini-vurdu-964196.html",
+          "ozet": "Ukrayna Devlet Başkanı Volodimir Zelenski, Libya açıklarında Rus kuru yük gemisi \"MV ANGARA\" ile Rus donanmasına ait \"Merkuriy\" korvetine saldırılar düzenlediklerini bildirdi.",
+          "yayin_tarihi": "Mon, 23 Nov 2026 11:59:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Yapay Ay toprağında patates yetiştirildi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/dunya/yapay-ay-topraginda-patates-yetistirildi-964173.html",
+          "ozet": "NASA destekli araştırmada bilim insanları, organik maddeyle desteklenen yapay Ay toprağında yenilebilir ve besleyici patatesler büyütmeyi başardı. Çalışma, gelecekte Ay üslerinde görev yapacak astronotlar için yerel gıda üretiminin önünü açıyor.",
+          "yayin_tarihi": "Mon, 23 Nov 2026 08:26:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "COP31de Antalya Mutabakatı için son viraj",
           "kaynak": "www.trthaber.com",
@@ -28,29 +44,45 @@
           "ozet": "Fon soruşturması kapsamında hazırlanan MASAK raporunda, Londra merkezli Gildencrest Capital'in (eski Tera Europe) İstanbul'dan yönetildiği ve Borsa'da \"yabancı yatırımcı\" görüntüsüyle işlem yaptığı belirlendi. Bahamalar'a 1,95 milyar liralık hisse aktarımı son anda durdurulurken, yurt dışındaki varlıkların iadesi için adli süreç başlatıldı.",
           "yayin_tarihi": "Sat, 21 Nov 2026 11:57:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "21 il için sarı uyarı: Kuvvetli yağışa dikkat",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/21-il-icin-sari-uyari-kuvvetli-yagisa-dikkat-964030.html",
-          "ozet": "Doğu Akdeniz ile doğu bölgelerde beklenen kuvvetli yağış nedeniyle 21 il için \"sarı\" kodlu uyarıda bulunuldu.",
-          "yayin_tarihi": "Sat, 21 Nov 2026 09:09:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Kredi kartı asgari ödeme oranlarına ve konut kredilerine düzenleme",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/ekonomi/kredi-karti-asgari-odeme-oranlarina-ve-konut-kredilerine-duzenleme-963976.html",
-          "ozet": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) kararıyla limiti 100 ila 200 bin lira olan kredi kartlarının asgari ödeme oranı yüzde 30'a indirildi. Limiti 200 bin liranın üzerinde olan kartlarda ise oran yüzde 40 olarak sabit kaldı.",
-          "yayin_tarihi": "Fri, 20 Nov 2026 15:48:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-22T14:23:32.260386"
+      "taranma_zamani": "2026-11-23T17:47:58.893802"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
+        {
+          "baslik": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
+          "ozet": "The Israeli prime minister, Benjamin Netanyahu calls renewing strikes a matter of national security. Military analysts and opposition leaders say he’s prioritizing his own interests.",
+          "yayin_tarihi": "Mon, 23 Nov 2026 17:12:13 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-older-soldiers.html",
+          "ozet": "When the military refused to let them sign up, a band of aging men found their own way to wage war against Russia.",
+          "yayin_tarihi": "Mon, 23 Nov 2026 13:53:33 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Ukraine Attack Off Coast of Libya Shows Reach of Its Naval Drones",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
+          "ozet": "President Volodymyr Zelensky said that Ukrainian drones had sunk a corvette and hit a dry cargo vessel, in attacks that involved special operations forces.",
+          "yayin_tarihi": "Mon, 23 Nov 2026 17:18:44 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Behind China’s A.I. Anxieties, Fear of a Nuclear Checkmate",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html",
+          "ozet": "Chinese military researchers are studying how to harness A.I., but they worry the technology makes their country’s nuclear forces more vulnerable to attack.",
+          "yayin_tarihi": "Mon, 23 Nov 2026 05:49:04 +0000",
+          "dil": "İngilizce"
+        },
         {
           "baslik": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
           "kaynak": "rss.nytimes.com",
@@ -58,92 +90,60 @@
           "ozet": "China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.",
           "yayin_tarihi": "Sun, 22 Nov 2026 11:03:04 +0000",
           "dil": "İngilizce"
-        },
-        {
-          "baslik": "U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
-          "ozet": "Major military powers like the United States and Russia expressed strong resistance to binding restrictions.",
-          "yayin_tarihi": "Sat, 21 Nov 2026 13:35:19 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
-          "ozet": "Danish officials say Russian intelligence services recruited members of a violent gang to try to assassinate a Ukrainian rapper at a concert outside Copenhagen.",
-          "yayin_tarihi": "Fri, 20 Nov 2026 22:15:57 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
-          "ozet": "For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces.",
-          "yayin_tarihi": "Sat, 21 Nov 2026 07:11:24 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
-          "ozet": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
-          "yayin_tarihi": "Fri, 20 Nov 2026 20:31:00 +0000",
-          "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-22T14:23:32.260432"
+      "taranma_zamani": "2026-11-23T17:47:58.893825"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Extremist site Mirotvorets must not exist in principle - Russian diplomat",
+          "baslik": "Russia ready to help make up for potential grain shortages — envoy",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2223035",
-          "ozet": "Russian Foreign Ministry Spokeswoman Maria Zakharova gave a comment after the criticism made by Italian Prime Minister Giorgia Meloni against Ukraine’s Vladimir Zelensky that Italian nationals were included in the database of the website",
-          "yayin_tarihi": "Sun, 22 Nov 2026 17:09:13 +0300",
+          "url": "https://tass.com/politics/2223583",
+          "ozet": "Russian Deputy Permanent Representative to the United Nations Anna Yevstigneyeva stressed that Russia was one of the most important guarantors of global food security",
+          "yayin_tarihi": "Mon, 23 Nov 2026 20:44:26 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "German, UK defense chiefs make inadequate statements on Russia’s special mil-op — Lavrov",
+          "baslik": "Russia refuses to agree to new grain deal — Russian deputy permanent representative to UN",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2223031",
-          "ozet": "Russian Foreign Minister said, that he is unable to comment their words",
-          "yayin_tarihi": "Sun, 22 Nov 2026 16:56:32 +0300",
+          "url": "https://tass.com/politics/2223577",
+          "ozet": "Anna Yevstigneeva emphasized that the deal in practice would amount to nothing more than a scheme of Ukrainian food in exchange for Western weapons",
+          "yayin_tarihi": "Mon, 23 Nov 2026 20:39:09 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Four injured in Ukrainian drone attacks on Russia’s Belgorod Region",
+          "baslik": "Russian stock market closes with major indices in the green",
           "kaynak": "tass.com",
-          "url": "https://tass.com/emergencies/2223029",
-          "ozet": "Dozens of passenger cars, residential houses and infrastructure facilities were damaged in various settlements after attacks",
-          "yayin_tarihi": "Sun, 22 Nov 2026 16:40:41 +0300",
+          "url": "https://tass.com/economy/2223587",
+          "ozet": "The ruble-denominated MOEX Index gained 1.21% and reached 2,381.62 points",
+          "yayin_tarihi": "Mon, 23 Nov 2026 20:32:56 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia’s Ambassador to North Korea Podyelyshev presents credentials to Kim Jong Un",
+          "baslik": "Russia strikes only facilities that supply Ukraine’s military — Russia’s UN mission",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2223023",
-          "ozet": "The ceremony took place on Sunday",
-          "yayin_tarihi": "Sun, 22 Nov 2026 14:42:48 +0300",
+          "url": "https://tass.com/politics/2223575",
+          "ozet": "Russia's Deputy Permanent Representative to the UN Anna Yevstigneyeva emphasized that Russia did not conduct strikes \"against vessels that are not involved in supporting Ukraine’s defense interests\"",
+          "yayin_tarihi": "Mon, 23 Nov 2026 20:02:11 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian troops liberate Sosnovy Bor community in Kharkov Region over past day",
+          "baslik": "Merz hopes new round of Ukraine talks to take place ‘soon’",
           "kaynak": "tass.com",
-          "url": "https://tass.com/defense/2223013",
-          "ozet": "Russian air defense forces intercepted and destroyed 792 Ukrainian unmanned aerial vehicles and four smart bombs over the past 24 hours",
-          "yayin_tarihi": "Sun, 22 Nov 2026 13:42:08 +0300",
+          "url": "https://tass.com/world/2223555",
+          "ozet": "The talks could take place in Abu Dhabi, the German Chancellor said",
+          "yayin_tarihi": "Mon, 23 Nov 2026 19:36:03 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-22T14:23:32.260453"
+      "taranma_zamani": "2026-11-23T17:47:58.893852"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-22T14:23:32.260456"
+      "taranma_zamani": "2026-11-23T17:47:58.893854"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-22T14:23:32.260464"
+      "taranma_zamani": "2026-11-23T17:47:58.893861"
     }
   }
 }
