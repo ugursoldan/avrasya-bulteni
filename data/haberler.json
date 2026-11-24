@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-11-23",
-  "olusturma_zamani": "2026-11-23T17:47:58.893886",
+  "olusturma_tarihi": "2026-11-24",
+  "olusturma_zamani": "2026-11-24T17:20:19.529614",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Bakan Kurum: COP'ta 26 milyar doları aşan anlaşma imzalandı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/bakan-kurum-copta-26-milyar-dolari-asan-anlasma-imzalandi-964270.html",
+          "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, 196 ülke ve 1 milyonu aşkın ziyaretçinin katılımıyla tarihin en büyük zirvesini gerçekleştirdiklerini belirterek, \"COP'ta farklı alanlarda 26 milyar doları aşan anlaşma imzalandı\" dedi.",
+          "yayin_tarihi": "Tue, 24 Nov 2026 10:00:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "19 il için sarı uyarı: Kar ve sağanak geliyor",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/19-il-icin-sari-uyari-kar-ve-saganak-geliyor-964247.html",
+          "ozet": "Meteoroloji Genel Müdürlüğü, kuvvetli yağış ve olumsuz hava koşulları nedeniyle 19 il için sarı kodlu uyarı yayımladı. Karadeniz'de karla karışık yağmur ve kar, birçok bölgede ise sağanak bekleniyor.",
+          "yayin_tarihi": "Tue, 24 Nov 2026 06:16:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Ukrayna, Libya açıklarında Rus gemisini vurdu",
           "kaynak": "www.trthaber.com",
@@ -28,126 +44,118 @@
           "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, zirvedeki son Örtü Karar taslak metnine ilişkin, \"Ufak tefek talepler var. Onları da değerlendiriyoruz. Yapabileceklerimizi yapmaya çalışacağız. Genel Kurul'da göreceğiz. Umutluyuz.\" dedi.",
           "yayin_tarihi": "Sun, 22 Nov 2026 09:49:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Bakan Fidan: Yemen içinde asker bulundurulmasına yönelik alınmış bir karar yok",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/bakan-fidan-yemen-icinde-asker-bulundurulmasina-yonelik-alinmis-bir-karar-yok-964092.html",
-          "ozet": "Dışişleri Bakan Hakan Fidan, Mekke İttifakı kapsamında Türkiye'nin politikasının Suudi Arabistan'ın savunmasına yönelik olduğunu, Yemen'de asker bulundurma kararı olmadığını söyledi.",
-          "yayin_tarihi": "Sat, 21 Nov 2026 21:52:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Fon soruşturmasında yabancı yatırımcı perdeli milyarlık ağ",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-yabanci-yatirimci-perdeli-milyarlik-ag-964049.html",
-          "ozet": "Fon soruşturması kapsamında hazırlanan MASAK raporunda, Londra merkezli Gildencrest Capital'in (eski Tera Europe) İstanbul'dan yönetildiği ve Borsa'da \"yabancı yatırımcı\" görüntüsüyle işlem yaptığı belirlendi. Bahamalar'a 1,95 milyar liralık hisse aktarımı son anda durdurulurken, yurt dışındaki varlıkların iadesi için adli süreç başlatıldı.",
-          "yayin_tarihi": "Sat, 21 Nov 2026 11:57:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-23T17:47:58.893802"
+      "taranma_zamani": "2026-11-24T17:20:19.529429"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "Iranian Singer Receives 74 Lashes for Performing With No Hijab",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html",
+          "ozet": "Parastoo Ahmadi sang without wearing the mandatory veil in a virtual concert in 2024 that spread quickly online and drew the ire of the Islamic republic authorities.",
+          "yayin_tarihi": "Tue, 24 Nov 2026 12:34:52 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html",
+          "ozet": "Beijing may welcome the return of the leading U.S. advocate for A.I. chip sales to China. But the saga could reinforce a Chinese push for self-reliance, analysts say.",
+          "yayin_tarihi": "Tue, 24 Nov 2026 11:55:30 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
+          "ozet": "Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.",
+          "yayin_tarihi": "Tue, 24 Nov 2026 14:42:30 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
+          "ozet": "What seem like frontline Russian radio stations are actually a Ukrainian psychological operation, hoping to sow despair among the Kremlin’s soldiers.",
+          "yayin_tarihi": "Tue, 24 Nov 2026 16:27:03 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
-          "ozet": "The Israeli prime minister, Benjamin Netanyahu calls renewing strikes a matter of national security. Military analysts and opposition leaders say he’s prioritizing his own interests.",
-          "yayin_tarihi": "Mon, 23 Nov 2026 17:12:13 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-older-soldiers.html",
-          "ozet": "When the military refused to let them sign up, a band of aging men found their own way to wage war against Russia.",
-          "yayin_tarihi": "Mon, 23 Nov 2026 13:53:33 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Ukraine Attack Off Coast of Libya Shows Reach of Its Naval Drones",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
-          "ozet": "President Volodymyr Zelensky said that Ukrainian drones had sunk a corvette and hit a dry cargo vessel, in attacks that involved special operations forces.",
-          "yayin_tarihi": "Mon, 23 Nov 2026 17:18:44 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Behind China’s A.I. Anxieties, Fear of a Nuclear Checkmate",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html",
-          "ozet": "Chinese military researchers are studying how to harness A.I., but they worry the technology makes their country’s nuclear forces more vulnerable to attack.",
-          "yayin_tarihi": "Mon, 23 Nov 2026 05:49:04 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
-          "ozet": "China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.",
-          "yayin_tarihi": "Sun, 22 Nov 2026 11:03:04 +0000",
+          "ozet": "The Israeli prime minister, Benjamin Netanyahu, calls renewing strikes a matter of national security. Military analysts and opposition leaders say he’s prioritizing his own interests.",
+          "yayin_tarihi": "Mon, 23 Nov 2026 18:54:42 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-23T17:47:58.893825"
+      "taranma_zamani": "2026-11-24T17:20:19.529451"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Russia ready to help make up for potential grain shortages — envoy",
+          "baslik": "Austrian opposition slams EU’s actions against Russia as totalitarian",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2223583",
-          "ozet": "Russian Deputy Permanent Representative to the United Nations Anna Yevstigneyeva stressed that Russia was one of the most important guarantors of global food security",
-          "yayin_tarihi": "Mon, 23 Nov 2026 20:44:26 +0300",
+          "url": "https://tass.com/world/2224211",
+          "ozet": "According to Herbert Kickl, after the economic war against Russia \"turned into a disaster and backfired on European citizens,\" Brussels is \"resorting to a cancel culture at the state level\"",
+          "yayin_tarihi": "Tue, 24 Nov 2026 20:08:48 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia refuses to agree to new grain deal — Russian deputy permanent representative to UN",
+          "baslik": "Norwegian defense chief urges Kiev to respect international law after ship attack",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2223577",
-          "ozet": "Anna Yevstigneeva emphasized that the deal in practice would amount to nothing more than a scheme of Ukrainian food in exchange for Western weapons",
-          "yayin_tarihi": "Mon, 23 Nov 2026 20:39:09 +0300",
+          "url": "https://tass.com/world/2224205",
+          "ozet": "Tore Sandvik said that Ukraine should respect the need for stability in Norway's near areas",
+          "yayin_tarihi": "Tue, 24 Nov 2026 20:07:44 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russian stock market closes with major indices in the green",
+          "baslik": "Russia-China-US trilateral dialogue may evolve into separate format — Russian expert",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2223587",
-          "ozet": "The ruble-denominated MOEX Index gained 1.21% and reached 2,381.62 points",
-          "yayin_tarihi": "Mon, 23 Nov 2026 20:32:56 +0300",
+          "url": "https://tass.com/world/2224203",
+          "ozet": "According to Dmitry Novikov, it will be yet another important mechanism for coordinating positions and exercising global governance in certain areas",
+          "yayin_tarihi": "Tue, 24 Nov 2026 20:05:39 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia strikes only facilities that supply Ukraine’s military — Russia’s UN mission",
+          "baslik": "United Kingdom rejects resumption of high-level dialogue with Russia",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2223575",
-          "ozet": "Russia's Deputy Permanent Representative to the UN Anna Yevstigneyeva emphasized that Russia did not conduct strikes \"against vessels that are not involved in supporting Ukraine’s defense interests\"",
-          "yayin_tarihi": "Mon, 23 Nov 2026 20:02:11 +0300",
+          "url": "https://tass.com/world/2224209",
+          "ozet": "Foreign Secretary Ed Miliband said that the UK wanted to participate in negotiations on Ukraine and the European security architecture",
+          "yayin_tarihi": "Tue, 24 Nov 2026 20:02:42 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Merz hopes new round of Ukraine talks to take place ‘soon’",
+          "baslik": "Zelensky ungrateful for peace efforts, escalates conflict — special envoy",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2223555",
-          "ozet": "The talks could take place in Abu Dhabi, the German Chancellor said",
-          "yayin_tarihi": "Mon, 23 Nov 2026 19:36:03 +0300",
+          "url": "https://tass.com/politics/2224197",
+          "ozet": "Kirill Dmitriev commented on a report that the head of Kiev regime plans to urge the Democratic-controlled US Congress to step up pressure on Russia if US President Donald Trump fails to help end the Ukraine conflict by the end of the year",
+          "yayin_tarihi": "Tue, 24 Nov 2026 19:57:35 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-23T17:47:58.893852"
+      "taranma_zamani": "2026-11-24T17:20:19.529473"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-23T17:47:58.893854"
+      "taranma_zamani": "2026-11-24T17:20:19.529475"
     },
     "zh": {
       "dil": "Çince",
       "haberler": [
+        {
+          "baslik": "中共上海市委书记陈吉宁被查 上海市委召开扩大会议",
+          "kaynak": "www.rfa.org",
+          "url": "https://rfa.org/mandarin/xinwenkuaixun/2026/11/24/china-shanghai-chen-jining-investigation/",
+          "ozet": "中国官方新华社11月24日晚间发布通报，中共中央政治局委员、上海市委书记陈吉宁涉嫌严重违纪违法，目前正接受中央纪委国家监委审查调查。通报暂未公布具体涉案细节。",
+          "yayin_tarihi": "Tue, 24 Nov 2026 16:39:28 +0000",
+          "dil": "Çince"
+        },
         {
           "baslik": "美限中国电信商取号 国会追查芯片许可",
           "kaynak": "www.rfa.org",
@@ -179,17 +187,9 @@
           "ozet": "美国总统特朗普、俄罗斯总统普京和中国国家主席习近平周四在深圳APEC峰会场边举行首次“三方会晤”。会后发布了《中俄美元首和平宣言》。",
           "yayin_tarihi": "Thu, 19 Nov 2026 16:21:41 +0000",
           "dil": "Çince"
-        },
-        {
-          "baslik": "美中元首峰会，聚焦农产贸易及结束俄乌战争",
-          "kaynak": "www.rfa.org",
-          "url": "https://rfa.org/mandarin/yataibaodao/2026/11/19/apec-summit-us-china/",
-          "ozet": "亚太经济合作会议(APEC)周四（19日）下午举行了美、中两国的元首高峰会。美国总统特朗普在讲话时强调，美国的农产品可以满足中国的庞大需求。同时他也认为美中双方可以就结束俄乌战事展开合作。",
-          "yayin_tarihi": "Thu, 19 Nov 2026 12:58:34 +0000",
-          "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-23T17:47:58.893861"
+      "taranma_zamani": "2026-11-24T17:20:19.529481"
     }
   }
 }
