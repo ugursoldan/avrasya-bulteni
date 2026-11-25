@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-11-24",
-  "olusturma_zamani": "2026-11-24T17:20:19.529614",
+  "olusturma_tarihi": "2026-11-25",
+  "olusturma_zamani": "2026-11-25T17:00:35.869991",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "Kurtulmuş: Terörsüz Türkiye sürecinde İzleme Komisyonu 19 üyeden oluşacak",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/kurtulmus-terorsuz-turkiye-surecinde-izleme-komisyonu-19-uyeden-olusacak-964381.html",
+          "ozet": "Meclis Başkanı Numan Kurtulmuş, Terörsüz Türkiye hedefi kapsamında kurulacak İzleme Komisyonu'nun 19 üyeden oluşacağını açıkladı. İzleme Komisyonunda görevlendirilecek milletvekilleri için grup başkanlıklarına yazı gönderildi. Milletvekillerinin isimleri 30 Kasım 2026 Pazartesi günü saat 17.00’ye kadar TBMM Başkanlığına bildirilecek.",
+          "yayin_tarihi": "Wed, 25 Nov 2026 07:00:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Meteorolojiden kar, sağanak ve fırtına uyarısı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/meteorolojiden-kar-saganak-ve-firtina-uyarisi-964392.html",
+          "ozet": "Orta ve Doğu Karadeniz kıyıları ile Doğu Anadolu'da beklenen kar, karla karışık yağmur, yerel kuvvetli yağış ve fırtına nedeniyle 17 il için \"sarı\" kodlu uyarıda bulunuldu.",
+          "yayin_tarihi": "Wed, 25 Nov 2026 08:54:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Bakan Kurum: COP'ta 26 milyar doları aşan anlaşma imzalandı",
           "kaynak": "www.trthaber.com",
@@ -28,122 +44,106 @@
           "ozet": "Ukrayna Devlet Başkanı Volodimir Zelenski, Libya açıklarında Rus kuru yük gemisi \"MV ANGARA\" ile Rus donanmasına ait \"Merkuriy\" korvetine saldırılar düzenlediklerini bildirdi.",
           "yayin_tarihi": "Mon, 23 Nov 2026 11:59:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Yapay Ay toprağında patates yetiştirildi",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/yapay-ay-topraginda-patates-yetistirildi-964173.html",
-          "ozet": "NASA destekli araştırmada bilim insanları, organik maddeyle desteklenen yapay Ay toprağında yenilebilir ve besleyici patatesler büyütmeyi başardı. Çalışma, gelecekte Ay üslerinde görev yapacak astronotlar için yerel gıda üretiminin önünü açıyor.",
-          "yayin_tarihi": "Mon, 23 Nov 2026 08:26:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "COP31de Antalya Mutabakatı için son viraj",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/cop31de-antalya-mutabakati-icin-son-viraj-964111.html",
-          "ozet": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, zirvedeki son Örtü Karar taslak metnine ilişkin, \"Ufak tefek talepler var. Onları da değerlendiriyoruz. Yapabileceklerimizi yapmaya çalışacağız. Genel Kurul'da göreceğiz. Umutluyuz.\" dedi.",
-          "yayin_tarihi": "Sun, 22 Nov 2026 09:49:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-24T17:20:19.529429"
+      "taranma_zamani": "2026-11-25T17:00:35.869782"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "Iranian Singer Receives 74 Lashes for Performing With No Hijab",
+          "baslik": "How an Iranian Ally Gained the Upper Hand in Yemen’s War",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html",
-          "ozet": "Parastoo Ahmadi sang without wearing the mandatory veil in a virtual concert in 2024 that spread quickly online and drew the ire of the Islamic republic authorities.",
-          "yayin_tarihi": "Tue, 24 Nov 2026 12:34:52 +0000",
+          "url": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
+          "ozet": "The Iran-backed Houthis are on a winning streak, securing strategic territory as they fight Saudi Arabia and its Yemeni allies in an asymmetrical war of attrition.",
+          "yayin_tarihi": "Wed, 25 Nov 2026 13:59:32 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
+          "baslik": "Defending Aden, Yemen’s Holdout Against the Houthis",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html",
-          "ozet": "Beijing may welcome the return of the leading U.S. advocate for A.I. chip sales to China. But the saga could reinforce a Chinese push for self-reliance, analysts say.",
-          "yayin_tarihi": "Tue, 24 Nov 2026 11:55:30 +0000",
+          "url": "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
+          "ozet": "The war in Iran has reignited Yemen’s decade-old civil war. Saudi-backed troops are scrambling to defend against advancing Houthi fighters as the wounded are taken to the port city of Aden, the government’s provisional capital.",
+          "yayin_tarihi": "Wed, 25 Nov 2026 13:39:46 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
+          "baslik": "Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
-          "ozet": "Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.",
-          "yayin_tarihi": "Tue, 24 Nov 2026 14:42:30 +0000",
+          "url": "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html",
+          "ozet": "The Ukrainian drone strike off Libya’s coast killed two Libyan naval officers, according to the forces controlling the country’s east.",
+          "yayin_tarihi": "Wed, 25 Nov 2026 13:25:15 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
+          "baslik": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
-          "ozet": "What seem like frontline Russian radio stations are actually a Ukrainian psychological operation, hoping to sow despair among the Kremlin’s soldiers.",
-          "yayin_tarihi": "Tue, 24 Nov 2026 16:27:03 +0000",
+          "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
+          "ozet": "The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.",
+          "yayin_tarihi": "Wed, 25 Nov 2026 13:40:09 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
+          "baslik": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
-          "ozet": "The Israeli prime minister, Benjamin Netanyahu, calls renewing strikes a matter of national security. Military analysts and opposition leaders say he’s prioritizing his own interests.",
-          "yayin_tarihi": "Mon, 23 Nov 2026 18:54:42 +0000",
+          "url": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
+          "ozet": "A 2022 Solomon Islands agreement with China had raised concerns it would enable Beijing to establish a military presence on the Pacific island. The new accord precludes such bases.",
+          "yayin_tarihi": "Wed, 25 Nov 2026 05:24:36 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-24T17:20:19.529451"
+      "taranma_zamani": "2026-11-25T17:00:35.869811"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Austrian opposition slams EU’s actions against Russia as totalitarian",
+          "baslik": "Gazprom reports record gas withdrawals in Germany, France due to cold weather",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2224211",
-          "ozet": "According to Herbert Kickl, after the economic war against Russia \"turned into a disaster and backfired on European citizens,\" Brussels is \"resorting to a cancel culture at the state level\"",
-          "yayin_tarihi": "Tue, 24 Nov 2026 20:08:48 +0300",
+          "url": "https://tass.com/economy/2224857",
+          "ozet": "According to the Russian gas holding, storage levels in Germany continue to decline and now stand at 55%",
+          "yayin_tarihi": "Wed, 25 Nov 2026 19:41:16 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Norwegian defense chief urges Kiev to respect international law after ship attack",
+          "baslik": "LNG carrier hits mine while using route in Strait of Hormuz not authorized by Iran — IRGC",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2224205",
-          "ozet": "Tore Sandvik said that Ukraine should respect the need for stability in Norway's near areas",
-          "yayin_tarihi": "Tue, 24 Nov 2026 20:07:44 +0300",
+          "url": "https://tass.com/world/2224855",
+          "ozet": "The IRGC Navy’s shipping control center in the Strait of Hormuz warned that vessels violating Iranian transit regulations run the risk of hitting mines",
+          "yayin_tarihi": "Wed, 25 Nov 2026 19:37:14 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Russia-China-US trilateral dialogue may evolve into separate format — Russian expert",
+          "baslik": "NATO activity near Russia’s borders raises risk of clash between nuclear powers — diplomat",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2224203",
-          "ozet": "According to Dmitry Novikov, it will be yet another important mechanism for coordinating positions and exercising global governance in certain areas",
-          "yayin_tarihi": "Tue, 24 Nov 2026 20:05:39 +0300",
+          "url": "https://tass.com/politics/2224843",
+          "ozet": "Yulia Zhdanova underscored that Russia is ready to use \"all means of self-defense at its disposal\" to protect its sovereignty and territorial integrity",
+          "yayin_tarihi": "Wed, 25 Nov 2026 19:34:12 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "United Kingdom rejects resumption of high-level dialogue with Russia",
+          "baslik": "Inflation in Russia was 0.3% from November 17 to 23 — statistics",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2224209",
-          "ozet": "Foreign Secretary Ed Miliband said that the UK wanted to participate in negotiations on Ukraine and the European security architecture",
-          "yayin_tarihi": "Tue, 24 Nov 2026 20:02:42 +0300",
+          "url": "https://tass.com/economy/2224839",
+          "ozet": "Inflation equaled 0.19% a week earlier",
+          "yayin_tarihi": "Wed, 25 Nov 2026 19:22:13 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Zelensky ungrateful for peace efforts, escalates conflict — special envoy",
+          "baslik": "Annual inflation in Russia reached 6.87% in October — statistics",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2224197",
-          "ozet": "Kirill Dmitriev commented on a report that the head of Kiev regime plans to urge the Democratic-controlled US Congress to step up pressure on Russia if US President Donald Trump fails to help end the Ukraine conflict by the end of the year",
-          "yayin_tarihi": "Tue, 24 Nov 2026 19:57:35 +0300",
+          "url": "https://tass.com/economy/2224837",
+          "ozet": "Consumer prices gained 0.99% month on month",
+          "yayin_tarihi": "Wed, 25 Nov 2026 19:19:22 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-24T17:20:19.529473"
+      "taranma_zamani": "2026-11-25T17:00:35.869834"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-24T17:20:19.529475"
+      "taranma_zamani": "2026-11-25T17:00:35.869836"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-24T17:20:19.529481"
+      "taranma_zamani": "2026-11-25T17:00:35.869842"
     }
   }
 }
