@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-11-25",
-  "olusturma_zamani": "2026-11-25T17:00:35.869991",
+  "olusturma_tarihi": "2026-11-26",
+  "olusturma_zamani": "2026-11-26T16:40:55.771400",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "MGK'dan Terörsüz Türkiye mesajı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/mgkdan-terorsuz-turkiye-mesaji-964566.html",
+          "ozet": "MGK toplantısında, Terörsüz Türkiye hedefi ve terörsüz bölge vizyonuna ulaşılması için yürütülen çalışmalar ele alındı. Toplantı sonrası yayımlanan bildiride, \"Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun çerçevesinde yürütülen çok boyutlu faaliyetlerin kararlılıkla sürdürüleceği ifade edilmiştir.\" denildi.",
+          "yayin_tarihi": "Thu, 26 Nov 2026 17:27:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "İzmir'de suya yüzde 63 indirim",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turkiye/izmirde-suya-yuzde-63-indirim-964481.html",
+          "ozet": "İzmir Büyükşehir Belediye Meclisi, kentte suyun metreküp fiyatına 1 Ocak 2027'den geçerli olmak üzere konut ve konut dışı aboneler için kademeli indirim yapılmasını kararlaştırdı.",
+          "yayin_tarihi": "Wed, 25 Nov 2026 23:17:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "Kurtulmuş: Terörsüz Türkiye sürecinde İzleme Komisyonu 19 üyeden oluşacak",
           "kaynak": "www.trthaber.com",
@@ -28,122 +44,106 @@
           "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, 196 ülke ve 1 milyonu aşkın ziyaretçinin katılımıyla tarihin en büyük zirvesini gerçekleştirdiklerini belirterek, \"COP'ta farklı alanlarda 26 milyar doları aşan anlaşma imzalandı\" dedi.",
           "yayin_tarihi": "Tue, 24 Nov 2026 10:00:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "19 il için sarı uyarı: Kar ve sağanak geliyor",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/turkiye/19-il-icin-sari-uyari-kar-ve-saganak-geliyor-964247.html",
-          "ozet": "Meteoroloji Genel Müdürlüğü, kuvvetli yağış ve olumsuz hava koşulları nedeniyle 19 il için sarı kodlu uyarı yayımladı. Karadeniz'de karla karışık yağmur ve kar, birçok bölgede ise sağanak bekleniyor.",
-          "yayin_tarihi": "Tue, 24 Nov 2026 06:16:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Ukrayna, Libya açıklarında Rus gemisini vurdu",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/dunya/ukrayna-libya-aciklarinda-rus-gemisini-vurdu-964196.html",
-          "ozet": "Ukrayna Devlet Başkanı Volodimir Zelenski, Libya açıklarında Rus kuru yük gemisi \"MV ANGARA\" ile Rus donanmasına ait \"Merkuriy\" korvetine saldırılar düzenlediklerini bildirdi.",
-          "yayin_tarihi": "Mon, 23 Nov 2026 11:59:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-25T17:00:35.869782"
+      "taranma_zamani": "2026-11-26T16:40:55.771306"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
-          "baslik": "How an Iranian Ally Gained the Upper Hand in Yemen’s War",
+          "baslik": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
-          "ozet": "The Iran-backed Houthis are on a winning streak, securing strategic territory as they fight Saudi Arabia and its Yemeni allies in an asymmetrical war of attrition.",
-          "yayin_tarihi": "Wed, 25 Nov 2026 13:59:32 +0000",
+          "url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
+          "ozet": "Dozens of Brazilians were sent to the front lines with little training, and the high salaries they were promised, they say, turned out to be illusory.",
+          "yayin_tarihi": "Thu, 26 Nov 2026 14:01:45 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Defending Aden, Yemen’s Holdout Against the Houthis",
+          "baslik": "Brazilian Duped Into Fighting for Russia: ‘War Is Hell’",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
-          "ozet": "The war in Iran has reignited Yemen’s decade-old civil war. Saudi-backed troops are scrambling to defend against advancing Houthi fighters as the wounded are taken to the port city of Aden, the government’s provisional capital.",
-          "yayin_tarihi": "Wed, 25 Nov 2026 13:39:46 +0000",
+          "url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
+          "ozet": "Dozens of Brazilians have joined the Russian army, some say lured by a pair of recruiters promising money and adventure. Here is one soldier’s story.",
+          "yayin_tarihi": "Thu, 26 Nov 2026 15:27:03 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships",
+          "baslik": "Was Japan Prime Minister Takaichi Snubbed at China’s Big Summit?",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html",
-          "ozet": "The Ukrainian drone strike off Libya’s coast killed two Libyan naval officers, according to the forces controlling the country’s east.",
-          "yayin_tarihi": "Wed, 25 Nov 2026 13:25:15 +0000",
+          "url": "https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html",
+          "ozet": "Images show the differences between the welcomes afforded to Sanae Takaichi and other world leaders in Shenzhen, as some officials in Japan cry foul.",
+          "yayin_tarihi": "Thu, 26 Nov 2026 09:14:29 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
+          "baslik": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
-          "ozet": "The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.",
-          "yayin_tarihi": "Wed, 25 Nov 2026 13:40:09 +0000",
+          "url": "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html",
+          "ozet": "Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium. But Middle Eastern business contacts of the two Trump envoys pulled out because of political winds.",
+          "yayin_tarihi": "Wed, 25 Nov 2026 22:16:50 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
+          "baslik": "How to Celebrate Thanksgiving as an Expat",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
-          "ozet": "A 2022 Solomon Islands agreement with China had raised concerns it would enable Beijing to establish a military presence on the Pacific island. The new accord precludes such bases.",
-          "yayin_tarihi": "Wed, 25 Nov 2026 05:24:36 +0000",
+          "url": "https://www.nytimes.com/2026/11/25/world/asia/friendsgiving-thanksgiving-expats.html",
+          "ozet": "From turkeys delivered on motorbikes to foie gras on the table, many American expatriates have adapted the traditional meal to their environs.",
+          "yayin_tarihi": "Thu, 26 Nov 2026 01:25:49 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-25T17:00:35.869811"
+      "taranma_zamani": "2026-11-26T16:40:55.771326"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "Gazprom reports record gas withdrawals in Germany, France due to cold weather",
+          "baslik": "AI boundaries without human oversight must be clearly defined — Putin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2224857",
-          "ozet": "According to the Russian gas holding, storage levels in Germany continue to decline and now stand at 55%",
-          "yayin_tarihi": "Wed, 25 Nov 2026 19:41:16 +0300",
+          "url": "https://tass.com/politics/2225481",
+          "ozet": "The Russian leader emphasized that the limits of authority for AI agents should be established",
+          "yayin_tarihi": "Thu, 26 Nov 2026 19:28:04 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "LNG carrier hits mine while using route in Strait of Hormuz not authorized by Iran — IRGC",
+          "baslik": "Europeans begin to grasp danger of military confrontation with Russia — envoy to OSCE",
           "kaynak": "tass.com",
-          "url": "https://tass.com/world/2224855",
-          "ozet": "The IRGC Navy’s shipping control center in the Strait of Hormuz warned that vessels violating Iranian transit regulations run the risk of hitting mines",
-          "yayin_tarihi": "Wed, 25 Nov 2026 19:37:14 +0300",
+          "url": "https://tass.com/politics/2225471",
+          "ozet": "Dmitry Polyansky recalled that approximately 90,000 schoolchildren and university students in Germany had taken to the streets on November 20 to protest against rising military spending and the potential reinstatement of conscription",
+          "yayin_tarihi": "Thu, 26 Nov 2026 19:04:51 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "NATO activity near Russia’s borders raises risk of clash between nuclear powers — diplomat",
+          "baslik": "Putin proposes updating Russia’s national strategy for AI development through 2036",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2224843",
-          "ozet": "Yulia Zhdanova underscored that Russia is ready to use \"all means of self-defense at its disposal\" to protect its sovereignty and territorial integrity",
-          "yayin_tarihi": "Wed, 25 Nov 2026 19:34:12 +0300",
+          "url": "https://tass.com/economy/2225453",
+          "ozet": "According to the Russian leader, it is not enough to simply develop cutting-edge solutions, it is also necessary to make sure that people and autonomous systems work together as harmoniously as possible",
+          "yayin_tarihi": "Thu, 26 Nov 2026 18:40:09 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Inflation in Russia was 0.3% from November 17 to 23 — statistics",
+          "baslik": "Credit to Russian economy up 1.7% in October — Central Bank",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2224839",
-          "ozet": "Inflation equaled 0.19% a week earlier",
-          "yayin_tarihi": "Wed, 25 Nov 2026 19:22:13 +0300",
+          "url": "https://tass.com/economy/2225447",
+          "ozet": "The annual growth rate of credit to the economy continued to slow, reaching 9.7%",
+          "yayin_tarihi": "Thu, 26 Nov 2026 18:29:47 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Annual inflation in Russia reached 6.87% in October — statistics",
+          "baslik": "Confrontation with Russia always turned into disaster for Germany — Foreign Ministry",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2224837",
-          "ozet": "Consumer prices gained 0.99% month on month",
-          "yayin_tarihi": "Wed, 25 Nov 2026 19:19:22 +0300",
+          "url": "https://tass.com/politics/2225445",
+          "ozet": "Russian Foreign Ministry Spokeswoman Maria Zakharova added that historically the periods of prosperity in Germany’s history coincide with the periods of normalization of relations with Russia",
+          "yayin_tarihi": "Thu, 26 Nov 2026 18:20:49 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-25T17:00:35.869834"
+      "taranma_zamani": "2026-11-26T16:40:55.771352"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-25T17:00:35.869836"
+      "taranma_zamani": "2026-11-26T16:40:55.771354"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-25T17:00:35.869842"
+      "taranma_zamani": "2026-11-26T16:40:55.771359"
     }
   }
 }
