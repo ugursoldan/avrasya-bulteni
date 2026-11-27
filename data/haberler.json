@@ -1,10 +1,26 @@
 {
-  "olusturma_tarihi": "2026-11-26",
-  "olusturma_zamani": "2026-11-26T16:40:55.771400",
+  "olusturma_tarihi": "2026-11-27",
+  "olusturma_zamani": "2026-11-27T16:26:54.823338",
   "diller": {
     "tr": {
       "dil": "Türkçe",
       "haberler": [
+        {
+          "baslik": "15 bin öğretmen adayı için kontenjanlar ve başvuru takvimi açıklandı",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/gundem/15-bin-ogretmen-adayi-icin-kontenjanlar-ve-basvuru-takvimi-aciklandi-964617.html",
+          "ozet": "Milli Eğitim Akademisinde hazırlık eğitimine alınacak 15 bin öğretmen adayı için başvuru ve kayıt sürecine ilişkin duyuru ve alan bazında kontenjan dağılımları, açıklandı. 2026 MEB-AGS sonuçlarına göre yapılacak başvurular, 9-15 Aralık’ta elektronik ortamda alınacak.",
+          "yayin_tarihi": "Fri, 27 Nov 2026 10:22:00 +0300",
+          "dil": "Türkçe"
+        },
+        {
+          "baslik": "Tuvada eski Türk kağanlıkları dönemine ait yeni anıt kompleksleri keşfedildi",
+          "kaynak": "www.trthaber.com",
+          "url": "https://www.trthaber.com/haber/turk-dunyasi/tuvada-eski-turk-kaganliklari-donemine-ait-yeni-anit-kompleksleri-kesfedildi-964626.html",
+          "ozet": "Eski Türk kağanlıkları dönemine ait yeni anıt kompleksleri Tuva’da gün yüzüne çıkarıldı. 6-8. yüzyıllara tarihlenen taş heykeller ve ritüel alanları, eski Türklerin inanç dünyasına, kültürel yaşamına ve Sibirya’dan Anadolu’ya uzanan ortak mirasına ışık tutuyor.",
+          "yayin_tarihi": "Fri, 27 Nov 2026 11:48:00 +0300",
+          "dil": "Türkçe"
+        },
         {
           "baslik": "MGK'dan Terörsüz Türkiye mesajı",
           "kaynak": "www.trthaber.com",
@@ -28,122 +44,106 @@
           "ozet": "Meclis Başkanı Numan Kurtulmuş, Terörsüz Türkiye hedefi kapsamında kurulacak İzleme Komisyonu'nun 19 üyeden oluşacağını açıkladı. İzleme Komisyonunda görevlendirilecek milletvekilleri için grup başkanlıklarına yazı gönderildi. Milletvekillerinin isimleri 30 Kasım 2026 Pazartesi günü saat 17.00’ye kadar TBMM Başkanlığına bildirilecek.",
           "yayin_tarihi": "Wed, 25 Nov 2026 07:00:00 +0300",
           "dil": "Türkçe"
-        },
-        {
-          "baslik": "Meteorolojiden kar, sağanak ve fırtına uyarısı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/meteorolojiden-kar-saganak-ve-firtina-uyarisi-964392.html",
-          "ozet": "Orta ve Doğu Karadeniz kıyıları ile Doğu Anadolu'da beklenen kar, karla karışık yağmur, yerel kuvvetli yağış ve fırtına nedeniyle 17 il için \"sarı\" kodlu uyarıda bulunuldu.",
-          "yayin_tarihi": "Wed, 25 Nov 2026 08:54:00 +0300",
-          "dil": "Türkçe"
-        },
-        {
-          "baslik": "Bakan Kurum: COP'ta 26 milyar doları aşan anlaşma imzalandı",
-          "kaynak": "www.trthaber.com",
-          "url": "https://www.trthaber.com/haber/gundem/bakan-kurum-copta-26-milyar-dolari-asan-anlasma-imzalandi-964270.html",
-          "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, 196 ülke ve 1 milyonu aşkın ziyaretçinin katılımıyla tarihin en büyük zirvesini gerçekleştirdiklerini belirterek, \"COP'ta farklı alanlarda 26 milyar doları aşan anlaşma imzalandı\" dedi.",
-          "yayin_tarihi": "Tue, 24 Nov 2026 10:00:00 +0300",
-          "dil": "Türkçe"
         }
       ],
-      "taranma_zamani": "2026-11-26T16:40:55.771306"
+      "taranma_zamani": "2026-11-27T16:26:54.823234"
     },
     "en": {
       "dil": "İngilizce",
       "haberler": [
         {
+          "baslik": "Puma Shen, Critic of China, Could be the Next Mayor of Taipei",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/27/world/asia/puma-shen-taiwan-election-china.html",
+          "ozet": "Puma Shen, who has been sanctioned by China for his efforts to prepare civilians for an invasion, could become Taiwan’s next political star if he wins.",
+          "yayin_tarihi": "Fri, 27 Nov 2026 13:33:49 +0000",
+          "dil": "İngilizce"
+        },
+        {
+          "baslik": "Plaque by Plaque, Russia Erases the Memory of the Gulag’s Horrors",
+          "kaynak": "rss.nytimes.com",
+          "url": "https://www.nytimes.com/2026/11/27/world/europe/russia-gulag-memory.html",
+          "ozet": "The Kremlin’s rehabilitation of Stalin, who presided over the brutal labor camps of the Gulag, has accelerated during Russia’s war in Ukraine.",
+          "yayin_tarihi": "Fri, 27 Nov 2026 10:00:10 +0000",
+          "dil": "İngilizce"
+        },
+        {
           "baslik": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
           "kaynak": "rss.nytimes.com",
           "url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
           "ozet": "Dozens of Brazilians were sent to the front lines with little training, and the high salaries they were promised, they say, turned out to be illusory.",
-          "yayin_tarihi": "Thu, 26 Nov 2026 14:01:45 +0000",
+          "yayin_tarihi": "Thu, 26 Nov 2026 14:01:46 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Brazilian Duped Into Fighting for Russia: ‘War Is Hell’",
+          "baslik": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
-          "ozet": "Dozens of Brazilians have joined the Russian army, some say lured by a pair of recruiters promising money and adventure. Here is one soldier’s story.",
-          "yayin_tarihi": "Thu, 26 Nov 2026 15:27:03 +0000",
+          "url": "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html",
+          "ozet": "The deaths follow a series of strikes on Gulf Arab states that host U.S. military facilities in recent weeks as talks to end the war continue to stall.",
+          "yayin_tarihi": "Thu, 26 Nov 2026 19:33:06 +0000",
           "dil": "İngilizce"
         },
         {
-          "baslik": "Was Japan Prime Minister Takaichi Snubbed at China’s Big Summit?",
+          "baslik": "Why Russia Is Erasing Stalin’s Crimes",
           "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html",
-          "ozet": "Images show the differences between the welcomes afforded to Sanae Takaichi and other world leaders in Shenzhen, as some officials in Japan cry foul.",
-          "yayin_tarihi": "Thu, 26 Nov 2026 09:14:29 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html",
-          "ozet": "Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium. But Middle Eastern business contacts of the two Trump envoys pulled out because of political winds.",
-          "yayin_tarihi": "Wed, 25 Nov 2026 22:16:50 +0000",
-          "dil": "İngilizce"
-        },
-        {
-          "baslik": "How to Celebrate Thanksgiving as an Expat",
-          "kaynak": "rss.nytimes.com",
-          "url": "https://www.nytimes.com/2026/11/25/world/asia/friendsgiving-thanksgiving-expats.html",
-          "ozet": "From turkeys delivered on motorbikes to foie gras on the table, many American expatriates have adapted the traditional meal to their environs.",
-          "yayin_tarihi": "Thu, 26 Nov 2026 01:25:49 +0000",
+          "url": "https://www.nytimes.com/video/world/europe/100000010915175/why-russia-is-erasing-stalins-crimes.html",
+          "ozet": "Across Russia, memorials to victims of Joseph Stalin’s repressive regime are being quietly dismantled as more and more critics of the war in Ukraine are jailed. Our Moscow correspondent Valerie Hopkins takes us to one example of this erasure.",
+          "yayin_tarihi": "Fri, 27 Nov 2026 10:00:01 +0000",
           "dil": "İngilizce"
         }
       ],
-      "taranma_zamani": "2026-11-26T16:40:55.771326"
+      "taranma_zamani": "2026-11-27T16:26:54.823254"
     },
     "ru": {
       "dil": "Rusça",
       "haberler": [
         {
-          "baslik": "AI boundaries without human oversight must be clearly defined — Putin",
+          "baslik": "Yasen-M submarines capable of carrying out missions anywhere in World Ocean — Putin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2225481",
-          "ozet": "The Russian leader emphasized that the limits of authority for AI agents should be established",
-          "yayin_tarihi": "Thu, 26 Nov 2026 19:28:04 +0300",
+          "url": "https://tass.com/politics/2226123",
+          "ozet": "The president noted that they represented a vital component of the Russian Navy",
+          "yayin_tarihi": "Fri, 27 Nov 2026 19:19:52 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Europeans begin to grasp danger of military confrontation with Russia — envoy to OSCE",
+          "baslik": "Tsirkon missile has confirmed its strike power, high accuracy — Putin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2225471",
-          "ozet": "Dmitry Polyansky recalled that approximately 90,000 schoolchildren and university students in Germany had taken to the streets on November 20 to protest against rising military spending and the potential reinstatement of conscription",
-          "yayin_tarihi": "Thu, 26 Nov 2026 19:04:51 +0300",
+          "url": "https://tass.com/politics/2226119",
+          "ozet": "The Russian leader noted that Yasen-M class submarines were capable of employing all types of sea-based cruise missiles",
+          "yayin_tarihi": "Fri, 27 Nov 2026 19:14:45 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Putin proposes updating Russia’s national strategy for AI development through 2036",
+          "baslik": "Putin says all plans to create powerful Russian fleet to come true",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2225453",
-          "ozet": "According to the Russian leader, it is not enough to simply develop cutting-edge solutions, it is also necessary to make sure that people and autonomous systems work together as harmoniously as possible",
-          "yayin_tarihi": "Thu, 26 Nov 2026 18:40:09 +0300",
+          "url": "https://tass.com/politics/2226117",
+          "ozet": "The president emphasized that Russia's national interests in all areas of the world ocean would be reliably protected",
+          "yayin_tarihi": "Fri, 27 Nov 2026 19:13:42 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Credit to Russian economy up 1.7% in October — Central Bank",
+          "baslik": "Russian Navy to receive five missile-carrying submarines by 2030 — Putin",
           "kaynak": "tass.com",
-          "url": "https://tass.com/economy/2225447",
-          "ozet": "The annual growth rate of credit to the economy continued to slow, reaching 9.7%",
-          "yayin_tarihi": "Thu, 26 Nov 2026 18:29:47 +0300",
+          "url": "https://tass.com/politics/2226113",
+          "ozet": "Russia intends to continue developing and improving the Navy, including its submarine forces, the head of state underscored",
+          "yayin_tarihi": "Fri, 27 Nov 2026 19:08:01 +0300",
           "dil": "Rusça"
         },
         {
-          "baslik": "Confrontation with Russia always turned into disaster for Germany — Foreign Ministry",
+          "baslik": "Putin describes nuclear-powered sub Perm as weapon of global scale",
           "kaynak": "tass.com",
-          "url": "https://tass.com/politics/2225445",
-          "ozet": "Russian Foreign Ministry Spokeswoman Maria Zakharova added that historically the periods of prosperity in Germany’s history coincide with the periods of normalization of relations with Russia",
-          "yayin_tarihi": "Thu, 26 Nov 2026 18:20:49 +0300",
+          "url": "https://tass.com/defense/2226109",
+          "ozet": "The president stressed that Russia is one of the few countries in the world capable of building such powerful nuclear-powered submarines",
+          "yayin_tarihi": "Fri, 27 Nov 2026 19:01:03 +0300",
           "dil": "Rusça"
         }
       ],
-      "taranma_zamani": "2026-11-26T16:40:55.771352"
+      "taranma_zamani": "2026-11-27T16:26:54.823314"
     },
     "fa": {
       "dil": "Farsça",
       "haberler": [],
-      "taranma_zamani": "2026-11-26T16:40:55.771354"
+      "taranma_zamani": "2026-11-27T16:26:54.823315"
     },
     "zh": {
       "dil": "Çince",
@@ -189,7 +189,7 @@
           "dil": "Çince"
         }
       ],
-      "taranma_zamani": "2026-11-26T16:40:55.771359"
+      "taranma_zamani": "2026-11-27T16:26:54.823320"
     }
   }
 }
